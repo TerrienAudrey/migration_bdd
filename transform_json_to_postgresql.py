@@ -61,7 +61,7 @@ try:
     print("Tables créées avec succès !")
 
     # 2. Chargement et traitement des données
-    with open('companies.json', 'r') as file:
+    with open('raw_json/companies.json', 'r') as file:
         data = json.load(file)
 
     # 3. Gestion des doublons
