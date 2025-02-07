@@ -6,7 +6,7 @@ Projet de migration de données JSON vers une base de données PostgreSQL avec n
 
 * Ubuntu/WSL
 * PostgreSQL 16.6
-* Python 3.10.6 (lewagon - https://github.com/lewagon/data-setup/blob/master/WINDOWS.md)
+* Python 3.10.6
 * VSCode
 
 ## Structure du Projet
@@ -70,7 +70,7 @@ ALTER USER postgres WITH PASSWORD 'your_password';
 
 ```bash
 # Création environnement virtuel
-python -m venv .venv
+python3.10 -m venv .venv
 source .venv/bin/activate
 
 # Installation dépendances
@@ -87,6 +87,9 @@ Chaque script de nettoyage (`clean_*.py`) implémente :
 2. Détection et gestion des doublons
 3. Gestion des valeurs manquantes
 4. Génération de rapports détaillés
+
+Les schémas de table sont définis à partir de ce [schéma prisma](https://github.com/SandboxDealinka/APP_DEALINKA_BACK/blob/dev_cloe_stock_fix/prisma/schema.prisma)
+
 
 ### Gestion des Valeurs NULL
 
