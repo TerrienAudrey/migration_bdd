@@ -1,0 +1,140 @@
+[
+  {
+    "duplicate_key": "269002",
+    "duplicate_count": 2,
+    "original_data": {
+      "co_id": 18,
+      "co_business_name": "ASTIC EMBALLAGE",
+      "co_legal_form": "SAS, société par actions simplifiée",
+      "co_siret": "73450035800118",
+      "co_siren": "734500358",
+      "co_code_ent": "269002",
+      "co_vat": "FR04734500358",
+      "co_head_office_additional_address": null,
+      "co_head_office_city": null,
+      "co_head_office_number": null,
+      "co_head_office_country": null,
+      "co_head_office_postal_code": null,
+      "co_head_office_street": null,
+      "fk_us": 0,
+      "stocks": [],
+      "logistic_address": [],
+      "contacts": []
+    }
+  },
+  {
+    "duplicate_key": "269002",
+    "duplicate_count": 2,
+    "original_data": {
+      "co_id": 72,
+      "co_business_name": "DUPIN EMBALLAGE",
+      "co_legal_form": "SAS, société par actions simplifiée",
+      "co_siret": "38047775200055",
+      "co_siren": "380477752",
+      "co_code_ent": "269002",
+      "co_vat": "FR27380477752",
+      "co_head_office_additional_address": null,
+      "co_head_office_city": null,
+      "co_head_office_number": null,
+      "co_head_office_country": null,
+      "co_head_office_postal_code": null,
+      "co_head_office_street": null,
+      "fk_us": 0,
+      "stocks": [],
+      "logistic_address": [],
+      "contacts": []
+    }
+  },
+  {
+    "duplicate_key": "834577",
+    "duplicate_count": 2,
+    "original_data": {
+      "co_id": 44,
+      "co_business_name": "CHEVALIER",
+      "co_legal_form": "SAS, société par actions simplifiée",
+      "co_siret": "45750181500031",
+      "co_siren": "457501815",
+      "co_code_ent": "834577",
+      "co_vat": "FR77457501815",
+      "co_head_office_additional_address": null,
+      "co_head_office_city": null,
+      "co_head_office_number": null,
+      "co_head_office_country": null,
+      "co_head_office_postal_code": null,
+      "co_head_office_street": null,
+      "fk_us": 0,
+      "stocks": [],
+      "logistic_address": [],
+      "contacts": []
+    }
+  },
+  {
+    "duplicate_key": "834577",
+    "duplicate_count": 2,
+    "original_data": {
+      "co_id": 45,
+      "co_business_name": "CHEVALIER ",
+      "co_legal_form": "",
+      "co_siret": "",
+      "co_siren": "457501815",
+      "co_code_ent": "834577",
+      "co_vat": null,
+      "co_head_office_additional_address": null,
+      "co_head_office_city": null,
+      "co_head_office_number": null,
+      "co_head_office_country": null,
+      "co_head_office_postal_code": null,
+      "co_head_office_street": null,
+      "fk_us": 0,
+      "stocks": [],
+      "logistic_address": [],
+      "contacts": []
+    }
+  },
+  {
+    "duplicate_key": "641784",
+    "duplicate_count": 2,
+    "original_data": {
+      "co_id": 209,
+      "co_business_name": "RENE LE NOUY",
+      "co_legal_form": "SAS, société par actions simplifiée",
+      "co_siret": "34372101500059",
+      "co_siren": "343721015",
+      "co_code_ent": "641784",
+      "co_vat": "FR95343721015",
+      "co_head_office_additional_address": null,
+      "co_head_office_city": null,
+      "co_head_office_number": null,
+      "co_head_office_country": null,
+      "co_head_office_postal_code": null,
+      "co_head_office_street": null,
+      "fk_us": 0,
+      "stocks": [],
+      "logistic_address": [],
+      "contacts": []
+    }
+  },
+  {
+    "duplicate_key": "641784",
+    "duplicate_count": 2,
+    "original_data": {
+      "co_id": 210,
+      "co_business_name": "RENE LE NOUY",
+      "co_legal_form": "SAS, société par actions simplifiée",
+      "co_siret": "34372101500026",
+      "co_siren": "343721015",
+      "co_code_ent": "641784",
+      "co_vat": "FR95343721015",
+      "co_head_office_additional_address": null,
+      "co_head_office_city": null,
+      "co_head_office_number": null,
+      "co_head_office_country": null,
+      "co_head_office_postal_code": null,
+      "co_head_office_street": null,
+      "fk_us": 0,
+      "stocks": [],
+      "logistic_address": [],
+      "contacts": []
+    }
+  }
+]

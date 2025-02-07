@@ -1,0 +1,32 @@
+[
+  {
+    "column_name": "fk_re",
+    "type": "integer",
+    "default_value": null
+  },
+  {
+    "column_name": "fk_con",
+    "type": "integer",
+    "default_value": null
+  },
+  {
+    "column_name": "fk_cou",
+    "type": "integer",
+    "default_value": 1
+  },
+  {
+    "column_name": "positioning",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "stock_import",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "opening_hour",
+    "type": "array",
+    "default_value": []
+  }
+]

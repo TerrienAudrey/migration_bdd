@@ -1,0 +1,47 @@
+[
+  {
+    "column_name": "co_head_office_city",
+    "type": "string",
+    "default_value": null
+  },
+  {
+    "column_name": "contacts",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "stocks",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "logistic_address",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "co_head_office_country",
+    "type": "string",
+    "default_value": null
+  },
+  {
+    "column_name": "co_head_office_street",
+    "type": "string",
+    "default_value": null
+  },
+  {
+    "column_name": "co_head_office_additional_address",
+    "type": "string",
+    "default_value": null
+  },
+  {
+    "column_name": "co_head_office_postal_code",
+    "type": "string",
+    "default_value": null
+  },
+  {
+    "column_name": "co_head_office_number",
+    "type": "string",
+    "default_value": null
+  }
+]
