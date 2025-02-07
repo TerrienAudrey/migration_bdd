@@ -1,3 +1,5 @@
 .venv
+.vscode
+.gitignore
 dealinka_migration.sql
 *.sql
