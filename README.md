@@ -109,6 +109,45 @@ Pour chaque type de données, trois fichiers sont générés :
 3. Colonnes manquantes (`info_cleaned_json/*_missing_columns_*.json`)
 4. Problèmes de valeurs NULL (`info_cleaned_json/*_null_issues_*.json`)
 
+### Résultats des nettoyages
+
+#### Résumé du traitement transports :
+- Entrées transports uniques : 13
+- Doublons trouvés : 0
+- Colonnes manquantes : 2
+- Valeurs NULL corrigées : 0 (voir transport_null_issues.json pour les détails)
+
+#### Résumé du traitement stock_imports :
+- Entrées stock_imports uniques : 0
+- Doublons trouvés : 477
+- Colonnes manquantes : 21
+- Valeurs NULL corrigées : 0 (voir stock_import_null_issues.json pour les détails)
+
+#### Résumé du traitement logistic_addresses :
+- Entrées logistic_addresses uniques : 304
+- Doublons trouvés : 666
+- Colonnes manquantes : 6
+- Valeurs NULL corrigées : 269 (voir logistic_address_null_issues.json pour les détails)
+
+#### Résumé du traitement organizations:
+- Entrées organizations uniques : 477
+- Doublons trouvés : 0
+- Colonnes manquantes : 17
+- Valeurs NULL corrigées : 0 (voir organization_null_issues.json pour les détails)
+
+#### Résumé du traitement stocks:
+- Entrées stocks uniques : 421
+- Doublons trouvés : 0
+- Colonnes manquantes : 15
+- Valeurs NULL corrigées : 6 (voir stocks_null_issues.json pour les détails)
+
+#### Résumé du traitement companies :
+- Entrées companies uniques : 267
+- Doublons trouvés : 3
+- Colonnes manquantes : 9
+- Valeurs NULL corrigées : 25
+- Caractères spéciaux nettoyés : 8
+
 ## Configuration VSCode
 
 ### Extensions
