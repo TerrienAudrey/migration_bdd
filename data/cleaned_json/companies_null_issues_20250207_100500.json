@@ -1,0 +1,65 @@
+[
+  {
+    "co_code_ent": "168364",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "647005",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "898403",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "376656",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "052282",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "281371",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "759930",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "559773",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  },
+  {
+    "co_code_ent": "645081",
+    "field_name": "co_siret",
+    "expected_type": "varchar",
+    "original_value": "None",
+    "replaced_value": "."
+  }
+]

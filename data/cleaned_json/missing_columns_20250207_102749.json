@@ -1,0 +1,77 @@
+[
+  {
+    "column_name": "st_ending_date",
+    "type": "datetime",
+    "default_value": null
+  },
+  {
+    "column_name": "fk_us",
+    "type": "integer",
+    "default_value": null
+  },
+  {
+    "column_name": "st_is_standby",
+    "type": "boolean",
+    "default_value": false
+  },
+  {
+    "column_name": "stock_sav_history",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "st_is_runoffdeadline",
+    "type": "boolean",
+    "default_value": false
+  },
+  {
+    "column_name": "st_commission",
+    "type": "float",
+    "default_value": null
+  },
+  {
+    "column_name": "positioning",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "st_is_taxreceiptdeadline",
+    "type": "boolean",
+    "default_value": false
+  },
+  {
+    "column_name": "stock_status_history",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "st_use_by_date",
+    "type": "datetime",
+    "default_value": null
+  },
+  {
+    "column_name": "st_is_showorganization",
+    "type": "boolean",
+    "default_value": false
+  },
+  {
+    "column_name": "fk_sav",
+    "type": "integer",
+    "default_value": null
+  },
+  {
+    "column_name": "stock_import",
+    "type": "array",
+    "default_value": []
+  },
+  {
+    "column_name": "fk_co",
+    "type": "integer",
+    "default_value": null
+  },
+  {
+    "column_name": "st_instructions",
+    "type": "string",
+    "default_value": null
+  }
+]
