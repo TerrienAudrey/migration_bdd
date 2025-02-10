@@ -1,35 +1,250 @@
-Résumé du traitement transports :
-- Entrées transports uniques : 13
-- Doublons trouvés : 0
-- Colonnes manquantes : 2
-- Valeurs NULL corrigées : 0 (voir transport_null_issues.json pour les détails)
+logistic_addresses:
+2025-02-10 10:11:35,848 - INFO - - Unique addresses: 428
+2025-02-10 10:11:35,848 - INFO - - Duplicates: 674
+2025-02-10 10:11:35,848 - INFO - - Missing columns: 6
+2025-02-10 10:11:35,848 - INFO - - NULL values corrected: 3179
+2025-02-10 10:11:35,848 - INFO - - String issues corrected: 139
+2025-02-10 10:11:35,848 - INFO - - Boolean issues corrected: 0
+2025-02-10 10:11:35,848 - INFO - - Integer range issues: 0
+2025-02-10 10:11:35,848 - INFO - - Length issues corrected: 2
+2025-02-10 10:11:35,848 - INFO - - Special char issues: 352
+2025-02-10 10:11:35,848 - INFO - Processing completed successfully!
 
-Résumé du traitement stock_imports :
-- Entrées stock_imports uniques : 0
-- Doublons trouvés : 477
-- Colonnes manquantes : 21
-- Valeurs NULL corrigées : 0 (voir stock_import_null_issues.json pour les détails)
+organizations:
+- Unique organizations: 477
+- Duplicates: 0
+- Missing columns: 17
+- NULL values corrected: 6678
+- String issues corrected: 221
+- Integer range issues: 0
+- Special char issues: 479
+- DateTime issues corrected: 0
 
-Résumé du traitement logistic_addresses :
-- Entrées logistic_addresses uniques : 304
-- Doublons trouvés : 666
-- Colonnes manquantes : 6
-- Valeurs NULL corrigées : 269 (voir logistic_address_null_issues.json pour les détails)
+stocks
+- Unique stocks: 421
+- Duplicates: 0
+- Missing columns: 15
+- NULL values corrected: 3374
+- String issues corrected: 69
+- Float issues corrected: 0
+- Boolean issues corrected: 0
+- DateTime issues corrected: 0
+- Integer issues corrected: 0
+- Special char issues: 189
 
-Résumé du traitement organizations:
-- Entrées organizations uniques : 477
-- Doublons trouvés : 0
-- Colonnes manquantes : 17
-- Valeurs NULL corrigées : 0 (voir organization_null_issues.json pour les détails)
+transports
+- Unique transports: 13
+- Duplicates: 0
+- Missing columns: 2
+- NULL values corrected: 13
+- String issues corrected: 0
+- Integer issues corrected: 0
+- Special char issues: 0
 
-Résumé du traitement stocks:
-- Entrées stocks uniques : 421
-- Doublons trouvés : 0
-- Colonnes manquantes : 15
-- Valeurs NULL corrigées : 6 (voir stocks_null_issues.json pour les détails)
 
-Résumé du traitement companies:
-- Entrées companies uniques : 264
-- Doublons trouvés : 6
-- Colonnes manquantes : 9
-- Valeurs NULL corrigées : 25 (voir companies_null_issues.json pour les détails)
+
+
+
+
+
+
+
+
+2025-02-10 14:34:43,012 - INFO - Démarrage du traitement des données...
+2025-02-10 14:34:43,016 - INFO - Chemins utilisés :
+2025-02-10 14:34:43,016 - INFO - - Fichier source : data/raw_json/stocks.json
+2025-02-10 14:34:43,016 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 14:34:43,016 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 14:34:43,017 - ERROR - Erreur lors de la validation du champ st_id: Invalid primary key value: 0
+2025-02-10 14:34:43,061 - INFO -
+Résumé du traitement stock:
+2025-02-10 14:34:43,061 - INFO - - sts_count: 421
+2025-02-10 14:34:43,061 - INFO - - duplicates_count: 0
+2025-02-10 14:34:43,061 - INFO - - missing_columns_count: 16
+2025-02-10 14:34:43,061 - INFO - - null_issues_count: 3795
+2025-02-10 14:34:43,061 - INFO - - string_issues_count: 69
+2025-02-10 14:34:43,061 - INFO - - integer_issues_count: 2
+2025-02-10 14:34:43,061 - INFO - - length_issues_count: 0
+2025-02-10 14:34:43,061 - INFO - - special_char_issues_count: 189
+2025-02-10 14:34:43,061 - INFO - Traitement terminé avec succès!
+
+
+
+2025-02-10 14:38:53,168 - INFO - Démarrage du traitement des données...
+2025-02-10 14:38:53,173 - INFO - Chemins utilisés :
+2025-02-10 14:38:53,173 - INFO - - Fichier source : data/raw_json/transports.json
+2025-02-10 14:38:53,173 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 14:38:53,173 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 14:38:53,175 - INFO -
+Résumé du traitement transport:
+2025-02-10 14:38:53,176 - INFO - - tras_count: 13
+2025-02-10 14:38:53,176 - INFO - - duplicates_count: 0
+2025-02-10 14:38:53,176 - INFO - - missing_columns_count: 3
+2025-02-10 14:38:53,176 - INFO - - null_issues_count: 26
+2025-02-10 14:38:53,176 - INFO - - string_issues_count: 0
+2025-02-10 14:38:53,176 - INFO - - integer_issues_count: 0
+2025-02-10 14:38:53,176 - INFO - - length_issues_count: 0
+2025-02-10 14:38:53,176 - INFO - - special_char_issues_count: 0
+2025-02-10 14:38:53,176 - INFO - Traitement terminé avec succès!
+
+
+python main.py --input-dir data/raw_json --input-file stock_imports.json --file-type stock_import --output-dir data/cleaned_json --info-dir data/info_cleaned_json
+2025-02-10 15:35:26,190 - INFO - Démarrage du traitement des données...
+2025-02-10 15:35:26,194 - INFO - Chemins utilisés :
+2025-02-10 15:35:26,195 - INFO - - Fichier source : data/raw_json/stock_imports.json
+2025-02-10 15:35:26,195 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 15:35:26,195 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 15:35:26,196 - ERROR - Erreur lors de la validation du champ si_id: Invalid primary key value: 0
+2025-02-10 15:35:26,237 - INFO -
+Résumé du traitement stock_import:
+2025-02-10 15:35:26,237 - INFO - - sis_count: 477
+2025-02-10 15:35:26,237 - INFO - - duplicates_count: 0
+2025-02-10 15:35:26,237 - INFO - - missing_columns_count: 19
+2025-02-10 15:35:26,237 - INFO - - null_issues_count: 3339
+2025-02-10 15:35:26,237 - INFO - - string_issues_count: 0
+2025-02-10 15:35:26,237 - INFO - - integer_issues_count: 2
+2025-02-10 15:35:26,237 - INFO - - length_issues_count: 0
+2025-02-10 15:35:26,237 - INFO - - special_char_issues_count: 0
+2025-02-10 15:35:26,237 - INFO - Traitement terminé avec succès!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ python main.py --input-dir data/raw_json --input-file companies.json --file-type company --output-dir data/cleaned_json --info-dir data/info_cleaned_json
+2025-02-10 16:57:46,575 - INFO - Démarrage du traitement des données...
+2025-02-10 16:57:46,579 - INFO - Chemins utilisés :
+2025-02-10 16:57:46,580 - INFO - - Fichier source : data/raw_json/companies.json
+2025-02-10 16:57:46,580 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 16:57:46,580 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 16:57:46,581 - ERROR - Erreur lors de la validation du champ co_id: Invalid primary key value: 0
+2025-02-10 16:57:46,606 - INFO -
+Résumé du traitement company:
+2025-02-10 16:57:46,606 - INFO - - cos_count: 270
+2025-02-10 16:57:46,606 - INFO - - duplicates_count: 0
+2025-02-10 16:57:46,606 - INFO - - missing_columns_count: 9
+2025-02-10 16:57:46,606 - INFO - - null_issues_count: 2470
+2025-02-10 16:57:46,606 - INFO - - string_issues_count: 8
+2025-02-10 16:57:46,606 - INFO - - integer_issues_count: 2
+2025-02-10 16:57:46,606 - INFO - - length_issues_count: 0
+2025-02-10 16:57:46,606 - INFO - - special_char_issues_count: 0
+2025-02-10 16:57:46,606 - INFO - Traitement terminé avec succès!
+
+
+python main.py --input-dir data/raw_json --input-file transports.json --file-type transport --output-dir data/cleaned_json --info-dir data/info_cleaned_json
+2025-02-10 17:03:42,089 - INFO - Démarrage du traitement des données...
+2025-02-10 17:03:42,099 - INFO - Chemins utilisés :
+2025-02-10 17:03:42,099 - INFO - - Fichier source : data/raw_json/transports.json
+2025-02-10 17:03:42,099 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 17:03:42,100 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 17:03:42,101 - ERROR - Erreur lors de la validation du champ tra_id: Invalid primary key value: 0
+2025-02-10 17:03:42,102 - INFO -
+Résumé du traitement transport:
+2025-02-10 17:03:42,102 - INFO - - tras_count: 13
+2025-02-10 17:03:42,102 - INFO - - duplicates_count: 0
+2025-02-10 17:03:42,102 - INFO - - missing_columns_count: 3
+2025-02-10 17:03:42,102 - INFO - - null_issues_count: 26
+2025-02-10 17:03:42,102 - INFO - - string_issues_count: 0
+2025-02-10 17:03:42,102 - INFO - - integer_issues_count: 2
+2025-02-10 17:03:42,102 - INFO - - length_issues_count: 0
+2025-02-10 17:03:42,102 - INFO - - special_char_issues_count: 0
+2025-02-10 17:03:42,102 - INFO - Traitement terminé avec succès!
+
+
+ python main.py --input-dir data/raw_json --input-file stock_imports.json --file-type stock_import --output-dir data/cleaned_json --info-dir data/info_cleaned_json
+2025-02-10 17:07:31,112 - INFO - Démarrage du traitement des données...
+2025-02-10 17:07:31,116 - INFO - Chemins utilisés :
+2025-02-10 17:07:31,116 - INFO - - Fichier source : data/raw_json/stock_imports.json
+2025-02-10 17:07:31,116 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 17:07:31,116 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 17:07:31,118 - ERROR - Erreur lors de la validation du champ si_id: Invalid primary key value: 0
+2025-02-10 17:07:31,156 - INFO -
+Résumé du traitement stock_import:
+2025-02-10 17:07:31,156 - INFO - - sis_count: 477
+2025-02-10 17:07:31,157 - INFO - - duplicates_count: 0
+2025-02-10 17:07:31,157 - INFO - - missing_columns_count: 19
+2025-02-10 17:07:31,157 - INFO - - null_issues_count: 3339
+2025-02-10 17:07:31,157 - INFO - - string_issues_count: 0
+2025-02-10 17:07:31,157 - INFO - - integer_issues_count: 2
+2025-02-10 17:07:31,157 - INFO - - length_issues_count: 0
+2025-02-10 17:07:31,157 - INFO - - special_char_issues_count: 0
+2025-02-10 17:07:31,157 - INFO - Traitement terminé avec succès!
+
+
+
+python main.py --input-dir data/raw_json --input-file stocks.json --file-type stock --output-dir data/cleaned_json --info-dir data/info_cleaned_json
+2025-02-10 17:16:15,058 - INFO - Démarrage du traitement des données...
+2025-02-10 17:16:15,067 - INFO - Chemins utilisés :
+2025-02-10 17:16:15,067 - INFO - - Fichier source : data/raw_json/stocks.json
+2025-02-10 17:16:15,067 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 17:16:15,067 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 17:16:15,069 - ERROR - Erreur lors de la validation du champ st_id: Invalid primary key value: 0
+2025-02-10 17:16:15,112 - INFO -
+Résumé du traitement stock:
+2025-02-10 17:16:15,112 - INFO - - sts_count: 421
+2025-02-10 17:16:15,112 - INFO - - duplicates_count: 0
+2025-02-10 17:16:15,112 - INFO - - missing_columns_count: 16
+2025-02-10 17:16:15,112 - INFO - - null_issues_count: 3795
+2025-02-10 17:16:15,112 - INFO - - string_issues_count: 69
+2025-02-10 17:16:15,112 - INFO - - integer_issues_count: 2
+2025-02-10 17:16:15,112 - INFO - - length_issues_count: 0
+2025-02-10 17:16:15,112 - INFO - - special_char_issues_count: 189
+2025-02-10 17:16:15,112 - INFO - Traitement terminé avec succès!
+
+
+python main.py --input-dir data/raw_json --input-file organizations.json --file-type organization --output-dir data/cleaned_json --info-dir data/info_cleaned_json
+2025-02-10 17:34:34,488 - INFO - Démarrage du traitement des données...
+2025-02-10 17:34:34,497 - INFO - Chemins utilisés :
+2025-02-10 17:34:34,497 - INFO - - Fichier source : data/raw_json/organizations.json
+2025-02-10 17:34:34,497 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 17:34:34,497 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 17:34:34,499 - ERROR - Erreur lors de la validation du champ or_id: Invalid primary key value: 0
+2025-02-10 17:34:34,563 - INFO -
+Résumé du traitement organization:
+2025-02-10 17:34:34,563 - INFO - - ors_count: 477
+2025-02-10 17:34:34,563 - INFO - - duplicates_count: 0
+2025-02-10 17:34:34,563 - INFO - - missing_columns_count: 17
+2025-02-10 17:34:34,563 - INFO - - null_issues_count: 6678
+2025-02-10 17:34:34,563 - INFO - - string_issues_count: 221
+2025-02-10 17:34:34,563 - INFO - - integer_issues_count: 3
+2025-02-10 17:34:34,563 - INFO - - length_issues_count: 2
+2025-02-10 17:34:34,563 - INFO - - special_char_issues_count: 479
+2025-02-10 17:34:34,563 - INFO - Traitement terminé avec succès!
+
+
+python main.py --input-dir data/raw_json --input-file logistic_addresses.json --file-type logistic_address --output-dir data/cleaned_json --info-dir data/info_cleaned_json
+2025-02-10 17:44:50,262 - INFO - Démarrage du traitement des données...
+2025-02-10 17:44:50,266 - INFO - Chemins utilisés :
+2025-02-10 17:44:50,266 - INFO - - Fichier source : data/raw_json/logistic_addresses.json
+2025-02-10 17:44:50,266 - INFO - - Répertoire de sortie : data/cleaned_json
+2025-02-10 17:44:50,266 - INFO - - Répertoire d'information : data/info_cleaned_json
+2025-02-10 17:44:50,273 - ERROR - Erreur lors de la validation du champ la_id: Invalid primary key value: 0
+2025-02-10 17:44:50,342 - INFO -
+Résumé du traitement logistic_address:
+2025-02-10 17:44:50,342 - INFO - - las_count: 970
+2025-02-10 17:44:50,342 - INFO - - duplicates_count: 0
+2025-02-10 17:44:50,342 - INFO - - missing_columns_count: 6
+2025-02-10 17:44:50,342 - INFO - - null_issues_count: 3179
+2025-02-10 17:44:50,342 - INFO - - string_issues_count: 139
+2025-02-10 17:44:50,342 - INFO - - integer_issues_count: 2
+2025-02-10 17:44:50,342 - INFO - - length_issues_count: 2
+2025-02-10 17:44:50,342 - INFO - - special_char_issues_count: 352
+2025-02-10 17:44:50,342 - INFO - Traitement terminé avec succès!
