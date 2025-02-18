@@ -4,3 +4,4 @@
 #*.sql
 .archive
 .archive/*
+.python-version
