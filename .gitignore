@@ -1,4 +1,7 @@
 .venv
 .vscode
 .gitignore
-*.sql
+#*.sql
+.archive
+.archive/*
+.python-version

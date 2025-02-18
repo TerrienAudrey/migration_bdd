@@ -81,15 +81,75 @@ pip install -r requirements.txt
 
 ### Fonctionnalités Communes
 
+Les schémas de table sont définis à partir de ce [schéma prisma](https://github.com/SandboxDealinka/APP_DEALINKA_BACK/blob/dev_cloe_stock_fix/prisma/schema.prisma).
+
 Chaque script de nettoyage (`clean_*.py`) implémente :
 
-1. Validation des données selon un schéma défini
-2. Détection et gestion des doublons
-3. Gestion des valeurs manquantes
-4. Génération de rapports détaillés
+1. Configuration initiale
+   - Définition des constantes (SPECIAL_VALUES, TIMESTAMP_FORMAT)
+   - Configuration des chemins
+   - Configuration du logging
 
-Les schémas de table sont définis à partir de ce [schéma prisma](https://github.com/SandboxDealinka/APP_DEALINKA_BACK/blob/dev_cloe_stock_fix/prisma/schema.prisma)
+2. Validation préliminaire
+   - Vérification existence fichier d'entrée
+   - Vérification/création des répertoires de sortie
 
+3. Définition des structures
+   - Règles de validation pour chaque champ (type, obligatoire, valeurs par défaut)
+   - Structure pour le suivi des problèmes
+   - Typage des données
+
+4. Chargement des données
+   - Lecture du fichier JSON
+   - Gestion des erreurs de parsing
+
+5. Validation des colonnes
+   - Identification des colonnes manquantes
+   - Journalisation des colonnes manquantes
+
+6. Nettoyage des données (pour chaque entrée)
+   a. Validation des chaînes
+      - Normalisation des espaces
+      - Vérification longueur maximale
+      - Détection caractères spéciaux
+      - Troncature si nécessaire
+
+   b. Validation des entiers
+      - Conversion des types
+      - Vérification plage de valeurs
+      - Application valeurs par défaut
+
+   c. Validation des dates
+      - Parsing du format
+      - Normalisation timezone
+      - Conversion en format ISO
+
+   d. Validation des tableaux
+      - Vérification du type
+      - Application tableau vide par défaut
+
+7. Gestion des doublons
+   - Détection basée sur clé unique
+   - Journalisation des doublons
+   - Sélection première occurrence
+
+8. Génération des fichiers de sortie
+   - Création fichier données nettoyées
+   - Création fichiers d'information par type de problème
+   - Horodatage des fichiers
+
+9. Génération des statistiques
+   - Comptage par type de problème
+   - Comptage entrées uniques
+   - Résumé des modifications
+
+10. Étapes cachées
+    - Gestion mémoire pour grands fichiers
+    - Validation des types à chaque étape
+    - Préservation des ID originaux
+    - Gestion encodage caractères
+    - Maintenance ordre des champs
+    - Gestion des exceptions à chaque niveau
 
 ### Gestion des Valeurs NULL
 
@@ -124,10 +184,12 @@ Pour chaque type de données, trois fichiers sont générés :
 - Valeurs NULL corrigées : 0 (voir stock_import_null_issues.json pour les détails)
 
 #### Résumé du traitement logistic_addresses :
-- Entrées logistic_addresses uniques : 304
-- Doublons trouvés : 666
-- Colonnes manquantes : 6
-- Valeurs NULL corrigées : 269 (voir logistic_address_null_issues.json pour les détails)
+- Unique addresses: 431
+- Duplicates: 674
+- Missing columns: 6
+- NULL values corrected: 3318
+- String issues corrected: 0
+- Boolean issues corrected: 0
 
 #### Résumé du traitement organizations:
 - Entrées organizations uniques : 477
@@ -142,11 +204,12 @@ Pour chaque type de données, trois fichiers sont générés :
 - Valeurs NULL corrigées : 6 (voir stocks_null_issues.json pour les détails)
 
 #### Résumé du traitement companies :
-- Entrées companies uniques : 267
-- Doublons trouvés : 3
-- Colonnes manquantes : 9
-- Valeurs NULL corrigées : 25
-- Caractères spéciaux nettoyés : 8
+- Unique companies: 267
+- Strict duplicates: 6
+- Case duplicates: 0
+- Missing columns: 9
+- NULL values corrected: 33
+- String issues corrected: 0
 
 ## Configuration VSCode
 
