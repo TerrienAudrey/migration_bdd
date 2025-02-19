@@ -1,0 +1,13 @@
+[
+  {
+  "FromTable":"Sales",
+  "FromColumn":"CustomerID",
+  "ToTable":"Customers",
+  "ToColumn":"CustomerID"
+  },
+  {
+    "FromTable":"Orders",
+    "FromColumn":"OrderID",
+    "ToTable":"OrderDetails",
+    "ToColumn":"OrderID"}
+]
