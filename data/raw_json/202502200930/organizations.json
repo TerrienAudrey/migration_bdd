@@ -1,0 +1,4502 @@
+[
+  {
+    "or_id": 0,
+    "or_denomination": "EMPTY",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240501-242-148-1",
+    "or_city": ".",
+    "or_id_address": 0
+  },
+  {
+    "or_id": 1,
+    "or_denomination": "EMPTY",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240412-199-122-1",
+    "or_city": ".",
+    "or_id_address": 1
+  },
+  {
+    "or_id": 2,
+    "or_denomination": "EMPTY",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20230629-009-015-1",
+    "or_city": ".",
+    "or_id_address": 2
+  },
+  {
+    "or_id": 3,
+    "or_denomination": "EMPTY",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240226-098-089-1",
+    "or_city": ".",
+    "or_id_address": 3
+  },
+  {
+    "or_id": 4,
+    "or_denomination": "EMPTY",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240517-260-157-1",
+    "or_city": ".",
+    "or_id_address": 4
+  },
+  {
+    "or_id": 5,
+    "or_denomination": "EMPTY",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240612-295-194-1",
+    "or_city": ".",
+    "or_id_address": 5
+  },
+  {
+    "or_id": 6,
+    "or_denomination": " AIDE MEDICALE ET CARITATIVE FRANCE \/ UKRAINE",
+    "or_street": "ROUTE DE SAINT GERMAIN 78930 GUERVILLE",
+    "or_postal_code": "78",
+    "id_ope_org": "20231207-069-056-1",
+    "or_city": ".",
+    "or_id_address": 6
+  },
+  {
+    "or_id": 7,
+    "or_denomination": " EMMAUS VESOUL",
+    "or_street": "COMMUNAUT\u00c9 EMMA\u00dcS 70\u000a5 RUE BRANLY, 70000 VESOUL",
+    "or_postal_code": "70",
+    "id_ope_org": "20241217-0011-23-2",
+    "or_city": "VESOUL",
+    "or_id_address": 7
+  },
+  {
+    "or_id": 8,
+    "or_denomination": " LA CROIX ROUGE DE MAZINGARBE ",
+    "or_street": "9 RUE RAYMOND DUPUICH, 62670 MAZINGARBE",
+    "or_postal_code": "62",
+    "id_ope_org": "20231207-069-056-4",
+    "or_city": ".",
+    "or_id_address": 8
+  },
+  {
+    "or_id": 9,
+    "or_denomination": "ACTIONS CONTRE LA FAIM ",
+    "or_street": "NANTERRE",
+    "or_postal_code": "92",
+    "id_ope_org": "20240313-160-090-1",
+    "or_city": ".",
+    "or_id_address": 9
+  },
+  {
+    "or_id": 10,
+    "or_denomination": "AGE UK",
+    "or_street": "44 HARDWICK GRANGE WOOLSTON, WARRINGTON,CHESHIRE,WA1 4RF",
+    "or_postal_code": ".",
+    "id_ope_org": "20230901-013-014-2",
+    "or_city": ".",
+    "or_id_address": 10
+  },
+  {
+    "or_id": 11,
+    "or_denomination": "AGIS 51",
+    "or_street": "160 IMPASSE\u00a0DES MEUNIERS",
+    "or_postal_code": "51",
+    "id_ope_org": "20241024-0009-3-1",
+    "or_city": ".",
+    "or_id_address": 11
+  },
+  {
+    "or_id": 12,
+    "or_denomination": "AGIS 51",
+    "or_street": "CHEMIN SAINT LEONARD 51100 REIMS",
+    "or_postal_code": "51",
+    "id_ope_org": "20241010-0007-21-1",
+    "or_city": ".",
+    "or_id_address": 12
+  },
+  {
+    "or_id": 13,
+    "or_denomination": "AGIS51",
+    "or_street": "CHEMIN SAINT LEONARD 51100 REIMS ",
+    "or_postal_code": "51",
+    "id_ope_org": "20240718-351-221-1",
+    "or_city": ".",
+    "or_id_address": 13
+  },
+  {
+    "or_id": 14,
+    "or_denomination": "AGIS51",
+    "or_street": "CHEMIN SAINT LEONARD 51100 REIMS ",
+    "or_postal_code": "51",
+    "id_ope_org": "20240716-348-220-1",
+    "or_city": ".",
+    "or_id_address": 14
+  },
+  {
+    "or_id": 15,
+    "or_denomination": "AGIS51",
+    "or_street": "CHEMIN SAINT LEONARD 51100 REIMS ",
+    "or_postal_code": "51",
+    "id_ope_org": "20240619-311-183-1",
+    "or_city": ".",
+    "or_id_address": 15
+  },
+  {
+    "or_id": 16,
+    "or_denomination": "AGIS51",
+    "or_street": "LA POMPELLE, ZONE FARMAN, CHEMIN DE\u00a0SAINT L\u00c9ONARD\u00a051100 REIMS\u00a0",
+    "or_postal_code": "51",
+    "id_ope_org": "20240606-282-182-1",
+    "or_city": ".",
+    "or_id_address": 16
+  },
+  {
+    "or_id": 17,
+    "or_denomination": "AGIS51",
+    "or_street": "CHEMIN SAINT LEONARD 51100 REIMS ",
+    "or_postal_code": "51",
+    "id_ope_org": "20240524-269-201-1",
+    "or_city": ".",
+    "or_id_address": 17
+  },
+  {
+    "or_id": 18,
+    "or_denomination": "AGIS51",
+    "or_street": "CHEMIN SAINT LEONARD 51100 REIMS ",
+    "or_postal_code": "51",
+    "id_ope_org": "20240626-325-204-1",
+    "or_city": ".",
+    "or_id_address": 18
+  },
+  {
+    "or_id": 19,
+    "or_denomination": "AGIS51",
+    "or_street": "CHEMIN SAINT LEONARD 51100 REIMS ",
+    "or_postal_code": "51",
+    "id_ope_org": "20240515-254-165-1",
+    "or_city": ".",
+    "or_id_address": 19
+  },
+  {
+    "or_id": 20,
+    "or_denomination": "AIDE MEDICALE ET CARITATIVE FRANCE \/ UKRAINE",
+    "or_street": "ROUTE DE SAINT GERMAIN 78930 GUERVILLE",
+    "or_postal_code": "78",
+    "id_ope_org": "20231219-087-054-1",
+    "or_city": ".",
+    "or_id_address": 20
+  },
+  {
+    "or_id": 21,
+    "or_denomination": "AIDE MEDICALE ET CARITATIVE FRANCE \/ UKRAINE",
+    "or_street": "ROUTE DE SAINT GERMAIN 78930 GUERVILLE",
+    "or_postal_code": "78",
+    "id_ope_org": "20240322-174-109-1",
+    "or_city": ".",
+    "or_id_address": 21
+  },
+  {
+    "or_id": 22,
+    "or_denomination": "AIDE M\u00c9DICALE & CARITATIVE FRANCE-UKRAINE",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20241029-0007-35-1",
+    "or_city": ".",
+    "or_id_address": 22
+  },
+  {
+    "or_id": 23,
+    "or_denomination": "AIDE M\u00c9DICALE & CARITATIVE FRANCE-UKRAINE",
+    "or_street": "HEIDELBERG CIMENTS, ROUTE DE SAINT GERMAIN 78930 GUERVILLE",
+    "or_postal_code": "78",
+    "id_ope_org": "20241025-0007-34-1",
+    "or_city": ".",
+    "or_id_address": 23
+  },
+  {
+    "or_id": 24,
+    "or_denomination": "AIDE M\u00c9DICALE & CARITATIVE FRANCE-UKRAINE",
+    "or_street": "HEIDELBERG CIMENTS, ROUTE DE SAINT GERMAIN 78930 GUERVILLE ( \u00c0 VOIR AVEC ELLE) ",
+    "or_postal_code": ".",
+    "id_ope_org": "20241118-0005-51-2",
+    "or_city": ".",
+    "or_id_address": 24
+  },
+  {
+    "or_id": 25,
+    "or_denomination": "AIDE M\u00c9DICALE FRANCE UKRAINE",
+    "or_street": "ROUTE DE SAINT GERMAIN 78930 GUERVILLE",
+    "or_postal_code": "78",
+    "id_ope_org": "20240923-444-285-2",
+    "or_city": ".",
+    "or_id_address": 25
+  },
+  {
+    "or_id": 26,
+    "or_denomination": "AIRE DES CHAMPS ",
+    "or_street": "19 RUE DE RAMBOUILLET 59400 CAMBRAI ",
+    "or_postal_code": "59",
+    "id_ope_org": "20240320-172-110-1",
+    "or_city": ".",
+    "or_id_address": 26
+  },
+  {
+    "or_id": 27,
+    "or_denomination": "AIRE DES CHAMPS ",
+    "or_street": "19 RUE DE RAMBOUILLET 59400 CAMBRAI ",
+    "or_postal_code": "59",
+    "id_ope_org": "20240206-115-072-1",
+    "or_city": ".",
+    "or_id_address": 27
+  },
+  {
+    "or_id": 28,
+    "or_denomination": "AIRE DES CHAMPS ",
+    "or_street": "19 RUE DE RAMBOUILLET 59400 CAMBRAI ",
+    "or_postal_code": "59",
+    "id_ope_org": "20240219-132-075-1",
+    "or_city": ".",
+    "or_id_address": 28
+  },
+  {
+    "or_id": 29,
+    "or_denomination": "ALEFPA",
+    "or_street": "126 LEON GAMBETTA,59174, LA SENTINELLE",
+    "or_postal_code": "59",
+    "id_ope_org": "20230310--005-002-1",
+    "or_city": ".",
+    "or_id_address": 29
+  },
+  {
+    "or_id": 30,
+    "or_denomination": "ALEFPA",
+    "or_street": "24 RUE DU QUESNOY,59920,QUI\u00c9VRECHAIN",
+    "or_postal_code": "59",
+    "id_ope_org": "20231018-033-039-1",
+    "or_city": ".",
+    "or_id_address": 30
+  },
+  {
+    "or_id": 31,
+    "or_denomination": "ALEFPA VALENCIENNES",
+    "or_street": ".",
+    "or_postal_code": "59",
+    "id_ope_org": "20230527-003-010-1",
+    "or_city": ".",
+    "or_id_address": 31
+  },
+  {
+    "or_id": 32,
+    "or_denomination": "ALPHA",
+    "or_street": "4 CR SAINT-ROCH59280 ARMENTI\u00c8RES",
+    "or_postal_code": "59",
+    "id_ope_org": "20241031-0006-47-1",
+    "or_city": ".",
+    "or_id_address": 32
+  },
+  {
+    "or_id": 33,
+    "or_denomination": "ANTI GASPI SOLIDAIRE",
+    "or_street": "86 avenue de saint JEAN 84130 LE PONTET",
+    "or_postal_code": "84",
+    "id_ope_org": "20241212-0007-59-1",
+    "or_city": "LE PONTET",
+    "or_id_address": 33
+  },
+  {
+    "or_id": 34,
+    "or_denomination": "ANTI GASPI SOLIDAIRE",
+    "or_street": "86 avenue de saint JEAN, 84130 LE PONTET",
+    "or_postal_code": "84",
+    "id_ope_org": "20250122-0011-36-1",
+    "or_city": "Le Pontet",
+    "or_id_address": 34
+  },
+  {
+    "or_id": 35,
+    "or_denomination": "ANTI GASPI SOLIDAIRE",
+    "or_street": "86 avenue de saint JEAN, 84130 LE PONTET",
+    "or_postal_code": "84",
+    "id_ope_org": "20250124-0014-28-1",
+    "or_city": "Le Pontet",
+    "or_id_address": 35
+  },
+  {
+    "or_id": 36,
+    "or_denomination": "ANTIGASPI ET SOLIDAIRE VAUCLUSE",
+    "or_street": "\u00e0 v\u00e9rifier quand palettis\u00e9 : 86 AVENUE DE SAINT JEAN 84130 LE PONTET",
+    "or_postal_code": "84",
+    "id_ope_org": "20241023-0007-33-4",
+    "or_city": ".",
+    "or_id_address": 36
+  },
+  {
+    "or_id": 37,
+    "or_denomination": "APEI DENAIN",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240723-361-227-2",
+    "or_city": ".",
+    "or_id_address": 37
+  },
+  {
+    "or_id": 38,
+    "or_denomination": "ASSOCIATION 'AIDE M\u00c9DICALE & CARITATIVE FRANCE-UKRAINE",
+    "or_street": "HEIDELBERG CIMENTS, ROUTE DE SAINT GERMAIN 78930 GUERVILLE",
+    "or_postal_code": "78",
+    "id_ope_org": "20241014-0004-81-1",
+    "or_city": ".",
+    "or_id_address": 38
+  },
+  {
+    "or_id": 39,
+    "or_denomination": "ASSOCIATION EKO ",
+    "or_street": "34 ROUTE DE GRENOBLE, 05100 BRIAN\u00c7ON",
+    "or_postal_code": "5",
+    "id_ope_org": "20241204-0007-53-1",
+    "or_city": ".",
+    "or_id_address": 39
+  },
+  {
+    "or_id": 40,
+    "or_denomination": "ASSOCIATION EKO ",
+    "or_street": "34 ROUTE DE GRENOBLE, 05100 BRIAN\u00c7ON",
+    "or_postal_code": "13",
+    "id_ope_org": "20240923-443-286-1",
+    "or_city": ".",
+    "or_id_address": 40
+  },
+  {
+    "or_id": 41,
+    "or_denomination": "ASSOCIATION LA MAIN TENDUE ",
+    "or_street": "DOUAI",
+    "or_postal_code": "59",
+    "id_ope_org": "20240418-215-134-1",
+    "or_city": ".",
+    "or_id_address": 41
+  },
+  {
+    "or_id": 42,
+    "or_denomination": "ASSOCIATION PILOTINE\/FRCPM",
+    "or_street": "ATT VALIDATION D\u00c9FINITIVE",
+    "or_postal_code": "62",
+    "id_ope_org": "20240327-182-125-1",
+    "or_city": ".",
+    "or_id_address": 42
+  },
+  {
+    "or_id": 43,
+    "or_denomination": "ASSOCIATION REBELLE ",
+    "or_street": "11 RUE EUG\u00c8NE H\u00c9NAFF 93240 STAINS",
+    "or_postal_code": "93",
+    "id_ope_org": "20240620-316-198-2",
+    "or_city": ".",
+    "or_id_address": 43
+  },
+  {
+    "or_id": 44,
+    "or_denomination": "Aide Medicale & Caritative France-Ukraine",
+    "or_street": "Heidelberg Ciments, Route de Saint Germain 78930 Guerville",
+    "or_postal_code": "78",
+    "id_ope_org": "20241218-0014-10-1",
+    "or_city": "Guerville",
+    "or_id_address": 44
+  },
+  {
+    "or_id": 45,
+    "or_denomination": "BANCO DE ALIMENTOS DE ALICANTE",
+    "or_street": "CENTRO DE MERCALICANTE POLYVALENTE 2 ,235242,03012 , ALICANTE",
+    "or_postal_code": ".",
+    "id_ope_org": "20230928-019-016-3",
+    "or_city": ".",
+    "or_id_address": 45
+  },
+  {
+    "or_id": 46,
+    "or_denomination": "BANCO DE ALIMENTOS DE CUENCA",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240122-101-066-1",
+    "or_city": ".",
+    "or_id_address": 46
+  },
+  {
+    "or_id": 47,
+    "or_denomination": "BANQUE ALIMENTAIRE",
+    "or_street": "2 RUE DE SKOPJE 21000 DIJON",
+    "or_postal_code": "21",
+    "id_ope_org": "20240923-444-285-4",
+    "or_city": ".",
+    "or_id_address": 47
+  },
+  {
+    "or_id": 48,
+    "or_denomination": "BANQUE ALIMENTAIRE",
+    "or_street": "32 RUE DES GRANDES COURBES",
+    "or_postal_code": "72",
+    "id_ope_org": "20240923-444-285-5",
+    "or_city": ".",
+    "or_id_address": 48
+  },
+  {
+    "or_id": 49,
+    "or_denomination": "BANQUE ALIMENTAIRE PACA ",
+    "or_street": ".",
+    "or_postal_code": "4",
+    "id_ope_org": "20240312-157-097-2",
+    "or_city": ".",
+    "or_id_address": 49
+  },
+  {
+    "or_id": 50,
+    "or_denomination": "BANQUE ALIMENTAIRE RENNES",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240618-308-213-1",
+    "or_city": ".",
+    "or_id_address": 50
+  },
+  {
+    "or_id": 51,
+    "or_denomination": "BANQUE ALIMENTAIRE TOULOUSE\/OCCITANIE",
+    "or_street": ".",
+    "or_postal_code": "31",
+    "id_ope_org": "20240312-157-097-3",
+    "or_city": ".",
+    "or_id_address": 51
+  },
+  {
+    "or_id": 52,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "8 RUE DES 4 SAISONS\u000a69530 BRIGNAIS",
+    "or_postal_code": "69",
+    "id_ope_org": "20241128-0014-5-1",
+    "or_city": ".",
+    "or_id_address": 52
+  },
+  {
+    "or_id": 53,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "\u00c0 VOIR CAR PLUSIEURS SITES DISPO ",
+    "or_postal_code": "69",
+    "id_ope_org": "20241122-0005-54-1",
+    "or_city": ".",
+    "or_id_address": 53
+  },
+  {
+    "or_id": 54,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "371 RUE GARIBALDI 69007 LYON",
+    "or_postal_code": "69",
+    "id_ope_org": "20241113-0007-41-1",
+    "or_city": ".",
+    "or_id_address": 54
+  },
+  {
+    "or_id": 55,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "33 rue lieutenant colonel G\u00e9rard 69007 Lyon",
+    "or_postal_code": "69",
+    "id_ope_org": "20241210-0004-99-1",
+    "or_city": "Lyon",
+    "or_id_address": 55
+  },
+  {
+    "or_id": 56,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "371 rue GARIBALDI 69007 LYON",
+    "or_postal_code": "69",
+    "id_ope_org": "20241122-0005-55-1",
+    "or_city": "lyon",
+    "or_id_address": 56
+  },
+  {
+    "or_id": 57,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "4-6 RUE DE L'\u00c9GALIT\u00c9 VILLEURBANNE 69100",
+    "or_postal_code": "69",
+    "id_ope_org": "20241125-0014-3-1",
+    "or_city": ".",
+    "or_id_address": 57
+  },
+  {
+    "or_id": 58,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "POLE BOX\u000a19 RUE D'ARSONVAL\u000a69680 CHASSIEU ",
+    "or_postal_code": "69",
+    "id_ope_org": "20241118-0005-51-1",
+    "or_city": ".",
+    "or_id_address": 58
+  },
+  {
+    "or_id": 59,
+    "or_denomination": "BINATNALKHIR ENTRE NOUS LE BIEN",
+    "or_street": "371 RUE GARIBALDI 69007 LYON",
+    "or_postal_code": "69",
+    "id_ope_org": "20241108-0007-39-1",
+    "or_city": ".",
+    "or_id_address": 59
+  },
+  {
+    "or_id": 60,
+    "or_denomination": "BRISTISH UKRAINIANAID",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240625-324-200-1",
+    "or_city": ".",
+    "or_id_address": 60
+  },
+  {
+    "or_id": 61,
+    "or_denomination": "CAARUD OXYG\u00c8NE",
+    "or_street": "1 AVENUE ST VENANT,59155, FACHES THUMESNIL",
+    "or_postal_code": "59",
+    "id_ope_org": "20230310--005-002-2",
+    "or_city": ".",
+    "or_id_address": 61
+  },
+  {
+    "or_id": 62,
+    "or_denomination": "CAARUD OXYG\u00c8NE",
+    "or_street": "1 AV. CHARLES SAINT-VENANT, 59155 FACHES-THUMESNIL",
+    "or_postal_code": "59",
+    "id_ope_org": "20230221--006-001-4",
+    "or_city": ".",
+    "or_id_address": 62
+  },
+  {
+    "or_id": 63,
+    "or_denomination": "COLLECTIVE CASHMERE LAB",
+    "or_street": "68 avenue Jean Jaur\u00e8s, 94110 Arcueil",
+    "or_postal_code": "94",
+    "id_ope_org": "20241016-0009-2-1",
+    "or_city": "Arcueil",
+    "or_id_address": 63
+  },
+  {
+    "or_id": 64,
+    "or_denomination": "COMBUSTIBLE NUM\u00c9RIQUE ",
+    "or_street": "TOULOUSE",
+    "or_postal_code": ".",
+    "id_ope_org": "20240730-378-235-1",
+    "or_city": ".",
+    "or_id_address": 64
+  },
+  {
+    "or_id": 65,
+    "or_denomination": "COMMUNAUT\u00c9 EMMA\u00dcS ARLES",
+    "or_street": "299,AV. ABB\u00c9 PIERRE-RTE SAINT MARIE DE LA MER,13200,ARLES",
+    "or_postal_code": "13",
+    "id_ope_org": "20231121-050-042-2",
+    "or_city": ".",
+    "or_id_address": 65
+  },
+  {
+    "or_id": 66,
+    "or_denomination": "COMMUNAUT\u00c9 EMMA\u00dcS ARLES",
+    "or_street": "299,AV. ABB\u00c9 PIERRE-RTE SAINT MARIE DE LA MER,13200,ARLES",
+    "or_postal_code": "13",
+    "id_ope_org": "20231121-050-042-1",
+    "or_city": ".",
+    "or_id_address": 66
+  },
+  {
+    "or_id": 67,
+    "or_denomination": "COMMUNAUT\u00c9 EMMA\u00dcS D'AL\u00c8S",
+    "or_street": "120 AV. JEAN PHILIPPE RAMEAU,30100,AL\u00c8S",
+    "or_postal_code": "30",
+    "id_ope_org": "20231120-047-029-1",
+    "or_city": ".",
+    "or_id_address": 67
+  },
+  {
+    "or_id": 68,
+    "or_denomination": "COMMUNAUT\u00c9 EMMA\u00dcS DE LA SOMME ",
+    "or_street": "174 RUE LUCIEN BARBIER, 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20231212-078-047-1",
+    "or_city": ".",
+    "or_id_address": 68
+  },
+  {
+    "or_id": 69,
+    "or_denomination": "COMMUNAUT\u00c9 EMMA\u00dcS DE LA SOMME ",
+    "or_street": "174 RUE LUCIEN BARBIER, 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20231208-073-044-1",
+    "or_city": ".",
+    "or_id_address": 69
+  },
+  {
+    "or_id": 70,
+    "or_denomination": "COMMUNAUT\u00c9 EMMA\u00dcS DE LA SOMME ",
+    "or_street": "174 RUE LUCIEN BARBIER, 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20231005-022-043-1",
+    "or_city": ".",
+    "or_id_address": 70
+  },
+  {
+    "or_id": 71,
+    "or_denomination": "COMMUNAUT\u00c9 EMMA\u00dcS DE LA SOMME ",
+    "or_street": "174 RUE LUCIEN BARBIER, 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20230510--003-004-1",
+    "or_city": ".",
+    "or_id_address": 71
+  },
+  {
+    "or_id": 72,
+    "or_denomination": "COMPAGNONS BATISSEURS RHONE-ALPES",
+    "or_street": "33 AVENUE JEAN JAUR\u00c8S, 69600 OULLINS-PIERRE-B\u00c9NITE",
+    "or_postal_code": "69",
+    "id_ope_org": "20241122-0020-2-1",
+    "or_city": ".",
+    "or_id_address": 72
+  },
+  {
+    "or_id": 73,
+    "or_denomination": "COPAIN VILLE",
+    "or_street": "273 RUE DU FAUCONIER 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240613-297-180-1",
+    "or_city": ".",
+    "or_id_address": 73
+  },
+  {
+    "or_id": 74,
+    "or_denomination": "COURTOISE RESSOURCERIE",
+    "or_street": "90 chemin de Bonneval \u2013 Quartier la Courtoise 83470 SAINT-MAXIMIN LA SAINTE BAUME",
+    "or_postal_code": "83",
+    "id_ope_org": "20241205-0008-22-3",
+    "or_city": "Saint-Maximin La Sainte Baume",
+    "or_id_address": 74
+  },
+  {
+    "or_id": 75,
+    "or_denomination": "COURTOISE RESSOURCERIE",
+    "or_street": "90 CHEMIN DE BONNEVAL \u2013 QUARTIER LA COURTOISE 83470 SAINT-MAXIMIN LA SAINTE BAUME",
+    "or_postal_code": "83",
+    "id_ope_org": "20241003-52-1",
+    "or_city": ".",
+    "or_id_address": 75
+  },
+  {
+    "or_id": 76,
+    "or_denomination": "COURTOISE RESSOURCERIE",
+    "or_street": "90 CHEMIN DE BONNEVAL \u2013 QUARTIER LA COURTOISE 83470 SAINT-MAXIMIN LA SAINTE BAUME",
+    "or_postal_code": "83",
+    "id_ope_org": "20241115-0007-42-1",
+    "or_city": ".",
+    "or_id_address": 76
+  },
+  {
+    "or_id": 77,
+    "or_denomination": "COURTOISE RESSOURCERIE",
+    "or_street": "90 CHEMIN DE BONNEVAL \u2013 QUARTIER LA COURTOISE 83470 SAINT-MAXIMIN LA SAINTE BAUME",
+    "or_postal_code": "83",
+    "id_ope_org": "20241022-0007-29-1",
+    "or_city": ".",
+    "or_id_address": 77
+  },
+  {
+    "or_id": 78,
+    "or_denomination": "CROIX ROUGE RENNES",
+    "or_street": "4 RUE DU BREIL 35000 RENNES",
+    "or_postal_code": "35",
+    "id_ope_org": "20240430-240-150-1",
+    "or_city": ".",
+    "or_id_address": 78
+  },
+  {
+    "or_id": 79,
+    "or_denomination": "CVL SOLI\u2019B\u00c2T (COMPAGNONS BATISSEURS)",
+    "or_street": "SOLI'B\u00c2T \u000a34 RUE DE LA MORINERIE\u000a37700 SAINT PIERRE DES CORPS",
+    "or_postal_code": "37",
+    "id_ope_org": "20241108-0005-47-1",
+    "or_city": ".",
+    "or_id_address": 79
+  },
+  {
+    "or_id": 80,
+    "or_denomination": "CVL SOLI\u2019B\u00c2T (COMPAGNONS BATISSEURS)",
+    "or_street": "SOLI'B\u00c2T \u000a34 RUE DE LA MORINERIE\u000a37700 SAINT PIERRE DES CORPS",
+    "or_postal_code": "37",
+    "id_ope_org": "20241108-0005-48-1",
+    "or_city": ".",
+    "or_id_address": 80
+  },
+  {
+    "or_id": 81,
+    "or_denomination": "CVL SOLI\u2019B\u00c2T (COMPAGNONS BATISSEURS)",
+    "or_street": "SOLI'B\u00c2T \u000a34 RUE DE LA MORINERIE\u000a37700 SAINT PIERRE DES CORPS",
+    "or_postal_code": "37",
+    "id_ope_org": "20241031-0007-36-1",
+    "or_city": ".",
+    "or_id_address": 81
+  },
+  {
+    "or_id": 82,
+    "or_denomination": "CVL SOLI\u2019B\u00c2T (COMPAGNONS BATISSEURS)",
+    "or_street": "SOLI'B\u00c2T \u000a34 RUE DE LA MORINERIE\u000a37700 SAINT PIERRE DES CORPS",
+    "or_postal_code": "37",
+    "id_ope_org": "20241120-0005-52-1",
+    "or_city": ".",
+    "or_id_address": 82
+  },
+  {
+    "or_id": 83,
+    "or_denomination": "C\u00c1RITAS INTERPARROQUIAL ECHE ",
+    "or_street": "CARRER CAUCE, 6, 03206 ELX, ALICANTE,",
+    "or_postal_code": ".",
+    "id_ope_org": "20230928-019-016-1",
+    "or_city": ".",
+    "or_id_address": 83
+  },
+  {
+    "or_id": 84,
+    "or_denomination": "DAHLIA",
+    "or_street": "17 RUE PAUL \u00c9LUARD 78130 LES MUREAUX",
+    "or_postal_code": "78",
+    "id_ope_org": "20240607-286-179-1",
+    "or_city": ".",
+    "or_id_address": 84
+  },
+  {
+    "or_id": 85,
+    "or_denomination": "DONS SOLIDAIRES",
+    "or_street": "160 IMPASSE DES MEUNIERS\u000a\u000a45410 ARTENAY FR",
+    "or_postal_code": "45",
+    "id_ope_org": "20241105-0005-44-1",
+    "or_city": ".",
+    "or_id_address": 85
+  },
+  {
+    "or_id": 86,
+    "or_denomination": "DRUGLAB",
+    "or_street": "25 AVENUE DU QUEBEC 91140 VILLEBON SUR YVETTE",
+    "or_postal_code": "91",
+    "id_ope_org": "20240705-336-222-1",
+    "or_city": ".",
+    "or_id_address": 86
+  },
+  {
+    "or_id": 87,
+    "or_denomination": "EKO",
+    "or_street": "34 ROUTE DE GRENOBLE, 05100 BRIAN\u00c7ON",
+    "or_postal_code": "5",
+    "id_ope_org": "20241126-0011-16-1",
+    "or_city": ".",
+    "or_id_address": 87
+  },
+  {
+    "or_id": 88,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": "SANSAAC L'EGLISE ",
+    "or_postal_code": "43",
+    "id_ope_org": "20240805-390-247-1",
+    "or_city": ".",
+    "or_id_address": 88
+  },
+  {
+    "or_id": 89,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": ".",
+    "or_postal_code": "43",
+    "id_ope_org": "20240605-279-174-1",
+    "or_city": ".",
+    "or_id_address": 89
+  },
+  {
+    "or_id": 90,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": "SANSAAC L'EGLISE ",
+    "or_postal_code": "43",
+    "id_ope_org": "20240806-392-238-1",
+    "or_city": ".",
+    "or_id_address": 90
+  },
+  {
+    "or_id": 91,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": "23 RUE DU FATA\u00cfRE 43320 SANSSAC L\u2019\u00c9GLISE",
+    "or_postal_code": "43",
+    "id_ope_org": "20240325-178-104-1",
+    "or_city": ".",
+    "or_id_address": 91
+  },
+  {
+    "or_id": 92,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": "SANSAAC L'EGLISE ",
+    "or_postal_code": "43",
+    "id_ope_org": "20240813-400-245-1",
+    "or_city": ".",
+    "or_id_address": 92
+  },
+  {
+    "or_id": 93,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": "307 RUE LT-COL. M. REBEYROTTE - ZA TAULHAC - 43000 LE PUY-EN-VELAY ",
+    "or_postal_code": "43",
+    "id_ope_org": "20240417-209-128-1",
+    "or_city": ".",
+    "or_id_address": 93
+  },
+  {
+    "or_id": 94,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": "307 RUE LT-COL. M. REBEYROTTE - ZA TAULHAC - 43000 LE PUY-EN-VELAY ",
+    "or_postal_code": "43",
+    "id_ope_org": "20240417-208-127-1",
+    "or_city": ".",
+    "or_id_address": 94
+  },
+  {
+    "or_id": 95,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": "LE PUY EN VELAY- EMMAUS ENVIRONNEMENT ",
+    "or_postal_code": "43",
+    "id_ope_org": "20240326-181-107-1",
+    "or_city": ".",
+    "or_id_address": 95
+  },
+  {
+    "or_id": 96,
+    "or_denomination": "EMMATEK 43\/ EMMAUS LE PUY EN VELAY ",
+    "or_street": ".",
+    "or_postal_code": "43",
+    "id_ope_org": "20240701-331-209-1",
+    "or_city": ".",
+    "or_id_address": 96
+  },
+  {
+    "or_id": 97,
+    "or_denomination": "EMMATEk filiale EMMAUS ",
+    "or_street": "Chemin de la p\u00e9pini\u00e8re\u00a0",
+    "or_postal_code": "43",
+    "id_ope_org": "20241203-0006-59-1",
+    "or_city": "43000 le Pui en Velay",
+    "or_id_address": 97
+  },
+  {
+    "or_id": 98,
+    "or_denomination": "EMMAU TRIRA ",
+    "or_street": "144 IMPASSE LVERLOCH\u00c8RE 38780 PONT EVEQUE",
+    "or_postal_code": "38",
+    "id_ope_org": "20240221-137-077-1",
+    "or_city": ".",
+    "or_id_address": 98
+  },
+  {
+    "or_id": 99,
+    "or_denomination": "EMMAUS",
+    "or_street": "RUE ABB\u00c9E PIERRE PUITS CAMBEFORT 42230 ROCHE LA MOLI\u00c8RE",
+    "or_postal_code": "42",
+    "id_ope_org": "20240705-335-0003-115-1",
+    "or_city": ".",
+    "or_id_address": 99
+  },
+  {
+    "or_id": 100,
+    "or_denomination": "EMMAUS",
+    "or_street": "RUE ABB\u00c9E PIERRE PUITS CAMBEFORT 42230 ROCHE LA MOLI\u00c8RE",
+    "or_postal_code": "42",
+    "id_ope_org": "20240612-294-272-1",
+    "or_city": ".",
+    "or_id_address": 100
+  },
+  {
+    "or_id": 101,
+    "or_denomination": "EMMAUS",
+    "or_street": "ZI 1 ROUTE D'AUTREY 88700 RAMBERVILLIERS",
+    "or_postal_code": "88",
+    "id_ope_org": "20240619-313-197-1",
+    "or_city": ".",
+    "or_id_address": 101
+  },
+  {
+    "or_id": 102,
+    "or_denomination": "EMMAUS",
+    "or_street": "1 TER CHEMIN DE L'ALL\u00c9E 45140 ORMES",
+    "or_postal_code": "45",
+    "id_ope_org": "20240805-391-237-1",
+    "or_city": ".",
+    "or_id_address": 102
+  },
+  {
+    "or_id": 103,
+    "or_denomination": "EMMAUS",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE 91160 LONGJUMEAU ",
+    "or_postal_code": "91",
+    "id_ope_org": "20240917-431-274-1",
+    "or_city": ".",
+    "or_id_address": 103
+  },
+  {
+    "or_id": 104,
+    "or_denomination": "EMMAUS",
+    "or_street": "124 BIS AV PABLO PICASSO 92000 NANTERRE",
+    "or_postal_code": "92",
+    "id_ope_org": "20240920-436-277-1",
+    "or_city": ".",
+    "or_id_address": 104
+  },
+  {
+    "or_id": 105,
+    "or_denomination": "EMMAUS",
+    "or_street": "RUE ABB\u00c9E PIERRE PUITS CAMBEFORT 42230 ROCHE LA MOLI\u00c8RE",
+    "or_postal_code": "42",
+    "id_ope_org": "20240917-430-273-1",
+    "or_city": ".",
+    "or_id_address": 105
+  },
+  {
+    "or_id": 106,
+    "or_denomination": "EMMAUS ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20240920-439-282-1",
+    "or_city": ".",
+    "or_id_address": 106
+  },
+  {
+    "or_id": 107,
+    "or_denomination": "EMMAUS 80",
+    "or_street": "174 RUE LUCIEN BARBIER 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20240712-342-214-1",
+    "or_city": ".",
+    "or_id_address": 107
+  },
+  {
+    "or_id": 108,
+    "or_denomination": "EMMAUS AGEN",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20241127-0004-94-1",
+    "or_city": ".",
+    "or_id_address": 108
+  },
+  {
+    "or_id": 109,
+    "or_denomination": "EMMAUS AGEN",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20241121-0006-54-1",
+    "or_city": ".",
+    "or_id_address": 109
+  },
+  {
+    "or_id": 110,
+    "or_denomination": "EMMAUS AMIENS",
+    "or_street": "174 RUE LUCIEN BARBIER, 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20241126-0011-17-1",
+    "or_city": ".",
+    "or_id_address": 110
+  },
+  {
+    "or_id": 111,
+    "or_denomination": "EMMAUS ANGOUL\u00caME LA COURONNE (10 PALETTES)\u000a + EMMAUS RUFFEC (8PALETTES) ",
+    "or_street": "23 RUE DES COMPAGNONS D'EMMA\u00dcS, 16400 LA COURONNE + 31 RTE DE CONFOLENS 16700 CONDAC",
+    "or_postal_code": "16",
+    "id_ope_org": "20240415-203-124-1",
+    "or_city": ".",
+    "or_id_address": 111
+  },
+  {
+    "or_id": 112,
+    "or_denomination": "EMMAUS AQUITAINE - PAREMPUYRE",
+    "or_street": "2 rue des Compagnons de l'abb\u00e9 Pierre - 33290 PAREMPUYRE",
+    "or_postal_code": "33",
+    "id_ope_org": "20250128-0014-31-1",
+    "or_city": "PAREMPUYRE",
+    "or_id_address": 112
+  },
+  {
+    "or_id": 113,
+    "or_denomination": "EMMAUS ARLES",
+    "or_street": "299 AVENUE ABB\u00c9 PIERRE 13200 ARLES",
+    "or_postal_code": "13",
+    "id_ope_org": "20241017-0011-8-1",
+    "or_city": ".",
+    "or_id_address": 113
+  },
+  {
+    "or_id": 114,
+    "or_denomination": "EMMAUS ARMENTIERES",
+    "or_street": "RUE DE METZ, 59280 ARMENTIERES",
+    "or_postal_code": "59",
+    "id_ope_org": "20241128-0003-164-1",
+    "or_city": ".",
+    "or_id_address": 114
+  },
+  {
+    "or_id": 115,
+    "or_denomination": "EMMAUS ARMENTIERES",
+    "or_street": "RUE DE METZ, 59280 ARMENTIERES",
+    "or_postal_code": "59",
+    "id_ope_org": "20241112-0007-40-1",
+    "or_city": ".",
+    "or_id_address": 115
+  },
+  {
+    "or_id": 116,
+    "or_denomination": "EMMAUS ARTOIS BRUAY LA BUISSI\u00c8RE ",
+    "or_street": "1987 RUE DU CHEMIN DES DAMES 62700 BRUAY LA BUISSI\u00c8RE ",
+    "or_postal_code": "62",
+    "id_ope_org": "20231229-091-059-1",
+    "or_city": ".",
+    "or_id_address": 116
+  },
+  {
+    "or_id": 117,
+    "or_denomination": "EMMAUS AVENIR",
+    "or_street": "15 BOULEVARD LOUIS ARMAND 93300 NEUILLY SUR MARNE",
+    "or_postal_code": "93",
+    "id_ope_org": "20240711-341-253-1",
+    "or_city": ".",
+    "or_id_address": 117
+  },
+  {
+    "or_id": 118,
+    "or_denomination": "EMMAUS BISCHHEIM (67)",
+    "or_street": "14 RUE D'ATOME 67800 BISCHHEIM",
+    "or_postal_code": "67",
+    "id_ope_org": "20240108-094-064-1",
+    "or_city": ".",
+    "or_id_address": 118
+  },
+  {
+    "or_id": 119,
+    "or_denomination": "EMMAUS BOURG EN BRESSE",
+    "or_street": "5 PLACE DE L'EGLISE, 01960 SERVAS",
+    "or_postal_code": "1",
+    "id_ope_org": "20241007-0006-37-1",
+    "or_city": ".",
+    "or_id_address": 119
+  },
+  {
+    "or_id": 120,
+    "or_denomination": "EMMAUS CARBONNE ",
+    "or_street": "1 RUE DES ARTISANS 31390 CARBONNE",
+    "or_postal_code": "31",
+    "id_ope_org": "20241119-0007-47-1",
+    "or_city": ".",
+    "or_id_address": 120
+  },
+  {
+    "or_id": 121,
+    "or_denomination": "EMMAUS CARBONNE 31",
+    "or_street": "1 RUE DES ARTISANS 31390 CARBONNE",
+    "or_postal_code": "31",
+    "id_ope_org": "20240228-147-083-1",
+    "or_city": ".",
+    "or_id_address": 121
+  },
+  {
+    "or_id": 122,
+    "or_denomination": "EMMAUS DEFI",
+    "or_street": "6 rue archerau, 75019 Paris 19eme",
+    "or_postal_code": "75",
+    "id_ope_org": "20250122-0003-165-1",
+    "or_city": "Paris",
+    "or_id_address": 122
+  },
+  {
+    "or_id": 123,
+    "or_denomination": "EMMAUS D\u00c9OLS",
+    "or_street": "ALL\u00c9E ABB\u00c9 PIERRE \" LATRISTERIE\" - 36130 D\u00c9OLS",
+    "or_postal_code": "36",
+    "id_ope_org": "20240502-243-151-1",
+    "or_city": ".",
+    "or_id_address": 123
+  },
+  {
+    "or_id": 124,
+    "or_denomination": "EMMAUS ELBEUF",
+    "or_street": "132 RUE LIEROULT 76320 SAINT PIERRE LES ELBEUF",
+    "or_postal_code": "76",
+    "id_ope_org": "20241120-0005-53-1",
+    "or_city": ".",
+    "or_id_address": 124
+  },
+  {
+    "or_id": 125,
+    "or_denomination": "EMMAUS ELBEUF",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240709-337-212-1",
+    "or_city": ".",
+    "or_id_address": 125
+  },
+  {
+    "or_id": 126,
+    "or_denomination": "EMMAUS EMRA",
+    "or_street": "5 RUE DU DR ROUX, 38490 SAINT ANDR\u00c9 LE GAZ",
+    "or_postal_code": "38",
+    "id_ope_org": "20241104-0007-37-1",
+    "or_city": ".",
+    "or_id_address": 126
+  },
+  {
+    "or_id": 127,
+    "or_denomination": "EMMAUS EMRA 26 PALETTES ",
+    "or_street": ".",
+    "or_postal_code": "38",
+    "id_ope_org": "20240312-157-097-1",
+    "or_city": ".",
+    "or_id_address": 127
+  },
+  {
+    "or_id": 128,
+    "or_denomination": "EMMAUS EPERNAY",
+    "or_street": "6 RUE SAINT-ANTOINE, 51150 TOURS-SUR- MARNE",
+    "or_postal_code": "51",
+    "id_ope_org": "20241114-0004-89-1",
+    "or_city": ".",
+    "or_id_address": 128
+  },
+  {
+    "or_id": 129,
+    "or_denomination": "EMMAUS FERME DE KER MADELEINE SOURCE D ENVOL",
+    "or_street": "KER MADELEINE 44530 ST GILDAS DES BOIS",
+    "or_postal_code": "44",
+    "id_ope_org": "20240919-433-276-1",
+    "or_city": ".",
+    "or_id_address": 129
+  },
+  {
+    "or_id": 130,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 Rte nationale, 59400 Fontaine-Notre-Dame",
+    "or_postal_code": "59",
+    "id_ope_org": "20241205-0008-22-1",
+    "or_city": "Fontaine-Notre-Dame",
+    "or_id_address": 130
+  },
+  {
+    "or_id": 131,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 Rte nationale, 59400 Fontaine-Notre-Dame",
+    "or_postal_code": "59",
+    "id_ope_org": "20241211-0007-57-1",
+    "or_city": "Fontaine-Notre-Dame",
+    "or_id_address": 131
+  },
+  {
+    "or_id": 132,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20240926-453-0003-149-1",
+    "or_city": ".",
+    "or_id_address": 132
+  },
+  {
+    "or_id": 133,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20241010-0004-77-1",
+    "or_city": ".",
+    "or_id_address": 133
+  },
+  {
+    "or_id": 134,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20240624-318-195-1",
+    "or_city": ".",
+    "or_id_address": 134
+  },
+  {
+    "or_id": 135,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20241011-0003-156-1",
+    "or_city": ".",
+    "or_id_address": 135
+  },
+  {
+    "or_id": 136,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 Rte nationale, 59400 Fontaine-Notre-Dame",
+    "or_postal_code": "59",
+    "id_ope_org": "20241010-0006-39-1",
+    "or_city": "FONTAINE-NOTRE-DAME",
+    "or_id_address": 136
+  },
+  {
+    "or_id": 137,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20240626-323-202-1",
+    "or_city": ".",
+    "or_id_address": 137
+  },
+  {
+    "or_id": 138,
+    "or_denomination": "EMMAUS FONTAINE NOTRE DAME ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20241022-0011-10-1",
+    "or_city": ".",
+    "or_id_address": 138
+  },
+  {
+    "or_id": 139,
+    "or_denomination": "EMMAUS FOUG\u00c8RES ",
+    "or_street": "11 RUE DES COMPAGNONS D'EMMAUS 35300 FOUG\u00c8RES",
+    "or_postal_code": "35",
+    "id_ope_org": "20240614-301-203-1",
+    "or_city": ".",
+    "or_id_address": 139
+  },
+  {
+    "or_id": 140,
+    "or_denomination": "EMMAUS FOULAIN",
+    "or_street": "7 RUE DES PICHAUX 52800 FOULAIN",
+    "or_postal_code": "52",
+    "id_ope_org": "20241115-0007-44-1",
+    "or_city": ".",
+    "or_id_address": 140
+  },
+  {
+    "or_id": 141,
+    "or_denomination": "EMMAUS FOULAIN",
+    "or_street": "7 RUE DES PICHAUX 52800 FOULAIN",
+    "or_postal_code": "52",
+    "id_ope_org": "20240422-224-0003-81-1",
+    "or_city": ".",
+    "or_id_address": 141
+  },
+  {
+    "or_id": 142,
+    "or_denomination": "EMMAUS FOULAIN",
+    "or_street": "7 RUE DES PICHAUX 52800 FOULAIN",
+    "or_postal_code": "52",
+    "id_ope_org": "20241023-0006-44-1",
+    "or_city": ".",
+    "or_id_address": 142
+  },
+  {
+    "or_id": 143,
+    "or_denomination": "EMMAUS GRAND CHAMBORD",
+    "or_street": "4 route Beaugency 41220 La Fert\u00e9 Saint Cyr",
+    "or_postal_code": "41",
+    "id_ope_org": "20250107-0004-108-2",
+    "or_city": "La Fert\u00e9 Saint Cyr",
+    "or_id_address": 143
+  },
+  {
+    "or_id": 144,
+    "or_denomination": "EMMAUS GRAND CHAMBORD ",
+    "or_street": "4 BIS ROUTE DE BEAUGENCY\u000a41220 La FERTE ST CYR",
+    "or_postal_code": "41220",
+    "id_ope_org": "20241127-0005-56-1",
+    "or_city": "LA FERT\u00c9 ST CYR",
+    "or_id_address": 144
+  },
+  {
+    "or_id": 145,
+    "or_denomination": "EMMAUS GRAND CHAMBORD ",
+    "or_street": "LA KATHEDRAL, 141 La Chambre ronde, 89340 Saint Agnan",
+    "or_postal_code": "89",
+    "id_ope_org": "20241118-0008-12-1",
+    "or_city": "Saint Agnan",
+    "or_id_address": 145
+  },
+  {
+    "or_id": 146,
+    "or_denomination": "EMMAUS GRENOBLE ( SASSENAGE) ",
+    "or_street": "33 AVENUE DE VALENCE 38360 SASSENAGE ",
+    "or_postal_code": "38",
+    "id_ope_org": "20240424-226-138-1",
+    "or_city": ".",
+    "or_id_address": 146
+  },
+  {
+    "or_id": 147,
+    "or_denomination": "EMMAUS INDRE",
+    "or_street": "ALL\u00c9E ABB\u00c9 PIERRE \" LA TRISTERIE\" - 36130 D\u00c9OLS ",
+    "or_postal_code": "36",
+    "id_ope_org": "20241105-0005-45-1",
+    "or_city": ".",
+    "or_id_address": 147
+  },
+  {
+    "or_id": 148,
+    "or_denomination": "EMMAUS INDRE",
+    "or_street": "ALL\u00c9E ABB\u00c9 PIERRE \" LA TRISTERIE\" - 36130 D\u00c9OLS ",
+    "or_postal_code": "36",
+    "id_ope_org": "20241106-0005-46-1",
+    "or_city": ".",
+    "or_id_address": 148
+  },
+  {
+    "or_id": 149,
+    "or_denomination": "EMMAUS LA TECH ",
+    "or_street": "70 RUE DE BRADFORD 59200 TOURCOING",
+    "or_postal_code": "59",
+    "id_ope_org": "20240213-126-086-1",
+    "or_city": ".",
+    "or_id_address": 149
+  },
+  {
+    "or_id": 150,
+    "or_denomination": "EMMAUS LE HAVRE",
+    "or_street": "28 HAMEAU DU TRONQUAY 76930 CAUVILLE SUR MER ",
+    "or_postal_code": "76",
+    "id_ope_org": "20241108-0005-49-1",
+    "or_city": ".",
+    "or_id_address": 150
+  },
+  {
+    "or_id": 151,
+    "or_denomination": "EMMAUS LOIRET",
+    "or_street": ".",
+    "or_postal_code": "45",
+    "id_ope_org": "20240531-277-172-1",
+    "or_city": ".",
+    "or_id_address": 151
+  },
+  {
+    "or_id": 152,
+    "or_denomination": "EMMAUS LOIRET",
+    "or_street": "1 CHEMIN DE L'ALL\u00c9E ORMES 45140",
+    "or_postal_code": "45",
+    "id_ope_org": "20240122-100-063-1",
+    "or_city": ".",
+    "or_id_address": 152
+  },
+  {
+    "or_id": 153,
+    "or_denomination": "EMMAUS LOIRET",
+    "or_street": "COMMUNAUT\u00c9 EMMAUS 1 TER CHEMIN DE L'ALL\u00c9E 45140 ORMES",
+    "or_postal_code": "45",
+    "id_ope_org": "20241018-0003-158-1",
+    "or_city": ".",
+    "or_id_address": 153
+  },
+  {
+    "or_id": 154,
+    "or_denomination": "EMMAUS LOIRET",
+    "or_street": "1 TER CHEMIN DE L'ALL\u00c9E - 45140 ORMES",
+    "or_postal_code": "45",
+    "id_ope_org": "20240418-216-131-1",
+    "or_city": ".",
+    "or_id_address": 154
+  },
+  {
+    "or_id": 155,
+    "or_denomination": "EMMAUS LOIRET",
+    "or_street": "1 TER CHEMIN DE L'ALL\u00c9E - 45140 ORMES",
+    "or_postal_code": "45",
+    "id_ope_org": "20240521-262-159-1",
+    "or_city": ".",
+    "or_id_address": 155
+  },
+  {
+    "or_id": 156,
+    "or_denomination": "EMMAUS LONGJUMEAU",
+    "or_street": "8 AV ABB\u00c9 PIERRE 91160 LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20241009-0007-19-1",
+    "or_city": ".",
+    "or_id_address": 156
+  },
+  {
+    "or_id": 157,
+    "or_denomination": "EMMAUS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE \u000a91160 LONGJUMEAU ",
+    "or_postal_code": "91",
+    "id_ope_org": "20241003-0003-153-1",
+    "or_city": ".",
+    "or_id_address": 157
+  },
+  {
+    "or_id": 158,
+    "or_denomination": "EMMAUS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE 91160 LONGJUMEAU ",
+    "or_postal_code": "91",
+    "id_ope_org": "20241031-0011-11-1",
+    "or_city": ".",
+    "or_id_address": 158
+  },
+  {
+    "or_id": 159,
+    "or_denomination": "EMMAUS LONGJUMEAU",
+    "or_street": "8 AV ABB\u00c9 PIERRE 91160 LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20241015-0007-23-1",
+    "or_city": ".",
+    "or_id_address": 159
+  },
+  {
+    "or_id": 160,
+    "or_denomination": "EMMAUS LONGJUMEAU ",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE 91160 LONGJUMEAU ",
+    "or_postal_code": "91",
+    "id_ope_org": "20240710-340-229-1",
+    "or_city": ".",
+    "or_id_address": 160
+  },
+  {
+    "or_id": 161,
+    "or_denomination": "EMMAUS LONGJUMEAU ",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE - 91160 LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20240603-278-173-1",
+    "or_city": ".",
+    "or_id_address": 161
+  },
+  {
+    "or_id": 162,
+    "or_denomination": "EMMAUS LONGJUMEAU ",
+    "or_street": "8 AV ABB\u00c9 PIERRE 91160 LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20240722-358-226-1",
+    "or_city": ".",
+    "or_id_address": 162
+  },
+  {
+    "or_id": 163,
+    "or_denomination": "EMMAUS LYON",
+    "or_street": "8 AVENUE MARIUS BERLIET 69200 V\u00c9NISSIEUX",
+    "or_postal_code": "69",
+    "id_ope_org": "20240521-265-167-1",
+    "or_city": ".",
+    "or_id_address": 163
+  },
+  {
+    "or_id": 164,
+    "or_denomination": "EMMAUS MAYENNE (GORRON)",
+    "or_street": "RUE DE L'HORIZON 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240313-162-092-1",
+    "or_city": ".",
+    "or_id_address": 164
+  },
+  {
+    "or_id": 165,
+    "or_denomination": "EMMAUS MAYENNE (GORRON)",
+    "or_street": "RUE DE L'HORIZON 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240212-121-071-1",
+    "or_city": ".",
+    "or_id_address": 165
+  },
+  {
+    "or_id": 166,
+    "or_denomination": "EMMAUS MAYENNE (GORRON)",
+    "or_street": "RUE DE L'HORIZON 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240507-247-153-1",
+    "or_city": ".",
+    "or_id_address": 166
+  },
+  {
+    "or_id": 167,
+    "or_denomination": "EMMAUS MAYENNE (GORRON)",
+    "or_street": "RUE DE L'HORIZON 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240516-256-156-1",
+    "or_city": ".",
+    "or_id_address": 167
+  },
+  {
+    "or_id": 168,
+    "or_denomination": "EMMAUS MAYENNE (GORRON)",
+    "or_street": "RUE DE L'HORIZON 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240313-161-093-1",
+    "or_city": ".",
+    "or_id_address": 168
+  },
+  {
+    "or_id": 169,
+    "or_denomination": "EMMAUS MAYENNE VILLIERS CHARLEMAGNE ",
+    "or_street": "LA CHEVALERIE,53170 VILLIERS-CHARLEMAGNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20231110-040-030-4",
+    "or_city": ".",
+    "or_id_address": 169
+  },
+  {
+    "or_id": 170,
+    "or_denomination": "EMMAUS MAYENNE VILLIERS CHARLEMAGNE ",
+    "or_street": "LA CHEVALERIE,53170 VILLIERS-CHARLEMAGNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20230921-017-017-1",
+    "or_city": ".",
+    "or_id_address": 170
+  },
+  {
+    "or_id": 171,
+    "or_denomination": "EMMAUS NARBONNE",
+    "or_street": "EMMA\u00dcS CAP DE PLA ROUTE DE TOULOUSE 11100 NARBONNE",
+    "or_postal_code": "11",
+    "id_ope_org": "20241017-0006-42-1",
+    "or_city": ".",
+    "or_id_address": 171
+  },
+  {
+    "or_id": 172,
+    "or_denomination": "EMMAUS NARBONNE",
+    "or_street": "CAP DE PLA NORD. ROUTE DE TOULOUSE. 11100 NARBONNE",
+    "or_postal_code": "11",
+    "id_ope_org": "20240924-445-0006-33-1",
+    "or_city": ".",
+    "or_id_address": 172
+  },
+  {
+    "or_id": 173,
+    "or_denomination": "EMMAUS NARBONNE",
+    "or_street": "EMMA\u00dcS CAP DE PLA ROUTE DE CARCASONNE 11100 NARBONNE",
+    "or_postal_code": "11",
+    "id_ope_org": "20241021-0007-28-1",
+    "or_city": ".",
+    "or_id_address": 173
+  },
+  {
+    "or_id": 174,
+    "or_denomination": "EMMAUS NARBONNE",
+    "or_street": "Cap de Pla Nord - Route de Carcassonne, 11100 Narbonne",
+    "or_postal_code": "11100",
+    "id_ope_org": "20250130-0008-50-1",
+    "or_city": "NARBONNE",
+    "or_id_address": 174
+  },
+  {
+    "or_id": 175,
+    "or_denomination": "EMMAUS NARBONNE",
+    "or_street": "EMMA\u00dcS CAP DE PLA ROUTE DE TOULOUSE 11100 NARBONNE",
+    "or_postal_code": "11",
+    "id_ope_org": "20241018-0006-43-1",
+    "or_city": ".",
+    "or_id_address": 175
+  },
+  {
+    "or_id": 176,
+    "or_denomination": "EMMAUS NARBONNE",
+    "or_street": "Cap de Pla Nord - Route de Carcassonne, 11100 Narbonne",
+    "or_postal_code": "11100",
+    "id_ope_org": "20250211-0008-59-1",
+    "or_city": "Narbonne",
+    "or_id_address": 176
+  },
+  {
+    "or_id": 177,
+    "or_denomination": "EMMAUS NIEPPE",
+    "or_street": "514 RLE DES RAMEAUX, 59850 NIEPPE",
+    "or_postal_code": "59",
+    "id_ope_org": "20241007-0006-38-1",
+    "or_city": ".",
+    "or_id_address": 177
+  },
+  {
+    "or_id": 178,
+    "or_denomination": "EMMAUS RAMBERVILLERS ",
+    "or_street": ".",
+    "or_postal_code": "88",
+    "id_ope_org": "20240418-219-169-2",
+    "or_city": ".",
+    "or_id_address": 178
+  },
+  {
+    "or_id": 179,
+    "or_denomination": "EMMAUS ROCHE LA MOLI\u00c8RE",
+    "or_street": "Rue Abb\u00e9 Pierre , Puits Cambeforts \u000a42230 Roche la Moliere ",
+    "or_postal_code": "42230",
+    "id_ope_org": "20241204-0008-20-1",
+    "or_city": "Roche Moli\u00e8re",
+    "or_id_address": 179
+  },
+  {
+    "or_id": 180,
+    "or_denomination": "EMMAUS Roche la moli\u00e8re",
+    "or_street": "rue abb\u00e9e Pierre Puits Cambefort 42230 Roche la moli\u00e8re",
+    "or_postal_code": "42",
+    "id_ope_org": "20241217-0008-28-1",
+    "or_city": " Roche la moli\u00e8re",
+    "or_id_address": 180
+  },
+  {
+    "or_id": 181,
+    "or_denomination": "EMMAUS SAINT BRIEUC",
+    "or_street": ".",
+    "or_postal_code": "22",
+    "id_ope_org": "20240701-332-208-1",
+    "or_city": ".",
+    "or_id_address": 181
+  },
+  {
+    "or_id": 182,
+    "or_denomination": "EMMAUS SAINT ETIENNE",
+    "or_street": "RUE ABB\u00c9 PIERRE 42230 ROCHE LA MOLI\u00c8RE",
+    "or_postal_code": "42",
+    "id_ope_org": "20240424-232-140-1",
+    "or_city": ".",
+    "or_id_address": 182
+  },
+  {
+    "or_id": 183,
+    "or_denomination": "EMMAUS SAINT ETIENNE",
+    "or_street": "RUE ABB\u00c9 PIERRE 42230 ROCHE LA MOLI\u00c8RE",
+    "or_postal_code": "42",
+    "id_ope_org": "20240502-245-161-1",
+    "or_city": ".",
+    "or_id_address": 183
+  },
+  {
+    "or_id": 184,
+    "or_denomination": "EMMAUS SAINT GAUDENS",
+    "or_street": "SAINT GAUDENS 31800",
+    "or_postal_code": "31",
+    "id_ope_org": "20240312-156-091-1",
+    "or_city": ".",
+    "or_id_address": 184
+  },
+  {
+    "or_id": 185,
+    "or_denomination": "EMMAUS SAINT GAUDENS",
+    "or_street": "60 AVENUE DE BOULOGNE 31800 SAINT GAUDENS",
+    "or_postal_code": "31",
+    "id_ope_org": "20240212-122-081-1",
+    "or_city": ".",
+    "or_id_address": 185
+  },
+  {
+    "or_id": 186,
+    "or_denomination": "EMMAUS SAINT GAUDENS",
+    "or_street": "60 AVENUE DE BOULOGNE 31800 SAINT GAUDENS",
+    "or_postal_code": "31",
+    "id_ope_org": "20240305-123-112-1",
+    "or_city": ".",
+    "or_id_address": 186
+  },
+  {
+    "or_id": 187,
+    "or_denomination": "EMMAUS SAINT GAUDENS ",
+    "or_street": "60 AVENUE DE BOULOGNE 31800 SAINT GAUDENS",
+    "or_postal_code": "31",
+    "id_ope_org": "20241118-0006-50-1",
+    "or_city": ".",
+    "or_id_address": 187
+  },
+  {
+    "or_id": 188,
+    "or_denomination": "EMMAUS SAINT NAZAIRE",
+    "or_street": "4 RUE GRAHAM BELL 44600 SAINT NAZAIRE",
+    "or_postal_code": "44",
+    "id_ope_org": "20240925-449-291-1",
+    "or_city": ".",
+    "or_id_address": 188
+  },
+  {
+    "or_id": 189,
+    "or_denomination": "EMMAUS SAINT PIERRE LES ELBEUF ",
+    "or_street": "132 RUE LIEROULT 76320 SAINT PIERRE LES ELBEUF",
+    "or_postal_code": "76",
+    "id_ope_org": "20240129-144-146-1",
+    "or_city": ".",
+    "or_id_address": 189
+  },
+  {
+    "or_id": 190,
+    "or_denomination": "EMMAUS SAINT PIERRE LES ELBEUF ",
+    "or_street": "131 RUE LIEROULT 76320 SAINT PIERRE LES ELBEUF",
+    "or_postal_code": "76",
+    "id_ope_org": "20240426-235-141-1",
+    "or_city": ".",
+    "or_id_address": 190
+  },
+  {
+    "or_id": 191,
+    "or_denomination": "EMMAUS SERVAS \/ BOURG EN BRESSE",
+    "or_street": "5 Place de l'Eglise, 01960 Servas",
+    "or_postal_code": "1",
+    "id_ope_org": "20241007-0006-36-1",
+    "or_city": "Servas",
+    "or_id_address": 191
+  },
+  {
+    "or_id": 192,
+    "or_denomination": "EMMAUS SERVAS \/ BOURG EN BRESSE",
+    "or_street": "5 Place de l'Eglise, 01960 Servas",
+    "or_postal_code": "1",
+    "id_ope_org": "20241204-0014-6-1",
+    "or_city": "Servas",
+    "or_id_address": 192
+  },
+  {
+    "or_id": 193,
+    "or_denomination": "EMMAUS SOMME",
+    "or_street": "174 RUE LUCIEN BARBIER 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20240730-379-270-1",
+    "or_city": ".",
+    "or_id_address": 193
+  },
+  {
+    "or_id": 194,
+    "or_denomination": "EMMAUS SOMME",
+    "or_street": "174 RUE LUCIEN BARBIER 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20241126-0004-93-1",
+    "or_city": ".",
+    "or_id_address": 194
+  },
+  {
+    "or_id": 195,
+    "or_denomination": "EMMAUS SOMME",
+    "or_street": "174 RUE LUCIEN BARBIER 80450 CAMON",
+    "or_postal_code": "80",
+    "id_ope_org": "20241118-0011-14-1",
+    "or_city": ".",
+    "or_id_address": 195
+  },
+  {
+    "or_id": 196,
+    "or_denomination": "EMMAUS ST DIZIER",
+    "or_street": "11 RUE DES ROISES 52100 BETTANCOURT-LA-FERR\u00c9E",
+    "or_postal_code": "52",
+    "id_ope_org": "20231211-074-051-1",
+    "or_city": ".",
+    "or_id_address": 196
+  },
+  {
+    "or_id": 197,
+    "or_denomination": "EMMAUS ST OMER\/CALAIS",
+    "or_street": "54 RUE DU NOIR CORNET 62500 SAINT MARTIN LEZ TATINGHEM",
+    "or_postal_code": "62",
+    "id_ope_org": "20240619-309-184-1",
+    "or_city": ".",
+    "or_id_address": 197
+  },
+  {
+    "or_id": 198,
+    "or_denomination": "EMMAUS TARNOS",
+    "or_street": "361 ROUTE ABB\u00c9 PIERRE - 40220 TARNOS ",
+    "or_postal_code": "40",
+    "id_ope_org": "20240523-267-168-1",
+    "or_city": ".",
+    "or_id_address": 198
+  },
+  {
+    "or_id": 199,
+    "or_denomination": "EMMAUS TRIRA ",
+    "or_street": "14 impasse Lverloch\u00e8re 38780 PONT EVEQUE",
+    "or_postal_code": "38",
+    "id_ope_org": "20240820-403-250-2",
+    "or_city": ".",
+    "or_id_address": 199
+  },
+  {
+    "or_id": 200,
+    "or_denomination": "EMMAUS VESOUL",
+    "or_street": "COMMUNAUT\u00c9 EMMA\u00dcS 70\u000a5 RUE BRANLY, 70000 VESOUL",
+    "or_postal_code": "70",
+    "id_ope_org": "20241031-0003-162-1",
+    "or_city": ".",
+    "or_id_address": 200
+  },
+  {
+    "or_id": 201,
+    "or_denomination": "EMMAUS VESOUL",
+    "or_street": "COMMUNAUT\u00c9 EMMA\u00dcS 70\u000a5 RUE BRANLY, 70000 VESOUL",
+    "or_postal_code": "70",
+    "id_ope_org": "20241031-0008-8-1",
+    "or_city": ".",
+    "or_id_address": 201
+  },
+  {
+    "or_id": 202,
+    "or_denomination": "EMMAUS VESOUL",
+    "or_street": "COMMUNAUT\u00c9 EMMA\u00dcS 70\u000a5 RUE BRANLY, 70000 VESOUL",
+    "or_postal_code": "70",
+    "id_ope_org": "20241107-0008-9-1",
+    "or_city": ".",
+    "or_id_address": 202
+  },
+  {
+    "or_id": 203,
+    "or_denomination": "EMMAUS VESOUL ",
+    "or_street": "Communaut\u00e9 Emma\u00fcs 70\u000a5 rue Branly, 70000 VESOUL",
+    "or_postal_code": "70",
+    "id_ope_org": "20241204-0014-6-2",
+    "or_city": "Vesoul",
+    "or_id_address": 203
+  },
+  {
+    "or_id": 204,
+    "or_denomination": "EMMAUS VESOUL ",
+    "or_street": "COMMUNAUT\u00c9 EMMA\u00dcS 70\u000a5 RUE BRANLY, 70000 VESOUL",
+    "or_postal_code": "70",
+    "id_ope_org": "20241023-0003-160-1",
+    "or_city": ".",
+    "or_id_address": 204
+  },
+  {
+    "or_id": 205,
+    "or_denomination": "EMMAUS VOSGES",
+    "or_street": "14 RUE DES AULNES\u000a88230 FRAIZE",
+    "or_postal_code": "88",
+    "id_ope_org": "20241126-0006-55-1",
+    "or_city": ".",
+    "or_id_address": 205
+  },
+  {
+    "or_id": 206,
+    "or_denomination": "EMMAUS VOSGES",
+    "or_street": "14 RUE DES AULNES\u000a88230 FRAIZE",
+    "or_postal_code": "88",
+    "id_ope_org": "20241018-0007-27-1",
+    "or_city": ".",
+    "or_id_address": 206
+  },
+  {
+    "or_id": 207,
+    "or_denomination": "EMMAUS VOSGES",
+    "or_street": "EMMA\u00dcS VOSGES\u000aZI-1 ROUTE D\u2019AUTREY\u000a88700 RAMBERVILLERS ",
+    "or_postal_code": "88",
+    "id_ope_org": "20241128-0014-4-1",
+    "or_city": ".",
+    "or_id_address": 207
+  },
+  {
+    "or_id": 208,
+    "or_denomination": "EMMAUSVIENNE ",
+    "or_street": "5 AVENUE MARCELIN BERTHELOT 38200",
+    "or_postal_code": "38",
+    "id_ope_org": "20240206-116-069-1",
+    "or_city": ".",
+    "or_id_address": 208
+  },
+  {
+    "or_id": 209,
+    "or_denomination": "EMMAUSVIENNE ",
+    "or_street": "5 AVENUE MARCELIN BERTHELOT 38200",
+    "or_postal_code": "38",
+    "id_ope_org": "20240216-130-074-1",
+    "or_city": ".",
+    "or_id_address": 209
+  },
+  {
+    "or_id": 210,
+    "or_denomination": "EMMA\u00dcS 95   ",
+    "or_street": "9 CHEMIN PAV\u00c9,95340,BERNE SUR OISE",
+    "or_postal_code": "95",
+    "id_ope_org": "20230929-020-019-1",
+    "or_city": ".",
+    "or_id_address": 210
+  },
+  {
+    "or_id": 211,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20240212-122-081-2",
+    "or_city": ".",
+    "or_id_address": 211
+  },
+  {
+    "or_id": 212,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20240109-095-060-1",
+    "or_city": ".",
+    "or_id_address": 212
+  },
+  {
+    "or_id": 213,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20231211-075-058-1",
+    "or_city": ".",
+    "or_id_address": 213
+  },
+  {
+    "or_id": 214,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20240315-164-096-1",
+    "or_city": ".",
+    "or_id_address": 214
+  },
+  {
+    "or_id": 215,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20231124-052-035-1",
+    "or_city": ".",
+    "or_id_address": 215
+  },
+  {
+    "or_id": 216,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20240607-284-176-1",
+    "or_city": ".",
+    "or_id_address": 216
+  },
+  {
+    "or_id": 217,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20240606-283-191-1",
+    "or_city": ".",
+    "or_id_address": 217
+  },
+  {
+    "or_id": 218,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20240624-320-193-1",
+    "or_city": ".",
+    "or_id_address": 218
+  },
+  {
+    "or_id": 219,
+    "or_denomination": "EMMA\u00dcS AGEN (47)",
+    "or_street": "IMPASSE DE L'ABBE PIERRE 47000 AGEN",
+    "or_postal_code": "47",
+    "id_ope_org": "20240112-097-062-1",
+    "or_city": ".",
+    "or_id_address": 219
+  },
+  {
+    "or_id": 220,
+    "or_denomination": "EMMA\u00dcS BEAUVAIS",
+    "or_street": "22 RUE EMMA\u00dcS, 60000 BEAUVAIS",
+    "or_postal_code": "60",
+    "id_ope_org": "20231207-069-056-2",
+    "or_city": ".",
+    "or_id_address": 220
+  },
+  {
+    "or_id": 221,
+    "or_denomination": "EMMA\u00dcS BEAUVAIS",
+    "or_street": "22 RUE EMMA\u00dcS, 60000 BEAUVAIS",
+    "or_postal_code": "60",
+    "id_ope_org": "20231201-063-033-1",
+    "or_city": ".",
+    "or_id_address": 221
+  },
+  {
+    "or_id": 222,
+    "or_denomination": "EMMA\u00dcS BEAUVAIS",
+    "or_street": "22 RUE EMMA\u00dcS, 60000 BEAUVAIS",
+    "or_postal_code": "60",
+    "id_ope_org": "20231210-026-027-1",
+    "or_city": ".",
+    "or_id_address": 222
+  },
+  {
+    "or_id": 223,
+    "or_denomination": "EMMA\u00dcS BEAUVAIS",
+    "or_street": "22  RUE EMMAUS 60000 BEAUVAIS ",
+    "or_postal_code": "60",
+    "id_ope_org": "20231211-075-058-3",
+    "or_city": ".",
+    "or_id_address": 223
+  },
+  {
+    "or_id": 224,
+    "or_denomination": "EMMA\u00dcS BEAUVAIS",
+    "or_street": "22 RUE EMMA\u00dcS, 60000, BEAUVAIS",
+    "or_postal_code": "60",
+    "id_ope_org": "20231026-035-024-1",
+    "or_city": ".",
+    "or_id_address": 224
+  },
+  {
+    "or_id": 225,
+    "or_denomination": "EMMA\u00dcS CANTAL",
+    "or_street": "10 RUE DE LA SOMME 15000 AURILLAC ",
+    "or_postal_code": "15",
+    "id_ope_org": "20240209-120-085-1",
+    "or_city": ".",
+    "or_id_address": 225
+  },
+  {
+    "or_id": 226,
+    "or_denomination": "EMMA\u00dcS DU CLERMONTOIS  ",
+    "or_street": "RUE PASTEUR, 60600 ERQUERY",
+    "or_postal_code": "60",
+    "id_ope_org": "20230512-000-007-2",
+    "or_city": ".",
+    "or_id_address": 226
+  },
+  {
+    "or_id": 227,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230629-008-013-1",
+    "or_city": ".",
+    "or_id_address": 227
+  },
+  {
+    "or_id": 228,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231017-029-021-2",
+    "or_city": ".",
+    "or_id_address": 228
+  },
+  {
+    "or_id": 229,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231127-057-028-1",
+    "or_city": ".",
+    "or_id_address": 229
+  },
+  {
+    "or_id": 230,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231124-053-037-1",
+    "or_city": ".",
+    "or_id_address": 230
+  },
+  {
+    "or_id": 231,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231017-030-022-2",
+    "or_city": ".",
+    "or_id_address": 231
+  },
+  {
+    "or_id": 232,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231017-031-023-2",
+    "or_city": ".",
+    "or_id_address": 232
+  },
+  {
+    "or_id": 233,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230527-002-009-1",
+    "or_city": ".",
+    "or_id_address": 233
+  },
+  {
+    "or_id": 234,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230527-001-008-2",
+    "or_city": ".",
+    "or_id_address": 234
+  },
+  {
+    "or_id": 235,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230422--004-003-1",
+    "or_city": ".",
+    "or_id_address": 235
+  },
+  {
+    "or_id": 236,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230605-005-011-1",
+    "or_city": ".",
+    "or_id_address": 236
+  },
+  {
+    "or_id": 237,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231130-061-040-1",
+    "or_city": ".",
+    "or_id_address": 237
+  },
+  {
+    "or_id": 238,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230221--006-001-3",
+    "or_city": ".",
+    "or_id_address": 238
+  },
+  {
+    "or_id": 239,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230510--003-004-2",
+    "or_city": ".",
+    "or_id_address": 239
+  },
+  {
+    "or_id": 240,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231218-086-055-1",
+    "or_city": ".",
+    "or_id_address": 240
+  },
+  {
+    "or_id": 241,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231108-037-025-1",
+    "or_city": ".",
+    "or_id_address": 241
+  },
+  {
+    "or_id": 242,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231110-040-030-2",
+    "or_city": ".",
+    "or_id_address": 242
+  },
+  {
+    "or_id": 243,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20240410-194-121-1",
+    "or_city": ".",
+    "or_id_address": 243
+  },
+  {
+    "or_id": 244,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230408--001-006-1",
+    "or_city": ".",
+    "or_id_address": 244
+  },
+  {
+    "or_id": 245,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 RTE NATIONALE, 59400 FONTAINE-NOTRE-DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20230527-003-010-2",
+    "or_city": ".",
+    "or_id_address": 245
+  },
+  {
+    "or_id": 246,
+    "or_denomination": "EMMA\u00dcS FONTAINE NOTRE-DAME  ",
+    "or_street": "952 ROUTE NATIONAL,59400,FONTAINE NOTRE DAME",
+    "or_postal_code": "59",
+    "id_ope_org": "20231213-083-050-1",
+    "or_city": ".",
+    "or_id_address": 246
+  },
+  {
+    "or_id": 247,
+    "or_denomination": "EMMA\u00dcS FOUG\u00c8RES",
+    "or_street": "\u00a011 RUE DES COMPAGNONS D'EMMA\u00dcS, 35300 FOUG\u00c8RES",
+    "or_postal_code": "35",
+    "id_ope_org": "20231110-040-030-3",
+    "or_city": ".",
+    "or_id_address": 247
+  },
+  {
+    "or_id": 248,
+    "or_denomination": "EMMA\u00dcS GRENOBLE ",
+    "or_street": "70 IMPASSE DE JENTIANES,38350,LA MURE",
+    "or_postal_code": "38",
+    "id_ope_org": "20231213-082-052-1",
+    "or_city": ".",
+    "or_id_address": 248
+  },
+  {
+    "or_id": 249,
+    "or_denomination": "EMMA\u00dcS GRENOBLE ",
+    "or_street": "70 IMPASSE DE JENTIANES,38350,LA MURE",
+    "or_postal_code": "38",
+    "id_ope_org": "20231215-084-053-1",
+    "or_city": ".",
+    "or_id_address": 249
+  },
+  {
+    "or_id": 250,
+    "or_denomination": "EMMA\u00dcS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE,91160,LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20240319-169-098-1",
+    "or_city": ".",
+    "or_id_address": 250
+  },
+  {
+    "or_id": 251,
+    "or_denomination": "EMMA\u00dcS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE,91160,LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20231026-035-024-2",
+    "or_city": ".",
+    "or_id_address": 251
+  },
+  {
+    "or_id": 252,
+    "or_denomination": "EMMA\u00dcS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE,91160,LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20231205-068-036-1",
+    "or_city": ".",
+    "or_id_address": 252
+  },
+  {
+    "or_id": 253,
+    "or_denomination": "EMMA\u00dcS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE,91160,LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20231205-067-034-1",
+    "or_city": ".",
+    "or_id_address": 253
+  },
+  {
+    "or_id": 254,
+    "or_denomination": "EMMA\u00dcS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE,91160,LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20240131-110-082-1",
+    "or_city": ".",
+    "or_id_address": 254
+  },
+  {
+    "or_id": 255,
+    "or_denomination": "EMMA\u00dcS LONGJUMEAU",
+    "or_street": "8 AVENUE ABB\u00c9 PIERRE,91160,LONGJUMEAU",
+    "or_postal_code": "91",
+    "id_ope_org": "20240131-145-108-1",
+    "or_city": ".",
+    "or_id_address": 255
+  },
+  {
+    "or_id": 256,
+    "or_denomination": "EMMA\u00dcS MILLAU ",
+    "or_street": ".",
+    "or_postal_code": "15",
+    "id_ope_org": "20240521-263-166-1",
+    "or_city": ".",
+    "or_id_address": 256
+  },
+  {
+    "or_id": 257,
+    "or_denomination": "EMMA\u00dcS NIEPPE",
+    "or_street": "\u00a0514 RLE DES RAMEAUX, 59850 NIEPPE",
+    "or_postal_code": "59",
+    "id_ope_org": "20230629-008-013-2",
+    "or_city": ".",
+    "or_id_address": 257
+  },
+  {
+    "or_id": 258,
+    "or_denomination": "EMMA\u00dcS NORGES-LA-VILLE",
+    "or_street": "74 ROUTE DE DIJON,21462,NORGES-LA-VILLE",
+    "or_postal_code": "21",
+    "id_ope_org": "20230609-006-012-1",
+    "or_city": ".",
+    "or_id_address": 258
+  },
+  {
+    "or_id": 259,
+    "or_denomination": "EMMA\u00dcS N\u0152UX LES MINES",
+    "or_street": "ZI DE NOEUX-LABOURSE,62290,1 RUE LAVOISIER,62113,NOEU-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20231110-040-030-1",
+    "or_city": ".",
+    "or_id_address": 259
+  },
+  {
+    "or_id": 260,
+    "or_denomination": "EMMA\u00dcS PARILLY V\u00c9NISSIEUX",
+    "or_street": "8 AV. MARIUS BERLIET, 69200 V\u00c9NISSIEUX",
+    "or_postal_code": "69",
+    "id_ope_org": "20231212-081-049-1",
+    "or_city": ".",
+    "or_id_address": 260
+  },
+  {
+    "or_id": 261,
+    "or_denomination": "EMMA\u00dcS TOURCOING",
+    "or_street": "88 RUE D'HONDSCHOOTE \u00c0 TOURCOING",
+    "or_postal_code": "59",
+    "id_ope_org": "20231211-075-058-2",
+    "or_city": ".",
+    "or_id_address": 261
+  },
+  {
+    "or_id": 262,
+    "or_denomination": "EMMA\u00dcS TOURCOING",
+    "or_street": "88 RUE D'HONDSCHOOTE \u00c0 TOURCOING",
+    "or_postal_code": "59",
+    "id_ope_org": "20231211-076-046-1",
+    "or_city": ".",
+    "or_id_address": 262
+  },
+  {
+    "or_id": 263,
+    "or_denomination": "EMMA\u00dcS TRAPPES",
+    "or_street": "201 AV. DES BOULEAUX, 78190 TRAPPES",
+    "or_postal_code": "78",
+    "id_ope_org": "20231210-026-027-2",
+    "or_city": ".",
+    "or_id_address": 263
+  },
+  {
+    "or_id": 264,
+    "or_denomination": "EMMA\u00dcS TRAPPES",
+    "or_street": "201 AVENUE DES BOULEAUX 78190 TRAPPES.\u00a0 ",
+    "or_postal_code": "78",
+    "id_ope_org": "20240417-212-136-1",
+    "or_city": ".",
+    "or_id_address": 264
+  },
+  {
+    "or_id": 265,
+    "or_denomination": "ENVIE NORD",
+    "or_street": "TRANSPORTS LEGUILLON\u000a9 RUE DES FR\u00c8RES LUMI\u00c8RE 62880 VENDIN-LE-VIEIL",
+    "or_postal_code": "62",
+    "id_ope_org": "20241022-0003-159-1",
+    "or_city": ".",
+    "or_id_address": 265
+  },
+  {
+    "or_id": 266,
+    "or_denomination": "ENVIE NORD ",
+    "or_street": "4 RUE DU FORT 77340 PONTAULT COMBAULT",
+    "or_postal_code": "77",
+    "id_ope_org": "20240607-289-178-1",
+    "or_city": ".",
+    "or_id_address": 266
+  },
+  {
+    "or_id": 267,
+    "or_denomination": "EPICERIE SOLIDAIRE 30 ",
+    "or_street": "10 RUE EDMOND ALDOSA 30328 GARONS. ",
+    "or_postal_code": "30",
+    "id_ope_org": "20241023-0007-33-1",
+    "or_city": ".",
+    "or_id_address": 267
+  },
+  {
+    "or_id": 268,
+    "or_denomination": "EPICERIE SOLIDAIRE DE L'ESPERANCE 30",
+    "or_street": "145 chemin de connangles 30127 BELLEGARDE",
+    "or_postal_code": "30",
+    "id_ope_org": "20241220-0005-62-1",
+    "or_city": "BELLEGARDE",
+    "or_id_address": 268
+  },
+  {
+    "or_id": 269,
+    "or_denomination": "EPICERIE SOLIDAIRE DE L'ESPERANCE 30",
+    "or_street": "145 chemin de connangles 30127 BELLEGARDE",
+    "or_postal_code": "30",
+    "id_ope_org": "20241127-0008-17-1",
+    "or_city": "BELLEGARDE",
+    "or_id_address": 269
+  },
+  {
+    "or_id": 270,
+    "or_denomination": "EPICERIE SOLIDAIRE DE L'ESPERANCE 30",
+    "or_street": "145 chemin de connangles 30127 BELLEGARDE",
+    "or_postal_code": "30",
+    "id_ope_org": "20241206-0007-55-1",
+    "or_city": "BELLEGARDE",
+    "or_id_address": 270
+  },
+  {
+    "or_id": 271,
+    "or_denomination": "EPICERIE SOLIDAIRE DE L'ESPERANCE 30",
+    "or_street": "145 chemin de connangles 30127 BELLEGARDE",
+    "or_postal_code": "30127",
+    "id_ope_org": "20241205-0008-23-1",
+    "or_city": "BELLEGARDE",
+    "or_id_address": 271
+  },
+  {
+    "or_id": 272,
+    "or_denomination": "EPICERIE SOLIDAIRE de l' esperance 30",
+    "or_street": "145 chemin de connangles 30127 BELLEGARDE",
+    "or_postal_code": "30",
+    "id_ope_org": "20250110-0008-35-1",
+    "or_city": "Bellegarde",
+    "or_id_address": 272
+  },
+  {
+    "or_id": 273,
+    "or_denomination": "EPICERIE SOLIDAIRE de l' esperance 30",
+    "or_street": "145 chemin de connangles 30127 BELLEGARDE",
+    "or_postal_code": "30",
+    "id_ope_org": "20250107-0014-19-1",
+    "or_city": "Bellegarde",
+    "or_id_address": 273
+  },
+  {
+    "or_id": 274,
+    "or_denomination": "ESFAG - \u00c9tudiant.e.s Sages-Femmes des Antilles Guyane",
+    "or_street": "100 ROUTE DE SCHOELCHER, 97233 SCHOELCHER (MARTINIQUE)",
+    "or_postal_code": "972",
+    "id_ope_org": "20250114-0014-26-1",
+    "or_city": "SCHOELCHER",
+    "or_id_address": 274
+  },
+  {
+    "or_id": 275,
+    "or_denomination": "ESPACE SOLIDARITE BEUVRAGES",
+    "or_street": "125 rue Jean Jaur\u00e9s, 59192 BEUVRAGES",
+    "or_postal_code": "59",
+    "id_ope_org": "20250203-0047-4-1",
+    "or_city": "Beuvrages",
+    "or_id_address": 275
+  },
+  {
+    "or_id": 276,
+    "or_denomination": "ETIC 53 ",
+    "or_street": "109 CHEMIN DU HALAGE 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240926-450-287-1",
+    "or_city": ".",
+    "or_id_address": 276
+  },
+  {
+    "or_id": 277,
+    "or_denomination": "ETIC 53 ",
+    "or_street": "109 CHEMIN DU HALAGE 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240214-127-073-1",
+    "or_city": ".",
+    "or_id_address": 277
+  },
+  {
+    "or_id": 278,
+    "or_denomination": "ETIC 53 ",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240723-361-227-4",
+    "or_city": ".",
+    "or_id_address": 278
+  },
+  {
+    "or_id": 279,
+    "or_denomination": "ETIC 53 ",
+    "or_street": "109 CHEMIN DU HALAGE 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240415-202-123-1",
+    "or_city": ".",
+    "or_id_address": 279
+  },
+  {
+    "or_id": 280,
+    "or_denomination": "ETIC 53 ",
+    "or_street": "109 CHEMIN DU HALAGE 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240903-411-258-1",
+    "or_city": ".",
+    "or_id_address": 280
+  },
+  {
+    "or_id": 281,
+    "or_denomination": "ETIC 53 ",
+    "or_street": "109 CHEM. DU HALAGE, 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20241023-0005-42-1",
+    "or_city": ".",
+    "or_id_address": 281
+  },
+  {
+    "or_id": 282,
+    "or_denomination": "ETIC 53 ",
+    "or_street": "109 CHEMIN DU HALAGE 53100 MAYENNE",
+    "or_postal_code": "53",
+    "id_ope_org": "20240916-429-275-1",
+    "or_city": ".",
+    "or_id_address": 282
+  },
+  {
+    "or_id": 283,
+    "or_denomination": "Emmaus Armentieres",
+    "or_street": "Rue de metz, 59280 Armentieres",
+    "or_postal_code": "59",
+    "id_ope_org": "20241216-0011-22-1",
+    "or_city": "Armentieres",
+    "or_id_address": 283
+  },
+  {
+    "or_id": 284,
+    "or_denomination": "Emmaus Narbonne",
+    "or_street": "Cap de Pla Nord - Route de Carcassonne, 11100 Narbonne",
+    "or_postal_code": "11",
+    "id_ope_org": "20250123-0008-41-1",
+    "or_city": "Narbonne",
+    "or_id_address": 284
+  },
+  {
+    "or_id": 285,
+    "or_denomination": "Emmaus Saint Gaudens",
+    "or_street": "60 Avenue de Boulogne 31800 Saint Gaudens",
+    "or_postal_code": "31",
+    "id_ope_org": "20241213-0011-19-1",
+    "or_city": " Saint Gaudens",
+    "or_id_address": 285
+  },
+  {
+    "or_id": 286,
+    "or_denomination": "Emmaus Saint Nazaire",
+    "or_street": "4 RUE GRAHAM BELL 44600 SAINT NAZAIRE",
+    "or_postal_code": "44",
+    "id_ope_org": "20241209-0005-58-1",
+    "or_city": "Saint Nazaire",
+    "or_id_address": 286
+  },
+  {
+    "or_id": 287,
+    "or_denomination": "Emmaus Saint Nazaire",
+    "or_street": "4 RUE GRAHAM BELL 44600 SAINT NAZAIRE",
+    "or_postal_code": "44",
+    "id_ope_org": "20241205-0006-60-1",
+    "or_city": "Saint Nazaire",
+    "or_id_address": 287
+  },
+  {
+    "or_id": 288,
+    "or_denomination": "Emmaus Vesoul",
+    "or_street": "Communaut\u00e9 Emma\u00fcs 70\u000a5 rue Branly, 70000 VESOUL",
+    "or_postal_code": "70",
+    "id_ope_org": "20250122-0020-13-1",
+    "or_city": "Vesoul",
+    "or_id_address": 288
+  },
+  {
+    "or_id": 289,
+    "or_denomination": "Emmaus collecte",
+    "or_street": "15 BOULEVARD LOUIS ARMAND 93330 NEUILLY SUR MARNE ",
+    "or_postal_code": "93",
+    "id_ope_org": "20250205-0011-40-1",
+    "or_city": "NEUILLY SUR MARNE ",
+    "or_id_address": 289
+  },
+  {
+    "or_id": 290,
+    "or_denomination": "FUNDACION BANCO DE ALIMENTOS DE SEVILLA ",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20230928-019-016-2",
+    "or_city": ".",
+    "or_id_address": 290
+  },
+  {
+    "or_id": 291,
+    "or_denomination": "GARAGE SOLIDAIRE DU CANTAL GS15",
+    "or_street": "123 AVENUE DU G\u00c9N\u00c9RAL LECLERC, 15000 AURILLAC",
+    "or_postal_code": "15",
+    "id_ope_org": "20241022-0007-30-1",
+    "or_city": ".",
+    "or_id_address": 291
+  },
+  {
+    "or_id": 292,
+    "or_denomination": "GARAGE SOLIDAIRE DU CANTAL GS15",
+    "or_street": "EN EFFET, CETTE ASSOCIATION D\u00c9TIENT DE L'ESPACE \u00c0 CETTE ADRESSE. POUR JEUDI DE 14H \u00c0 17H",
+    "or_postal_code": "15",
+    "id_ope_org": "20241120-0018-3-1",
+    "or_city": ".",
+    "or_id_address": 292
+  },
+  {
+    "or_id": 293,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241028-0004-84-1",
+    "or_city": ".",
+    "or_id_address": 293
+  },
+  {
+    "or_id": 294,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240117-0004-110-1",
+    "or_city": " LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 294
+  },
+  {
+    "or_id": 295,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241104-0004-85-1",
+    "or_city": ".",
+    "or_id_address": 295
+  },
+  {
+    "or_id": 296,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20250102-0014-14-1",
+    "or_city": "LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 296
+  },
+  {
+    "or_id": 297,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241129-0008-18-1",
+    "or_city": ".",
+    "or_id_address": 297
+  },
+  {
+    "or_id": 298,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241125-0007-51-1",
+    "or_city": ".",
+    "or_id_address": 298
+  },
+  {
+    "or_id": 299,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241217-0011-23-1",
+    "or_city": "LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 299
+  },
+  {
+    "or_id": 300,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20250123-0020-14-1",
+    "or_city": " LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 300
+  },
+  {
+    "or_id": 301,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241121-0007-50-1",
+    "or_city": ".",
+    "or_id_address": 301
+  },
+  {
+    "or_id": 302,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241115-0007-43-1",
+    "or_city": ".",
+    "or_id_address": 302
+  },
+  {
+    "or_id": 303,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20250129-0014-34-1",
+    "or_city": " LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 303
+  },
+  {
+    "or_id": 304,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241205-0008-21-1",
+    "or_city": "LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 304
+  },
+  {
+    "or_id": 305,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20250124-0004-111-1",
+    "or_city": " LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 305
+  },
+  {
+    "or_id": 306,
+    "or_denomination": "HORTI BAT ",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241223-0011-24-1",
+    "or_city": "LE CATEAU CAMBRESIS",
+    "or_id_address": 306
+  },
+  {
+    "or_id": 307,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20250110-0008-36-1",
+    "or_city": "LE CATEAU CAMBR\u00c9SIS",
+    "or_id_address": 307
+  },
+  {
+    "or_id": 308,
+    "or_denomination": "HORTIBAT",
+    "or_street": "LE CATEAU EN CAMBRESIS 82 RUE FAIDHERBE ",
+    "or_postal_code": "59",
+    "id_ope_org": "20240311-153-103-1",
+    "or_city": ".",
+    "or_id_address": 308
+  },
+  {
+    "or_id": 309,
+    "or_denomination": "HORTIBAT",
+    "or_street": "71 rue Charles Gide, 59540 Caudry",
+    "or_postal_code": "59",
+    "id_ope_org": "20250107-0004-108-1",
+    "or_city": "Caudry",
+    "or_id_address": 309
+  },
+  {
+    "or_id": 310,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240911-427-289-1",
+    "or_city": ".",
+    "or_id_address": 310
+  },
+  {
+    "or_id": 311,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240909-423-269-1",
+    "or_city": ".",
+    "or_id_address": 311
+  },
+  {
+    "or_id": 312,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240408-191-117-1",
+    "or_city": ".",
+    "or_id_address": 312
+  },
+  {
+    "or_id": 313,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240920-435-280-1",
+    "or_city": ".",
+    "or_id_address": 313
+  },
+  {
+    "or_id": 314,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240923-444-285-3",
+    "or_city": ".",
+    "or_id_address": 314
+  },
+  {
+    "or_id": 315,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241205-0007-54-1",
+    "or_city": "Cateau Cambr\u00e9sis",
+    "or_id_address": 315
+  },
+  {
+    "or_id": 316,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 rue Faidherbe 59360 Le cateau cambr\u00e9sis",
+    "or_postal_code": "59",
+    "id_ope_org": "20241129-0008-19-2",
+    "or_city": " Le cateau cambr\u00e9sis",
+    "or_id_address": 316
+  },
+  {
+    "or_id": 317,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240312-157-097-4",
+    "or_city": ".",
+    "or_id_address": 317
+  },
+  {
+    "or_id": 318,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240820-403-250-1",
+    "or_city": ".",
+    "or_id_address": 318
+  },
+  {
+    "or_id": 319,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240927-455-0008-3-1",
+    "or_city": "Le cateau cambr\u00e9sis",
+    "or_id_address": 319
+  },
+  {
+    "or_id": 320,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241001-0003-152-1",
+    "or_city": ".",
+    "or_id_address": 320
+  },
+  {
+    "or_id": 321,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241007-0006-35-1",
+    "or_city": ".",
+    "or_id_address": 321
+  },
+  {
+    "or_id": 322,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241105-0009-7-1",
+    "or_city": "Cateau Cambr\u00e9sis",
+    "or_id_address": 322
+  },
+  {
+    "or_id": 323,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241104-0009-6-1",
+    "or_city": "Cateau Cambr\u00e9sis",
+    "or_id_address": 323
+  },
+  {
+    "or_id": 324,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240125-106-102-1",
+    "or_city": ".",
+    "or_id_address": 324
+  },
+  {
+    "or_id": 325,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241204-0004-96-1",
+    "or_city": ".",
+    "or_id_address": 325
+  },
+  {
+    "or_id": 326,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": ".",
+    "id_ope_org": "20240410-193-225-1",
+    "or_city": ".",
+    "or_id_address": 326
+  },
+  {
+    "or_id": 327,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240920-434-293-1",
+    "or_city": ".",
+    "or_id_address": 327
+  },
+  {
+    "or_id": 328,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240212-122-081-3",
+    "or_city": ".",
+    "or_id_address": 328
+  },
+  {
+    "or_id": 329,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240515-255-162-1",
+    "or_city": ".",
+    "or_id_address": 329
+  },
+  {
+    "or_id": 330,
+    "or_denomination": "HORTIBAT",
+    "or_street": "LE CATEAU EN CAMBRESIS ",
+    "or_postal_code": "59",
+    "id_ope_org": "20240305-136-088-1",
+    "or_city": ".",
+    "or_id_address": 330
+  },
+  {
+    "or_id": 331,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240730-376-256-1",
+    "or_city": ".",
+    "or_id_address": 331
+  },
+  {
+    "or_id": 332,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240624-319-211-1",
+    "or_city": ".",
+    "or_id_address": 332
+  },
+  {
+    "or_id": 333,
+    "or_denomination": "HORTIBAT",
+    "or_street": "LE CATEAU CAMBRESIS ",
+    "or_postal_code": "59",
+    "id_ope_org": "20240227-146-084-1",
+    "or_city": ".",
+    "or_id_address": 333
+  },
+  {
+    "or_id": 334,
+    "or_denomination": "HORTIBAT",
+    "or_street": "7 HAMEAU LE JEUNEBOIS 59157 BEAUVOIS EN CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240222-140-080-1",
+    "or_city": ".",
+    "or_id_address": 334
+  },
+  {
+    "or_id": 335,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240726-371-246-1",
+    "or_city": ".",
+    "or_id_address": 335
+  },
+  {
+    "or_id": 336,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240923-441-284-1",
+    "or_city": ".",
+    "or_id_address": 336
+  },
+  {
+    "or_id": 337,
+    "or_denomination": "HORTIBAT",
+    "or_street": ".",
+    "or_postal_code": "59",
+    "id_ope_org": "20240605-281-175-1",
+    "or_city": ".",
+    "or_id_address": 337
+  },
+  {
+    "or_id": 338,
+    "or_denomination": "HORTIBAT",
+    "or_street": "7 HAMEAU LE JEUNEBOIS 59157 BEAUVOIS EN CAMBRESIS ",
+    "or_postal_code": "59",
+    "id_ope_org": "20231221-089-057-1",
+    "or_city": ".",
+    "or_id_address": 338
+  },
+  {
+    "or_id": 339,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240212-129-101-1",
+    "or_city": ".",
+    "or_id_address": 339
+  },
+  {
+    "or_id": 340,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240610-290-217-1",
+    "or_city": ".",
+    "or_id_address": 340
+  },
+  {
+    "or_id": 341,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240610-291-192-1",
+    "or_city": ".",
+    "or_id_address": 341
+  },
+  {
+    "or_id": 342,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240906-420-264-1",
+    "or_city": ".",
+    "or_id_address": 342
+  },
+  {
+    "or_id": 343,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240613-298-181-1",
+    "or_city": ".",
+    "or_id_address": 343
+  },
+  {
+    "or_id": 344,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240617-305-190-1",
+    "or_city": ".",
+    "or_id_address": 344
+  },
+  {
+    "or_id": 345,
+    "or_denomination": "HORTIBAT",
+    "or_street": ".",
+    "or_postal_code": "59",
+    "id_ope_org": "20240209-148-095-2",
+    "or_city": ".",
+    "or_id_address": 345
+  },
+  {
+    "or_id": 346,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240129-108-068-1",
+    "or_city": ".",
+    "or_id_address": 346
+  },
+  {
+    "or_id": 347,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240201-114-078-1",
+    "or_city": ".",
+    "or_id_address": 347
+  },
+  {
+    "or_id": 348,
+    "or_denomination": "HORTIBAT",
+    "or_street": "LE CATEAU CAMBR\u00c9SIS 82 RUE FAIDHERBE",
+    "or_postal_code": "59",
+    "id_ope_org": "20240308-151-099-1",
+    "or_city": ".",
+    "or_id_address": 348
+  },
+  {
+    "or_id": 349,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240502-244-152-1",
+    "or_city": ".",
+    "or_id_address": 349
+  },
+  {
+    "or_id": 350,
+    "or_denomination": "HORTIBAT",
+    "or_street": "83 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240529-275-170-1",
+    "or_city": ".",
+    "or_id_address": 350
+  },
+  {
+    "or_id": 351,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241119-0008-15-1",
+    "or_city": ".",
+    "or_id_address": 351
+  },
+  {
+    "or_id": 352,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240410-195-119-1",
+    "or_city": ".",
+    "or_id_address": 352
+  },
+  {
+    "or_id": 353,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240906-414-262-1",
+    "or_city": ".",
+    "or_id_address": 353
+  },
+  {
+    "or_id": 354,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240905-417-268-1",
+    "or_city": ".",
+    "or_id_address": 354
+  },
+  {
+    "or_id": 355,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE 59360 LE CATEAU CAMBR\u00c9SIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241122-0004-92-1",
+    "or_city": ".",
+    "or_id_address": 355
+  },
+  {
+    "or_id": 356,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240329-186-111-1",
+    "or_city": ".",
+    "or_id_address": 356
+  },
+  {
+    "or_id": 357,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240903-409-257-1",
+    "or_city": ".",
+    "or_id_address": 357
+  },
+  {
+    "or_id": 358,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240923-440-281-1",
+    "or_city": ".",
+    "or_id_address": 358
+  },
+  {
+    "or_id": 359,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240821-405-248-1",
+    "or_city": ".",
+    "or_id_address": 359
+  },
+  {
+    "or_id": 360,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240418-218-137-1",
+    "or_city": ".",
+    "or_id_address": 360
+  },
+  {
+    "or_id": 361,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240319-171-105-1",
+    "or_city": ".",
+    "or_id_address": 361
+  },
+  {
+    "or_id": 362,
+    "or_denomination": "HORTIBAT",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240312-159-094-1",
+    "or_city": ".",
+    "or_id_address": 362
+  },
+  {
+    "or_id": 363,
+    "or_denomination": "HORTIBAT",
+    "or_street": "83 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240422-223-163-1",
+    "or_city": ".",
+    "or_id_address": 363
+  },
+  {
+    "or_id": 364,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": ".",
+    "id_ope_org": "20240715-343-215-2",
+    "or_city": ".",
+    "or_id_address": 364
+  },
+  {
+    "or_id": 365,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 rue Faidherbe 59360 Le cateau cambr\u00e9sis",
+    "or_postal_code": "59",
+    "id_ope_org": "20241018-0003-157-2",
+    "or_city": "Le cateau cambr\u00e9sis",
+    "or_id_address": 365
+  },
+  {
+    "or_id": 366,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240719-356-223-1",
+    "or_city": ".",
+    "or_id_address": 366
+  },
+  {
+    "or_id": 367,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": ".",
+    "id_ope_org": "20240613-300-187-1",
+    "or_city": ".",
+    "or_id_address": 367
+  },
+  {
+    "or_id": 368,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240619-312-186-1",
+    "or_city": ".",
+    "or_id_address": 368
+  },
+  {
+    "or_id": 369,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240620-316-198-1",
+    "or_city": ".",
+    "or_id_address": 369
+  },
+  {
+    "or_id": 370,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240524-270-188-1",
+    "or_city": ".",
+    "or_id_address": 370
+  },
+  {
+    "or_id": 371,
+    "or_denomination": "HORTIBAT ",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240723-361-227-3",
+    "or_city": ".",
+    "or_id_address": 371
+  },
+  {
+    "or_id": 372,
+    "or_denomination": "HORTIBAT ",
+    "or_street": "82 RUE FAIDHERBE LE CATEAU CAMBRESIS",
+    "or_postal_code": "59",
+    "id_ope_org": "20240624-321-196-1",
+    "or_city": ".",
+    "or_id_address": 372
+  },
+  {
+    "or_id": 373,
+    "or_denomination": "HORTIBAT \u000a",
+    "or_street": "2 CAMIONS : \u000a82 RUE FAIDHERBE LE CATEAU CAMBRESIS\u000a\u000a4EME CAMION : NATHTRANS ( ANCIENNEMENT EMMATRANS )\u000a1349 AVENUE PIERRE GRAND\u000a84300 CAVAILLON\u000a\u000a5EME CAMION : \u000a86 AVENUE DE SAINT JEAN 84130 LE PONTET",
+    "or_postal_code": "59",
+    "id_ope_org": "20241023-0007-33-3",
+    "or_city": ".",
+    "or_id_address": 373
+  },
+  {
+    "or_id": 374,
+    "or_denomination": "Hortibat",
+    "or_street": "82 rue Faidherbe 59360 Le cateau cambr\u00e9sis",
+    "or_postal_code": "59",
+    "id_ope_org": "20241216-0020-8-1",
+    "or_city": "Le cateau cambr\u00e9sis",
+    "or_id_address": 374
+  },
+  {
+    "or_id": 375,
+    "or_denomination": "Hortibat",
+    "or_street": "82 rue Faidherbe 59360 Le cateau cambr\u00e9sis",
+    "or_postal_code": "59",
+    "id_ope_org": "20241210-0014-8-1",
+    "or_city": "Le cateau cambr\u00e9sis",
+    "or_id_address": 375
+  },
+  {
+    "or_id": 376,
+    "or_denomination": "Hortibat",
+    "or_street": "82 rue Faidherbe 59360 Le cateau cambr\u00e9sis",
+    "or_postal_code": "59",
+    "id_ope_org": "20241216-0014-9-1",
+    "or_city": "Le cateau cambr\u00e9sis",
+    "or_id_address": 376
+  },
+  {
+    "or_id": 377,
+    "or_denomination": "IRIS ENVIRONNEMENT",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240723-361-227-5",
+    "or_city": ".",
+    "or_id_address": 377
+  },
+  {
+    "or_id": 378,
+    "or_denomination": "IUT DIJON AUXERRE",
+    "or_street": " 7 BOULEVARD DR. PETITJEAN - B.P. 17867 - 21078 DIJON CEDEX",
+    "or_postal_code": "21",
+    "id_ope_org": "20240903-412-260-1",
+    "or_city": ".",
+    "or_id_address": 378
+  },
+  {
+    "or_id": 379,
+    "or_denomination": "KER EN PARTAGE",
+    "or_street": "22 rue g\u00e9n\u00e9ral de Gaulle 97450 Saint Louis, La R\u00e9union",
+    "or_postal_code": "974",
+    "id_ope_org": "20250114-0014-27-1",
+    "or_city": "Saint Louis",
+    "or_id_address": 379
+  },
+  {
+    "or_id": 380,
+    "or_denomination": "L'\u00c9QUIPAGE SOLIDAIRE ",
+    "or_street": "34 RUE PIERRE BROSSOLETTE 93100 MONTREUIL",
+    "or_postal_code": "93",
+    "id_ope_org": "20240821-406-249-1",
+    "or_city": ".",
+    "or_id_address": 380
+  },
+  {
+    "or_id": 381,
+    "or_denomination": "LA CLOCHE ",
+    "or_street": "C\u00c9SURE. 13 RUE SANTEUIL, PARIS 5E",
+    "or_postal_code": "75",
+    "id_ope_org": "20240619-310-185-1",
+    "or_city": ".",
+    "or_id_address": 381
+  },
+  {
+    "or_id": 382,
+    "or_denomination": "LA CROIX ROUGE DE MAZINGARBE",
+    "or_street": "9 RUE RAYMOND DUPUICH, 62670 MAZINGARBE",
+    "or_postal_code": "62",
+    "id_ope_org": "20230515--002-005-1",
+    "or_city": ".",
+    "or_id_address": 382
+  },
+  {
+    "or_id": 383,
+    "or_denomination": "LA CROIX ROUGE DE MAZINGARBE",
+    "or_street": "9 RUE RAYMOND DUPUICH, 62670 MAZINGARBE",
+    "or_postal_code": "62",
+    "id_ope_org": "20231016-028-031-1",
+    "or_city": ".",
+    "or_id_address": 383
+  },
+  {
+    "or_id": 384,
+    "or_denomination": "LA CROIX ROUGE DE MAZINGARBE",
+    "or_street": "9 RUE RAYMOND DUPUICH, 62670 MAZINGARBE",
+    "or_postal_code": "62",
+    "id_ope_org": "20230512-000-007-1",
+    "or_city": ".",
+    "or_id_address": 384
+  },
+  {
+    "or_id": 385,
+    "or_denomination": "LA CROIX ROUGE RENNES",
+    "or_street": "4 RUE DU BREIL 35000 RENNES",
+    "or_postal_code": "35",
+    "id_ope_org": "20240423-225-139-1",
+    "or_city": ".",
+    "or_id_address": 385
+  },
+  {
+    "or_id": 386,
+    "or_denomination": "LA RESSOURCERIE DE LA RADE",
+    "or_street": "16 RUE DANTON 83000 TOULON",
+    "or_postal_code": "83",
+    "id_ope_org": "20231222-090-061-1",
+    "or_city": ".",
+    "or_id_address": 386
+  },
+  {
+    "or_id": 387,
+    "or_denomination": "LA RESSOURCERIE DE LA RADE",
+    "or_street": "28 AV. COMMANDANT JEAN LOSTE",
+    "or_postal_code": "83",
+    "id_ope_org": "20231115-042-026-1",
+    "or_city": ".",
+    "or_id_address": 387
+  },
+  {
+    "or_id": 388,
+    "or_denomination": "LA SAUCE MOTO",
+    "or_street": "10 RUE FORNERO MENE\u00cf, 06300 NICE",
+    "or_postal_code": "6",
+    "id_ope_org": "20240412-200-133-1",
+    "or_city": ".",
+    "or_id_address": 388
+  },
+  {
+    "or_id": 389,
+    "or_denomination": "LE CINGAL RESPIRE",
+    "or_street": "5 route de Fontenay 14680 Bretteville sur Laize",
+    "or_postal_code": "14",
+    "id_ope_org": "20241018-0011-9-1",
+    "or_city": "Bretteville sur Laize",
+    "or_id_address": 389
+  },
+  {
+    "or_id": 390,
+    "or_denomination": "LE CINGAL RESPIRE",
+    "or_street": "5 route de Fontenay 14680 Bretteville sur Laize",
+    "or_postal_code": "14",
+    "id_ope_org": "20241212-0004-101-1",
+    "or_city": "Bretteville sur Laize",
+    "or_id_address": 390
+  },
+  {
+    "or_id": 391,
+    "or_denomination": "LE CINGAL RESPIRE",
+    "or_street": "5 route de Fontenay 14680 Bretteville sur Laize",
+    "or_postal_code": "14",
+    "id_ope_org": "20240906-421-0004-67-1",
+    "or_city": "Bretteville sur Laize",
+    "or_id_address": 391
+  },
+  {
+    "or_id": 392,
+    "or_denomination": "LE CINGAL RESPIRE",
+    "or_street": "5 route de Fontenay 14680 Bretteville sur Laize",
+    "or_postal_code": "14",
+    "id_ope_org": "20241206-0004-98-1",
+    "or_city": "Bretteville sur Laize",
+    "or_id_address": 392
+  },
+  {
+    "or_id": 393,
+    "or_denomination": "LE CINGAL RESPIRE ",
+    "or_street": "69530 BRIGNAIS",
+    "or_postal_code": "14",
+    "id_ope_org": "20241129-0006-58-1",
+    "or_city": ".",
+    "or_id_address": 393
+  },
+  {
+    "or_id": 394,
+    "or_denomination": "LES COMPAGNONS BATISSEURS 37",
+    "or_street": "34 RUE DE LA MORINERIE SAINTPIERRE DES CORPS 37700",
+    "or_postal_code": "37",
+    "id_ope_org": "20240409-192-118-1",
+    "or_city": ".",
+    "or_id_address": 394
+  },
+  {
+    "or_id": 395,
+    "or_denomination": "LES COMPAGNONS BATISSEURS 37",
+    "or_street": "34 RUE DE LA MORINERIE SAINTPIERRE DES CORPS 37700",
+    "or_postal_code": "37",
+    "id_ope_org": "20240412-198-120-1",
+    "or_city": ".",
+    "or_id_address": 395
+  },
+  {
+    "or_id": 396,
+    "or_denomination": "LES COMPAGNONS BATISSEURS 93",
+    "or_street": "34 RUE DE LA MORINERIE SAINTPIERRE DES CORPS 37700",
+    "or_postal_code": "93",
+    "id_ope_org": "20240201-112-067-1",
+    "or_city": ".",
+    "or_id_address": 396
+  },
+  {
+    "or_id": 397,
+    "or_denomination": "LES COMPAGNONS DU DEVOIR",
+    "or_street": "56 AVENUE DE JALL\u00c8RE 33000 BORDEAUX ",
+    "or_postal_code": "33",
+    "id_ope_org": "20240926-451-288-1",
+    "or_city": ".",
+    "or_id_address": 397
+  },
+  {
+    "or_id": 398,
+    "or_denomination": "LES RESTOS DU C\u0152UR 84300 CAVAILLON",
+    "or_street": "NATHTRANS ( ANCIENNEMENT EMMATRANS )\u000a1349 AVENUE PIERRE GRAND\u000a84300 CAVAILLON",
+    "or_postal_code": "84",
+    "id_ope_org": "20241023-0007-33-2",
+    "or_city": ".",
+    "or_id_address": 398
+  },
+  {
+    "or_id": 399,
+    "or_denomination": "LYSMA",
+    "or_street": "4 rue d'Irlande, 44000 Nantes",
+    "or_postal_code": "44",
+    "id_ope_org": "20241230-0014-13-1",
+    "or_city": "Nantes",
+    "or_id_address": 399
+  },
+  {
+    "or_id": 400,
+    "or_denomination": "LYSMA",
+    "or_street": "4 RUE D'IRLANDE 44000 NANTES",
+    "or_postal_code": "44",
+    "id_ope_org": "20241113-0011-12-1",
+    "or_city": ".",
+    "or_id_address": 400
+  },
+  {
+    "or_id": 401,
+    "or_denomination": "LYSMA",
+    "or_street": "4 RUE D\u2019IRLANDE, 44000 NANTES",
+    "or_postal_code": "44",
+    "id_ope_org": "20240730-377-234-1",
+    "or_city": ".",
+    "or_id_address": 401
+  },
+  {
+    "or_id": 402,
+    "or_denomination": "LYSMA ",
+    "or_street": "4 RUE D\u2019IRLANDE, 44000 NANTES",
+    "or_postal_code": "44",
+    "id_ope_org": "20240812-397-243-1",
+    "or_city": ".",
+    "or_id_address": 402
+  },
+  {
+    "or_id": 403,
+    "or_denomination": "LYSMA ",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240717-349-219-1",
+    "or_city": ".",
+    "or_id_address": 403
+  },
+  {
+    "or_id": 404,
+    "or_denomination": "Lot of Africa",
+    "or_street": "chemin de Pech Gaubert, 46160 Larnagol",
+    "or_postal_code": "46",
+    "id_ope_org": "20250117-0011-32-1",
+    "or_city": "Larnagol",
+    "or_id_address": 404
+  },
+  {
+    "or_id": 405,
+    "or_denomination": "Lot of Africa",
+    "or_street": "chemin de Pech Gaubert, 46160 Larnagol",
+    "or_postal_code": "46",
+    "id_ope_org": "20250130-0004-112-1",
+    "or_city": "Larnagol",
+    "or_id_address": 405
+  },
+  {
+    "or_id": 406,
+    "or_denomination": "MA VERTE FOR\u00caT ",
+    "or_street": "40 RUE DE L'ABATOIRE 59192 RAISMES",
+    "or_postal_code": "59",
+    "id_ope_org": "20230629-008-013-3",
+    "or_city": ".",
+    "or_id_address": 406
+  },
+  {
+    "or_id": 407,
+    "or_denomination": "MAISON DU VELO",
+    "or_street": "RUE DE LA CHASSE SAINT ROCH 59300 VALENCIENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20240726-374-232-1",
+    "or_city": ".",
+    "or_id_address": 407
+  },
+  {
+    "or_id": 408,
+    "or_denomination": "MAISON DU VELO",
+    "or_street": "RUE DE LA CHASSE SAINT ROCH 59300 VALENCIENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20240726-373-231-1",
+    "or_city": ".",
+    "or_id_address": 408
+  },
+  {
+    "or_id": 409,
+    "or_denomination": "MOTS ET MERVEILLES (SYNERGIE)",
+    "or_street": "ZAE,LA FLORENTINE,59620,LEVAL",
+    "or_postal_code": "59",
+    "id_ope_org": "20231204-064-038-1",
+    "or_city": ".",
+    "or_id_address": 409
+  },
+  {
+    "or_id": 410,
+    "or_denomination": "PHARE",
+    "or_street": "1 RUE ROSALIE LEVASSEUR, 59300 VALENCIENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20241015-0007-26-1",
+    "or_city": ".",
+    "or_id_address": 410
+  },
+  {
+    "or_id": 411,
+    "or_denomination": "PHARE",
+    "or_street": "Garage social, 1 rue Rosalie Levasseur, 59300 Valenciennes",
+    "or_postal_code": "59",
+    "id_ope_org": "20241218-0007-66-1",
+    "or_city": "Valenciennes",
+    "or_id_address": 411
+  },
+  {
+    "or_id": 412,
+    "or_denomination": "PHARE",
+    "or_street": "Garage social, 1 rue Rosalie Levasseur, 59300 Valenciennes",
+    "or_postal_code": "59",
+    "id_ope_org": "20241211-0007-58-1",
+    "or_city": "Valenciennes",
+    "or_id_address": 412
+  },
+  {
+    "or_id": 413,
+    "or_denomination": "PHARE",
+    "or_street": "1 RUE ROSALIE LEVASSEUR, 59300 VALENCIENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20241028-0003-161-1",
+    "or_city": ".",
+    "or_id_address": 413
+  },
+  {
+    "or_id": 414,
+    "or_denomination": "PHARE",
+    "or_street": "1 RUE ROSALIE LEVASSEUR, 59300 VALENCIENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20241107-0004-86-1",
+    "or_city": ".",
+    "or_id_address": 414
+  },
+  {
+    "or_id": 415,
+    "or_denomination": "PHARE",
+    "or_street": "1 RUE ROSALIE LEVASSEUR, 59300 VALENCIENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20241118-0007-45-1",
+    "or_city": ".",
+    "or_id_address": 415
+  },
+  {
+    "or_id": 416,
+    "or_denomination": "RE-CYCLES POITIERS",
+    "or_street": ".",
+    "or_postal_code": "86",
+    "id_ope_org": "20240403-187-114-1",
+    "or_city": ".",
+    "or_id_address": 416
+  },
+  {
+    "or_id": 417,
+    "or_denomination": "REMABAT",
+    "or_street": "38 route d'Aubusson 23500 Felletin",
+    "or_postal_code": "23",
+    "id_ope_org": "20250109-0020-12-1",
+    "or_city": "Felletin",
+    "or_id_address": 417
+  },
+  {
+    "or_id": 418,
+    "or_denomination": "REMABAT (EI )",
+    "or_street": "38 ROUTE D'AUBUSSON 23 500 FELLETIN M\u00caME ENTR\u00c9E QUE LE GARAGE MAUFUS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240416-207-130-1",
+    "or_city": ".",
+    "or_id_address": 418
+  },
+  {
+    "or_id": 419,
+    "or_denomination": "RESPADD ",
+    "or_street": "HOPITAL PAUL BROUSSE 94800 VILLEJUIF ",
+    "or_postal_code": "94",
+    "id_ope_org": "20240424-231-155-1",
+    "or_city": ".",
+    "or_id_address": 419
+  },
+  {
+    "or_id": 420,
+    "or_denomination": "RESPADD ",
+    "or_street": "HOPITAL PAUL BROUSSE 94800 VILLEJUIF ",
+    "or_postal_code": "94",
+    "id_ope_org": "20240223-143-087-1",
+    "or_city": ".",
+    "or_id_address": 420
+  },
+  {
+    "or_id": 421,
+    "or_denomination": "RESPADD ",
+    "or_street": "HOPITAL PAUL BROUSSE 94800 VILLEJUIF ",
+    "or_postal_code": "94",
+    "id_ope_org": "20240726-372-236-1",
+    "or_city": ".",
+    "or_id_address": 421
+  },
+  {
+    "or_id": 422,
+    "or_denomination": "RESPADD ",
+    "or_street": "HOPITAL PAUL BROUSSE 94800 VILLEJUIF ",
+    "or_postal_code": "94",
+    "id_ope_org": "20240328-185-113-1",
+    "or_city": ".",
+    "or_id_address": 422
+  },
+  {
+    "or_id": 423,
+    "or_denomination": "RESSOURCERIE DU PAYS D ISSOIRE",
+    "or_street": "4 rue des freres perrets issoire 63500",
+    "or_postal_code": "63",
+    "id_ope_org": "20241205-0008-22-2",
+    "or_city": "issoire",
+    "or_id_address": 423
+  },
+  {
+    "or_id": 424,
+    "or_denomination": "RESSOURCERIE DU PAYS D'ISSOIRE",
+    "or_street": "4 RUE DES FRERES PERRETS ISSOIRE 63500",
+    "or_postal_code": "63",
+    "id_ope_org": "20241118-0007-46-1",
+    "or_city": ".",
+    "or_id_address": 424
+  },
+  {
+    "or_id": 425,
+    "or_denomination": "RESSOURCERIE DU PAYS D'ISSOIRE",
+    "or_street": "4 RUE DES FRERES PERRETS ISSOIRE 63500",
+    "or_postal_code": "63",
+    "id_ope_org": "20241202-0005-57-1",
+    "or_city": ".",
+    "or_id_address": 425
+  },
+  {
+    "or_id": 426,
+    "or_denomination": "RESSOURCERIE DU PAYS D'ISSOIRE",
+    "or_street": "4 RUE DES FRERES PERRETS ISSOIRE 63500",
+    "or_postal_code": "63",
+    "id_ope_org": "20241121-0011-15-1",
+    "or_city": ".",
+    "or_id_address": 426
+  },
+  {
+    "or_id": 427,
+    "or_denomination": "RESSOURCERIE DU PAYS D'ISSOIRE",
+    "or_street": "4 RUE DES FRERES PERRETS ISSOIRE 63500",
+    "or_postal_code": "63",
+    "id_ope_org": "20241120-0006-53-1",
+    "or_city": ".",
+    "or_id_address": 427
+  },
+  {
+    "or_id": 428,
+    "or_denomination": "RESTO DU C\u0152UR ROUSIES ",
+    "or_street": "ZI du centre, Rousies  59131",
+    "or_postal_code": "59",
+    "id_ope_org": "20241206-0004-97-1",
+    "or_city": "Rousies",
+    "or_id_address": 428
+  },
+  {
+    "or_id": 429,
+    "or_denomination": "RESTOS DU C\u0152UR DE RAISMES",
+    "or_street": "26 RUE DE LA GARE, 59590 RAISMES",
+    "or_postal_code": "59",
+    "id_ope_org": "20231207-069-056-3",
+    "or_city": ".",
+    "or_id_address": 429
+  },
+  {
+    "or_id": 430,
+    "or_denomination": "RESTOS DU C\u0152UR DE RAISMES",
+    "or_street": "26 RUE DE LA GARE, 59590 RAISMES",
+    "or_postal_code": "59",
+    "id_ope_org": "20230221--006-001-2",
+    "or_city": ".",
+    "or_id_address": 430
+  },
+  {
+    "or_id": 431,
+    "or_denomination": "RESTOS DU C\u0152UR DE RAISMES",
+    "or_street": "26 RUE DE LA GARE, 59590 RAISMES",
+    "or_postal_code": "59",
+    "id_ope_org": "20231120-049-032-1",
+    "or_city": ".",
+    "or_id_address": 431
+  },
+  {
+    "or_id": 432,
+    "or_denomination": "RESTOS DU C\u0152UR LA ROCHE SUR YON",
+    "or_street": "10 RUE DE LA ROCHE SUR YVON,85000",
+    "or_postal_code": "85",
+    "id_ope_org": "20231010-025-020-1",
+    "or_city": ".",
+    "or_id_address": 432
+  },
+  {
+    "or_id": 433,
+    "or_denomination": "REVIVRE",
+    "or_street": "133 AVENUE F ROOSVELT 69150 DECINES",
+    "or_postal_code": "69",
+    "id_ope_org": "20240701-330-207-1",
+    "or_city": ".",
+    "or_id_address": 433
+  },
+  {
+    "or_id": 434,
+    "or_denomination": "REZO 1901 ET LYON UKRAINE",
+    "or_street": "ESPACE A7 ENTREP\u00d4T EIFFAGE, RUE YON LUG 69310\u00a0PIERRE BENITE",
+    "or_postal_code": "69",
+    "id_ope_org": "20241023-0007-31-1",
+    "or_city": ".",
+    "or_id_address": 434
+  },
+  {
+    "or_id": 435,
+    "or_denomination": "ROYAL SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS DONCASTER",
+    "or_street": "SOUTH YORKSHIRE ANIMAL CENTRE BLACK FIRS FARM, GREAT NORTH ROAD,BAWTRY,DONCASTER,DN106DE",
+    "or_postal_code": ".",
+    "id_ope_org": "20230901-013-014-1",
+    "or_city": ".",
+    "or_id_address": 435
+  },
+  {
+    "or_id": 436,
+    "or_denomination": "RSPCA DONCASTER",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240430-241-147-1",
+    "or_city": ".",
+    "or_id_address": 436
+  },
+  {
+    "or_id": 437,
+    "or_denomination": "Restos du c\u0153ur",
+    "or_street": "STEF WATTRELOS\u000a6 rue du peignage Am\u00e9d\u00e9e Prouvost\u000a59 150 WATTRELOS",
+    "or_postal_code": "59",
+    "id_ope_org": "20241129-0008-19-1",
+    "or_city": "WATTRELOS",
+    "or_id_address": 437
+  },
+  {
+    "or_id": 438,
+    "or_denomination": "Rezo 1901 et Lyon Ukraine",
+    "or_street": "Entrepot Eiffage, Espace A7, rue Yon Lug, 69310 Pierre B\u00e9nite",
+    "or_postal_code": "69",
+    "id_ope_org": "20241211-0005-59-1",
+    "or_city": "Lyon",
+    "or_id_address": 438
+  },
+  {
+    "or_id": 439,
+    "or_denomination": "SALAM",
+    "or_street": "300 FRAN\u00c7OIS MITERRAND, 59279,LOON-PLAGE",
+    "or_postal_code": "59",
+    "id_ope_org": "20230527-001-008-1",
+    "or_city": ".",
+    "or_id_address": 439
+  },
+  {
+    "or_id": 440,
+    "or_denomination": "SECOURS POPULAIRE FRAN\u00c7AIS",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240731-385-1",
+    "or_city": ".",
+    "or_id_address": 440
+  },
+  {
+    "or_id": 441,
+    "or_denomination": "SECOURS POPULAIRE FRAN\u00c7AIS MAYENNE",
+    "or_street": "11 RUE ACHILLE BIENVENU,53000,LAVAL",
+    "or_postal_code": "53",
+    "id_ope_org": "20230921-017-017-2",
+    "or_city": ".",
+    "or_id_address": 441
+  },
+  {
+    "or_id": 442,
+    "or_denomination": "SECOURS POPULAIRE FRAN\u00c7AIS- COMIT\u00c9 DE SAINT-NAZAIRE",
+    "or_street": "EN FACE DU N\u00b024, RUE DU PLESSIS, 44600 SAINT-NAZAIRE",
+    "or_postal_code": "44",
+    "id_ope_org": "20231207-071-041-1",
+    "or_city": ".",
+    "or_id_address": 442
+  },
+  {
+    "or_id": 443,
+    "or_denomination": "SECOURS POPULAIRE LEZENNES 59 ",
+    "or_street": "12 RUE PAUL LANGEVIN ZI DU HELLU, 59260 LEZENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20230510--003-004-3",
+    "or_city": ".",
+    "or_id_address": 443
+  },
+  {
+    "or_id": 444,
+    "or_denomination": "SECOURS POPULAIRE LEZENNES 59 ",
+    "or_street": "10 RUE PAUL LANGEVIN ZI DU HELLU 59260 LEZENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20240426-236-143-1",
+    "or_city": ".",
+    "or_id_address": 444
+  },
+  {
+    "or_id": 445,
+    "or_denomination": "SECOURS POPULAIRE LEZENNES 59 ",
+    "or_street": "12 RUE PAUL LANGEVIN ZI DU HELLU, 59260 LEZENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20240429-238-145-1",
+    "or_city": ".",
+    "or_id_address": 445
+  },
+  {
+    "or_id": 446,
+    "or_denomination": "SECOURS POPULAIRE LEZENNES 59 ",
+    "or_street": "12 RUE PAUL LANGEVIN ZI DU HELLU, 59260 LEZENNES",
+    "or_postal_code": "59",
+    "id_ope_org": "20230221--006-001-1",
+    "or_city": ".",
+    "or_id_address": 446
+  },
+  {
+    "or_id": 447,
+    "or_denomination": "SECOURS POPULAIRE LEZENNES 59 ",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240716-347-218-1",
+    "or_city": ".",
+    "or_id_address": 447
+  },
+  {
+    "or_id": 448,
+    "or_denomination": "SECOURS POPULAIRE LEZENNES 59 ",
+    "or_street": ".",
+    "or_postal_code": ".",
+    "id_ope_org": "20240723-361-227-1",
+    "or_city": ".",
+    "or_id_address": 448
+  },
+  {
+    "or_id": 449,
+    "or_denomination": "SECOURS POPULAIRE NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240719-355-266-1",
+    "or_city": ".",
+    "or_id_address": 449
+  },
+  {
+    "or_id": 450,
+    "or_denomination": "SECOURS POPULAIRE NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240903-413-267-1",
+    "or_city": ".",
+    "or_id_address": 450
+  },
+  {
+    "or_id": 451,
+    "or_denomination": "SECOURS POPULAIRE NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20241125-0003-163-1",
+    "or_city": ".",
+    "or_id_address": 451
+  },
+  {
+    "or_id": 452,
+    "or_denomination": "SECOURS POPULAIRE NOEUX LES MINES ",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20241112-0004-88-1",
+    "or_city": ".",
+    "or_id_address": 452
+  },
+  {
+    "or_id": 453,
+    "or_denomination": "SECOURS POPULAIRE NOEUX-LES-MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240418-219-169-1",
+    "or_city": ".",
+    "or_id_address": 453
+  },
+  {
+    "or_id": 454,
+    "or_denomination": "SECOURS POPULAIRE NOEUX-LES-MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240209-148-095-1",
+    "or_city": ".",
+    "or_id_address": 454
+  },
+  {
+    "or_id": 455,
+    "or_denomination": "SECOURS POPULAIRE NOEUX-LES-MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20231211-077-048-1",
+    "or_city": ".",
+    "or_id_address": 455
+  },
+  {
+    "or_id": 456,
+    "or_denomination": "SOCI\u00c9T\u00c9 DE D\u00c9FENSE DES ANIMAUX ",
+    "or_street": "11 ROUTE NATIONALE 43,59400,ESTOURMEL",
+    "or_postal_code": "59",
+    "id_ope_org": "20231017-031-023-1",
+    "or_city": ".",
+    "or_id_address": 456
+  },
+  {
+    "or_id": 457,
+    "or_denomination": "SOCI\u00c9T\u00c9 DE D\u00c9FENSE DES ANIMAUX ",
+    "or_street": "11 ROUTE NATIONALE 43,59400,ESTOURMEL",
+    "or_postal_code": "59",
+    "id_ope_org": "20231017-030-022-1",
+    "or_city": ".",
+    "or_id_address": 457
+  },
+  {
+    "or_id": 458,
+    "or_denomination": "SOCI\u00c9T\u00c9 DE D\u00c9FENSE DES ANIMAUX ",
+    "or_street": "11 ROUTE NATIONALE 43,59400,ESTOURMEL",
+    "or_postal_code": "59",
+    "id_ope_org": "20231017-029-021-1",
+    "or_city": ".",
+    "or_id_address": 458
+  },
+  {
+    "or_id": 459,
+    "or_denomination": "SOLI BAT 40",
+    "or_street": "3635 ROUTE DE NORTHON\u000a40 390 ST MARTIN DE SEIGNANX",
+    "or_postal_code": "64",
+    "id_ope_org": "20241120-0005-52-2",
+    "or_city": ".",
+    "or_id_address": 459
+  },
+  {
+    "or_id": 460,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE ROCHER - 23000 SAINT SULPICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240430-239-149-1",
+    "or_city": ".",
+    "or_id_address": 460
+  },
+  {
+    "or_id": 461,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240812-396-242-1",
+    "or_city": ".",
+    "or_id_address": 461
+  },
+  {
+    "or_id": 462,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER 23000 SAINT SULPICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20241118-0006-49-1",
+    "or_city": ".",
+    "or_id_address": 462
+  },
+  {
+    "or_id": 463,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240611-292-216-1",
+    "or_city": ".",
+    "or_id_address": 463
+  },
+  {
+    "or_id": 464,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "Zone le Clocher 23000 Saint Sulpice le Gueretois",
+    "or_postal_code": "23",
+    "id_ope_org": "20241217-0011-23-3",
+    "or_city": "Saint Sulpice le Gueretois",
+    "or_id_address": 464
+  },
+  {
+    "or_id": 465,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240628-329-210-1",
+    "or_city": ".",
+    "or_id_address": 465
+  },
+  {
+    "or_id": 466,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240516-257-160-1",
+    "or_city": ".",
+    "or_id_address": 466
+  },
+  {
+    "or_id": 467,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240607-288-177-1",
+    "or_city": ".",
+    "or_id_address": 467
+  },
+  {
+    "or_id": 468,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240531-276-171-1",
+    "or_city": ".",
+    "or_id_address": 468
+  },
+  {
+    "or_id": 469,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240812-398-244-1",
+    "or_city": ".",
+    "or_id_address": 469
+  },
+  {
+    "or_id": 470,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER 23000 SAINT SULPICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20241028-0005-43-1",
+    "or_city": ".",
+    "or_id_address": 470
+  },
+  {
+    "or_id": 471,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "Zone le Clocher 23000 Saint Sulpice le Gueretois",
+    "or_postal_code": "23",
+    "id_ope_org": "20241213-0005-60-1",
+    "or_city": "Saint Sulpice le Gueretois",
+    "or_id_address": 471
+  },
+  {
+    "or_id": 472,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20240905-418-263-1",
+    "or_city": ".",
+    "or_id_address": 472
+  },
+  {
+    "or_id": 473,
+    "or_denomination": "SOLIDARIT\u00c9 ENTRAIDE 23",
+    "or_street": "ZONE LE CLOCHER - 23000 SAINT SUPLICE LE GUERETOIS",
+    "or_postal_code": "23",
+    "id_ope_org": "20230927-142-199-1",
+    "or_city": ".",
+    "or_id_address": 473
+  },
+  {
+    "or_id": 474,
+    "or_denomination": "SPA DE STRASBOURG",
+    "or_street": "7 RUE DE L\u2019ENTENLOCH, 67200 STRASBOURG",
+    "or_postal_code": "67",
+    "id_ope_org": "20241107-0007-38-1",
+    "or_city": ".",
+    "or_id_address": 474
+  },
+  {
+    "or_id": 475,
+    "or_denomination": "SPF  AUCH ",
+    "or_street": "\u00a03 RUE DES VIGNES 31780 CASTELGINEST",
+    "or_postal_code": "31",
+    "id_ope_org": "20240731-382-254-1",
+    "or_city": ".",
+    "or_id_address": 475
+  },
+  {
+    "or_id": 476,
+    "or_denomination": "SPF 31",
+    "or_street": "3 RUE DES VIGNES 31780 CASTELGINEST",
+    "or_postal_code": "31",
+    "id_ope_org": "20240923-444-285-1",
+    "or_city": ".",
+    "or_id_address": 476
+  },
+  {
+    "or_id": 477,
+    "or_denomination": "SPF Ajaccio",
+    "or_street": "R\u00e9sidence les amandiers 2 - Rue Col Biancamaria\u000a- 20090 Ajaccio",
+    "or_postal_code": "20",
+    "id_ope_org": "20250108-0011-30-1",
+    "or_city": "Ajaccio",
+    "or_id_address": 477
+  },
+  {
+    "or_id": 478,
+    "or_denomination": "SPF BASTIA",
+    "or_street": "HANGAR N\u00b08 ET 10 - RN 193 - STRADA VECCHIA - 20290 BORGO",
+    "or_postal_code": ".",
+    "id_ope_org": "20241025-0009-4-1",
+    "or_city": ".",
+    "or_id_address": 478
+  },
+  {
+    "or_id": 479,
+    "or_denomination": "SPF BASTIA",
+    "or_street": "HANGAR N\u00b08 ET 10 - RN 193 - STRADA VECCHIA - 20290 BORGO",
+    "or_postal_code": ".",
+    "id_ope_org": "20241024-0004-83-1",
+    "or_city": ".",
+    "or_id_address": 479
+  },
+  {
+    "or_id": 480,
+    "or_denomination": "SPF NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240923-442-283-1",
+    "or_city": ".",
+    "or_id_address": 480
+  },
+  {
+    "or_id": 481,
+    "or_denomination": "SPF NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240827-407-259-1",
+    "or_city": ".",
+    "or_id_address": 481
+  },
+  {
+    "or_id": 482,
+    "or_denomination": "SPF NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20241015-0005-41-1",
+    "or_city": ".",
+    "or_id_address": 482
+  },
+  {
+    "or_id": 483,
+    "or_denomination": "SPF NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20241018-0003-157-1",
+    "or_city": ".",
+    "or_id_address": 483
+  },
+  {
+    "or_id": 484,
+    "or_denomination": "SPF NOEUX LES MINES",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20240909-422-279-1",
+    "or_city": ".",
+    "or_id_address": 484
+  },
+  {
+    "or_id": 485,
+    "or_denomination": "SPF NOEUX LES MINES ",
+    "or_street": "1 RUE LAVOISIER,62113 NOEUX-LES-MINES",
+    "or_postal_code": "62",
+    "id_ope_org": "20241129-0004-95-1",
+    "or_city": ".",
+    "or_id_address": 485
+  },
+  {
+    "or_id": 486,
+    "or_denomination": "SPF NOEUX-LES-MINES",
+    "or_street": "OUI",
+    "or_postal_code": "62",
+    "id_ope_org": "20241115-0011-13-1",
+    "or_city": ".",
+    "or_id_address": 486
+  },
+  {
+    "or_id": 487,
+    "or_denomination": "SPF Noeux les mines ",
+    "or_street": "1 rue Lavoisier,62113 Noeux-les-Mines",
+    "or_postal_code": "62",
+    "id_ope_org": "20250127-0011-37-1",
+    "or_city": " Noeux-les-Mines",
+    "or_id_address": 487
+  },
+  {
+    "or_id": 488,
+    "or_denomination": "SYNAPSE3I",
+    "or_street": "SYNAPSE3I\u000a1\/3 rue Cr\u00eate\u000a80800 CORBIE",
+    "or_postal_code": "80",
+    "id_ope_org": "20241210-0008-24-1",
+    "or_city": "Corbie",
+    "or_id_address": 488
+  },
+  {
+    "or_id": 489,
+    "or_denomination": "Soli'B\u00e2t",
+    "or_street": "23 Rue de Sapaille\u000a\u2002\u2002\u2002\u2002\u2002\u2002",
+    "or_postal_code": "\u2002\u2002\u2002\u2002\u200237100",
+    "id_ope_org": "20250116-0023-2-1",
+    "or_city": "Tours",
+    "or_id_address": 489
+  },
+  {
+    "or_id": 490,
+    "or_denomination": "TI RECUP",
+    "or_street": "14 RUE MARCEL SANGUI 22110 ROSTRENEN",
+    "or_postal_code": "22",
+    "id_ope_org": "20240719-354-224-1",
+    "or_city": ".",
+    "or_id_address": 490
+  },
+  {
+    "or_id": 491,
+    "or_denomination": "TI RECUP",
+    "or_street": "14 RUE MARCEL SANGUI 22110 ROSTRENEN",
+    "or_postal_code": "22",
+    "id_ope_org": "20241028-0006-45-1",
+    "or_city": ".",
+    "or_id_address": 491
+  },
+  {
+    "or_id": 492,
+    "or_denomination": "TI RECUP RESSOURCERIE",
+    "or_street": "14 RUE MARCEL SANGUI 22110 ROSTRENEN",
+    "or_postal_code": "22",
+    "id_ope_org": "20241118-0008-13-1",
+    "or_city": ".",
+    "or_id_address": 492
+  },
+  {
+    "or_id": 493,
+    "or_denomination": "TRIRA",
+    "or_street": "144 IMPASSE LAVERLOCH\u00c8RE\u000aZI DE L'ABBAYE\u000a38780 PONT-EV\u00caQUE",
+    "or_postal_code": "38",
+    "id_ope_org": "20240807-393-239-1",
+    "or_city": ".",
+    "or_id_address": 493
+  },
+  {
+    "or_id": 494,
+    "or_denomination": "TRIRA ",
+    "or_street": "144 IMPASSE LAVERLOCH\u00c8RE\u000aZI DE L'ABBAYE\u000a38780 PONT-EV\u00caQUE",
+    "or_postal_code": "38",
+    "id_ope_org": "20240802-388-252-1",
+    "or_city": ".",
+    "or_id_address": 494
+  },
+  {
+    "or_id": 495,
+    "or_denomination": "UNASS VAUCLUSE 57 ET 68",
+    "or_street": "2 ADRESSES DE LIVRAISON \u000aAUTRES PALETTES SANS MOYENS DE TRANSBORDEMENT \u000aCONTACT M FAVIER PATRICK +33 6 21 84 20 59\u000a1, FERME DE FRESNOIS 57530 BAZONCOURT\u000aGPS : LONG. 06\u201923'59.90E LAT. 49\u201904'12.02N\u000a \u000aCONTACT \u000aM PANOU MARTIN +33676404565\u000aINTER-LOGISTIQUE \u000a47, RUE PRINCIPALE \u000a68210 HECKEN ",
+    "or_postal_code": "38",
+    "id_ope_org": "20240614-303-271-1",
+    "or_city": ".",
+    "or_id_address": 495
+  },
+  {
+    "or_id": 496,
+    "or_denomination": "VALORIS",
+    "or_street": "12 RUE FREDERICO GARCIA LORCA ZI DE L'HIPPODROME 32000 AUCH",
+    "or_postal_code": "32",
+    "id_ope_org": "20240809-395-241-1",
+    "or_city": ".",
+    "or_id_address": 496
+  },
+  {
+    "or_id": 497,
+    "or_denomination": "VALORIS",
+    "or_street": "14 rue roger salengro 32000 AUCH",
+    "or_postal_code": "32",
+    "id_ope_org": "20241209-0020-3-1",
+    "or_city": "AUCH",
+    "or_id_address": 497
+  },
+  {
+    "or_id": 498,
+    "or_denomination": "le cingal respire ",
+    "or_street": "5 route de Fontenay 14680 Bretteville sur Laize",
+    "or_postal_code": "14",
+    "id_ope_org": "20250109-0011-31-1",
+    "or_city": "Bretteville sur Laize",
+    "or_id_address": 498
+  },
+  {
+    "or_id": 499,
+    "or_denomination": "synAPSE3I",
+    "or_street": "SYNAPSE3I\u000a1\/3 rue Cr\u00eate\u000a80800 CORBIE",
+    "or_postal_code": "80",
+    "id_ope_org": "20250109-0011-31-2",
+    "or_city": "Corbie",
+    "or_id_address": 499
+  }
+]
