@@ -821,7 +821,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 261,
+    "fk_co": 260,
     "fk_or": null,
     "stock_import": [
       "20241205-0008-23-1",
@@ -868,7 +868,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 263,
+    "fk_co": 262,
     "fk_or": null,
     "stock_import": [
       "20230929-020-019-1"
@@ -1213,7 +1213,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 280,
+    "fk_co": 279,
     "fk_or": null,
     "stock_import": [
       "20231026-035-024-1",
@@ -1258,7 +1258,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 262,
+    "fk_co": 261,
     "fk_or": null,
     "stock_import": [
       "20231108-037-025-1",
@@ -1284,7 +1284,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 291,
+    "fk_co": 290,
     "fk_or": null,
     "stock_import": [
       "20231110-040-030-1",
@@ -1318,29 +1318,6 @@
   {
     "la_id": 56,
     "la_house_number": "",
-    "la_street": "-",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 252,
-    "fk_or": null,
-    "stock_import": [
-      "20240624-320-193-1",
-      "20240916-429-275-1"
-    ]
-  },
-  {
-    "la_id": 57,
-    "la_house_number": "",
     "la_street": "FAYENCE",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -1358,6 +1335,28 @@
     "fk_or": null,
     "stock_import": [
       "20231115-042-026-1"
+    ]
+  },
+  {
+    "la_id": 57,
+    "la_house_number": "",
+    "la_street": "BOUILLARGES 30230",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 144,
+    "fk_or": null,
+    "stock_import": [
+      "20231120-047-029-1"
     ]
   },
   {
@@ -1384,50 +1383,6 @@
   },
   {
     "la_id": 59,
-    "la_house_number": "",
-    "la_street": "BOUILLARGES 30230",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 144,
-    "fk_or": null,
-    "stock_import": [
-      "20231120-047-029-1"
-    ]
-  },
-  {
-    "la_id": 60,
-    "la_house_number": "",
-    "la_street": "0",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 66,
-    "fk_or": null,
-    "stock_import": [
-      "20240305-123-112-1"
-    ]
-  },
-  {
-    "la_id": 61,
     "la_house_number": "",
     "la_street": "5 BD LOUIS LOUCHEUR,92210 ST CLOUD",
     "la_additional_address": "",
@@ -1459,6 +1414,51 @@
     ]
   },
   {
+    "la_id": 60,
+    "la_house_number": "",
+    "la_street": "0",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 66,
+    "fk_or": null,
+    "stock_import": [
+      "20240305-123-112-1"
+    ]
+  },
+  {
+    "la_id": 61,
+    "la_house_number": "",
+    "la_street": "-",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 252,
+    "fk_or": null,
+    "stock_import": [
+      "20240624-320-193-1",
+      "20240916-429-275-1"
+    ]
+  },
+  {
     "la_id": 62,
     "la_house_number": "",
     "la_street": "0",
@@ -1483,28 +1483,6 @@
   {
     "la_id": 63,
     "la_house_number": "",
-    "la_street": "LIEU-DIT PADULELLA RT10 ",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 68,
-    "fk_or": null,
-    "stock_import": [
-      "20250108-0011-30-1"
-    ]
-  },
-  {
-    "la_id": 64,
-    "la_house_number": "",
     "la_street": "123 PARC D'ACTIVITE L'ARGILE 06370 MOUANS-SARTOUX",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -1526,9 +1504,9 @@
     ]
   },
   {
-    "la_id": 65,
+    "la_id": 64,
     "la_house_number": "",
-    "la_street": "ADRESSE IDENTIQUE \u00c0 SIEGE SOCIAL",
+    "la_street": "LIEU-DIT PADULELLA RT10 ",
     "la_additional_address": "",
     "la_postal_code": "",
     "la_city": null,
@@ -1541,14 +1519,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 70,
+    "fk_co": 68,
     "fk_or": null,
     "stock_import": [
-      "20240201-114-078-1"
+      "20250108-0011-30-1"
     ]
   },
   {
-    "la_id": 66,
+    "la_id": 65,
     "la_house_number": "",
     "la_street": "ZAC GRAND CAMP 46090 MERCU\u00c8S",
     "la_additional_address": "",
@@ -1567,6 +1545,28 @@
     "fk_or": null,
     "stock_import": [
       "20231124-052-035-1"
+    ]
+  },
+  {
+    "la_id": 66,
+    "la_house_number": "",
+    "la_street": "ADRESSE IDENTIQUE \u00c0 SIEGE SOCIAL",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 70,
+    "fk_or": null,
+    "stock_import": [
+      "20240201-114-078-1"
     ]
   },
   {
@@ -1640,30 +1640,6 @@
   {
     "la_id": 70,
     "la_house_number": "",
-    "la_street": "0",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 203,
-    "fk_or": null,
-    "stock_import": [
-      "20240607-286-179-1",
-      "20240619-310-185-1",
-      "20240418-216-131-1"
-    ]
-  },
-  {
-    "la_id": 71,
-    "la_house_number": "",
     "la_street": "696 BD DU PETIT QUINQUIN, 59273 FRETIN",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -1688,7 +1664,7 @@
     ]
   },
   {
-    "la_id": 72,
+    "la_id": 71,
     "la_house_number": "",
     "la_street": "200 RTE BENO\u00ceT FRANCHON, 60740 SAINT MAXIMIN",
     "la_additional_address": "",
@@ -1707,6 +1683,28 @@
     "fk_or": null,
     "stock_import": [
       "20231201-063-033-1"
+    ]
+  },
+  {
+    "la_id": 72,
+    "la_house_number": "",
+    "la_street": "13 RUE DU REMOULEUR, 44800 SAINT HERBLAIN",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 158,
+    "fk_or": null,
+    "stock_import": [
+      "20231204-064-038-1"
     ]
   },
   {
@@ -1735,7 +1733,7 @@
   {
     "la_id": 74,
     "la_house_number": "",
-    "la_street": "13 RUE DU REMOULEUR, 44800 SAINT HERBLAIN",
+    "la_street": "0",
     "la_additional_address": "",
     "la_postal_code": "",
     "la_city": null,
@@ -1748,10 +1746,12 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 158,
+    "fk_co": 203,
     "fk_or": null,
     "stock_import": [
-      "20231204-064-038-1"
+      "20240607-286-179-1",
+      "20240619-310-185-1",
+      "20240418-216-131-1"
     ]
   },
   {
@@ -1814,7 +1814,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 269,
+    "fk_co": 268,
     "fk_or": null,
     "stock_import": [
       "20231208-073-044-1",
@@ -1824,28 +1824,6 @@
   },
   {
     "la_id": 78,
-    "la_house_number": "",
-    "la_street": "RUE DU PONT DU JOUR ",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 253,
-    "fk_or": null,
-    "stock_import": [
-      "20241113-0011-12-1"
-    ]
-  },
-  {
-    "la_id": 79,
     "la_house_number": "",
     "la_street": "77 400 LAGNY SUR MARNE",
     "la_additional_address": "",
@@ -1868,7 +1846,7 @@
     ]
   },
   {
-    "la_id": 80,
+    "la_id": 79,
     "la_house_number": "",
     "la_street": "PARC DU GRAND TROYES,3 RUE KONRAD ADENAUER, 10300 STE SAVINE",
     "la_additional_address": "",
@@ -1890,9 +1868,9 @@
     ]
   },
   {
-    "la_id": 81,
+    "la_id": 80,
     "la_house_number": "",
-    "la_street": "90 RUE DU RUISSEAU, 38070 SAINT-QUENTIN-FALLAVIER",
+    "la_street": "RUE DU PONT DU JOUR ",
     "la_additional_address": "",
     "la_postal_code": "",
     "la_city": null,
@@ -1905,14 +1883,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 254,
+    "fk_co": 253,
     "fk_or": null,
     "stock_import": [
-      "20231212-081-049-1"
+      "20241113-0011-12-1"
     ]
   },
   {
-    "la_id": 82,
+    "la_id": 81,
     "la_house_number": "",
     "la_street": "12 B RUE JOSEPH CUGNOT,37300,JOU\u00c9 LES TOURS",
     "la_additional_address": "",
@@ -1936,7 +1914,7 @@
     ]
   },
   {
-    "la_id": 83,
+    "la_id": 82,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -1955,6 +1933,28 @@
     "fk_or": null,
     "stock_import": [
       "20240325-178-104-1"
+    ]
+  },
+  {
+    "la_id": 83,
+    "la_house_number": "",
+    "la_street": "90 RUE DU RUISSEAU, 38070 SAINT-QUENTIN-FALLAVIER",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 254,
+    "fk_or": null,
+    "stock_import": [
+      "20231212-081-049-1"
     ]
   },
   {
@@ -2004,30 +2004,6 @@
   {
     "la_id": 86,
     "la_house_number": "",
-    "la_street": "18 RUE DU LANGELIN",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 227,
-    "fk_or": null,
-    "stock_import": [
-      "20240719-354-224-1",
-      "20240923-440-281-1",
-      "20241205-0006-60-1"
-    ]
-  },
-  {
-    "la_id": 87,
-    "la_house_number": "",
     "la_street": "2 COUR DE LA GARE, 59144 GOMMEGNIES",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -2049,7 +2025,7 @@
     ]
   },
   {
-    "la_id": 88,
+    "la_id": 87,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -2071,6 +2047,30 @@
       "20240719-356-223-1",
       "20240909-423-269-1",
       "20241028-0006-45-1"
+    ]
+  },
+  {
+    "la_id": 88,
+    "la_house_number": "",
+    "la_street": "18 RUE DU LANGELIN",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 227,
+    "fk_or": null,
+    "stock_import": [
+      "20240719-354-224-1",
+      "20240923-440-281-1",
+      "20241205-0006-60-1"
     ]
   },
   {
@@ -2179,7 +2179,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 277,
+    "fk_co": 276,
     "fk_or": null,
     "stock_import": [
       "20231219-087-054-1",
@@ -2248,7 +2248,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 275,
+    "fk_co": 274,
     "fk_or": null,
     "stock_import": [
       "20231229-091-059-1"
@@ -2326,28 +2326,6 @@
   {
     "la_id": 100,
     "la_house_number": "",
-    "la_street": "0",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 191,
-    "fk_or": null,
-    "stock_import": [
-      "20240531-276-171-1"
-    ]
-  },
-  {
-    "la_id": 101,
-    "la_house_number": "",
     "la_street": "ZA LA ROQUE FORCADE, 13720 BELCOD\u00c8NE",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -2368,7 +2346,7 @@
     ]
   },
   {
-    "la_id": 102,
+    "la_id": 101,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -2390,7 +2368,7 @@
     ]
   },
   {
-    "la_id": 103,
+    "la_id": 102,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -2405,14 +2383,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 204,
+    "fk_co": 191,
     "fk_or": null,
     "stock_import": [
-      "20240612-294-272-1"
+      "20240531-276-171-1"
     ]
   },
   {
-    "la_id": 104,
+    "la_id": 103,
     "la_house_number": "",
     "la_street": "",
     "la_additional_address": "",
@@ -2434,7 +2412,7 @@
     ]
   },
   {
-    "la_id": 105,
+    "la_id": 104,
     "la_house_number": "",
     "la_street": "4, ALL\u00c9E REN\u00c9 MONNERET \u2013 ZA  DU MONAY - 71210 SAINT EUS\u00c8BE, FRANCE",
     "la_additional_address": "",
@@ -2453,6 +2431,28 @@
     "fk_or": null,
     "stock_import": [
       "20240422-223-163-1"
+    ]
+  },
+  {
+    "la_id": 105,
+    "la_house_number": "",
+    "la_street": "0",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 204,
+    "fk_or": null,
+    "stock_import": [
+      "20240612-294-272-1"
     ]
   },
   {
@@ -2519,10 +2519,12 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 118,
+    "fk_co": 199,
     "fk_or": null,
     "stock_import": [
-      "20240502-245-161-1"
+      "20240129-144-146-1",
+      "20240619-312-186-1",
+      "20240624-321-196-1"
     ]
   },
   {
@@ -2541,12 +2543,10 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 199,
+    "fk_co": 118,
     "fk_or": null,
     "stock_import": [
-      "20240129-144-146-1",
-      "20240619-312-186-1",
-      "20240624-321-196-1"
+      "20240502-245-161-1"
     ]
   },
   {
@@ -2587,7 +2587,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 268,
+    "fk_co": 267,
     "fk_or": null,
     "stock_import": [
       "20240131-145-108-1"
@@ -2618,29 +2618,6 @@
   {
     "la_id": 113,
     "la_house_number": "",
-    "la_street": "0",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 124,
-    "fk_or": null,
-    "stock_import": [
-      "20240722-358-226-1",
-      "20250122-0020-13-1"
-    ]
-  },
-  {
-    "la_id": 114,
-    "la_house_number": "",
     "la_street": "6 BD DE JOFFRERY, BP 213, 31601 MURET CEDEX",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -2666,9 +2643,9 @@
     ]
   },
   {
-    "la_id": 115,
+    "la_id": 114,
     "la_house_number": "",
-    "la_street": "6 BD DE JOFFRERY, BP 213, 31601 MURET CEDEX",
+    "la_street": "0",
     "la_additional_address": "",
     "la_postal_code": "",
     "la_city": null,
@@ -2681,15 +2658,38 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 258,
+    "fk_co": 124,
     "fk_or": null,
     "stock_import": [
-      "20240206-115-072-1",
-      "20240312-156-091-1",
-      "20240603-278-173-1",
-      "20240717-349-219-1",
-      "20241118-0007-46-1",
-      "20250211-0008-59-1"
+      "20240722-358-226-1",
+      "20250122-0020-13-1"
+    ]
+  },
+  {
+    "la_id": 115,
+    "la_house_number": "",
+    "la_street": "110 RUE DU COMPANET, 69140 RILLIEUX-LA-PAPE",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 169,
+    "fk_or": null,
+    "stock_import": [
+      "20240206-116-069-1",
+      "20240216-130-074-1",
+      "20240221-137-077-1",
+      "20240408-191-117-1",
+      "20240607-288-177-1",
+      "20250130-0004-112-1"
     ]
   },
   {
@@ -2718,33 +2718,6 @@
   {
     "la_id": 117,
     "la_house_number": "",
-    "la_street": "110 RUE DU COMPANET, 69140 RILLIEUX-LA-PAPE",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 169,
-    "fk_or": null,
-    "stock_import": [
-      "20240206-116-069-1",
-      "20240216-130-074-1",
-      "20240221-137-077-1",
-      "20240408-191-117-1",
-      "20240607-288-177-1",
-      "20250130-0004-112-1"
-    ]
-  },
-  {
-    "la_id": 118,
-    "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -2766,6 +2739,28 @@
     ]
   },
   {
+    "la_id": 118,
+    "la_house_number": "",
+    "la_street": "0",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 270,
+    "fk_or": null,
+    "stock_import": [
+      "20240209-120-085-1"
+    ]
+  },
+  {
     "la_id": 119,
     "la_house_number": "",
     "la_street": "0",
@@ -2781,10 +2776,11 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 271,
+    "fk_co": 170,
     "fk_or": null,
     "stock_import": [
-      "20240209-120-085-1"
+      "20240209-148-095-1",
+      "20240209-148-095-2"
     ]
   },
   {
@@ -2812,29 +2808,6 @@
   {
     "la_id": 121,
     "la_house_number": "",
-    "la_street": "0",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 170,
-    "fk_or": null,
-    "stock_import": [
-      "20240209-148-095-1",
-      "20240209-148-095-2"
-    ]
-  },
-  {
-    "la_id": 122,
-    "la_house_number": "",
     "la_street": "7 RUE EMILE LECONTE ZI D' INGR\u00c9, 45140 INGR\u00c9",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -2848,14 +2821,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 279,
+    "fk_co": 278,
     "fk_or": null,
     "stock_import": [
       "20240212-121-071-1"
     ]
   },
   {
-    "la_id": 123,
+    "la_id": 122,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -2880,7 +2853,7 @@
     ]
   },
   {
-    "la_id": 124,
+    "la_id": 123,
     "la_house_number": "",
     "la_street": "ADRESSE IDENTIQUE \u00c0 SIEGE SOCIAL",
     "la_additional_address": "",
@@ -2904,7 +2877,7 @@
     ]
   },
   {
-    "la_id": 125,
+    "la_id": 124,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -2926,7 +2899,7 @@
     ]
   },
   {
-    "la_id": 126,
+    "la_id": 125,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -2948,7 +2921,7 @@
     ]
   },
   {
-    "la_id": 127,
+    "la_id": 126,
     "la_house_number": "",
     "la_street": "ADRESSE IDENTIQUE \u00c0 SIEGE SOCIAL",
     "la_additional_address": "",
@@ -2973,11 +2946,12 @@
       "20241126-0004-93-1",
       "20241212-0004-101-1",
       "20250107-0004-108-1",
-      "20250107-0004-108-2"
+      "20250107-0004-108-2",
+      "20250221-0004-121-1"
     ]
   },
   {
-    "la_id": 128,
+    "la_id": 127,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -2999,7 +2973,7 @@
     ]
   },
   {
-    "la_id": 129,
+    "la_id": 128,
     "la_house_number": "",
     "la_street": "3 B RUE PIERRE GILLES DE GENNES, 76130 MONT-SAINT-AIGNAN",
     "la_additional_address": "",
@@ -3014,14 +2988,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 265,
+    "fk_co": 264,
     "fk_or": null,
     "stock_import": [
       "20240222-140-080-1"
     ]
   },
   {
-    "la_id": 130,
+    "la_id": 129,
     "la_house_number": "",
     "la_street": "4 RTE DU POTEAU",
     "la_additional_address": "",
@@ -3036,7 +3010,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 282,
+    "fk_co": 281,
     "fk_or": null,
     "stock_import": [
       "20240223-143-087-1",
@@ -3048,7 +3022,7 @@
     ]
   },
   {
-    "la_id": 131,
+    "la_id": 130,
     "la_house_number": "",
     "la_street": "ADRESSE IDENTIQUE \u00c0 SIEGE SOCIAL",
     "la_additional_address": "",
@@ -3071,7 +3045,7 @@
     ]
   },
   {
-    "la_id": 132,
+    "la_id": 131,
     "la_house_number": "",
     "la_street": "ADRESSE IDENTIQUE \u00c0 SIEGE SOCIAL",
     "la_additional_address": "",
@@ -3097,7 +3071,7 @@
     ]
   },
   {
-    "la_id": 133,
+    "la_id": 132,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3119,7 +3093,7 @@
     ]
   },
   {
-    "la_id": 134,
+    "la_id": 133,
     "la_house_number": "",
     "la_street": "405 AVENUE GEORGES CAUSTIER - LE GRAND SAINT CHARLES",
     "la_additional_address": "",
@@ -3141,7 +3115,7 @@
     ]
   },
   {
-    "la_id": 135,
+    "la_id": 134,
     "la_house_number": "",
     "la_street": "20 RUE JEAN MAZEN",
     "la_additional_address": "",
@@ -3164,7 +3138,7 @@
     ]
   },
   {
-    "la_id": 136,
+    "la_id": 135,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3186,7 +3160,7 @@
     ]
   },
   {
-    "la_id": 137,
+    "la_id": 136,
     "la_house_number": "",
     "la_street": "11 RUE EUG\u00c8NE CHEVREUL",
     "la_additional_address": "",
@@ -3208,7 +3182,7 @@
     ]
   },
   {
-    "la_id": 138,
+    "la_id": 137,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3230,7 +3204,7 @@
     ]
   },
   {
-    "la_id": 139,
+    "la_id": 138,
     "la_house_number": "",
     "la_street": "ECF ZAC DES RADARS 183 RUE REN\u00c9 CLAIR, 93150 GRIGNY",
     "la_additional_address": "",
@@ -3249,6 +3223,28 @@
     "fk_or": null,
     "stock_import": [
       "20240319-169-098-1"
+    ]
+  },
+  {
+    "la_id": 139,
+    "la_house_number": "",
+    "la_street": "0",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 282,
+    "fk_or": null,
+    "stock_import": [
+      "20240319-171-105-1"
     ]
   },
   {
@@ -3281,28 +3277,6 @@
   {
     "la_id": 141,
     "la_house_number": "",
-    "la_street": "0",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 283,
-    "fk_or": null,
-    "stock_import": [
-      "20240319-171-105-1"
-    ]
-  },
-  {
-    "la_id": 142,
-    "la_house_number": "",
     "la_street": "ADRESSE IDENTIQUE \u00c0 SIEGE SOCIAL",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -3323,7 +3297,7 @@
     ]
   },
   {
-    "la_id": 143,
+    "la_id": 142,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -3345,7 +3319,7 @@
     ]
   },
   {
-    "la_id": 144,
+    "la_id": 143,
     "la_house_number": "",
     "la_street": "7 RUE AUGUSTIN FRESNEL",
     "la_additional_address": "",
@@ -3368,7 +3342,7 @@
     ]
   },
   {
-    "la_id": 145,
+    "la_id": 144,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3390,7 +3364,7 @@
     ]
   },
   {
-    "la_id": 146,
+    "la_id": 145,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3412,7 +3386,7 @@
     ]
   },
   {
-    "la_id": 147,
+    "la_id": 146,
     "la_house_number": "",
     "la_street": "MAB\u00c9O INDUSTRIES MONTAGNAT\u000a240 CHEMIN DES BUCLANES\u000a01250 MONTAGNAT",
     "la_additional_address": "",
@@ -3435,7 +3409,7 @@
     ]
   },
   {
-    "la_id": 148,
+    "la_id": 147,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3461,7 +3435,7 @@
     ]
   },
   {
-    "la_id": 149,
+    "la_id": 148,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3485,7 +3459,7 @@
     ]
   },
   {
-    "la_id": 150,
+    "la_id": 149,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3507,6 +3481,28 @@
     ]
   },
   {
+    "la_id": 150,
+    "la_house_number": "",
+    "la_street": "0",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 183,
+    "fk_or": null,
+    "stock_import": [
+      "20240424-226-138-1"
+    ]
+  },
+  {
     "la_id": 151,
     "la_house_number": "",
     "la_street": "0",
@@ -3522,29 +3518,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 184,
-    "fk_or": null,
-    "stock_import": [
-      "20240424-226-138-1"
-    ]
-  },
-  {
-    "la_id": 152,
-    "la_house_number": "",
-    "la_street": "0",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 276,
+    "fk_co": 275,
     "fk_or": null,
     "stock_import": [
       "20240417-208-127-1",
@@ -3552,7 +3526,7 @@
     ]
   },
   {
-    "la_id": 153,
+    "la_id": 152,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3574,7 +3548,7 @@
     ]
   },
   {
-    "la_id": 154,
+    "la_id": 153,
     "la_house_number": "",
     "la_street": "TRANSPORT CAILLOT, RUE L\u00c9ON FAUCHER, 51100 REIMS",
     "la_additional_address": "",
@@ -3596,7 +3570,7 @@
     ]
   },
   {
-    "la_id": 155,
+    "la_id": 154,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -3618,7 +3592,7 @@
     ]
   },
   {
-    "la_id": 156,
+    "la_id": 155,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3640,7 +3614,7 @@
     ]
   },
   {
-    "la_id": 157,
+    "la_id": 156,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -3662,7 +3636,7 @@
     ]
   },
   {
-    "la_id": 158,
+    "la_id": 157,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3677,14 +3651,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 293,
+    "fk_co": 292,
     "fk_or": null,
     "stock_import": [
       "20240515-255-162-1"
     ]
   },
   {
-    "la_id": 159,
+    "la_id": 158,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3706,7 +3680,7 @@
     ]
   },
   {
-    "la_id": 160,
+    "la_id": 159,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3721,14 +3695,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 272,
+    "fk_co": 271,
     "fk_or": null,
     "stock_import": [
       "20240521-265-167-1"
     ]
   },
   {
-    "la_id": 161,
+    "la_id": 160,
     "la_house_number": "",
     "la_street": "550 RUE DE LA FERME DU CARBOUE",
     "la_additional_address": "",
@@ -3743,7 +3717,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 281,
+    "fk_co": 280,
     "fk_or": null,
     "stock_import": [
       "20240523-267-168-1",
@@ -3751,7 +3725,7 @@
     ]
   },
   {
-    "la_id": 162,
+    "la_id": 161,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3766,14 +3740,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 266,
+    "fk_co": 265,
     "fk_or": null,
     "stock_import": [
       "20240606-282-182-1"
     ]
   },
   {
-    "la_id": 163,
+    "la_id": 162,
     "la_house_number": "",
     "la_street": "ZI DE LA NAU ; 1 RUE DES FRESNES",
     "la_additional_address": "",
@@ -3796,7 +3770,7 @@
     ]
   },
   {
-    "la_id": 164,
+    "la_id": 163,
     "la_house_number": "",
     "la_street": "20 RUE VEGA",
     "la_additional_address": "",
@@ -3811,14 +3785,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 259,
+    "fk_co": 258,
     "fk_or": null,
     "stock_import": [
       "20240618-308-213-1"
     ]
   },
   {
-    "la_id": 165,
+    "la_id": 164,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -3833,11 +3807,36 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 292,
+    "fk_co": 291,
     "fk_or": null,
     "stock_import": [
       "20240626-325-204-1",
       "20240920-439-282-1"
+    ]
+  },
+  {
+    "la_id": 165,
+    "la_house_number": "",
+    "la_street": "-",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 272,
+    "fk_or": null,
+    "stock_import": [
+      "20241022-0007-29-1",
+      "20241115-0007-42-1",
+      "20241204-0007-53-1",
+      "20241003-52-1"
     ]
   },
   {
@@ -3856,13 +3855,10 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 273,
+    "fk_co": 283,
     "fk_or": null,
     "stock_import": [
-      "20241022-0007-29-1",
-      "20241115-0007-42-1",
-      "20241204-0007-53-1",
-      "20241003-52-1"
+      "20241018-0007-27-1"
     ]
   },
   {
@@ -3881,10 +3877,10 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 284,
+    "fk_co": 219,
     "fk_or": null,
     "stock_import": [
-      "20241018-0007-27-1"
+      "20240726-371-246-1"
     ]
   },
   {
@@ -3903,10 +3899,12 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 219,
+    "fk_co": 180,
     "fk_or": null,
     "stock_import": [
-      "20240726-371-246-1"
+      "20240726-373-231-1",
+      "20240726-374-232-1",
+      "20241107-0004-86-1"
     ]
   },
   {
@@ -3947,12 +3945,10 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 180,
+    "fk_co": 48,
     "fk_or": null,
     "stock_import": [
-      "20240726-373-231-1",
-      "20240726-374-232-1",
-      "20241107-0004-86-1"
+      "20240730-376-256-1"
     ]
   },
   {
@@ -3980,28 +3976,6 @@
   {
     "la_id": 172,
     "la_house_number": "",
-    "la_street": "-",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 48,
-    "fk_or": null,
-    "stock_import": [
-      "20240730-376-256-1"
-    ]
-  },
-  {
-    "la_id": 173,
-    "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -4023,7 +3997,7 @@
     ]
   },
   {
-    "la_id": 174,
+    "la_id": 173,
     "la_house_number": "",
     "la_street": "PA ORL SOLOGNE ; RUE DU ROND D'EAU",
     "la_additional_address": "",
@@ -4045,7 +4019,7 @@
     ]
   },
   {
-    "la_id": 175,
+    "la_id": 174,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4067,7 +4041,7 @@
     ]
   },
   {
-    "la_id": 176,
+    "la_id": 175,
     "la_house_number": "",
     "la_street": "AVENUE DE L'\u00c9TOILE DU SUD, 80440 GLISY",
     "la_additional_address": "",
@@ -4089,7 +4063,7 @@
     ]
   },
   {
-    "la_id": 177,
+    "la_id": 176,
     "la_house_number": "",
     "la_street": "33 AVENUE F. ROOSEVELT",
     "la_additional_address": "",
@@ -4104,14 +4078,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 264,
+    "fk_co": 263,
     "fk_or": null,
     "stock_import": [
       "20240805-390-247-1"
     ]
   },
   {
-    "la_id": 178,
+    "la_id": 177,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4133,7 +4107,7 @@
     ]
   },
   {
-    "la_id": 179,
+    "la_id": 178,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4155,7 +4129,7 @@
     ]
   },
   {
-    "la_id": 180,
+    "la_id": 179,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4177,7 +4151,7 @@
     ]
   },
   {
-    "la_id": 181,
+    "la_id": 180,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4199,7 +4173,7 @@
     ]
   },
   {
-    "la_id": 182,
+    "la_id": 181,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4221,7 +4195,7 @@
     ]
   },
   {
-    "la_id": 183,
+    "la_id": 182,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4244,7 +4218,7 @@
     ]
   },
   {
-    "la_id": 184,
+    "la_id": 183,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4266,7 +4240,7 @@
     ]
   },
   {
-    "la_id": 185,
+    "la_id": 184,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4288,7 +4262,7 @@
     ]
   },
   {
-    "la_id": 186,
+    "la_id": 185,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4310,7 +4284,7 @@
     ]
   },
   {
-    "la_id": 187,
+    "la_id": 186,
     "la_house_number": "",
     "la_street": "2 AVENUE D'ORGEBLON",
     "la_additional_address": "",
@@ -4332,7 +4306,7 @@
     ]
   },
   {
-    "la_id": 188,
+    "la_id": 187,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4354,7 +4328,7 @@
     ]
   },
   {
-    "la_id": 189,
+    "la_id": 188,
     "la_house_number": "",
     "la_street": "12 RUE DU PARC ZA, 49520 SEGR\u00c9-EN-ANJOU BLEU",
     "la_additional_address": "",
@@ -4376,7 +4350,7 @@
     ]
   },
   {
-    "la_id": 190,
+    "la_id": 189,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4398,7 +4372,7 @@
     ]
   },
   {
-    "la_id": 191,
+    "la_id": 190,
     "la_house_number": "",
     "la_street": "MONTB\u00c9LIARD",
     "la_additional_address": "",
@@ -4413,7 +4387,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 288,
+    "fk_co": 287,
     "fk_or": null,
     "stock_import": [
       "20240911-427-289-1",
@@ -4422,7 +4396,7 @@
     ]
   },
   {
-    "la_id": 192,
+    "la_id": 191,
     "la_house_number": "",
     "la_street": "23 IMPASSE DE LA POMPE",
     "la_additional_address": "",
@@ -4445,7 +4419,7 @@
     ]
   },
   {
-    "la_id": 193,
+    "la_id": 192,
     "la_house_number": "",
     "la_street": "49280 LA SEGUINIERE",
     "la_additional_address": "",
@@ -4468,7 +4442,7 @@
     ]
   },
   {
-    "la_id": 194,
+    "la_id": 193,
     "la_house_number": "",
     "la_street": "LOGISTICS OP\u00c9RATIONS, 41 RUE MERCIER",
     "la_additional_address": "",
@@ -4490,6 +4464,29 @@
       "20241122-0005-54-1",
       "20241211-0005-59-1",
       "20241122-0005-55-1"
+    ]
+  },
+  {
+    "la_id": 194,
+    "la_house_number": "",
+    "la_street": "-",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 46,
+    "fk_or": null,
+    "stock_import": [
+      "20240920-436-277-1",
+      "20241014-0004-81-1"
     ]
   },
   {
@@ -4530,29 +4527,6 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 46,
-    "fk_or": null,
-    "stock_import": [
-      "20240920-436-277-1",
-      "20241014-0004-81-1"
-    ]
-  },
-  {
-    "la_id": 197,
-    "la_house_number": "",
-    "la_street": "-",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
     "fk_co": 163,
     "fk_or": null,
     "stock_import": [
@@ -4560,29 +4534,7 @@
     ]
   },
   {
-    "la_id": 198,
-    "la_house_number": "",
-    "la_street": "-",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 83,
-    "fk_or": null,
-    "stock_import": [
-      "20241127-0004-94-1"
-    ]
-  },
-  {
-    "la_id": 199,
+    "la_id": 197,
     "la_house_number": "",
     "la_street": "ZA AVENUE BLACHES GOMBERT ",
     "la_additional_address": "",
@@ -4604,7 +4556,7 @@
     ]
   },
   {
-    "la_id": 200,
+    "la_id": 198,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4630,7 +4582,29 @@
     ]
   },
   {
-    "la_id": 201,
+    "la_id": 199,
+    "la_house_number": "",
+    "la_street": "-",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 83,
+    "fk_or": null,
+    "stock_import": [
+      "20241127-0004-94-1"
+    ]
+  },
+  {
+    "la_id": 200,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4652,7 +4626,7 @@
     ]
   },
   {
-    "la_id": 202,
+    "la_id": 201,
     "la_house_number": "",
     "la_street": "638 RUE DU CHAT BOTT\u00c9 ",
     "la_additional_address": "",
@@ -4671,6 +4645,28 @@
     "fk_or": null,
     "stock_import": [
       "20241122-0020-2-1"
+    ]
+  },
+  {
+    "la_id": 202,
+    "la_house_number": "",
+    "la_street": "3 RUE DU RONDEAU",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 226,
+    "fk_or": null,
+    "stock_import": [
+      "20250124-0020-15-1"
     ]
   },
   {
@@ -4698,28 +4694,6 @@
   {
     "la_id": 204,
     "la_house_number": "",
-    "la_street": "-",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 34,
-    "fk_or": null,
-    "stock_import": [
-      "20241104-0007-37-1"
-    ]
-  },
-  {
-    "la_id": 205,
-    "la_house_number": "",
     "la_street": "7 RUE DE LA LEAVDE 38 170 SEYSSINET",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -4740,30 +4714,7 @@
     ]
   },
   {
-    "la_id": 206,
-    "la_house_number": "",
-    "la_street": "",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 251,
-    "fk_or": null,
-    "stock_import": [
-      "20241211-0007-58-1",
-      "20241218-0007-66-1"
-    ]
-  },
-  {
-    "la_id": 207,
+    "la_id": 205,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4786,9 +4737,9 @@
     ]
   },
   {
-    "la_id": 208,
+    "la_id": 206,
     "la_house_number": "",
-    "la_street": "",
+    "la_street": "-",
     "la_additional_address": "",
     "la_postal_code": "",
     "la_city": null,
@@ -4801,14 +4752,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 44,
+    "fk_co": 34,
     "fk_or": null,
     "stock_import": [
-      "20241212-0007-59-1"
+      "20241104-0007-37-1"
     ]
   },
   {
-    "la_id": 209,
+    "la_id": 207,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -4830,7 +4781,30 @@
     ]
   },
   {
-    "la_id": 210,
+    "la_id": 208,
+    "la_house_number": "",
+    "la_street": "",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 251,
+    "fk_or": null,
+    "stock_import": [
+      "20241211-0007-58-1",
+      "20241218-0007-66-1"
+    ]
+  },
+  {
+    "la_id": 209,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -4849,6 +4823,28 @@
     "fk_or": null,
     "stock_import": [
       "20241009-0007-19-1"
+    ]
+  },
+  {
+    "la_id": 210,
+    "la_house_number": "",
+    "la_street": "",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 44,
+    "fk_or": null,
+    "stock_import": [
+      "20241212-0007-59-1"
     ]
   },
   {
@@ -4898,6 +4894,28 @@
   {
     "la_id": 213,
     "la_house_number": "",
+    "la_street": "112 CHEMIN DE LA FORET AUX MARTINS-26000- VALENCE",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 188,
+    "fk_or": null,
+    "stock_import": [
+      "20241011-0003-156-1"
+    ]
+  },
+  {
+    "la_id": 214,
+    "la_house_number": "",
     "la_street": "26 RUE HUBERT CURIEN",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -4917,28 +4935,6 @@
       "20241108-0005-48-1",
       "20241120-0005-52-1",
       "20241120-0005-52-2"
-    ]
-  },
-  {
-    "la_id": 214,
-    "la_house_number": "",
-    "la_street": "112 CHEMIN DE LA FORET AUX MARTINS-26000- VALENCE",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 188,
-    "fk_or": null,
-    "stock_import": [
-      "20241011-0003-156-1"
     ]
   },
   {
@@ -5055,28 +5051,6 @@
   {
     "la_id": 220,
     "la_house_number": "",
-    "la_street": "22 AVENUE DU BOUTAREY",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 185,
-    "fk_or": null,
-    "stock_import": [
-      "20241203-0006-59-1"
-    ]
-  },
-  {
-    "la_id": 221,
-    "la_house_number": "",
     "la_street": "SAINTE GEMME LA PLAINE",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -5097,6 +5071,28 @@
     ]
   },
   {
+    "la_id": 221,
+    "la_house_number": "",
+    "la_street": "22 AVENUE DU BOUTAREY",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 185,
+    "fk_or": null,
+    "stock_import": [
+      "20241203-0006-59-1"
+    ]
+  },
+  {
     "la_id": 222,
     "la_house_number": "",
     "la_street": "-",
@@ -5112,7 +5108,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 260,
+    "fk_co": 259,
     "fk_or": null,
     "stock_import": [
       "20241021-0007-28-1",
@@ -5255,28 +5251,6 @@
   {
     "la_id": 229,
     "la_house_number": "",
-    "la_street": "-",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 37,
-    "fk_or": null,
-    "stock_import": [
-      "20241206-0004-98-1"
-    ]
-  },
-  {
-    "la_id": 230,
-    "la_house_number": "",
     "la_street": "2 PALETTES DE 80X120 + \u00bd PALETTE",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -5299,7 +5273,7 @@
     ]
   },
   {
-    "la_id": 231,
+    "la_id": 230,
     "la_house_number": "",
     "la_street": "11 RUE DES PRES DE LYON, 10600 LA CHAPELLE DE SAINT LUC",
     "la_additional_address": "",
@@ -5314,14 +5288,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 270,
+    "fk_co": 269,
     "fk_or": null,
     "stock_import": [
       "20241031-0008-8-1"
     ]
   },
   {
-    "la_id": 232,
+    "la_id": 231,
     "la_house_number": "",
     "la_street": "35 RUE DES ECOLES ",
     "la_additional_address": "",
@@ -5340,6 +5314,28 @@
     "fk_or": null,
     "stock_import": [
       "20241031-0011-11-1"
+    ]
+  },
+  {
+    "la_id": 232,
+    "la_house_number": "",
+    "la_street": "-",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 37,
+    "fk_or": null,
+    "stock_import": [
+      "20241206-0004-98-1"
     ]
   },
   {
@@ -5425,7 +5421,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 287,
+    "fk_co": 286,
     "fk_or": null,
     "stock_import": [
       "20241107-0007-38-1"
@@ -5447,7 +5443,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 183,
+    "fk_co": 184,
     "fk_or": null,
     "stock_import": [
       "20241107-0008-9-1",
@@ -5525,28 +5521,6 @@
   {
     "la_id": 241,
     "la_house_number": "",
-    "la_street": "LA MAISON NEUVE",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 233,
-    "fk_or": null,
-    "stock_import": [
-      "20241209-0005-58-1"
-    ]
-  },
-  {
-    "la_id": 242,
-    "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -5568,7 +5542,7 @@
     ]
   },
   {
-    "la_id": 243,
+    "la_id": 242,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -5590,7 +5564,7 @@
     ]
   },
   {
-    "la_id": 244,
+    "la_id": 243,
     "la_house_number": "",
     "la_street": "-",
     "la_additional_address": "",
@@ -5605,10 +5579,32 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 286,
+    "fk_co": 285,
     "fk_or": null,
     "stock_import": [
       "20241114-0004-89-1"
+    ]
+  },
+  {
+    "la_id": 244,
+    "la_house_number": "",
+    "la_street": "LA MAISON NEUVE",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 233,
+    "fk_or": null,
+    "stock_import": [
+      "20241209-0005-58-1"
     ]
   },
   {
@@ -5861,29 +5857,6 @@
   {
     "la_id": 256,
     "la_house_number": "",
-    "la_street": "ZI-DES VAUGUILLETTES RUE DES CHAMPS PLUVIERS",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 171,
-    "fk_or": null,
-    "stock_import": [
-      "20241204-0014-6-1",
-      "20241204-0014-6-2"
-    ]
-  },
-  {
-    "la_id": 257,
-    "la_house_number": "",
     "la_street": "3 RUE DES PAYS BAS + 1 PALETTE \u00c0 TRIGNAC (VOIR FICHE CLIENT)",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -5907,7 +5880,7 @@
     ]
   },
   {
-    "la_id": 258,
+    "la_id": 257,
     "la_house_number": "",
     "la_street": "0",
     "la_additional_address": "",
@@ -5929,7 +5902,7 @@
     ]
   },
   {
-    "la_id": 259,
+    "la_id": 258,
     "la_house_number": "",
     "la_street": "5 AVENUE GEORGES BATAILLE ",
     "la_additional_address": "",
@@ -5948,6 +5921,29 @@
     "fk_or": null,
     "stock_import": [
       "20241126-0011-17-1"
+    ]
+  },
+  {
+    "la_id": 259,
+    "la_house_number": "",
+    "la_street": "ZI-DES VAUGUILLETTES RUE DES CHAMPS PLUVIERS",
+    "la_additional_address": "",
+    "la_postal_code": "",
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": 171,
+    "fk_or": null,
+    "stock_import": [
+      "20241204-0014-6-1",
+      "20241204-0014-6-2"
     ]
   },
   {
@@ -6010,7 +6006,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 278,
+    "fk_co": 277,
     "fk_or": null,
     "stock_import": [
       "20241129-0006-58-1"
@@ -6076,7 +6072,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 290,
+    "fk_co": 289,
     "fk_or": null,
     "stock_import": [
       "20241205-0007-54-1"
@@ -6208,7 +6204,7 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 285,
+    "fk_co": 284,
     "fk_or": null,
     "stock_import": [
       "20241218-0014-10-1",
@@ -6262,7 +6258,7 @@
   {
     "la_id": 274,
     "la_house_number": "",
-    "la_street": "140 AVENUE DU 12 JUILLET 1998, LES CARRES DE LENFANT, BAT F, 1ER \u00c9TAGE\u0009\u0009\u0009\u0009\u0009",
+    "la_street": "ZONE ARTISANALE BEAUCE ; RTE DE SAINT-MALO",
     "la_additional_address": "",
     "la_postal_code": "",
     "la_city": null,
@@ -6275,10 +6271,10 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 267,
+    "fk_co": 288,
     "fk_or": null,
     "stock_import": [
-      "20250122-0011-36-1"
+      "20250123-0020-14-1"
     ]
   },
   {
@@ -6306,7 +6302,7 @@
   {
     "la_id": 276,
     "la_house_number": "",
-    "la_street": "ZONE ARTISANALE BEAUCE ; RTE DE SAINT-MALO",
+    "la_street": "140 AVENUE DU 12 JUILLET 1998, LES CARRES DE LENFANT, BAT F, 1ER \u00c9TAGE\u0009\u0009\u0009\u0009\u0009",
     "la_additional_address": "",
     "la_postal_code": "",
     "la_city": null,
@@ -6319,10 +6315,10 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 289,
+    "fk_co": 266,
     "fk_or": null,
     "stock_import": [
-      "20250123-0020-14-1"
+      "20250122-0011-36-1"
     ]
   },
   {
@@ -6350,28 +6346,6 @@
   {
     "la_id": 278,
     "la_house_number": "",
-    "la_street": "3 RUE DU RONDEAU",
-    "la_additional_address": "",
-    "la_postal_code": "",
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": 226,
-    "fk_or": null,
-    "stock_import": [
-      "20250124-0020-15-1"
-    ]
-  },
-  {
-    "la_id": 279,
-    "la_house_number": "",
     "la_street": "7BIS RUE DU CHAUFOUR",
     "la_additional_address": "",
     "la_postal_code": "",
@@ -6392,7 +6366,7 @@
     ]
   },
   {
-    "la_id": 280,
+    "la_id": 279,
     "la_house_number": "",
     "la_street": "ZA LA BOURDONNAIS RUE DE LA JANAIS",
     "la_additional_address": "",
@@ -6414,7 +6388,7 @@
     ]
   },
   {
-    "la_id": 281,
+    "la_id": 280,
     "la_house_number": "",
     "la_street": "136 Grande Rue, 59138 Pont-sur-Sambre",
     "la_additional_address": "",
@@ -6436,7 +6410,7 @@
     ]
   },
   {
-    "la_id": 282,
+    "la_id": 281,
     "la_house_number": "",
     "la_street": "18 RUE DU BEL AIR",
     "la_additional_address": "",
@@ -6458,7 +6432,7 @@
     ]
   },
   {
-    "la_id": 283,
+    "la_id": 282,
     "la_house_number": "",
     "la_street": "11 RUE DE LA REPUBLIQUE ",
     "la_additional_address": "",
@@ -6480,7 +6454,7 @@
     ]
   },
   {
-    "la_id": 284,
+    "la_id": 283,
     "la_house_number": "",
     "la_street": "QUAI DU VIEUX PORT",
     "la_additional_address": "",
@@ -6502,7 +6476,7 @@
     ]
   },
   {
-    "la_id": 285,
+    "la_id": 284,
     "la_house_number": "",
     "la_street": "205 RUE MAX JACOB",
     "la_additional_address": "",
@@ -6525,7 +6499,7 @@
     ]
   },
   {
-    "la_id": 286,
+    "la_id": 285,
     "la_house_number": "",
     "la_street": "38 RUE DU MOULIN ",
     "la_additional_address": "",
@@ -6547,7 +6521,7 @@
     ]
   },
   {
-    "la_id": 287,
+    "la_id": 286,
     "la_house_number": "",
     "la_street": "44 RUE DE LA JONQUIERE",
     "la_additional_address": "",
@@ -6569,7 +6543,7 @@
     ]
   },
   {
-    "la_id": 288,
+    "la_id": 287,
     "la_house_number": "",
     "la_street": "5 RUE DU LIVRADOIS",
     "la_additional_address": "",
@@ -6584,14 +6558,14 @@
     "la_longitude": 0,
     "la_latitude": 0,
     "la_isactive": false,
-    "fk_co": 274,
+    "fk_co": 273,
     "fk_or": null,
     "stock_import": [
       "20250207-0008-56-1"
     ]
   },
   {
-    "la_id": 289,
+    "la_id": 288,
     "la_house_number": "",
     "la_street": "2 RUE GABRIEL P\u00c9RI",
     "la_additional_address": "",
@@ -6613,7 +6587,7 @@
     ]
   },
   {
-    "la_id": 290,
+    "la_id": 289,
     "la_house_number": "",
     "la_street": "RUE DES ARTISANS",
     "la_additional_address": "",
@@ -6635,7 +6609,7 @@
     ]
   },
   {
-    "la_id": 291,
+    "la_id": 290,
     "la_house_number": "",
     "la_street": "8 RUE LOUISE MICHEL",
     "la_additional_address": "",
@@ -6657,7 +6631,7 @@
     ]
   },
   {
-    "la_id": 292,
+    "la_id": 291,
     "la_house_number": "",
     "la_street": "19 RUE MARGUERITE PEREY ",
     "la_additional_address": "",
@@ -6679,7 +6653,7 @@
     ]
   },
   {
-    "la_id": 293,
+    "la_id": 292,
     "la_house_number": "",
     "la_street": "COURS DE VERDUN",
     "la_additional_address": "",
@@ -6701,7 +6675,7 @@
     ]
   },
   {
-    "la_id": 294,
+    "la_id": 293,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -6717,7 +6691,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 459,
+    "fk_or": 115,
     "stock_import": [
       "20230221--006-001-1",
       "20230510--003-004-3",
@@ -6728,7 +6702,7 @@
     ]
   },
   {
-    "la_id": 295,
+    "la_id": 294,
     "la_house_number": "",
     "la_street": "RTE NATIONALE",
     "la_additional_address": "HAMEAU DU JEUNE BOIS   ",
@@ -6744,10 +6718,10 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 5,
+    "fk_or": 0,
     "stock_import": [
-      "20240612-295-194-1",
       "20240311-153-103-1",
+      "20240612-295-194-1",
       "20240312-157-097-4",
       "20240820-403-250-1",
       "20240125-106-102-1",
@@ -6756,35 +6730,35 @@
       "20240117-0004-110-1",
       "20240129-108-068-1",
       "20240201-114-078-1",
-      "20241023-0007-33-3",
       "20240209-148-095-2",
+      "20241023-0007-33-3",
       "20240212-122-081-3",
       "20240212-129-101-1",
       "20240222-140-080-1",
       "20240227-146-084-1",
-      "20240923-441-284-1",
       "20240305-136-088-1",
       "20240308-151-099-1",
+      "20240923-441-284-1",
       "20240312-159-094-1",
-      "20241119-0008-15-1",
       "20240319-171-105-1",
+      "20241119-0008-15-1",
       "20250110-0008-36-1",
-      "20241121-0007-50-1",
       "20240329-186-111-1",
+      "20241121-0007-50-1",
       "20241125-0007-51-1",
       "20250129-0014-34-1",
-      "20241217-0011-23-1",
       "20240408-191-117-1",
+      "20241217-0011-23-1",
       "20241104-0004-85-1",
-      "20241223-0011-24-1",
       "20240410-193-225-1",
+      "20241223-0011-24-1",
       "20241028-0004-84-1",
       "20241129-0008-18-1",
       "20241115-0007-43-1",
+      "20240410-195-119-1",
       "20241205-0008-21-1",
       "20250123-0020-14-1",
       "20250102-0014-14-1",
-      "20240410-195-119-1",
       "20250124-0004-111-1",
       "20240909-423-269-1",
       "20241205-0007-54-1",
@@ -6802,8 +6776,8 @@
       "20241129-0008-19-2",
       "20240617-305-190-1",
       "20241122-0004-92-1",
-      "20240418-218-137-1",
       "20240502-244-152-1",
+      "20240418-218-137-1",
       "20240422-223-163-1",
       "20240624-319-211-1",
       "20240613-298-181-1",
@@ -6834,7 +6808,7 @@
     ]
   },
   {
-    "la_id": 296,
+    "la_id": 295,
     "la_house_number": null,
     "la_street": null,
     "la_additional_address": null,
@@ -6850,7 +6824,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 0,
+    "fk_or": null,
     "stock_import": [
       "20240501-242-148-1",
       "20240226-098-089-1",
@@ -6860,7 +6834,7 @@
     ]
   },
   {
-    "la_id": 297,
+    "la_id": 296,
     "la_house_number": "17",
     "la_street": "RUE ST EXUPERY",
     "la_additional_address": "   ",
@@ -6876,7 +6850,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 6,
+    "fk_or": 1,
     "stock_import": [
       "20231207-069-056-1",
       "20231219-087-054-1",
@@ -6886,12 +6860,12 @@
       "20241029-0007-35-1",
       "20240923-444-285-2",
       "20241014-0004-81-1",
-      "20250210-0014-38-1",
-      "20241218-0014-10-1"
+      "20241218-0014-10-1",
+      "20250210-0014-38-1"
     ]
   },
   {
-    "la_id": 298,
+    "la_id": 297,
     "la_house_number": "4",
     "la_street": "RUE LOUIS AMPERE",
     "la_additional_address": "COMMUNAUTE EMMAUS FRANCE   ",
@@ -6907,7 +6881,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 7,
+    "fk_or": 2,
     "stock_import": [
       "20241217-0011-23-2",
       "20241107-0008-9-1",
@@ -6920,31 +6894,7 @@
     ]
   },
   {
-    "la_id": 299,
-    "la_house_number": "",
-    "la_street": "RUE DU COMMERCE",
-    "la_additional_address": "ZONE DU PLOUICH BTM11  BP90215 ",
-    "la_postal_code": "59590",
-    "la_city": "RAISMES",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 445,
-    "stock_import": [
-      "20230221--006-001-2",
-      "20231120-049-032-1",
-      "20231207-069-056-3"
-    ]
-  },
-  {
-    "la_id": 300,
+    "la_id": 298,
     "la_house_number": "98",
     "la_street": "RUE DIDOT",
     "la_additional_address": "SITE CROIX ROUGE   ",
@@ -6960,18 +6910,18 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 8,
+    "fk_or": 3,
     "stock_import": [
       "20231207-069-056-4",
       "20230512-000-007-1",
       "20230515--002-005-1",
-      "20240430-240-150-1",
       "20231016-028-031-1",
+      "20240430-240-150-1",
       "20240423-225-139-1"
     ]
   },
   {
-    "la_id": 301,
+    "la_id": 299,
     "la_house_number": "102",
     "la_street": "RUE DE PARIS",
     "la_additional_address": "CS 10007   ",
@@ -6987,13 +6937,37 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 9,
+    "fk_or": 4,
     "stock_import": [
       "20240313-160-090-1"
     ]
   },
   {
-    "la_id": 302,
+    "la_id": 300,
+    "la_house_number": "",
+    "la_street": "RUE DU COMMERCE",
+    "la_additional_address": "ZONE DU PLOUICH BTM11  BP90215 ",
+    "la_postal_code": "59590",
+    "la_city": "RAISMES",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 106,
+    "stock_import": [
+      "20230221--006-001-2",
+      "20231120-049-032-1",
+      "20231207-069-056-3"
+    ]
+  },
+  {
+    "la_id": 301,
     "la_house_number": "",
     "la_street": "CHEMIN DE SAINT-LEONARD",
     "la_additional_address": "ZI FARMAN LA POMPELLE   ",
@@ -7009,7 +6983,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 12,
+    "fk_or": 5,
     "stock_import": [
       "20241024-0009-3-1",
       "20241010-0007-21-1",
@@ -7023,59 +6997,7 @@
     ]
   },
   {
-    "la_id": 303,
-    "la_house_number": "",
-    "la_street": " ",
-    "la_additional_address": "   ",
-    "la_postal_code": "",
-    "la_city": "",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 243,
-    "stock_import": [
-      "20230221--006-001-3",
-      "20230408--001-006-1",
-      "20230422--004-003-1",
-      "20230510--003-004-2",
-      "20230527-001-008-2",
-      "20230527-002-009-1",
-      "20230527-003-010-2",
-      "20230605-005-011-1",
-      "20230629-008-013-1",
-      "20231017-029-021-2",
-      "20231017-030-022-2",
-      "20231017-031-023-2",
-      "20240920-439-282-1",
-      "20231108-037-025-1",
-      "20231110-040-030-2",
-      "20231124-053-037-1",
-      "20231127-057-028-1",
-      "20241010-0004-77-1",
-      "20241010-0006-39-1",
-      "20241011-0003-156-1",
-      "20231130-061-040-1",
-      "20240626-323-202-1",
-      "20241205-0008-22-1",
-      "20240926-453-0003-149-1",
-      "20241211-0007-57-1",
-      "20241022-0011-10-1",
-      "20240624-318-195-1",
-      "20250204-0022-5-1",
-      "20231213-083-050-1",
-      "20231218-086-055-1",
-      "20240410-194-121-1"
-    ]
-  },
-  {
-    "la_id": 304,
+    "la_id": 302,
     "la_house_number": "19",
     "la_street": "RUE DE RAMBOUILLET",
     "la_additional_address": "   ",
@@ -7091,7 +7013,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 27,
+    "fk_or": 6,
     "stock_import": [
       "20240320-172-110-1",
       "20240219-132-075-1",
@@ -7099,7 +7021,7 @@
     ]
   },
   {
-    "la_id": 305,
+    "la_id": 303,
     "la_house_number": "199",
     "la_street": "RUE COLBERT",
     "la_additional_address": "CENTRE VAUBAN 199-201   ",
@@ -7115,7 +7037,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 29,
+    "fk_or": 7,
     "stock_import": [
       "20230310--005-002-1",
       "20231018-033-039-1",
@@ -7123,7 +7045,7 @@
     ]
   },
   {
-    "la_id": 306,
+    "la_id": 304,
     "la_house_number": "4",
     "la_street": " COUR SAINT ROCH",
     "la_additional_address": "   ",
@@ -7139,36 +7061,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 32,
+    "fk_or": 8,
     "stock_import": [
       "20241031-0006-47-1"
     ]
   },
   {
-    "la_id": 307,
-    "la_house_number": "1",
-    "la_street": " CHARLES SAINT VENANT",
-    "la_additional_address": "   ",
-    "la_postal_code": "59155",
-    "la_city": "FACHES-THUMESNIL",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 62,
-    "stock_import": [
-      "20230221--006-001-4",
-      "20230310--005-002-2"
-    ]
-  },
-  {
-    "la_id": 308,
+    "la_id": 305,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -7184,7 +7083,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 34,
+    "fk_or": 9,
     "stock_import": [
       "20241212-0007-59-1",
       "20250122-0011-36-1",
@@ -7193,7 +7092,7 @@
     ]
   },
   {
-    "la_id": 309,
+    "la_id": 306,
     "la_house_number": "1",
     "la_street": "RUE LOUIS PETIT",
     "la_additional_address": "ZA LES PIERRES BLANCHES   ",
@@ -7209,13 +7108,65 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 37,
+    "fk_or": 10,
     "stock_import": [
       "20240723-361-227-2"
     ]
   },
   {
-    "la_id": 310,
+    "la_id": 307,
+    "la_house_number": "",
+    "la_street": " ",
+    "la_additional_address": "   ",
+    "la_postal_code": "",
+    "la_city": "",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 40,
+    "stock_import": [
+      "20230221--006-001-3",
+      "20230408--001-006-1",
+      "20230422--004-003-1",
+      "20230510--003-004-2",
+      "20230527-001-008-2",
+      "20230527-002-009-1",
+      "20230527-003-010-2",
+      "20230605-005-011-1",
+      "20230629-008-013-1",
+      "20231017-029-021-2",
+      "20231017-030-022-2",
+      "20231017-031-023-2",
+      "20231108-037-025-1",
+      "20231110-040-030-2",
+      "20231124-053-037-1",
+      "20231127-057-028-1",
+      "20231130-061-040-1",
+      "20240920-439-282-1",
+      "20241010-0004-77-1",
+      "20241010-0006-39-1",
+      "20241011-0003-156-1",
+      "20240626-323-202-1",
+      "20241205-0008-22-1",
+      "20240926-453-0003-149-1",
+      "20241211-0007-57-1",
+      "20241022-0011-10-1",
+      "20240624-318-195-1",
+      "20250204-0022-5-1",
+      "20231213-083-050-1",
+      "20231218-086-055-1",
+      "20240410-194-121-1"
+    ]
+  },
+  {
+    "la_id": 308,
     "la_house_number": "18",
     "la_street": " BALDENBERGER",
     "la_additional_address": "   ",
@@ -7231,7 +7182,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 40,
+    "fk_or": 11,
     "stock_import": [
       "20241204-0007-53-1",
       "20240923-443-286-1",
@@ -7239,7 +7190,7 @@
     ]
   },
   {
-    "la_id": 311,
+    "la_id": 309,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -7255,13 +7206,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 41,
+    "fk_or": 12,
     "stock_import": [
       "20240418-215-134-1"
     ]
   },
   {
-    "la_id": 312,
+    "la_id": 310,
     "la_house_number": "25",
     "la_street": "RUE DE CRONSTADT",
     "la_additional_address": "   ",
@@ -7277,13 +7228,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 42,
+    "fk_or": 13,
     "stock_import": [
       "20240327-182-125-1"
     ]
   },
   {
-    "la_id": 313,
+    "la_id": 311,
     "la_house_number": "37",
     "la_street": "RUE MADELEINE ODRU",
     "la_additional_address": "   ",
@@ -7299,13 +7250,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 43,
+    "fk_or": 14,
     "stock_import": [
       "20240620-316-198-2"
     ]
   },
   {
-    "la_id": 314,
+    "la_id": 312,
     "la_house_number": "10",
     "la_street": "RUE ALEXANDRE VOLTA",
     "la_additional_address": "   ",
@@ -7321,38 +7272,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 48,
+    "fk_or": 15,
     "stock_import": [
       "20240923-444-285-4"
     ]
   },
   {
-    "la_id": 315,
-    "la_house_number": null,
-    "la_street": null,
-    "la_additional_address": null,
-    "la_postal_code": null,
-    "la_city": null,
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 10,
-    "stock_import": [
-      "20230901-013-014-2",
-      "20240625-324-200-1",
-      "20230901-013-014-1",
-      "20240430-241-147-1"
-    ]
-  },
-  {
-    "la_id": 316,
+    "la_id": 313,
     "la_house_number": "3",
     "la_street": " RAPHAEL ELIZE",
     "la_additional_address": "MAIRIE   ",
@@ -7368,13 +7294,38 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 49,
+    "fk_or": 16,
     "stock_import": [
       "20240923-444-285-5"
     ]
   },
   {
-    "la_id": 317,
+    "la_id": 314,
+    "la_house_number": null,
+    "la_street": null,
+    "la_additional_address": null,
+    "la_postal_code": null,
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": null,
+    "stock_import": [
+      "20230901-013-014-2",
+      "20240625-324-200-1",
+      "20230901-013-014-1",
+      "20240430-241-147-1"
+    ]
+  },
+  {
+    "la_id": 315,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -7390,13 +7341,36 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 50,
+    "fk_or": 17,
     "stock_import": [
       "20240312-157-097-2"
     ]
   },
   {
-    "la_id": 318,
+    "la_id": 316,
+    "la_house_number": "1",
+    "la_street": " CHARLES SAINT VENANT",
+    "la_additional_address": "   ",
+    "la_postal_code": "59155",
+    "la_city": "FACHES-THUMESNIL",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 21,
+    "stock_import": [
+      "20230221--006-001-4",
+      "20230310--005-002-2"
+    ]
+  },
+  {
+    "la_id": 317,
     "la_house_number": "3",
     "la_street": "RUE JEAN MARIE TULLOU",
     "la_additional_address": "   ",
@@ -7412,13 +7386,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 51,
+    "fk_or": 18,
     "stock_import": [
       "20240618-308-213-1"
     ]
   },
   {
-    "la_id": 319,
+    "la_id": 318,
     "la_house_number": "197",
     "la_street": "AVENUE DE FRONTON",
     "la_additional_address": "   ",
@@ -7434,13 +7408,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 52,
+    "fk_or": 19,
     "stock_import": [
       "20240312-157-097-3"
     ]
   },
   {
-    "la_id": 320,
+    "la_id": 319,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -7456,7 +7430,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 53,
+    "fk_or": 20,
     "stock_import": [
       "20241113-0007-41-1",
       "20241122-0005-55-1",
@@ -7469,7 +7443,7 @@
     ]
   },
   {
-    "la_id": 321,
+    "la_id": 320,
     "la_house_number": "38",
     "la_street": "RUE DOCTEUR PARAT",
     "la_additional_address": "   ",
@@ -7485,13 +7459,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 64,
+    "fk_or": 22,
     "stock_import": [
       "20241016-0009-2-1"
     ]
   },
   {
-    "la_id": 322,
+    "la_id": 321,
     "la_house_number": "32",
     "la_street": "RUE DES JUMEAUX",
     "la_additional_address": "ATELIER T.A.   ",
@@ -7507,36 +7481,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 65,
+    "fk_or": 23,
     "stock_import": [
       "20240730-378-235-1"
     ]
   },
   {
-    "la_id": 323,
-    "la_house_number": "5",
-    "la_street": "RUE DOCTEUR ROUUX",
-    "la_additional_address": "   ",
-    "la_postal_code": "38490",
-    "la_city": "SAINT-ANDRE-LE-GAZ",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 129,
-    "stock_import": [
-      "20240312-157-097-1",
-      "20241104-0007-37-1"
-    ]
-  },
-  {
-    "la_id": 324,
+    "la_id": 322,
     "la_house_number": "",
     "la_street": " DE LA LIBERATION",
     "la_additional_address": "MAISON DES ASSOCIATIONS   ",
@@ -7552,14 +7503,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 66,
+    "fk_or": 24,
     "stock_import": [
       "20231121-050-042-2",
       "20231121-050-042-1"
     ]
   },
   {
-    "la_id": 325,
+    "la_id": 323,
     "la_house_number": "120",
     "la_street": " JEAN PHILIPPE RAMEAU",
     "la_additional_address": "   ",
@@ -7575,13 +7526,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 68,
+    "fk_or": 25,
     "stock_import": [
       "20231120-047-029-1"
     ]
   },
   {
-    "la_id": 326,
+    "la_id": 324,
     "la_house_number": "174",
     "la_street": "RUE LUCIEN BARBIER",
     "la_additional_address": "   ",
@@ -7597,7 +7548,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 71,
+    "fk_or": 26,
     "stock_import": [
       "20230510--003-004-1",
       "20231212-078-047-1",
@@ -7611,7 +7562,7 @@
     ]
   },
   {
-    "la_id": 327,
+    "la_id": 325,
     "la_house_number": "33",
     "la_street": "AV JEAN JAURES",
     "la_additional_address": "   ",
@@ -7627,13 +7578,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 73,
+    "fk_or": 27,
     "stock_import": [
       "20241122-0020-2-1"
     ]
   },
   {
-    "la_id": 328,
+    "la_id": 326,
     "la_house_number": "273",
     "la_street": "RUE DU FAUCONNIER",
     "la_additional_address": "   ",
@@ -7649,13 +7600,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 74,
+    "fk_or": 28,
     "stock_import": [
       "20240613-297-180-1"
     ]
   },
   {
-    "la_id": 329,
+    "la_id": 327,
     "la_house_number": "",
     "la_street": " DE BONNEVAL",
     "la_additional_address": "QUARTIER LA COURTOISE   ",
@@ -7671,7 +7622,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 76,
+    "fk_or": 29,
     "stock_import": [
       "20241205-0008-22-3",
       "20241022-0007-29-1",
@@ -7680,7 +7631,7 @@
     ]
   },
   {
-    "la_id": 330,
+    "la_id": 328,
     "la_house_number": "2",
     "la_street": "AVENUE DU GENERAL DE GAULLE",
     "la_additional_address": "   ",
@@ -7696,7 +7647,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 80,
+    "fk_or": 30,
     "stock_import": [
       "20241031-0007-36-1",
       "20241108-0005-47-1",
@@ -7706,7 +7657,7 @@
     ]
   },
   {
-    "la_id": 331,
+    "la_id": 329,
     "la_house_number": "17",
     "la_street": "RUE PAUL ELUARD",
     "la_additional_address": "   ",
@@ -7722,13 +7673,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 85,
+    "fk_or": 31,
     "stock_import": [
       "20240607-286-179-1"
     ]
   },
   {
-    "la_id": 332,
+    "la_id": 330,
     "la_house_number": "13",
     "la_street": "RUE DE TEMARA",
     "la_additional_address": "   ",
@@ -7744,9 +7695,57 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 86,
+    "fk_or": 32,
     "stock_import": [
       "20241105-0005-44-1"
+    ]
+  },
+  {
+    "la_id": 331,
+    "la_house_number": "12",
+    "la_street": "RUE DES PRES",
+    "la_additional_address": "CHEZ FLORENCE MARTIN CHEZ FLORENCE MARTIN  ",
+    "la_postal_code": "38150",
+    "la_city": "CHANAS",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 34,
+    "stock_import": [
+      "20240820-403-250-2",
+      "20240221-137-077-1",
+      "20240802-388-252-1",
+      "20240807-393-239-1"
+    ]
+  },
+  {
+    "la_id": 332,
+    "la_house_number": "5",
+    "la_street": "RUE DOCTEUR ROUUX",
+    "la_additional_address": "   ",
+    "la_postal_code": "38490",
+    "la_city": "SAINT-ANDRE-LE-GAZ",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 53,
+    "stock_import": [
+      "20240312-157-097-1",
+      "20241104-0007-37-1"
     ]
   },
   {
@@ -7766,107 +7765,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 96,
-    "stock_import": [
-      "20240805-390-247-1",
-      "20240806-392-238-1",
-      "20240326-181-107-1",
-      "20240417-209-128-1",
-      "20240605-279-174-1",
-      "20240417-208-127-1",
-      "20240813-400-245-1",
-      "20240325-178-104-1",
-      "20240701-331-209-1",
-      "20241203-0006-59-1"
-    ]
-  },
-  {
-    "la_id": 334,
-    "la_house_number": "12",
-    "la_street": "RUE DES PRES",
-    "la_additional_address": "CHEZ FLORENCE MARTIN CHEZ FLORENCE MARTIN  ",
-    "la_postal_code": "38150",
-    "la_city": "CHANAS",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 204,
-    "stock_import": [
-      "20240820-403-250-2",
-      "20240221-137-077-1",
-      "20240802-388-252-1",
-      "20240807-393-239-1"
-    ]
-  },
-  {
-    "la_id": 335,
-    "la_house_number": "",
-    "la_street": "RUE PASTEUR BP N  3",
-    "la_additional_address": "PAVILLON VIAN PAVILLON VIAN BP N 3 ",
-    "la_postal_code": "60600",
-    "la_city": "ERQUERY",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 231,
-    "stock_import": [
-      "20230512-000-007-2"
-    ]
-  },
-  {
-    "la_id": 336,
-    "la_house_number": "13",
-    "la_street": "RUE DES FONTINETTES",
-    "la_additional_address": "   ",
-    "la_postal_code": "62100",
-    "la_city": "CALAIS",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 455,
-    "stock_import": [
-      "20230527-001-008-1"
-    ]
-  },
-  {
-    "la_id": 337,
-    "la_house_number": "",
-    "la_street": " ",
-    "la_additional_address": "   ",
-    "la_postal_code": "",
-    "la_city": "",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 173,
+    "fk_or": 61,
     "stock_import": [
       "20230921-017-017-1",
       "20231110-040-030-4",
@@ -7878,35 +7777,7 @@
     ]
   },
   {
-    "la_id": 338,
-    "la_house_number": "",
-    "la_street": " ",
-    "la_additional_address": "   ",
-    "la_postal_code": "",
-    "la_city": "",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 292,
-    "stock_import": [
-      "20250123-0008-41-1",
-      "20241017-0006-42-1",
-      "20241018-0006-43-1",
-      "20241021-0007-28-1",
-      "20240924-445-0006-33-1",
-      "20250211-0008-59-1",
-      "20250130-0008-50-1"
-    ]
-  },
-  {
-    "la_id": 339,
+    "la_id": 334,
     "la_house_number": "514",
     "la_street": " DES RAMEAUX",
     "la_additional_address": "COMMUNAUTE EMMAUS FRANCE   ",
@@ -7922,14 +7793,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 262,
+    "fk_or": 63,
     "stock_import": [
       "20230629-008-013-2",
       "20241007-0006-38-1"
     ]
   },
   {
-    "la_id": 340,
+    "la_id": 335,
     "la_house_number": null,
     "la_street": null,
     "la_additional_address": null,
@@ -7945,7 +7816,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 46,
+    "fk_or": null,
     "stock_import": [
       "20230928-019-016-3",
       "20240122-101-066-1",
@@ -7954,12 +7825,12 @@
     ]
   },
   {
-    "la_id": 341,
-    "la_house_number": "1",
-    "la_street": "RUE GILBERT OLLIER",
-    "la_additional_address": "COMMUNAUTE EMMAUS   ",
-    "la_postal_code": "38780",
-    "la_city": "PONT-EVEQUE",
+    "la_id": 336,
+    "la_house_number": "",
+    "la_street": "RUE PASTEUR BP N  3",
+    "la_additional_address": "PAVILLON VIAN PAVILLON VIAN BP N 3 ",
+    "la_postal_code": "60600",
+    "la_city": "ERQUERY",
     "la_truck_access": false,
     "la_loading_dock": false,
     "la_forklift": false,
@@ -7970,15 +7841,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 215,
+    "fk_or": 72,
     "stock_import": [
-      "20230929-020-019-1",
-      "20240206-116-069-1",
-      "20240216-130-074-1"
+      "20230512-000-007-2"
     ]
   },
   {
-    "la_id": 342,
+    "la_id": 337,
     "la_house_number": "",
     "la_street": "RUE DU FORT",
     "la_additional_address": "   ",
@@ -7994,63 +7863,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 263,
+    "fk_or": 74,
     "stock_import": [
       "20230609-006-012-1"
     ]
   },
   {
-    "la_id": 343,
-    "la_house_number": "",
-    "la_street": " ",
-    "la_additional_address": "   ",
-    "la_postal_code": "",
-    "la_city": "",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 273,
-    "stock_import": [
-      "20241205-0008-23-1",
-      "20241023-0007-33-1",
-      "20241220-0005-62-1",
-      "20241127-0008-17-1",
-      "20241206-0007-55-1",
-      "20250107-0014-19-1",
-      "20250110-0008-35-1"
-    ]
-  },
-  {
-    "la_id": 344,
-    "la_house_number": "40",
-    "la_street": "RUE DE L ABATTOIR",
-    "la_additional_address": "   ",
-    "la_postal_code": "59590",
-    "la_city": "RAISMES",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 420,
-    "stock_import": [
-      "20230629-008-013-3"
-    ]
-  },
-  {
-    "la_id": 345,
+    "la_id": 338,
     "la_house_number": "3",
     "la_street": "ROUTE DE FONTENAY",
     "la_additional_address": "LES RIFFETS   ",
@@ -8066,7 +7885,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 404,
+    "fk_or": 92,
     "stock_import": [
       "20241018-0011-9-1",
       "20241212-0004-101-1",
@@ -8076,7 +7895,51 @@
     ]
   },
   {
-    "la_id": 346,
+    "la_id": 339,
+    "la_house_number": "13",
+    "la_street": "RUE DES FONTINETTES",
+    "la_additional_address": "   ",
+    "la_postal_code": "62100",
+    "la_city": "CALAIS",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 111,
+    "stock_import": [
+      "20230527-001-008-1"
+    ]
+  },
+  {
+    "la_id": 340,
+    "la_house_number": "40",
+    "la_street": "RUE DE L ABATTOIR",
+    "la_additional_address": "   ",
+    "la_postal_code": "59590",
+    "la_city": "RAISMES",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 97,
+    "stock_import": [
+      "20230629-008-013-3"
+    ]
+  },
+  {
+    "la_id": 341,
     "la_house_number": "9",
     "la_street": "RUE ACHILLE BIENVENUE",
     "la_additional_address": "9\/11 9 11  ",
@@ -8092,13 +7955,54 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 457,
+    "fk_or": 113,
     "stock_import": [
       "20230921-017-017-2"
     ]
   },
   {
-    "la_id": 347,
+    "la_id": 342,
+    "la_house_number": null,
+    "la_street": null,
+    "la_additional_address": null,
+    "la_postal_code": null,
+    "la_city": null,
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": null,
+    "stock_import": [
+      "20240705-336-222-1",
+      "20240213-126-086-1",
+      "20240920-438-292-1",
+      "20250211-0008-58-1",
+      "20250128-0014-30-1",
+      "20250210-0011-44-1",
+      "20250207-0047-5-1",
+      "20250205-0008-52-1",
+      "20250130-0047-3-1",
+      "20250106-0020-11-1",
+      "20250212-0011-46-1",
+      "20250213-0014-41-1",
+      "20250128-0008-48-1",
+      "20250220-0004-118-1",
+      "20250207-0008-56-1",
+      "20250205-0008-53-1",
+      "20250221-0004-121-1",
+      "20250214-0008-60-1",
+      "20250211-0011-45-1",
+      "20250214-0047-6-1"
+    ]
+  },
+  {
+    "la_id": 343,
     "la_house_number": "22",
     "la_street": " CHARLES DE GAULLE",
     "la_additional_address": "   ",
@@ -8114,7 +8018,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 479,
+    "fk_or": 118,
     "stock_import": [
       "20230927-142-199-1",
       "20240531-276-171-1",
@@ -8133,34 +8037,12 @@
     ]
   },
   {
-    "la_id": 348,
-    "la_house_number": "10",
-    "la_street": "RUE DE LA ROCHE",
-    "la_additional_address": "BP24  BP 24 ",
-    "la_postal_code": "85000",
-    "la_city": "MOUILLERON-LE-CAPTIF",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 446,
-    "stock_import": [
-      "20231010-025-020-1"
-    ]
-  },
-  {
-    "la_id": 349,
-    "la_house_number": "11",
-    "la_street": " NATIONALE",
+    "la_id": 344,
+    "la_house_number": "",
+    "la_street": " ",
     "la_additional_address": "   ",
-    "la_postal_code": "59400",
-    "la_city": "ESTOURMEL",
+    "la_postal_code": "",
+    "la_city": "",
     "la_truck_access": false,
     "la_loading_dock": false,
     "la_forklift": false,
@@ -8171,20 +8053,27 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 472,
+    "fk_or": 33,
     "stock_import": [
-      "20231017-029-021-1",
-      "20231017-030-022-1",
-      "20231017-031-023-1"
+      "20240805-390-247-1",
+      "20240806-392-238-1",
+      "20240326-181-107-1",
+      "20240417-209-128-1",
+      "20240605-279-174-1",
+      "20240417-208-127-1",
+      "20240813-400-245-1",
+      "20240325-178-104-1",
+      "20240701-331-209-1",
+      "20241203-0006-59-1"
     ]
   },
   {
-    "la_id": 350,
-    "la_house_number": null,
-    "la_street": null,
-    "la_additional_address": null,
-    "la_postal_code": null,
-    "la_city": null,
+    "la_id": 345,
+    "la_house_number": "",
+    "la_street": " ",
+    "la_additional_address": "   ",
+    "la_postal_code": "",
+    "la_city": "",
     "la_truck_access": false,
     "la_loading_dock": false,
     "la_forklift": false,
@@ -8195,31 +8084,19 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 87,
+    "fk_or": 79,
     "stock_import": [
-      "20240705-336-222-1",
-      "20240213-126-086-1",
-      "20240920-438-292-1",
-      "20250211-0008-58-1",
-      "20250128-0014-30-1",
-      "20250210-0011-44-1",
-      "20250207-0047-5-1",
-      "20250205-0008-52-1",
-      "20250130-0047-3-1",
-      "20250106-0020-11-1",
-      "20250212-0011-46-1",
-      "20250213-0014-41-1",
-      "20250128-0008-48-1",
-      "20250220-0004-118-1",
-      "20250205-0008-53-1",
-      "20250207-0008-56-1",
-      "20250214-0008-60-1",
-      "20250211-0011-45-1",
-      "20250214-0047-6-1"
+      "20241205-0008-23-1",
+      "20241023-0007-33-1",
+      "20241220-0005-62-1",
+      "20241127-0008-17-1",
+      "20241206-0007-55-1",
+      "20250107-0014-19-1",
+      "20250110-0008-35-1"
     ]
   },
   {
-    "la_id": 351,
+    "la_id": 346,
     "la_house_number": "7",
     "la_street": " ILE DE LA LOGE",
     "la_additional_address": "COMMUNAUTE EMMAUS FRANCE   ",
@@ -8235,13 +8112,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 106,
+    "fk_or": 35,
     "stock_import": [
       "20240920-436-277-1"
     ]
   },
   {
-    "la_id": 352,
+    "la_id": 347,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -8257,7 +8134,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 100,
+    "fk_or": 36,
     "stock_import": [
       "20240619-313-197-1",
       "20240418-219-169-2",
@@ -8267,7 +8144,31 @@
     ]
   },
   {
-    "la_id": 353,
+    "la_id": 348,
+    "la_house_number": "1",
+    "la_street": "RUE GILBERT OLLIER",
+    "la_additional_address": "COMMUNAUTE EMMAUS   ",
+    "la_postal_code": "38780",
+    "la_city": "PONT-EVEQUE",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 69,
+    "stock_import": [
+      "20230929-020-019-1",
+      "20240206-116-069-1",
+      "20240216-130-074-1"
+    ]
+  },
+  {
+    "la_id": 349,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -8283,7 +8184,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 102,
+    "fk_or": 37,
     "stock_import": [
       "20240705-335-0003-115-1",
       "20240917-430-273-1",
@@ -8295,33 +8196,7 @@
     ]
   },
   {
-    "la_id": 354,
-    "la_house_number": "22",
-    "la_street": "RUE EMMAUS",
-    "la_additional_address": "   ",
-    "la_postal_code": "60000",
-    "la_city": "BEAUVAIS",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 227,
-    "stock_import": [
-      "20231026-035-024-1",
-      "20231201-063-033-1",
-      "20231207-069-056-2",
-      "20231210-026-027-1",
-      "20231211-075-058-3"
-    ]
-  },
-  {
-    "la_id": 355,
+    "la_id": 350,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -8337,7 +8212,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 104,
+    "fk_or": 38,
     "stock_import": [
       "20240917-431-274-1",
       "20231026-035-024-2",
@@ -8356,29 +8231,7 @@
     ]
   },
   {
-    "la_id": 356,
-    "la_house_number": "54",
-    "la_street": "RUE DU NOIR CORNET",
-    "la_additional_address": "COMMUNAUTE EMMAUS FRANCE  ST MARTIN AU LAERT ",
-    "la_postal_code": "62500",
-    "la_city": "SAINT-MARTIN-LEZ-TATINGHEM",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 202,
-    "stock_import": [
-      "20240619-309-184-1"
-    ]
-  },
-  {
-    "la_id": 357,
+    "la_id": 351,
     "la_house_number": "1",
     "la_street": " DE L'ALLEE",
     "la_additional_address": "   ",
@@ -8394,7 +8247,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 103,
+    "fk_or": 39,
     "stock_import": [
       "20240805-391-237-1",
       "20240418-216-131-1",
@@ -8405,7 +8258,29 @@
     ]
   },
   {
-    "la_id": 358,
+    "la_id": 352,
+    "la_house_number": "10",
+    "la_street": "RUE DE LA ROCHE",
+    "la_additional_address": "BP24  BP 24 ",
+    "la_postal_code": "85000",
+    "la_city": "MOUILLERON-LE-CAPTIF",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 107,
+    "stock_import": [
+      "20231010-025-020-1"
+    ]
+  },
+  {
+    "la_id": 353,
     "la_house_number": "5",
     "la_street": "RUE JOURDAIN",
     "la_additional_address": "   ",
@@ -8421,7 +8296,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 111,
+    "fk_or": 41,
     "stock_import": [
       "20241121-0006-54-1",
       "20241127-0004-94-1",
@@ -8437,12 +8312,12 @@
     ]
   },
   {
-    "la_id": 359,
+    "la_id": 354,
     "la_house_number": "",
-    "la_street": "RUE DU CHEMIN DES DAMES",
-    "la_additional_address": "COMMUNAUTE EMMAUS FRANCE   ",
-    "la_postal_code": "62700",
-    "la_city": "BRUAY-LA-BUISSIERE",
+    "la_street": " ",
+    "la_additional_address": "   ",
+    "la_postal_code": "",
+    "la_city": "",
     "la_truck_access": false,
     "la_loading_dock": false,
     "la_forklift": false,
@@ -8453,14 +8328,19 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 264,
+    "fk_or": 62,
     "stock_import": [
-      "20231110-040-030-1",
-      "20231229-091-059-1"
+      "20250123-0008-41-1",
+      "20241017-0006-42-1",
+      "20241018-0006-43-1",
+      "20241021-0007-28-1",
+      "20240924-445-0006-33-1",
+      "20250211-0008-59-1",
+      "20250130-0008-50-1"
     ]
   },
   {
-    "la_id": 360,
+    "la_id": 355,
     "la_house_number": "23",
     "la_street": "RUE DES COMPAGNONS D EMMAUS",
     "la_additional_address": "MOULIN DE COLAS MOULIN DE COLAS  ",
@@ -8476,13 +8356,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 113,
+    "fk_or": 42,
     "stock_import": [
       "20240415-203-124-1"
     ]
   },
   {
-    "la_id": 361,
+    "la_id": 356,
     "la_house_number": "2",
     "la_street": "RUE COMPAGNONS DE ABBE PIERRE",
     "la_additional_address": "COMMUNAUTE EMMAUS FRANCE   ",
@@ -8498,13 +8378,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 114,
+    "fk_or": 43,
     "stock_import": [
       "20250128-0014-31-1"
     ]
   },
   {
-    "la_id": 362,
+    "la_id": 357,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -8520,18 +8400,18 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 115,
+    "fk_or": 44,
     "stock_import": [
       "20241017-0011-8-1"
     ]
   },
   {
-    "la_id": 363,
+    "la_id": 358,
     "la_house_number": "11",
-    "la_street": "RUE DES COMPAGNONS D EMMAUS",
+    "la_street": " NATIONALE",
     "la_additional_address": "   ",
-    "la_postal_code": "35300",
-    "la_city": "FOUGERES",
+    "la_postal_code": "59400",
+    "la_city": "ESTOURMEL",
     "la_truck_access": false,
     "la_loading_dock": false,
     "la_forklift": false,
@@ -8542,14 +8422,15 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 252,
+    "fk_or": 116,
     "stock_import": [
-      "20231110-040-030-3",
-      "20240614-301-203-1"
+      "20231017-029-021-1",
+      "20231017-030-022-1",
+      "20231017-031-023-1"
     ]
   },
   {
-    "la_id": 364,
+    "la_id": 359,
     "la_house_number": "26",
     "la_street": "RUE DES CHAUFFOURS",
     "la_additional_address": "   ",
@@ -8565,7 +8446,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 116,
+    "fk_or": 45,
     "stock_import": [
       "20241112-0007-40-1",
       "20241128-0003-164-1",
@@ -8573,7 +8454,30 @@
     ]
   },
   {
-    "la_id": 365,
+    "la_id": 360,
+    "la_house_number": "",
+    "la_street": "RUE DU CHEMIN DES DAMES",
+    "la_additional_address": "COMMUNAUTE EMMAUS FRANCE   ",
+    "la_postal_code": "62700",
+    "la_city": "BRUAY-LA-BUISSIERE",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 46,
+    "stock_import": [
+      "20231229-091-059-1",
+      "20231110-040-030-1"
+    ]
+  },
+  {
+    "la_id": 361,
     "la_house_number": "15",
     "la_street": " LOUIS ARMAND",
     "la_additional_address": "   ",
@@ -8589,37 +8493,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 119,
+    "fk_or": 47,
     "stock_import": [
       "20240711-341-253-1",
       "20250205-0011-40-1"
     ]
   },
   {
-    "la_id": 366,
-    "la_house_number": "363",
-    "la_street": " COLONEL PICOT",
-    "la_additional_address": "MAISON PROVIDENCE   ",
-    "la_postal_code": "83100",
-    "la_city": "TOULON",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 400,
-    "stock_import": [
-      "20231115-042-026-1",
-      "20231222-090-061-1"
-    ]
-  },
-  {
-    "la_id": 367,
+    "la_id": 362,
     "la_house_number": null,
     "la_street": null,
     "la_additional_address": null,
@@ -8635,7 +8516,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 120,
+    "fk_or": null,
     "stock_import": [
       "20240108-094-064-1",
       "20240521-265-167-1",
@@ -8643,7 +8524,7 @@
     ]
   },
   {
-    "la_id": 368,
+    "la_id": 363,
     "la_house_number": "",
     "la_street": " LE VILLAGE",
     "la_additional_address": "RN 83 ROUTE NATIONALE 83  ",
@@ -8659,7 +8540,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 121,
+    "fk_or": 48,
     "stock_import": [
       "20241007-0006-37-1",
       "20241204-0014-6-1",
@@ -8667,7 +8548,7 @@
     ]
   },
   {
-    "la_id": 369,
+    "la_id": 364,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -8683,14 +8564,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 122,
+    "fk_or": 49,
     "stock_import": [
       "20241119-0007-47-1",
       "20240228-147-083-1"
     ]
   },
   {
-    "la_id": 370,
+    "la_id": 365,
     "la_house_number": "6",
     "la_street": "RUE ARCHEREAU",
     "la_additional_address": "   ",
@@ -8706,13 +8587,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 124,
+    "fk_or": 50,
     "stock_import": [
       "20250122-0003-165-1"
     ]
   },
   {
-    "la_id": 371,
+    "la_id": 366,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -8728,7 +8609,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 125,
+    "fk_or": 51,
     "stock_import": [
       "20240502-243-151-1",
       "20241106-0005-46-1",
@@ -8737,35 +8618,7 @@
     ]
   },
   {
-    "la_id": 372,
-    "la_house_number": "273",
-    "la_street": " DU HALAGE",
-    "la_additional_address": "   ",
-    "la_postal_code": "53100",
-    "la_city": "MAYENNE",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 286,
-    "stock_import": [
-      "20240916-429-275-1",
-      "20240214-127-073-1",
-      "20240415-202-123-1",
-      "20240903-411-258-1",
-      "20240926-450-287-1",
-      "20240723-361-227-4",
-      "20241023-0005-42-1"
-    ]
-  },
-  {
-    "la_id": 373,
+    "la_id": 367,
     "la_house_number": "131",
     "la_street": "RUE DU LIEROULT",
     "la_additional_address": "   ",
@@ -8781,7 +8634,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 126,
+    "fk_or": 52,
     "stock_import": [
       "20241120-0005-53-1",
       "20240709-337-212-1",
@@ -8790,7 +8643,33 @@
     ]
   },
   {
-    "la_id": 374,
+    "la_id": 368,
+    "la_house_number": "22",
+    "la_street": "RUE EMMAUS",
+    "la_additional_address": "   ",
+    "la_postal_code": "60000",
+    "la_city": "BEAUVAIS",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 70,
+    "stock_import": [
+      "20231026-035-024-1",
+      "20231201-063-033-1",
+      "20231207-069-056-2",
+      "20231210-026-027-1",
+      "20231211-075-058-3"
+    ]
+  },
+  {
+    "la_id": 369,
     "la_house_number": "6",
     "la_street": "RUE SAINT ANTOINE",
     "la_additional_address": "COMITE D AMIS EMMAUS   ",
@@ -8806,13 +8685,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 130,
+    "fk_or": 54,
     "stock_import": [
       "20241114-0004-89-1"
     ]
   },
   {
-    "la_id": 375,
+    "la_id": 370,
     "la_house_number": "",
     "la_street": "ROUTE DE SAINTE MARIE",
     "la_additional_address": "   ",
@@ -8828,13 +8707,109 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 131,
+    "fk_or": 55,
     "stock_import": [
       "20240919-433-276-1"
     ]
   },
   {
-    "la_id": 376,
+    "la_id": 371,
+    "la_house_number": "54",
+    "la_street": "RUE DU NOIR CORNET",
+    "la_additional_address": "COMMUNAUTE EMMAUS FRANCE  ST MARTIN AU LAERT ",
+    "la_postal_code": "62500",
+    "la_city": "SAINT-MARTIN-LEZ-TATINGHEM",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 67,
+    "stock_import": [
+      "20240619-309-184-1"
+    ]
+  },
+  {
+    "la_id": 372,
+    "la_house_number": "11",
+    "la_street": "RUE DES COMPAGNONS D EMMAUS",
+    "la_additional_address": "   ",
+    "la_postal_code": "35300",
+    "la_city": "FOUGERES",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 56,
+    "stock_import": [
+      "20231110-040-030-3",
+      "20240614-301-203-1"
+    ]
+  },
+  {
+    "la_id": 373,
+    "la_house_number": "363",
+    "la_street": " COLONEL PICOT",
+    "la_additional_address": "MAISON PROVIDENCE   ",
+    "la_postal_code": "83100",
+    "la_city": "TOULON",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 90,
+    "stock_import": [
+      "20231115-042-026-1",
+      "20231222-090-061-1"
+    ]
+  },
+  {
+    "la_id": 374,
+    "la_house_number": "273",
+    "la_street": " DU HALAGE",
+    "la_additional_address": "   ",
+    "la_postal_code": "53100",
+    "la_city": "MAYENNE",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 82,
+    "stock_import": [
+      "20240916-429-275-1",
+      "20240214-127-073-1",
+      "20240415-202-123-1",
+      "20240903-411-258-1",
+      "20240926-450-287-1",
+      "20240723-361-227-4",
+      "20241023-0005-42-1"
+    ]
+  },
+  {
+    "la_id": 375,
     "la_house_number": "31",
     "la_street": "RUE LA FONTAINE",
     "la_additional_address": "ECOLE LA FONTAINE   ",
@@ -8850,9 +8825,34 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 423,
+    "fk_or": 99,
     "stock_import": [
       "20231204-064-038-1"
+    ]
+  },
+  {
+    "la_id": 376,
+    "la_house_number": "7",
+    "la_street": "RUE DES PICHAUX",
+    "la_additional_address": "   ",
+    "la_postal_code": "52800",
+    "la_city": "FOULAIN",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 57,
+    "stock_import": [
+      "20241023-0006-44-1",
+      "20241115-0007-44-1",
+      "20240422-224-0003-81-1",
+      "20231211-074-051-1"
     ]
   },
   {
@@ -8872,38 +8872,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 395,
+    "fk_or": 89,
     "stock_import": [
       "20240619-310-185-1"
     ]
   },
   {
     "la_id": 378,
-    "la_house_number": "7",
-    "la_street": "RUE DES PICHAUX",
-    "la_additional_address": "   ",
-    "la_postal_code": "52800",
-    "la_city": "FOULAIN",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 144,
-    "stock_import": [
-      "20241023-0006-44-1",
-      "20241115-0007-44-1",
-      "20240422-224-0003-81-1",
-      "20231211-074-051-1"
-    ]
-  },
-  {
-    "la_id": 379,
     "la_house_number": "",
     "la_street": "RUE ST GERMAIN",
     "la_additional_address": "COMITE D AMIS EMMAUS FRANCE   ",
@@ -8919,7 +8894,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 146,
+    "fk_or": 58,
     "stock_import": [
       "20250107-0004-108-2",
       "20241127-0005-56-1",
@@ -8927,7 +8902,7 @@
     ]
   },
   {
-    "la_id": 380,
+    "la_id": 379,
     "la_house_number": "33",
     "la_street": "AVENUE DE VALENCE",
     "la_additional_address": "   ",
@@ -8943,7 +8918,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 149,
+    "fk_or": 59,
     "stock_import": [
       "20240424-226-138-1",
       "20231213-082-052-1",
@@ -8951,7 +8926,7 @@
     ]
   },
   {
-    "la_id": 381,
+    "la_id": 380,
     "la_house_number": "13",
     "la_street": "RUE DU PLESSIS",
     "la_additional_address": "COMITE DE SAINT NAZAIRE  BP 198 44606",
@@ -8967,13 +8942,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 458,
+    "fk_or": 114,
     "stock_import": [
       "20231207-071-041-1"
     ]
   },
   {
-    "la_id": 382,
+    "la_id": 381,
     "la_house_number": "",
     "la_street": " HAMEAU DU TRONQUAY",
     "la_additional_address": "   ",
@@ -8989,9 +8964,32 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 154,
+    "fk_or": 60,
     "stock_import": [
       "20241108-0005-49-1"
+    ]
+  },
+  {
+    "la_id": 382,
+    "la_house_number": "201",
+    "la_street": " DES BOULEAUX",
+    "la_additional_address": "   ",
+    "la_postal_code": "78190",
+    "la_city": "TRAPPES",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 77,
+    "stock_import": [
+      "20231210-026-027-2",
+      "20240417-212-136-1"
     ]
   },
   {
@@ -9011,7 +9009,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 413,
+    "fk_or": 95,
     "stock_import": [
       "20241113-0011-12-1",
       "20240717-349-219-1",
@@ -9022,11 +9020,11 @@
   },
   {
     "la_id": 384,
-    "la_house_number": "201",
-    "la_street": " DES BOULEAUX",
+    "la_house_number": "",
+    "la_street": " ",
     "la_additional_address": "   ",
-    "la_postal_code": "78190",
-    "la_city": "TRAPPES",
+    "la_postal_code": "",
+    "la_city": "",
     "la_truck_access": false,
     "la_loading_dock": false,
     "la_forklift": false,
@@ -9037,10 +9035,10 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 268,
+    "fk_or": 76,
     "stock_import": [
-      "20231210-026-027-2",
-      "20240417-212-136-1"
+      "20231211-075-058-2",
+      "20231211-076-046-1"
     ]
   },
   {
@@ -9060,7 +9058,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 265,
+    "fk_or": 75,
     "stock_import": [
       "20231212-081-049-1"
     ]
@@ -9068,10 +9066,10 @@
   {
     "la_id": 386,
     "la_house_number": "",
-    "la_street": " ",
-    "la_additional_address": "   ",
-    "la_postal_code": "",
-    "la_city": "",
+    "la_street": "RUE LAVOISIER",
+    "la_additional_address": "ZI N 1   ",
+    "la_postal_code": "62290",
+    "la_city": "NOEUX-LES-MINES",
     "la_truck_access": false,
     "la_loading_dock": false,
     "la_forklift": false,
@@ -9082,10 +9080,24 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 267,
+    "fk_or": 112,
     "stock_import": [
-      "20231211-075-058-2",
-      "20231211-076-046-1"
+      "20231211-077-048-1",
+      "20240209-148-095-1",
+      "20240923-442-283-1",
+      "20241015-0005-41-1",
+      "20240418-219-169-1",
+      "20241112-0004-88-1",
+      "20240719-355-266-1",
+      "20240731-385-1",
+      "20240903-413-267-1",
+      "20240827-407-259-1",
+      "20240909-422-279-1",
+      "20241018-0003-157-1",
+      "20241115-0011-13-1",
+      "20241125-0003-163-1",
+      "20241129-0004-95-1",
+      "20250127-0011-37-1"
     ]
   },
   {
@@ -9105,7 +9117,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 508,
+    "fk_or": 123,
     "stock_import": [
       "20240719-354-224-1",
       "20241028-0006-45-1",
@@ -9114,43 +9126,6 @@
   },
   {
     "la_id": 388,
-    "la_house_number": "",
-    "la_street": "RUE LAVOISIER",
-    "la_additional_address": "ZI N 1   ",
-    "la_postal_code": "62290",
-    "la_city": "NOEUX-LES-MINES",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 470,
-    "stock_import": [
-      "20231211-077-048-1",
-      "20240209-148-095-1",
-      "20240923-442-283-1",
-      "20241015-0005-41-1",
-      "20240418-219-169-1",
-      "20241112-0004-88-1",
-      "20240719-355-266-1",
-      "20240731-385-1",
-      "20240827-407-259-1",
-      "20240903-413-267-1",
-      "20240909-422-279-1",
-      "20241018-0003-157-1",
-      "20241115-0011-13-1",
-      "20241125-0003-163-1",
-      "20241129-0004-95-1",
-      "20250127-0011-37-1"
-    ]
-  },
-  {
-    "la_id": 389,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9166,13 +9141,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 186,
+    "fk_or": 64,
     "stock_import": [
       "20240701-332-208-1"
     ]
   },
   {
-    "la_id": 390,
+    "la_id": 389,
     "la_house_number": "60",
     "la_street": " DE BOULOGNE",
     "la_additional_address": "   ",
@@ -9188,7 +9163,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 191,
+    "fk_or": 65,
     "stock_import": [
       "20240312-156-091-1",
       "20240212-122-081-1",
@@ -9198,7 +9173,7 @@
     ]
   },
   {
-    "la_id": 391,
+    "la_id": 390,
     "la_house_number": "4",
     "la_street": "RUE GRAHAM BELL",
     "la_additional_address": "   ",
@@ -9214,13 +9189,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 193,
+    "fk_or": 66,
     "stock_import": [
       "20240925-449-291-1"
     ]
   },
   {
-    "la_id": 392,
+    "la_id": 391,
     "la_house_number": "361",
     "la_street": " ABBE PIERRE",
     "la_additional_address": "COMMUNAUTE EMMAUS   ",
@@ -9236,13 +9211,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 203,
+    "fk_or": 68,
     "stock_import": [
       "20240523-267-168-1"
     ]
   },
   {
-    "la_id": 393,
+    "la_id": 392,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9258,12 +9233,34 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 410,
+    "fk_or": 93,
     "stock_import": [
       "20240201-112-067-1",
       "20240409-192-118-1",
       "20240412-198-120-1",
       "20240926-451-288-1"
+    ]
+  },
+  {
+    "la_id": 393,
+    "la_house_number": "10",
+    "la_street": "RUE DE LA SOMME",
+    "la_additional_address": "   ",
+    "la_postal_code": "15000",
+    "la_city": "AURILLAC",
+    "la_truck_access": false,
+    "la_loading_dock": false,
+    "la_forklift": false,
+    "la_pallet": false,
+    "la_fenwick": false,
+    "la_palet_capacity": 0,
+    "la_longitude": 0,
+    "la_latitude": 0,
+    "la_isactive": false,
+    "fk_co": null,
+    "fk_or": 71,
+    "stock_import": [
+      "20240209-120-085-1"
     ]
   },
   {
@@ -9283,35 +9280,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 412,
+    "fk_or": 94,
     "stock_import": [
       "20241023-0007-33-2"
     ]
   },
   {
     "la_id": 395,
-    "la_house_number": "10",
-    "la_street": "RUE DE LA SOMME",
-    "la_additional_address": "   ",
-    "la_postal_code": "15000",
-    "la_city": "AURILLAC",
-    "la_truck_access": false,
-    "la_loading_dock": false,
-    "la_forklift": false,
-    "la_pallet": false,
-    "la_fenwick": false,
-    "la_palet_capacity": 0,
-    "la_longitude": 0,
-    "la_latitude": 0,
-    "la_isactive": false,
-    "fk_co": null,
-    "fk_or": 230,
-    "stock_import": [
-      "20240209-120-085-1"
-    ]
-  },
-  {
-    "la_id": 396,
     "la_house_number": "96",
     "la_street": "RUE DIDOT",
     "la_additional_address": "   ",
@@ -9327,7 +9302,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 433,
+    "fk_or": 103,
     "stock_import": [
       "20240223-143-087-1",
       "20240328-185-113-1",
@@ -9336,7 +9311,7 @@
     ]
   },
   {
-    "la_id": 397,
+    "la_id": 396,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9352,13 +9327,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 261,
+    "fk_or": 73,
     "stock_import": [
       "20240521-263-166-1"
     ]
   },
   {
-    "la_id": 398,
+    "la_id": 397,
     "la_house_number": "2",
     "la_street": "BOULEVARD THOMSON",
     "la_additional_address": "   ",
@@ -9374,14 +9349,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 270,
+    "fk_or": 78,
     "stock_import": [
       "20241022-0003-159-1",
       "20240607-289-178-1"
     ]
   },
   {
-    "la_id": 399,
+    "la_id": 398,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9397,13 +9372,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 392,
+    "fk_or": 86,
     "stock_import": [
       "20240903-412-260-1"
     ]
   },
   {
-    "la_id": 400,
+    "la_id": 399,
     "la_house_number": "",
     "la_street": "CITE LA MEYNARD",
     "la_additional_address": "BAT 32 APT 368   ",
@@ -9419,13 +9394,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 281,
+    "fk_or": 80,
     "stock_import": [
       "20250114-0014-26-1"
     ]
   },
   {
-    "la_id": 401,
+    "la_id": 400,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9441,13 +9416,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 282,
+    "fk_or": 81,
     "stock_import": [
       "20250203-0047-4-1"
     ]
   },
   {
-    "la_id": 402,
+    "la_id": 401,
     "la_house_number": "2",
     "la_street": "RUE DE PONTCHATEAU",
     "la_additional_address": "ENTREE B   ",
@@ -9463,14 +9438,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 296,
+    "fk_or": 83,
     "stock_import": [
       "20241209-0005-58-1",
       "20241205-0006-60-1"
     ]
   },
   {
-    "la_id": 403,
+    "la_id": 402,
     "la_house_number": "31",
     "la_street": "RUE FALGUIERE",
     "la_additional_address": "SIEGE   ",
@@ -9486,14 +9461,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 302,
+    "fk_or": 84,
     "stock_import": [
       "20241120-0018-3-1",
       "20241022-0007-30-1"
     ]
   },
   {
-    "la_id": 404,
+    "la_id": 403,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9509,13 +9484,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 430,
+    "fk_or": 101,
     "stock_import": [
       "20240403-187-114-1"
     ]
   },
   {
-    "la_id": 405,
+    "la_id": 404,
     "la_house_number": "20",
     "la_street": "RUE DU PALAIS",
     "la_additional_address": "MAISON DES ASSOCIATIONS MAISON DES ASSOCIATIONS  ",
@@ -9531,7 +9506,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 441,
+    "fk_or": 104,
     "stock_import": [
       "20241202-0005-57-1",
       "20241205-0008-22-2",
@@ -9541,7 +9516,7 @@
     ]
   },
   {
-    "la_id": 406,
+    "la_id": 405,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9557,13 +9532,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 402,
+    "fk_or": 91,
     "stock_import": [
       "20240412-200-133-1"
     ]
   },
   {
-    "la_id": 407,
+    "la_id": 406,
     "la_house_number": "23",
     "la_street": " DE LA SAGNE",
     "la_additional_address": "   ",
@@ -9579,14 +9554,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 432,
+    "fk_or": 102,
     "stock_import": [
       "20240416-207-130-1",
       "20250109-0020-12-1"
     ]
   },
   {
-    "la_id": 408,
+    "la_id": 407,
     "la_house_number": "",
     "la_street": " HLM CITE DES MONTS LUPINO",
     "la_additional_address": "BAT 42   ",
@@ -9602,14 +9577,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 494,
+    "fk_or": 121,
     "stock_import": [
       "20241024-0004-83-1",
       "20241025-0009-4-1"
     ]
   },
   {
-    "la_id": 409,
+    "la_id": 408,
     "la_house_number": "10",
     "la_street": "MONTEE SAINT JEAN",
     "la_additional_address": "   ",
@@ -9625,14 +9600,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 493,
+    "fk_or": 119,
     "stock_import": [
       "20250108-0011-30-1",
       "20240731-382-254-1"
     ]
   },
   {
-    "la_id": 410,
+    "la_id": 409,
     "la_house_number": "3237",
     "la_street": "AVENUE DE LA CROIX ROUGE",
     "la_additional_address": "   ",
@@ -9648,13 +9623,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 515,
+    "fk_or": 124,
     "stock_import": [
       "20240614-303-271-1"
     ]
   },
   {
-    "la_id": 411,
+    "la_id": 410,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9670,13 +9645,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 519,
+    "fk_or": 126,
     "stock_import": [
       "20250109-0011-31-1"
     ]
   },
   {
-    "la_id": 412,
+    "la_id": 411,
     "la_house_number": "25",
     "la_street": "RUE LE TINTORET",
     "la_additional_address": "   ",
@@ -9692,14 +9667,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 520,
+    "fk_or": 122,
     "stock_import": [
       "20250109-0011-31-2",
       "20241210-0008-24-1"
     ]
   },
   {
-    "la_id": 413,
+    "la_id": 412,
     "la_house_number": "7",
     "la_street": "RUE DES ENTREPRENEURS",
     "la_additional_address": "PARC D'ACTIVITE DES 6 MARIANNE PARC D'ACTIVITE DES 6 MARIANNE  ",
@@ -9715,13 +9690,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 391,
+    "fk_or": 85,
     "stock_import": [
       "20240723-361-227-5"
     ]
   },
   {
-    "la_id": 414,
+    "la_id": 413,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9737,13 +9712,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 393,
+    "fk_or": 87,
     "stock_import": [
       "20250114-0014-27-1"
     ]
   },
   {
-    "la_id": 415,
+    "la_id": 414,
     "la_house_number": "23",
     "la_street": "RUE PIERRE SEMARD",
     "la_additional_address": "M. ALIN ISMAEL   ",
@@ -9759,13 +9734,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 394,
+    "fk_or": 88,
     "stock_import": [
       "20240821-406-249-1"
     ]
   },
   {
-    "la_id": 416,
+    "la_id": 415,
     "la_house_number": "133",
     "la_street": " FRANKLIN ROOSEVELT",
     "la_additional_address": "   ",
@@ -9781,13 +9756,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 447,
+    "fk_or": 108,
     "stock_import": [
       "20240701-330-207-1"
     ]
   },
   {
-    "la_id": 417,
+    "la_id": 416,
     "la_house_number": "",
     "la_street": " ",
     "la_additional_address": "   ",
@@ -9803,14 +9778,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 418,
+    "fk_or": 96,
     "stock_import": [
       "20250117-0011-32-1",
       "20250130-0004-112-1"
     ]
   },
   {
-    "la_id": 418,
+    "la_id": 417,
     "la_house_number": "91",
     "la_street": "RUE DU CHAUFFOUR",
     "la_additional_address": "   ",
@@ -9826,14 +9801,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 421,
+    "fk_or": 98,
     "stock_import": [
       "20240726-373-231-1",
       "20240726-374-232-1"
     ]
   },
   {
-    "la_id": 419,
+    "la_id": 418,
     "la_house_number": "",
     "la_street": "AVENUE MICHEL RONDET",
     "la_additional_address": "BAT ENTREPRISES PLOT F SITE MINIER   ",
@@ -9849,7 +9824,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 426,
+    "fk_or": 100,
     "stock_import": [
       "20241211-0007-58-1",
       "20241028-0003-161-1",
@@ -9860,7 +9835,7 @@
     ]
   },
   {
-    "la_id": 420,
+    "la_id": 419,
     "la_house_number": "28",
     "la_street": " ZONE INDUSTRIELLE DU CENTRE",
     "la_additional_address": "   ",
@@ -9876,13 +9851,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 442,
+    "fk_or": 105,
     "stock_import": [
       "20241206-0004-97-1"
     ]
   },
   {
-    "la_id": 421,
+    "la_id": 420,
     "la_house_number": "100",
     "la_street": " DE VIENNE",
     "la_additional_address": "LYON 8EME   69372",
@@ -9898,14 +9873,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 448,
+    "fk_or": 109,
     "stock_import": [
       "20241023-0007-31-1",
       "20241211-0005-59-1"
     ]
   },
   {
-    "la_id": 422,
+    "la_id": 421,
     "la_house_number": "12",
     "la_street": "RUE FEDERICO GARCIA LORCA",
     "la_additional_address": "ZI DE L'HIPPODROME ZONE INDUSTRIELLE DE L HIPPODROME  ",
@@ -9921,14 +9896,14 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 516,
+    "fk_or": 125,
     "stock_import": [
       "20240809-395-241-1",
       "20241209-0020-3-1"
     ]
   },
   {
-    "la_id": 423,
+    "la_id": 422,
     "la_house_number": "61",
     "la_street": "RUE BARILLET DESCHAMPS",
     "la_additional_address": "   ",
@@ -9944,13 +9919,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 475,
+    "fk_or": 117,
     "stock_import": [
       "20241120-0005-52-2"
     ]
   },
   {
-    "la_id": 424,
+    "la_id": 423,
     "la_house_number": "147",
     "la_street": " DES ETATS UNIS",
     "la_additional_address": "   ",
@@ -9966,13 +9941,13 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 492,
+    "fk_or": 120,
     "stock_import": [
       "20240923-444-285-1"
     ]
   },
   {
-    "la_id": 425,
+    "la_id": 424,
     "la_house_number": "6",
     "la_street": "RUE AMEDEE PROUVOST",
     "la_additional_address": "   ",
@@ -9988,7 +9963,7 @@
     "la_latitude": 0,
     "la_isactive": false,
     "fk_co": null,
-    "fk_or": 452,
+    "fk_or": 110,
     "stock_import": [
       "20241129-0008-19-1"
     ]
