@@ -20,7 +20,7 @@
     "si_gpt_thread_category_id": null,
     "si_gpt_response_matching_json": null,
     "si_gpt_response_category_json": null,
-    "fk_st": null,
+    "fk_st": 0,
     "fk_la": null,
     "fk_tra": null
   },
@@ -45,7 +45,7 @@
     "si_gpt_thread_category_id": null,
     "si_gpt_response_matching_json": null,
     "si_gpt_response_category_json": null,
-    "fk_st": null,
+    "fk_st": 0,
     "fk_la": null,
     "fk_tra": null
   },
@@ -70,7 +70,7 @@
     "si_gpt_thread_category_id": null,
     "si_gpt_response_matching_json": null,
     "si_gpt_response_category_json": null,
-    "fk_st": null,
+    "fk_st": 0,
     "fk_la": null,
     "fk_tra": null
   },
@@ -95,7 +95,7 @@
     "si_gpt_thread_category_id": null,
     "si_gpt_response_matching_json": null,
     "si_gpt_response_category_json": null,
-    "fk_st": null,
+    "fk_st": 0,
     "fk_la": null,
     "fk_tra": null
   },
