@@ -11,66 +11,6 @@
   },
   {
     "id_ope": "20230221--006-001",
-    "si_id": 0,
-    "si_io": "20230221--006-001-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 0,
-    "si_io": "20230221--006-001-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 0,
-    "si_io": "20230221--006-001-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 1,
-    "si_io": "20230221--006-001-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 1,
-    "si_io": "20230221--006-001-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 1,
-    "si_io": "20230221--006-001-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
     "si_id": 1,
     "si_io": "20230221--006-001-2",
     "si_date_removal": null,
@@ -83,66 +23,6 @@
     "id_ope": "20230221--006-001",
     "si_id": 2,
     "si_io": "20230221--006-001-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 2,
-    "si_io": "20230221--006-001-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 2,
-    "si_io": "20230221--006-001-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 2,
-    "si_io": "20230221--006-001-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 3,
-    "si_io": "20230221--006-001-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 3,
-    "si_io": "20230221--006-001-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-01",
-    "si_total_price": 56178.71,
-    "fk_st": 0,
-    "fk_co": 104
-  },
-  {
-    "id_ope": "20230221--006-001",
-    "si_id": 3,
-    "si_io": "20230221--006-001-4",
     "si_date_removal": null,
     "si_date_delivery": "2023-03-01",
     "si_total_price": 56178.71,
@@ -191,26 +71,6 @@
   },
   {
     "id_ope": "20230310--005-002",
-    "si_id": 5,
-    "si_io": "20230310--005-002-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-15",
-    "si_total_price": 12178.41,
-    "fk_st": 2,
-    "fk_co": 107
-  },
-  {
-    "id_ope": "20230310--005-002",
-    "si_id": 6,
-    "si_io": "20230310--005-002-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-03-15",
-    "si_total_price": 12178.41,
-    "fk_st": 2,
-    "fk_co": 107
-  },
-  {
-    "id_ope": "20230310--005-002",
     "si_id": 6,
     "si_io": "20230310--005-002-2",
     "si_date_removal": null,
@@ -226,7 +86,7 @@
     "si_date_removal": "2024-11-28",
     "si_date_delivery": "2024-12-03",
     "si_total_price": 22957.79,
-    "fk_st": 235,
+    "fk_st": 236,
     "fk_co": 1
   },
   {
@@ -247,16 +107,16 @@
     "si_date_delivery": "2023-04-13",
     "si_total_price": 3200,
     "fk_st": 3,
-    "fk_co": 252
+    "fk_co": 251
   },
   {
     "id_ope": "20240711-341-253",
-    "si_id": 281,
+    "si_id": 282,
     "si_io": "20240711-341-253-1",
     "si_date_removal": "2024-09-19",
     "si_date_delivery": "2024-09-20",
     "si_total_price": 17484.87,
-    "fk_st": 238,
+    "fk_st": 239,
     "fk_co": 2
   },
   {
@@ -271,66 +131,6 @@
   },
   {
     "id_ope": "20240312-157-097",
-    "si_id": 8,
-    "si_io": "20240312-157-097-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-25",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 8,
-    "si_io": "20240312-157-097-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-25",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 8,
-    "si_io": "20240312-157-097-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-25",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 12,
-    "si_io": "20240312-157-097-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-10",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 12,
-    "si_io": "20240312-157-097-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-10",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 12,
-    "si_io": "20240312-157-097-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-10",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
     "si_id": 12,
     "si_io": "20240312-157-097-2",
     "si_date_removal": null,
@@ -345,66 +145,6 @@
     "si_io": "20240312-157-097-3",
     "si_date_removal": null,
     "si_date_delivery": "2024-04-25",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 16,
-    "si_io": "20240312-157-097-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-25",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 16,
-    "si_io": "20240312-157-097-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-25",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 16,
-    "si_io": "20240312-157-097-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-25",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 20,
-    "si_io": "20240312-157-097-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-10",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 20,
-    "si_io": "20240312-157-097-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-10",
-    "si_total_price": 74014.5,
-    "fk_st": 4,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240312-157-097",
-    "si_id": 20,
-    "si_io": "20240312-157-097-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-10",
     "si_total_price": 74014.5,
     "fk_st": 4,
     "fk_co": 86
@@ -421,12 +161,12 @@
   },
   {
     "id_ope": "20240710-340-229",
-    "si_id": 280,
+    "si_id": 281,
     "si_io": "20240710-340-229-1",
     "si_date_removal": "2024-11-12",
     "si_date_delivery": "2024-11-13",
     "si_total_price": 11898,
-    "fk_st": 237,
+    "fk_st": 238,
     "fk_co": 3
   },
   {
@@ -451,68 +191,8 @@
   },
   {
     "id_ope": "20230510--003-004",
-    "si_id": 10,
-    "si_io": "20230510--003-004-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-17",
-    "si_total_price": 760840.16,
-    "fk_st": 6,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230510--003-004",
-    "si_id": 10,
-    "si_io": "20230510--003-004-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-17",
-    "si_total_price": 760840.16,
-    "fk_st": 6,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230510--003-004",
     "si_id": 11,
     "si_io": "20230510--003-004-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-23",
-    "si_total_price": 760840.16,
-    "fk_st": 6,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230510--003-004",
-    "si_id": 11,
-    "si_io": "20230510--003-004-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-23",
-    "si_total_price": 760840.16,
-    "fk_st": 6,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230510--003-004",
-    "si_id": 11,
-    "si_io": "20230510--003-004-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-23",
-    "si_total_price": 760840.16,
-    "fk_st": 6,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230510--003-004",
-    "si_id": 13,
-    "si_io": "20230510--003-004-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-23",
-    "si_total_price": 760840.16,
-    "fk_st": 6,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230510--003-004",
-    "si_id": 13,
-    "si_io": "20230510--003-004-3",
     "si_date_removal": null,
     "si_date_delivery": "2023-05-23",
     "si_total_price": 760840.16,
@@ -541,26 +221,6 @@
   },
   {
     "id_ope": "20240820-403-250",
-    "si_id": 24,
-    "si_io": "20240820-403-250-1",
-    "si_date_removal": "2024-10-04",
-    "si_date_delivery": "2024-10-04",
-    "si_total_price": 135822.51999999999,
-    "fk_st": 12,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240820-403-250",
-    "si_id": 28,
-    "si_io": "20240820-403-250-2",
-    "si_date_removal": "2024-09-05",
-    "si_date_delivery": "2024-09-05",
-    "si_total_price": 135822.51999999999,
-    "fk_st": 12,
-    "fk_co": 86
-  },
-  {
-    "id_ope": "20240820-403-250",
     "si_id": 28,
     "si_io": "20240820-403-250-2",
     "si_date_removal": "2024-09-05",
@@ -573,26 +233,6 @@
     "id_ope": "20230512-000-007",
     "si_id": 14,
     "si_io": "20230512-000-007-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-26",
-    "si_total_price": 51716.480000000003,
-    "fk_st": 7,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230512-000-007",
-    "si_id": 14,
-    "si_io": "20230512-000-007-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-05-26",
-    "si_total_price": 51716.480000000003,
-    "fk_st": 7,
-    "fk_co": 140
-  },
-  {
-    "id_ope": "20230512-000-007",
-    "si_id": 15,
-    "si_io": "20230512-000-007-2",
     "si_date_removal": null,
     "si_date_delivery": "2023-05-26",
     "si_total_price": 51716.480000000003,
@@ -611,22 +251,22 @@
   },
   {
     "id_ope": "20231213-083-050",
-    "si_id": 102,
+    "si_id": 103,
     "si_io": "20231213-083-050-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-01-03",
     "si_total_price": 48731.77,
-    "fk_st": 69,
+    "fk_st": 70,
     "fk_co": 107
   },
   {
     "id_ope": "20240923-442-283",
-    "si_id": 196,
+    "si_id": 199,
     "si_io": "20240923-442-283-1",
     "si_date_removal": "2024-10-03",
     "si_date_delivery": "2024-10-04",
     "si_total_price": 23200,
-    "fk_st": 157,
+    "fk_st": 159,
     "fk_co": 5
   },
   {
@@ -641,12 +281,12 @@
   },
   {
     "id_ope": "20241015-0005-41",
-    "si_id": 199,
+    "si_id": 202,
     "si_io": "20241015-0005-41-1",
     "si_date_removal": "2024-10-24",
     "si_date_delivery": "2024-10-29",
     "si_total_price": 12150,
-    "fk_st": 159,
+    "fk_st": 162,
     "fk_co": 5
   },
   {
@@ -657,17 +297,7 @@
     "si_date_delivery": "2023-06-13",
     "si_total_price": 44048.229999999996,
     "fk_st": 9,
-    "fk_co": 249
-  },
-  {
-    "id_ope": "20230527-001-008",
-    "si_id": 18,
-    "si_io": "20230527-001-008-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-06-13",
-    "si_total_price": 44048.229999999996,
-    "fk_st": 9,
-    "fk_co": 249
+    "fk_co": 248
   },
   {
     "id_ope": "20230527-001-008",
@@ -677,26 +307,16 @@
     "si_date_delivery": "2023-06-13",
     "si_total_price": 44048.229999999996,
     "fk_st": 9,
-    "fk_co": 249
-  },
-  {
-    "id_ope": "20230527-001-008",
-    "si_id": 19,
-    "si_io": "20230527-001-008-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-06-13",
-    "si_total_price": 44048.229999999996,
-    "fk_st": 9,
-    "fk_co": 249
+    "fk_co": 248
   },
   {
     "id_ope": "20241028-0005-43",
-    "si_id": 202,
+    "si_id": 206,
     "si_io": "20241028-0005-43-1",
     "si_date_removal": "2024-11-26",
     "si_date_delivery": "2024-11-27",
     "si_total_price": 21452.97,
-    "fk_st": 162,
+    "fk_st": 166,
     "fk_co": 5
   },
   {
@@ -717,47 +337,27 @@
     "si_date_delivery": "2023-06-13",
     "si_total_price": 17529.939999999999,
     "fk_st": 10,
+    "fk_co": 242
+  },
+  {
+    "id_ope": "20230527-003-010",
+    "si_id": 22,
+    "si_io": "20230527-003-010-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-06-13",
+    "si_total_price": 17515.84,
+    "fk_st": 11,
     "fk_co": 243
   },
   {
     "id_ope": "20230527-003-010",
-    "si_id": 22,
-    "si_io": "20230527-003-010-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-06-13",
-    "si_total_price": 17515.84,
-    "fk_st": 11,
-    "fk_co": 244
-  },
-  {
-    "id_ope": "20230527-003-010",
-    "si_id": 22,
-    "si_io": "20230527-003-010-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-06-13",
-    "si_total_price": 17515.84,
-    "fk_st": 11,
-    "fk_co": 244
-  },
-  {
-    "id_ope": "20230527-003-010",
     "si_id": 23,
     "si_io": "20230527-003-010-2",
     "si_date_removal": null,
     "si_date_delivery": "2023-06-13",
     "si_total_price": 17515.84,
     "fk_st": 11,
-    "fk_co": 244
-  },
-  {
-    "id_ope": "20230527-003-010",
-    "si_id": 23,
-    "si_io": "20230527-003-010-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-06-13",
-    "si_total_price": 17515.84,
-    "fk_st": 11,
-    "fk_co": 244
+    "fk_co": 243
   },
   {
     "id_ope": "20230605-005-011",
@@ -767,7 +367,7 @@
     "si_date_delivery": "2023-06-13",
     "si_total_price": 17527.12,
     "fk_st": 13,
-    "fk_co": 247
+    "fk_co": 246
   },
   {
     "id_ope": "20230609-006-012",
@@ -801,46 +401,6 @@
   },
   {
     "id_ope": "20230629-008-013",
-    "si_id": 27,
-    "si_io": "20230629-008-013-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-09-15",
-    "si_total_price": 202562,
-    "fk_st": 15,
-    "fk_co": 108
-  },
-  {
-    "id_ope": "20230629-008-013",
-    "si_id": 27,
-    "si_io": "20230629-008-013-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-09-15",
-    "si_total_price": 202562,
-    "fk_st": 15,
-    "fk_co": 108
-  },
-  {
-    "id_ope": "20230629-008-013",
-    "si_id": 29,
-    "si_io": "20230629-008-013-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-09-15",
-    "si_total_price": 202562,
-    "fk_st": 15,
-    "fk_co": 108
-  },
-  {
-    "id_ope": "20230629-008-013",
-    "si_id": 29,
-    "si_io": "20230629-008-013-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-09-15",
-    "si_total_price": 202562,
-    "fk_st": 15,
-    "fk_co": 108
-  },
-  {
-    "id_ope": "20230629-008-013",
     "si_id": 29,
     "si_io": "20230629-008-013-2",
     "si_date_removal": null,
@@ -860,44 +420,24 @@
     "fk_co": 108
   },
   {
-    "id_ope": "20230629-008-013",
-    "si_id": 30,
-    "si_io": "20230629-008-013-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-09-15",
-    "si_total_price": 202562,
-    "fk_st": 15,
-    "fk_co": 108
-  },
-  {
-    "id_ope": "20230629-008-013",
-    "si_id": 30,
-    "si_io": "20230629-008-013-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-09-15",
-    "si_total_price": 202562,
-    "fk_st": 15,
-    "fk_co": 108
+    "id_ope": "20241023-0006-44",
+    "si_id": 100,
+    "si_io": "20241023-0006-44-1",
+    "si_date_removal": "2024-12-13",
+    "si_date_delivery": "2024-12-16",
+    "si_total_price": 67827.289999999994,
+    "fk_st": 67,
+    "fk_co": 14
   },
   {
     "id_ope": "20240227-146-084",
-    "si_id": 148,
+    "si_id": 149,
     "si_io": "20240227-146-084-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-04-11",
     "si_total_price": 107501.64,
-    "fk_st": 109,
+    "fk_st": 110,
     "fk_co": 15
-  },
-  {
-    "id_ope": "20240611-292-216",
-    "si_id": 247,
-    "si_io": "20240611-292-216-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-08-08",
-    "si_total_price": 19728.23,
-    "fk_st": 206,
-    "fk_co": 19
   },
   {
     "id_ope": "20230629-009-015",
@@ -908,6 +448,16 @@
     "si_total_price": 450,
     "fk_st": 16,
     "fk_co": 43
+  },
+  {
+    "id_ope": "20240611-292-216",
+    "si_id": 248,
+    "si_io": "20240611-292-216-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-08-08",
+    "si_total_price": 19728.23,
+    "fk_st": 207,
+    "fk_co": 19
   },
   {
     "id_ope": "20241031-0006-47",
@@ -931,16 +481,6 @@
   },
   {
     "id_ope": "20230901-013-014",
-    "si_id": 33,
-    "si_io": "20230901-013-014-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-02-01",
-    "si_total_price": 100676.28,
-    "fk_st": 18,
-    "fk_co": 141
-  },
-  {
-    "id_ope": "20230901-013-014",
     "si_id": 34,
     "si_io": "20230901-013-014-2",
     "si_date_removal": null,
@@ -950,14 +490,24 @@
     "fk_co": 141
   },
   {
-    "id_ope": "20230901-013-014",
-    "si_id": 34,
-    "si_io": "20230901-013-014-2",
+    "id_ope": "20230921-017-017",
+    "si_id": 35,
+    "si_io": "20230921-017-017-1",
     "si_date_removal": null,
-    "si_date_delivery": "2024-02-01",
-    "si_total_price": 100676.28,
-    "fk_st": 18,
-    "fk_co": 141
+    "si_date_delivery": "2023-10-23",
+    "si_total_price": 2903.27,
+    "fk_st": 19,
+    "fk_co": 177
+  },
+  {
+    "id_ope": "20230921-017-017",
+    "si_id": 36,
+    "si_io": "20230921-017-017-2",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-10-24",
+    "si_total_price": 2903.27,
+    "fk_st": 19,
+    "fk_co": 177
   },
   {
     "id_ope": "20240326-181-107",
@@ -970,63 +520,13 @@
     "fk_co": 22
   },
   {
-    "id_ope": "20230921-017-017",
-    "si_id": 35,
-    "si_io": "20230921-017-017-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-23",
-    "si_total_price": 2903.27,
-    "fk_st": 19,
-    "fk_co": 177
-  },
-  {
-    "id_ope": "20230921-017-017",
-    "si_id": 35,
-    "si_io": "20230921-017-017-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-23",
-    "si_total_price": 2903.27,
-    "fk_st": 19,
-    "fk_co": 177
-  },
-  {
-    "id_ope": "20230921-017-017",
-    "si_id": 36,
-    "si_io": "20230921-017-017-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-24",
-    "si_total_price": 2903.27,
-    "fk_st": 19,
-    "fk_co": 177
-  },
-  {
-    "id_ope": "20230921-017-017",
-    "si_id": 36,
-    "si_io": "20230921-017-017-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-24",
-    "si_total_price": 2903.27,
-    "fk_st": 19,
-    "fk_co": 177
-  },
-  {
     "id_ope": "20240521-262-159",
-    "si_id": 224,
+    "si_id": 225,
     "si_io": "20240521-262-159-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-05-28",
     "si_total_price": 16824.5,
-    "fk_st": 184,
-    "fk_co": 22
-  },
-  {
-    "id_ope": "20240531-277-172",
-    "si_id": 233,
-    "si_io": "20240531-277-172-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-06-06",
-    "si_total_price": 16492.32,
-    "fk_st": 193,
+    "fk_st": 185,
     "fk_co": 22
   },
   {
@@ -1037,16 +537,16 @@
     "si_date_delivery": "2024-12-24",
     "si_total_price": 1975,
     "fk_st": 20,
-    "fk_co": 241
+    "fk_co": 240
   },
   {
-    "id_ope": "20240701-330-207",
-    "si_id": 274,
-    "si_io": "20240701-330-207-1",
-    "si_date_removal": "2024-07-09",
-    "si_date_delivery": "2024-07-09",
-    "si_total_price": 13836.7,
-    "fk_st": 232,
+    "id_ope": "20240531-277-172",
+    "si_id": 233,
+    "si_io": "20240531-277-172-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-06-06",
+    "si_total_price": 16492.32,
+    "fk_st": 193,
     "fk_co": 22
   },
   {
@@ -1060,6 +560,46 @@
     "fk_co": 110
   },
   {
+    "id_ope": "20240701-330-207",
+    "si_id": 274,
+    "si_io": "20240701-330-207-1",
+    "si_date_removal": "2024-07-09",
+    "si_date_delivery": "2024-07-09",
+    "si_total_price": 13836.7,
+    "fk_st": 232,
+    "fk_co": 22
+  },
+  {
+    "id_ope": "20230928-019-016",
+    "si_id": 39,
+    "si_io": "20230928-019-016-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-10-26",
+    "si_total_price": 41953.120000000003,
+    "fk_st": 22,
+    "fk_co": 139
+  },
+  {
+    "id_ope": "20230928-019-016",
+    "si_id": 40,
+    "si_io": "20230928-019-016-2",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-10-26",
+    "si_total_price": 41953.120000000003,
+    "fk_st": 22,
+    "fk_co": 139
+  },
+  {
+    "id_ope": "20230928-019-016",
+    "si_id": 41,
+    "si_io": "20230928-019-016-3",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-10-26",
+    "si_total_price": 41953.120000000003,
+    "fk_st": 22,
+    "fk_co": 139
+  },
+  {
     "id_ope": "20240410-195-119",
     "si_id": 181,
     "si_io": "20240410-195-119-1",
@@ -1070,96 +610,6 @@
     "fk_co": 24
   },
   {
-    "id_ope": "20230928-019-016",
-    "si_id": 39,
-    "si_io": "20230928-019-016-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 39,
-    "si_io": "20230928-019-016-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 39,
-    "si_io": "20230928-019-016-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 40,
-    "si_io": "20230928-019-016-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 40,
-    "si_io": "20230928-019-016-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 40,
-    "si_io": "20230928-019-016-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 41,
-    "si_io": "20230928-019-016-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 41,
-    "si_io": "20230928-019-016-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
-    "id_ope": "20230928-019-016",
-    "si_id": 41,
-    "si_io": "20230928-019-016-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-26",
-    "si_total_price": 41953.120000000003,
-    "fk_st": 22,
-    "fk_co": 139
-  },
-  {
     "id_ope": "20241205-0008-23",
     "si_id": 42,
     "si_io": "20241205-0008-23-1",
@@ -1167,7 +617,7 @@
     "si_date_delivery": "2025-01-21",
     "si_total_price": 4381.43,
     "fk_st": 23,
-    "fk_co": 266
+    "fk_co": 265
   },
   {
     "id_ope": "20230929-020-019",
@@ -1177,16 +627,16 @@
     "si_date_delivery": "2023-10-13",
     "si_total_price": 17714.830000000002,
     "fk_st": 24,
-    "fk_co": 267
+    "fk_co": 266
   },
   {
     "id_ope": "20240122-101-066",
-    "si_id": 116,
+    "si_id": 117,
     "si_io": "20240122-101-066-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-03-15",
     "si_total_price": 2239.13,
-    "fk_st": 83,
+    "fk_st": 84,
     "fk_co": 139
   },
   {
@@ -1197,7 +647,7 @@
     "si_date_delivery": "2023-12-15",
     "si_total_price": 116056.2,
     "fk_st": 25,
-    "fk_co": 234
+    "fk_co": 233
   },
   {
     "id_ope": "20231010-025-020",
@@ -1210,16 +660,6 @@
     "fk_co": 89
   },
   {
-    "id_ope": "20240430-240-150",
-    "si_id": 211,
-    "si_io": "20240430-240-150-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-05-16",
-    "si_total_price": 2012.5,
-    "fk_st": 171,
-    "fk_co": 28
-  },
-  {
     "id_ope": "20231016-028-031",
     "si_id": 46,
     "si_io": "20231016-028-031-1",
@@ -1230,13 +670,13 @@
     "fk_co": 77
   },
   {
-    "id_ope": "20240516-257-160",
-    "si_id": 222,
-    "si_io": "20240516-257-160-1",
+    "id_ope": "20240430-240-150",
+    "si_id": 212,
+    "si_io": "20240430-240-150-1",
     "si_date_removal": null,
-    "si_date_delivery": "2024-06-03",
-    "si_total_price": 8823.08,
-    "fk_st": 182,
+    "si_date_delivery": "2024-05-16",
+    "si_total_price": 2012.5,
+    "fk_st": 172,
     "fk_co": 28
   },
   {
@@ -1247,17 +687,7 @@
     "si_date_delivery": "2023-10-27",
     "si_total_price": 17580,
     "fk_st": 28,
-    "fk_co": 245
-  },
-  {
-    "id_ope": "20231017-029-021",
-    "si_id": 47,
-    "si_io": "20231017-029-021-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-27",
-    "si_total_price": 17580,
-    "fk_st": 28,
-    "fk_co": 245
+    "fk_co": 244
   },
   {
     "id_ope": "20231017-029-021",
@@ -1267,26 +697,26 @@
     "si_date_delivery": "2023-10-27",
     "si_total_price": 17580,
     "fk_st": 28,
-    "fk_co": 245
+    "fk_co": 244
   },
   {
-    "id_ope": "20231017-029-021",
-    "si_id": 48,
-    "si_io": "20231017-029-021-2",
+    "id_ope": "20240516-257-160",
+    "si_id": 223,
+    "si_io": "20240516-257-160-1",
     "si_date_removal": null,
-    "si_date_delivery": "2023-10-27",
-    "si_total_price": 17580,
-    "fk_st": 28,
-    "fk_co": 245
+    "si_date_delivery": "2024-06-03",
+    "si_total_price": 8823.08,
+    "fk_st": 183,
+    "fk_co": 28
   },
   {
     "id_ope": "20240709-337-212",
-    "si_id": 279,
+    "si_id": 280,
     "si_io": "20240709-337-212-1",
     "si_date_removal": "2024-07-15",
     "si_date_delivery": "2024-07-16",
     "si_total_price": 2993,
-    "fk_st": 236,
+    "fk_st": 237,
     "fk_co": 28
   },
   {
@@ -1300,16 +730,6 @@
     "fk_co": 30
   },
   {
-    "id_ope": "20240712-342-214",
-    "si_id": 212,
-    "si_io": "20240712-342-214-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-08-06",
-    "si_total_price": 127910.62,
-    "fk_st": 172,
-    "fk_co": 30
-  },
-  {
     "id_ope": "20250123-0008-41",
     "si_id": 49,
     "si_io": "20250123-0008-41-1",
@@ -1317,7 +737,17 @@
     "si_date_delivery": "2025-02-04",
     "si_total_price": 2633.49,
     "fk_st": 29,
-    "fk_co": 266
+    "fk_co": 265
+  },
+  {
+    "id_ope": "20240712-342-214",
+    "si_id": 216,
+    "si_io": "20240712-342-214-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-08-06",
+    "si_total_price": 127910.62,
+    "fk_st": 176,
+    "fk_co": 30
   },
   {
     "id_ope": "20231017-030-022",
@@ -1327,17 +757,7 @@
     "si_date_delivery": "2023-10-27",
     "si_total_price": 17550.79,
     "fk_st": 30,
-    "fk_co": 246
-  },
-  {
-    "id_ope": "20231017-030-022",
-    "si_id": 50,
-    "si_io": "20231017-030-022-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-27",
-    "si_total_price": 17550.79,
-    "fk_st": 30,
-    "fk_co": 246
+    "fk_co": 245
   },
   {
     "id_ope": "20231017-030-022",
@@ -1347,17 +767,7 @@
     "si_date_delivery": "2023-10-27",
     "si_total_price": 17550.79,
     "fk_st": 30,
-    "fk_co": 246
-  },
-  {
-    "id_ope": "20231017-030-022",
-    "si_id": 51,
-    "si_io": "20231017-030-022-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-27",
-    "si_total_price": 17550.79,
-    "fk_st": 30,
-    "fk_co": 246
+    "fk_co": 245
   },
   {
     "id_ope": "20231017-031-023",
@@ -1367,17 +777,7 @@
     "si_date_delivery": "2023-10-27",
     "si_total_price": 17667.919999999998,
     "fk_st": 31,
-    "fk_co": 242
-  },
-  {
-    "id_ope": "20231017-031-023",
-    "si_id": 52,
-    "si_io": "20231017-031-023-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-27",
-    "si_total_price": 17667.919999999998,
-    "fk_st": 31,
-    "fk_co": 242
+    "fk_co": 241
   },
   {
     "id_ope": "20231017-031-023",
@@ -1387,27 +787,7 @@
     "si_date_delivery": "2023-10-27",
     "si_total_price": 17667.919999999998,
     "fk_st": 31,
-    "fk_co": 242
-  },
-  {
-    "id_ope": "20231017-031-023",
-    "si_id": 54,
-    "si_io": "20231017-031-023-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-10-27",
-    "si_total_price": 17667.919999999998,
-    "fk_st": 31,
-    "fk_co": 242
-  },
-  {
-    "id_ope": "20240226-098-089",
-    "si_id": 147,
-    "si_io": "20240226-098-089-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-09-13",
-    "si_total_price": 2751.12,
-    "fk_st": 108,
-    "fk_co": 141
+    "fk_co": 241
   },
   {
     "id_ope": "20250130-0008-50",
@@ -1417,16 +797,26 @@
     "si_date_delivery": "2025-02-14",
     "si_total_price": 3200,
     "fk_st": 32,
-    "fk_co": 266
+    "fk_co": 265
+  },
+  {
+    "id_ope": "20240226-098-089",
+    "si_id": 148,
+    "si_io": "20240226-098-089-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-09-13",
+    "si_total_price": 2751.12,
+    "fk_st": 109,
+    "fk_co": 141
   },
   {
     "id_ope": "20240412-199-122",
-    "si_id": 182,
+    "si_id": 183,
     "si_io": "20240412-199-122-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-09-13",
     "si_total_price": 109247.22,
-    "fk_st": 143,
+    "fk_st": 144,
     "fk_co": 141
   },
   {
@@ -1440,6 +830,26 @@
     "fk_co": 141
   },
   {
+    "id_ope": "20231026-035-024",
+    "si_id": 56,
+    "si_io": "20231026-035-024-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-11-08",
+    "si_total_price": 90659.33,
+    "fk_st": 34,
+    "fk_co": 283
+  },
+  {
+    "id_ope": "20231026-035-024",
+    "si_id": 58,
+    "si_io": "20231026-035-024-2",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-11-09",
+    "si_total_price": 90659.33,
+    "fk_st": 34,
+    "fk_co": 283
+  },
+  {
     "id_ope": "20240501-242-148",
     "si_id": 214,
     "si_io": "20240501-242-148-1",
@@ -1450,56 +860,6 @@
     "fk_co": 141
   },
   {
-    "id_ope": "20231026-035-024",
-    "si_id": 56,
-    "si_io": "20231026-035-024-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-11-08",
-    "si_total_price": 90659.33,
-    "fk_st": 34,
-    "fk_co": 284
-  },
-  {
-    "id_ope": "20231026-035-024",
-    "si_id": 56,
-    "si_io": "20231026-035-024-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-11-08",
-    "si_total_price": 90659.33,
-    "fk_st": 34,
-    "fk_co": 284
-  },
-  {
-    "id_ope": "20231026-035-024",
-    "si_id": 58,
-    "si_io": "20231026-035-024-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-11-09",
-    "si_total_price": 90659.33,
-    "fk_st": 34,
-    "fk_co": 284
-  },
-  {
-    "id_ope": "20231026-035-024",
-    "si_id": 58,
-    "si_io": "20231026-035-024-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-11-09",
-    "si_total_price": 90659.33,
-    "fk_st": 34,
-    "fk_co": 284
-  },
-  {
-    "id_ope": "20240517-260-157",
-    "si_id": 223,
-    "si_io": "20240517-260-157-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-09-13",
-    "si_total_price": 137312.64000000001,
-    "fk_st": 183,
-    "fk_co": 141
-  },
-  {
     "id_ope": "20240125-106-102",
     "si_id": 57,
     "si_io": "20240125-106-102-1",
@@ -1507,7 +867,17 @@
     "si_date_delivery": "2024-04-08",
     "si_total_price": 221279.99,
     "fk_st": 35,
-    "fk_co": 220
+    "fk_co": 219
+  },
+  {
+    "id_ope": "20240517-260-157",
+    "si_id": 224,
+    "si_io": "20240517-260-157-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-09-13",
+    "si_total_price": 137312.64000000001,
+    "fk_st": 184,
+    "fk_co": 141
   },
   {
     "id_ope": "20240625-324-200",
@@ -1520,6 +890,16 @@
     "fk_co": 141
   },
   {
+    "id_ope": "20231108-037-025",
+    "si_id": 59,
+    "si_io": "20231108-037-025-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-11-16",
+    "si_total_price": 11899.86,
+    "fk_st": 36,
+    "fk_co": 266
+  },
+  {
     "id_ope": "20231205-068-036",
     "si_id": 80,
     "si_io": "20231205-068-036-1",
@@ -1530,14 +910,44 @@
     "fk_co": 34
   },
   {
-    "id_ope": "20231108-037-025",
-    "si_id": 59,
-    "si_io": "20231108-037-025-1",
+    "id_ope": "20231110-040-030",
+    "si_id": 60,
+    "si_io": "20231110-040-030-1",
     "si_date_removal": null,
-    "si_date_delivery": "2023-11-16",
-    "si_total_price": 11899.86,
-    "fk_st": 36,
-    "fk_co": 267
+    "si_date_delivery": "2023-12-20",
+    "si_total_price": 92017.67,
+    "fk_st": 37,
+    "fk_co": 293
+  },
+  {
+    "id_ope": "20231110-040-030",
+    "si_id": 61,
+    "si_io": "20231110-040-030-2",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-12-19",
+    "si_total_price": 92017.67,
+    "fk_st": 37,
+    "fk_co": 293
+  },
+  {
+    "id_ope": "20231110-040-030",
+    "si_id": 63,
+    "si_io": "20231110-040-030-3",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-12-19",
+    "si_total_price": 92017.67,
+    "fk_st": 37,
+    "fk_co": 293
+  },
+  {
+    "id_ope": "20231110-040-030",
+    "si_id": 64,
+    "si_io": "20231110-040-030-4",
+    "si_date_removal": null,
+    "si_date_delivery": "2023-12-15",
+    "si_total_price": 92017.67,
+    "fk_st": 37,
+    "fk_co": 293
   },
   {
     "id_ope": "20240605-279-174",
@@ -1550,166 +960,6 @@
     "fk_co": 34
   },
   {
-    "id_ope": "20231110-040-030",
-    "si_id": 60,
-    "si_io": "20231110-040-030-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-20",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 60,
-    "si_io": "20231110-040-030-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-20",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 60,
-    "si_io": "20231110-040-030-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-20",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 60,
-    "si_io": "20231110-040-030-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-20",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 61,
-    "si_io": "20231110-040-030-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 61,
-    "si_io": "20231110-040-030-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 61,
-    "si_io": "20231110-040-030-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 61,
-    "si_io": "20231110-040-030-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 63,
-    "si_io": "20231110-040-030-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 63,
-    "si_io": "20231110-040-030-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 63,
-    "si_io": "20231110-040-030-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 63,
-    "si_io": "20231110-040-030-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-19",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 64,
-    "si_io": "20231110-040-030-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-15",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 64,
-    "si_io": "20231110-040-030-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-15",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 64,
-    "si_io": "20231110-040-030-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-15",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
-    "id_ope": "20231110-040-030",
-    "si_id": 64,
-    "si_io": "20231110-040-030-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-15",
-    "si_total_price": 92017.67,
-    "fk_st": 37,
-    "fk_co": 294
-  },
-  {
     "id_ope": "20240619-309-184",
     "si_id": 62,
     "si_io": "20240619-309-184-1",
@@ -1717,7 +967,7 @@
     "si_date_delivery": "2024-07-25",
     "si_total_price": 36351.599999999999,
     "fk_st": 38,
-    "fk_co": 230
+    "fk_co": 229
   },
   {
     "id_ope": "20240214-127-073",
@@ -1726,7 +976,7 @@
     "si_date_removal": "2024-02-28",
     "si_date_delivery": "2024-02-28",
     "si_total_price": 16432.990000000002,
-    "fk_st": 102,
+    "fk_st": 103,
     "fk_co": 177
   },
   {
@@ -1740,16 +990,6 @@
     "fk_co": 177
   },
   {
-    "id_ope": "20240415-202-123",
-    "si_id": 185,
-    "si_io": "20240415-202-123-1",
-    "si_date_removal": "2024-05-14",
-    "si_date_delivery": "2024-05-14",
-    "si_total_price": 22036.639999999999,
-    "fk_st": 146,
-    "fk_co": 177
-  },
-  {
     "id_ope": "20231115-042-026",
     "si_id": 65,
     "si_io": "20231115-042-026-1",
@@ -1757,16 +997,16 @@
     "si_date_delivery": "2023-11-23",
     "si_total_price": 3531.07,
     "fk_st": 39,
-    "fk_co": 217
+    "fk_co": 216
   },
   {
-    "id_ope": "20240516-256-156",
-    "si_id": 221,
-    "si_io": "20240516-256-156-1",
-    "si_date_removal": "2024-05-31",
-    "si_date_delivery": "2024-05-31",
-    "si_total_price": 37240.47,
-    "fk_st": 181,
+    "id_ope": "20240415-202-123",
+    "si_id": 185,
+    "si_io": "20240415-202-123-1",
+    "si_date_removal": "2024-05-14",
+    "si_date_delivery": "2024-05-14",
+    "si_total_price": 22036.639999999999,
+    "fk_st": 146,
     "fk_co": 177
   },
   {
@@ -1780,23 +1020,23 @@
     "fk_co": 146
   },
   {
+    "id_ope": "20240516-256-156",
+    "si_id": 222,
+    "si_io": "20240516-256-156-1",
+    "si_date_removal": "2024-05-31",
+    "si_date_delivery": "2024-05-31",
+    "si_total_price": 37240.47,
+    "fk_st": 182,
+    "fk_co": 177
+  },
+  {
     "id_ope": "20240613-297-180",
-    "si_id": 250,
+    "si_id": 251,
     "si_io": "20240613-297-180-1",
     "si_date_removal": "2024-06-26",
     "si_date_delivery": "2024-06-21",
     "si_total_price": 15685.77,
-    "fk_st": 209,
-    "fk_co": 177
-  },
-  {
-    "id_ope": "20240718-351-221",
-    "si_id": 286,
-    "si_io": "20240718-351-221-1",
-    "si_date_removal": "2024-08-09",
-    "si_date_delivery": "2024-08-09",
-    "si_total_price": 25566.95,
-    "fk_st": 243,
+    "fk_st": 210,
     "fk_co": 177
   },
   {
@@ -1808,6 +1048,16 @@
     "si_total_price": 101731,
     "fk_st": 41,
     "fk_co": 91
+  },
+  {
+    "id_ope": "20240718-351-221",
+    "si_id": 287,
+    "si_io": "20240718-351-221-1",
+    "si_date_removal": "2024-08-09",
+    "si_date_delivery": "2024-08-09",
+    "si_total_price": 25566.95,
+    "fk_st": 244,
+    "fk_co": 177
   },
   {
     "id_ope": "20240617-305-190",
@@ -1827,32 +1077,12 @@
     "si_date_delivery": "2025-02-27",
     "si_total_price": 18203.599999999999,
     "fk_st": 42,
-    "fk_co": 198
+    "fk_co": 197
   },
   {
     "id_ope": "20231121-050-042",
     "si_id": 69,
     "si_io": "20231121-050-042-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-20",
-    "si_total_price": 23140.39,
-    "fk_st": 43,
-    "fk_co": 129
-  },
-  {
-    "id_ope": "20231121-050-042",
-    "si_id": 69,
-    "si_io": "20231121-050-042-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-20",
-    "si_total_price": 23140.39,
-    "fk_st": 43,
-    "fk_co": 129
-  },
-  {
-    "id_ope": "20231121-050-042",
-    "si_id": 70,
-    "si_io": "20231121-050-042-2",
     "si_date_removal": null,
     "si_date_delivery": "2023-12-20",
     "si_total_price": 23140.39,
@@ -1887,7 +1117,7 @@
     "si_date_delivery": "2024-07-04",
     "si_total_price": 20133.16,
     "fk_st": 45,
-    "fk_co": 258
+    "fk_co": 257
   },
   {
     "id_ope": "20240117-0004-110",
@@ -1937,7 +1167,7 @@
     "si_date_delivery": "2024-02-19",
     "si_total_price": 46803.87,
     "fk_st": 90,
-    "fk_co": 267
+    "fk_co": 266
   },
   {
     "id_ope": "20231201-063-033",
@@ -1947,17 +1177,17 @@
     "si_date_delivery": "2023-12-13",
     "si_total_price": 46445.87,
     "fk_st": 49,
-    "fk_co": 189
+    "fk_co": 188
   },
   {
     "id_ope": "20240409-192-118",
-    "si_id": 151,
+    "si_id": 155,
     "si_io": "20240409-192-118-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-05-30",
     "si_total_price": 26795.56,
-    "fk_st": 112,
-    "fk_co": 267
+    "fk_st": 116,
+    "fk_co": 266
   },
   {
     "id_ope": "20231204-064-038",
@@ -1971,13 +1201,13 @@
   },
   {
     "id_ope": "20240412-198-120",
-    "si_id": 155,
+    "si_id": 156,
     "si_io": "20240412-198-120-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-05-30",
     "si_total_price": 19858.57,
-    "fk_st": 116,
-    "fk_co": 267
+    "fk_st": 117,
+    "fk_co": 266
   },
   {
     "id_ope": "20240916-429-275",
@@ -1987,17 +1217,17 @@
     "si_date_delivery": "2024-10-31",
     "si_total_price": 24746.17,
     "fk_st": 51,
-    "fk_co": 258
+    "fk_co": 257
   },
   {
     "id_ope": "20240923-441-284",
-    "si_id": 156,
+    "si_id": 160,
     "si_io": "20240923-441-284-1",
     "si_date_removal": "2024-10-06",
     "si_date_delivery": "2024-10-07",
     "si_total_price": 71465.52,
-    "fk_st": 117,
-    "fk_co": 267
+    "fk_st": 121,
+    "fk_co": 266
   },
   {
     "id_ope": "20231205-067-034",
@@ -2007,7 +1237,7 @@
     "si_date_delivery": "2023-12-21",
     "si_total_price": 14309,
     "fk_st": 52,
-    "fk_co": 261
+    "fk_co": 260
   },
   {
     "id_ope": "20240626-323-202",
@@ -2017,16 +1247,16 @@
     "si_date_delivery": "2024-07-12",
     "si_total_price": 168823,
     "fk_st": 228,
-    "fk_co": 234
+    "fk_co": 233
   },
   {
     "id_ope": "20241127-0005-56",
-    "si_id": 125,
+    "si_id": 128,
     "si_io": "20241127-0005-56-1",
     "si_date_removal": "2025-01-23",
     "si_date_delivery": "2025-01-23",
     "si_total_price": 85000,
-    "fk_st": 92,
+    "fk_st": 95,
     "fk_co": 44
   },
   {
@@ -2041,100 +1271,10 @@
   },
   {
     "id_ope": "20231207-069-056",
-    "si_id": 81,
-    "si_io": "20231207-069-056-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 81,
-    "si_io": "20231207-069-056-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 81,
-    "si_io": "20231207-069-056-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
     "si_id": 83,
     "si_io": "20231207-069-056-2",
     "si_date_removal": null,
     "si_date_delivery": "2024-01-08",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 83,
-    "si_io": "20231207-069-056-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-08",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 83,
-    "si_io": "20231207-069-056-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-08",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 83,
-    "si_io": "20231207-069-056-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-08",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 84,
-    "si_io": "20231207-069-056-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 84,
-    "si_io": "20231207-069-056-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 84,
-    "si_io": "20231207-069-056-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
     "si_total_price": 60000,
     "fk_st": 54,
     "fk_co": 91
@@ -2160,34 +1300,14 @@
     "fk_co": 91
   },
   {
-    "id_ope": "20231207-069-056",
-    "si_id": 85,
-    "si_io": "20231207-069-056-4",
+    "id_ope": "20240607-286-179",
+    "si_id": 82,
+    "si_io": "20240607-286-179-1",
     "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 85,
-    "si_io": "20231207-069-056-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20231207-069-056",
-    "si_id": 85,
-    "si_io": "20231207-069-056-4",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-22",
-    "si_total_price": 60000,
-    "fk_st": 54,
-    "fk_co": 91
+    "si_date_delivery": "2024-06-14",
+    "si_total_price": 1143.5999999999999,
+    "fk_st": 55,
+    "fk_co": 206
   },
   {
     "id_ope": "20240109-095-060",
@@ -2198,16 +1318,6 @@
     "si_total_price": 3938,
     "fk_st": 78,
     "fk_co": 89
-  },
-  {
-    "id_ope": "20240607-286-179",
-    "si_id": 82,
-    "si_io": "20240607-286-179-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-06-14",
-    "si_total_price": 1143.5999999999999,
-    "fk_st": 55,
-    "fk_co": 207
   },
   {
     "id_ope": "20240122-100-063",
@@ -2221,42 +1331,22 @@
   },
   {
     "id_ope": "20250109-0011-31",
-    "si_id": 272,
+    "si_id": 276,
     "si_io": "20250109-0011-31-1",
     "si_date_removal": "2025-01-27",
     "si_date_delivery": "2025-01-28",
     "si_total_price": 63067.01,
-    "fk_st": 230,
+    "fk_st": 234,
     "fk_co": 45
   },
   {
     "id_ope": "20250109-0011-31",
-    "si_id": 272,
-    "si_io": "20250109-0011-31-1",
-    "si_date_removal": "2025-01-27",
-    "si_date_delivery": "2025-01-28",
-    "si_total_price": 63067.01,
-    "fk_st": 230,
-    "fk_co": 45
-  },
-  {
-    "id_ope": "20250109-0011-31",
-    "si_id": 276,
+    "si_id": 279,
     "si_io": "20250109-0011-31-2",
     "si_date_removal": "2025-01-27",
     "si_date_delivery": "2025-01-27",
     "si_total_price": 63067.01,
-    "fk_st": 230,
-    "fk_co": 45
-  },
-  {
-    "id_ope": "20250109-0011-31",
-    "si_id": 276,
-    "si_io": "20250109-0011-31-2",
-    "si_date_removal": "2025-01-27",
-    "si_date_delivery": "2025-01-27",
-    "si_total_price": 63067.01,
-    "fk_st": 230,
+    "fk_st": 234,
     "fk_co": 45
   },
   {
@@ -2270,6 +1360,16 @@
     "fk_co": 68
   },
   {
+    "id_ope": "20240619-310-185",
+    "si_id": 87,
+    "si_io": "20240619-310-185-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-07-04",
+    "si_total_price": 2609.11,
+    "fk_st": 57,
+    "fk_co": 206
+  },
+  {
     "id_ope": "20240312-159-094",
     "si_id": 157,
     "si_io": "20240312-159-094-1",
@@ -2278,16 +1378,6 @@
     "si_total_price": 30250,
     "fk_st": 118,
     "fk_co": 49
-  },
-  {
-    "id_ope": "20240619-310-185",
-    "si_id": 87,
-    "si_io": "20240619-310-185-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-07-04",
-    "si_total_price": 2609.11,
-    "fk_st": 57,
-    "fk_co": 207
   },
   {
     "id_ope": "20240613-300-187",
@@ -2307,7 +1397,7 @@
     "si_date_delivery": "2024-02-08",
     "si_total_price": 224062,
     "fk_st": 58,
-    "fk_co": 273
+    "fk_co": 272
   },
   {
     "id_ope": "20231210-026-027",
@@ -2317,17 +1407,7 @@
     "si_date_delivery": "2023-12-05",
     "si_total_price": 27645.75,
     "fk_st": 59,
-    "fk_co": 235
-  },
-  {
-    "id_ope": "20231210-026-027",
-    "si_id": 89,
-    "si_io": "20231210-026-027-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-05",
-    "si_total_price": 27645.75,
-    "fk_st": 59,
-    "fk_co": 235
+    "fk_co": 234
   },
   {
     "id_ope": "20231210-026-027",
@@ -2337,42 +1417,12 @@
     "si_date_delivery": "2023-12-05",
     "si_total_price": 27645.75,
     "fk_st": 59,
-    "fk_co": 235
-  },
-  {
-    "id_ope": "20231210-026-027",
-    "si_id": 90,
-    "si_io": "20231210-026-027-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2023-12-05",
-    "si_total_price": 27645.75,
-    "fk_st": 59,
-    "fk_co": 235
+    "fk_co": 234
   },
   {
     "id_ope": "20240418-219-169",
     "si_id": 197,
     "si_io": "20240418-219-169-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-08-07",
-    "si_total_price": 87260.13,
-    "fk_st": 158,
-    "fk_co": 51
-  },
-  {
-    "id_ope": "20240418-219-169",
-    "si_id": 197,
-    "si_io": "20240418-219-169-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-08-07",
-    "si_total_price": 87260.13,
-    "fk_st": 158,
-    "fk_co": 51
-  },
-  {
-    "id_ope": "20240418-219-169",
-    "si_id": 198,
-    "si_io": "20240418-219-169-2",
     "si_date_removal": null,
     "si_date_delivery": "2024-08-07",
     "si_total_price": 87260.13,
@@ -2397,7 +1447,7 @@
     "si_date_delivery": "2023-12-21",
     "si_total_price": 38921.58,
     "fk_st": 60,
-    "fk_co": 201
+    "fk_co": 200
   },
   {
     "id_ope": "20240418-216-131",
@@ -2407,7 +1457,7 @@
     "si_date_delivery": "2024-04-25",
     "si_total_price": 1137.31,
     "fk_st": 61,
-    "fk_co": 207
+    "fk_co": 206
   },
   {
     "id_ope": "20231211-075-058",
@@ -2417,27 +1467,7 @@
     "si_date_delivery": "2024-01-18",
     "si_total_price": 64807,
     "fk_st": 62,
-    "fk_co": 254
-  },
-  {
-    "id_ope": "20231211-075-058",
-    "si_id": 93,
-    "si_io": "20231211-075-058-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-18",
-    "si_total_price": 64807,
-    "fk_st": 62,
-    "fk_co": 254
-  },
-  {
-    "id_ope": "20231211-075-058",
-    "si_id": 93,
-    "si_io": "20231211-075-058-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-18",
-    "si_total_price": 64807,
-    "fk_st": 62,
-    "fk_co": 254
+    "fk_co": 253
   },
   {
     "id_ope": "20231211-075-058",
@@ -2447,27 +1477,7 @@
     "si_date_delivery": "2024-01-23",
     "si_total_price": 64807,
     "fk_st": 62,
-    "fk_co": 254
-  },
-  {
-    "id_ope": "20231211-075-058",
-    "si_id": 94,
-    "si_io": "20231211-075-058-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-23",
-    "si_total_price": 64807,
-    "fk_st": 62,
-    "fk_co": 254
-  },
-  {
-    "id_ope": "20231211-075-058",
-    "si_id": 94,
-    "si_io": "20231211-075-058-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-23",
-    "si_total_price": 64807,
-    "fk_st": 62,
-    "fk_co": 254
+    "fk_co": 253
   },
   {
     "id_ope": "20231211-075-058",
@@ -2477,27 +1487,7 @@
     "si_date_delivery": "2024-01-22",
     "si_total_price": 64807,
     "fk_st": 62,
-    "fk_co": 254
-  },
-  {
-    "id_ope": "20231211-075-058",
-    "si_id": 95,
-    "si_io": "20231211-075-058-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-22",
-    "si_total_price": 64807,
-    "fk_st": 62,
-    "fk_co": 254
-  },
-  {
-    "id_ope": "20231211-075-058",
-    "si_id": 95,
-    "si_io": "20231211-075-058-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-01-22",
-    "si_total_price": 64807,
-    "fk_st": 62,
-    "fk_co": 254
+    "fk_co": 253
   },
   {
     "id_ope": "20240424-232-140",
@@ -2517,7 +1507,7 @@
     "si_date_delivery": "2024-12-24",
     "si_total_price": 2750.11,
     "fk_st": 63,
-    "fk_co": 259
+    "fk_co": 258
   },
   {
     "id_ope": "20231211-076-046",
@@ -2527,16 +1517,16 @@
     "si_date_delivery": "2024-01-16",
     "si_total_price": 2060,
     "fk_st": 64,
-    "fk_co": 190
+    "fk_co": 189
   },
   {
     "id_ope": "20240610-291-192",
-    "si_id": 246,
+    "si_id": 247,
     "si_io": "20240610-291-192-1",
     "si_date_removal": "2024-07-15",
     "si_date_delivery": "2024-07-17",
     "si_total_price": 42637.73,
-    "fk_st": 205,
+    "fk_st": 206,
     "fk_co": 57
   },
   {
@@ -2547,16 +1537,16 @@
     "si_date_delivery": "2024-01-11",
     "si_total_price": 1200,
     "fk_st": 65,
-    "fk_co": 213
+    "fk_co": 212
   },
   {
     "id_ope": "20240521-263-166",
-    "si_id": 225,
+    "si_id": 226,
     "si_io": "20240521-263-166-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-07-01",
     "si_total_price": 155625.49,
-    "fk_st": 185,
+    "fk_st": 186,
     "fk_co": 58
   },
   {
@@ -2571,53 +1561,33 @@
   },
   {
     "id_ope": "20231212-081-049",
-    "si_id": 100,
+    "si_id": 101,
     "si_io": "20231212-081-049-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-02-02",
     "si_total_price": 15795,
-    "fk_st": 67,
-    "fk_co": 260
+    "fk_st": 68,
+    "fk_co": 259
   },
   {
     "id_ope": "20231213-082-052",
-    "si_id": 101,
+    "si_id": 102,
     "si_io": "20231213-082-052-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-01-02",
     "si_total_price": 24749.65,
-    "fk_st": 68,
-    "fk_co": 221
+    "fk_st": 69,
+    "fk_co": 220
   },
   {
     "id_ope": "20231215-084-053",
-    "si_id": 103,
+    "si_id": 104,
     "si_io": "20231215-084-053-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-01-02",
     "si_total_price": 25762.98,
-    "fk_st": 70,
-    "fk_co": 221
-  },
-  {
-    "id_ope": "20240719-354-224",
-    "si_id": 104,
-    "si_io": "20240719-354-224-1",
-    "si_date_removal": "2024-08-01",
-    "si_date_delivery": "2024-08-01",
-    "si_total_price": 2847.22,
     "fk_st": 71,
-    "fk_co": 233
-  },
-  {
-    "id_ope": "20240410-194-121",
-    "si_id": 180,
-    "si_io": "20240410-194-121-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-08-01",
-    "si_total_price": 50987.71,
-    "fk_st": 141,
-    "fk_co": 63
+    "fk_co": 220
   },
   {
     "id_ope": "20231218-086-055",
@@ -2630,6 +1600,16 @@
     "fk_co": 132
   },
   {
+    "id_ope": "20240410-194-121",
+    "si_id": 180,
+    "si_io": "20240410-194-121-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-08-01",
+    "si_total_price": 50987.71,
+    "fk_st": 141,
+    "fk_co": 63
+  },
+  {
     "id_ope": "20231219-087-054",
     "si_id": 106,
     "si_io": "20231219-087-054-1",
@@ -2637,7 +1617,7 @@
     "si_date_delivery": "2024-01-11",
     "si_total_price": 63683.27,
     "fk_st": 73,
-    "fk_co": 281
+    "fk_co": 280
   },
   {
     "id_ope": "20231221-089-057",
@@ -2657,7 +1637,7 @@
     "si_date_delivery": "2024-01-18",
     "si_total_price": 1554.65,
     "fk_st": 75,
-    "fk_co": 211
+    "fk_co": 210
   },
   {
     "id_ope": "20231229-091-059",
@@ -2667,7 +1647,7 @@
     "si_date_delivery": "2024-01-08",
     "si_total_price": 6534.32,
     "fk_st": 76,
-    "fk_co": 279
+    "fk_co": 278
   },
   {
     "id_ope": "20240108-094-064",
@@ -2677,7 +1657,7 @@
     "si_date_delivery": "2024-02-21",
     "si_total_price": 37636,
     "fk_st": 77,
-    "fk_co": 225
+    "fk_co": 224
   },
   {
     "id_ope": "20240723-361-227",
@@ -2685,86 +1665,6 @@
     "si_io": "20240723-361-227-1",
     "si_date_removal": "2024-08-08",
     "si_date_delivery": "2024-08-25",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 292,
-    "si_io": "20240723-361-227-1",
-    "si_date_removal": "2024-08-08",
-    "si_date_delivery": "2024-08-25",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 292,
-    "si_io": "20240723-361-227-1",
-    "si_date_removal": "2024-08-08",
-    "si_date_delivery": "2024-08-25",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 292,
-    "si_io": "20240723-361-227-1",
-    "si_date_removal": "2024-08-08",
-    "si_date_delivery": "2024-08-25",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 292,
-    "si_io": "20240723-361-227-1",
-    "si_date_removal": "2024-08-08",
-    "si_date_delivery": "2024-08-25",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 293,
-    "si_io": "20240723-361-227-2",
-    "si_date_removal": "2024-08-11",
-    "si_date_delivery": "2024-08-21",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 293,
-    "si_io": "20240723-361-227-2",
-    "si_date_removal": "2024-08-11",
-    "si_date_delivery": "2024-08-21",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 293,
-    "si_io": "20240723-361-227-2",
-    "si_date_removal": "2024-08-11",
-    "si_date_delivery": "2024-08-21",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 293,
-    "si_io": "20240723-361-227-2",
-    "si_date_removal": "2024-08-11",
-    "si_date_delivery": "2024-08-21",
     "si_total_price": 369883.8,
     "fk_st": 249,
     "fk_co": 91
@@ -2791,130 +1691,10 @@
   },
   {
     "id_ope": "20240723-361-227",
-    "si_id": 295,
-    "si_io": "20240723-361-227-3",
-    "si_date_removal": "2024-08-15",
-    "si_date_delivery": "2024-08-09",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 295,
-    "si_io": "20240723-361-227-3",
-    "si_date_removal": "2024-08-15",
-    "si_date_delivery": "2024-08-09",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 295,
-    "si_io": "20240723-361-227-3",
-    "si_date_removal": "2024-08-15",
-    "si_date_delivery": "2024-08-09",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 295,
-    "si_io": "20240723-361-227-3",
-    "si_date_removal": "2024-08-15",
-    "si_date_delivery": "2024-08-09",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
     "si_id": 296,
     "si_io": "20240723-361-227-4",
     "si_date_removal": "2024-08-20",
     "si_date_delivery": "2024-08-14",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 296,
-    "si_io": "20240723-361-227-4",
-    "si_date_removal": "2024-08-20",
-    "si_date_delivery": "2024-08-14",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 296,
-    "si_io": "20240723-361-227-4",
-    "si_date_removal": "2024-08-20",
-    "si_date_delivery": "2024-08-14",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 296,
-    "si_io": "20240723-361-227-4",
-    "si_date_removal": "2024-08-20",
-    "si_date_delivery": "2024-08-14",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 296,
-    "si_io": "20240723-361-227-4",
-    "si_date_removal": "2024-08-20",
-    "si_date_delivery": "2024-08-14",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 297,
-    "si_io": "20240723-361-227-5",
-    "si_date_removal": "2024-08-25",
-    "si_date_delivery": "2024-08-08",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 297,
-    "si_io": "20240723-361-227-5",
-    "si_date_removal": "2024-08-25",
-    "si_date_delivery": "2024-08-08",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 297,
-    "si_io": "20240723-361-227-5",
-    "si_date_removal": "2024-08-25",
-    "si_date_delivery": "2024-08-08",
-    "si_total_price": 369883.8,
-    "fk_st": 249,
-    "fk_co": 91
-  },
-  {
-    "id_ope": "20240723-361-227",
-    "si_id": 297,
-    "si_io": "20240723-361-227-5",
-    "si_date_removal": "2024-08-25",
-    "si_date_delivery": "2024-08-08",
     "si_total_price": 369883.8,
     "fk_st": 249,
     "fk_co": 91
@@ -2940,24 +1720,24 @@
     "fk_co": 145
   },
   {
-    "id_ope": "20240923-440-281",
+    "id_ope": "20240719-354-224",
     "si_id": 113,
+    "si_io": "20240719-354-224-1",
+    "si_date_removal": "2024-08-01",
+    "si_date_delivery": "2024-08-01",
+    "si_total_price": 2847.22,
+    "fk_st": 80,
+    "fk_co": 231
+  },
+  {
+    "id_ope": "20240923-440-281",
+    "si_id": 116,
     "si_io": "20240923-440-281-1",
     "si_date_removal": "2024-10-10",
     "si_date_delivery": "2024-10-11",
     "si_total_price": 5640.77,
-    "fk_st": 80,
-    "fk_co": 233
-  },
-  {
-    "id_ope": "20240531-276-171",
-    "si_id": 117,
-    "si_io": "20240531-276-171-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-06-12",
-    "si_total_price": 13724.23,
-    "fk_st": 84,
-    "fk_co": 194
+    "fk_st": 83,
+    "fk_co": 231
   },
   {
     "id_ope": "20240129-108-068",
@@ -2967,7 +1747,7 @@
     "si_date_delivery": "2024-03-21",
     "si_total_price": 19968.47,
     "fk_st": 85,
-    "fk_co": 192
+    "fk_co": 191
   },
   {
     "id_ope": "20240129-144-146",
@@ -2977,17 +1757,27 @@
     "si_date_delivery": "2024-05-31",
     "si_total_price": 17661.09,
     "fk_st": 86,
-    "fk_co": 203
+    "fk_co": 202
   },
   {
     "id_ope": "20240305-123-112",
-    "si_id": 150,
+    "si_id": 151,
     "si_io": "20240305-123-112-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-04-22",
     "si_total_price": 1693.5,
-    "fk_st": 111,
+    "fk_st": 112,
     "fk_co": 69
+  },
+  {
+    "id_ope": "20240531-276-171",
+    "si_id": 120,
+    "si_io": "20240531-276-171-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-06-12",
+    "si_total_price": 13724.23,
+    "fk_st": 87,
+    "fk_co": 193
   },
   {
     "id_ope": "20240524-270-188",
@@ -2998,16 +1788,6 @@
     "si_total_price": 40365.440000000002,
     "fk_st": 190,
     "fk_co": 70
-  },
-  {
-    "id_ope": "20240612-294-272",
-    "si_id": 120,
-    "si_io": "20240612-294-272-1",
-    "si_date_removal": "2024-10-01",
-    "si_date_delivery": "2024-10-03",
-    "si_total_price": 20044.330000000002,
-    "fk_st": 87,
-    "fk_co": 208
   },
   {
     "id_ope": "20240131-110-082",
@@ -3021,12 +1801,12 @@
   },
   {
     "id_ope": "20250108-0011-30",
-    "si_id": 257,
+    "si_id": 260,
     "si_io": "20250108-0011-30-1",
     "si_date_removal": "2025-01-13",
     "si_date_delivery": "2025-01-20",
     "si_total_price": 4458.8500000000004,
-    "fk_st": 216,
+    "fk_st": 219,
     "fk_co": 71
   },
   {
@@ -3037,17 +1817,7 @@
     "si_date_delivery": "2024-04-16",
     "si_total_price": 3120,
     "fk_st": 89,
-    "fk_co": 272
-  },
-  {
-    "id_ope": "20240429-238-145",
-    "si_id": 210,
-    "si_io": "20240429-238-145-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-05-06",
-    "si_total_price": 20802.810000000001,
-    "fk_st": 170,
-    "fk_co": 78
+    "fk_co": 271
   },
   {
     "id_ope": "20240201-114-078",
@@ -3060,6 +1830,26 @@
     "fk_co": 74
   },
   {
+    "id_ope": "20240429-238-145",
+    "si_id": 211,
+    "si_io": "20240429-238-145-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-05-06",
+    "si_total_price": 20802.810000000001,
+    "fk_st": 171,
+    "fk_co": 78
+  },
+  {
+    "id_ope": "20240612-294-272",
+    "si_id": 125,
+    "si_io": "20240612-294-272-1",
+    "si_date_removal": "2024-10-01",
+    "si_date_delivery": "2024-10-03",
+    "si_total_price": 20044.330000000002,
+    "fk_st": 92,
+    "fk_co": 207
+  },
+  {
     "id_ope": "20240206-115-072",
     "si_id": 126,
     "si_io": "20240206-115-072-1",
@@ -3068,16 +1858,6 @@
     "si_total_price": 115.38,
     "fk_st": 93,
     "fk_co": 167
-  },
-  {
-    "id_ope": "20240329-186-111",
-    "si_id": 174,
-    "si_io": "20240329-186-111-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-08",
-    "si_total_price": 72491.33,
-    "fk_st": 135,
-    "fk_co": 133
   },
   {
     "id_ope": "20240206-116-069",
@@ -3090,203 +1870,53 @@
     "fk_co": 172
   },
   {
+    "id_ope": "20240329-186-111",
+    "si_id": 174,
+    "si_io": "20240329-186-111-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-04-08",
+    "si_total_price": 72491.33,
+    "fk_st": 135,
+    "fk_co": 133
+  },
+  {
     "id_ope": "20240624-318-195",
-    "si_id": 265,
+    "si_id": 266,
     "si_io": "20240624-318-195-1",
     "si_date_removal": "2024-06-27",
     "si_date_delivery": "2024-06-27",
     "si_total_price": 4641,
-    "fk_st": 223,
+    "fk_st": 224,
     "fk_co": 133
   },
   {
     "id_ope": "20241204-0008-20",
-    "si_id": 266,
+    "si_id": 272,
     "si_io": "20241204-0008-20-1",
     "si_date_removal": "2025-01-07",
     "si_date_delivery": "2025-01-08",
     "si_total_price": 18215.330000000002,
-    "fk_st": 224,
+    "fk_st": 230,
     "fk_co": 75
   },
   {
     "id_ope": "20240209-120-085",
-    "si_id": 128,
+    "si_id": 129,
     "si_io": "20240209-120-085-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-05-02",
     "si_total_price": 28501.8,
-    "fk_st": 95,
-    "fk_co": 275
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 129,
-    "si_io": "20241023-0007-33-1",
-    "si_date_removal": "2024-10-15",
-    "si_date_delivery": "2024-10-21",
-    "si_total_price": 113568.41,
     "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 129,
-    "si_io": "20241023-0007-33-1",
-    "si_date_removal": "2024-10-15",
-    "si_date_delivery": "2024-10-21",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 129,
-    "si_io": "20241023-0007-33-1",
-    "si_date_removal": "2024-10-15",
-    "si_date_delivery": "2024-10-21",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 129,
-    "si_io": "20241023-0007-33-1",
-    "si_date_removal": "2024-10-15",
-    "si_date_delivery": "2024-10-21",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 133,
-    "si_io": "20241023-0007-33-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-11-18",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 133,
-    "si_io": "20241023-0007-33-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-11-18",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 133,
-    "si_io": "20241023-0007-33-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-11-18",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 133,
-    "si_io": "20241023-0007-33-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-11-18",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 137,
-    "si_io": "20241023-0007-33-3",
-    "si_date_removal": "2024-11-04",
-    "si_date_delivery": "2024-11-04",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 137,
-    "si_io": "20241023-0007-33-3",
-    "si_date_removal": "2024-11-04",
-    "si_date_delivery": "2024-11-04",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 137,
-    "si_io": "20241023-0007-33-3",
-    "si_date_removal": "2024-11-04",
-    "si_date_delivery": "2024-11-04",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 137,
-    "si_io": "20241023-0007-33-3",
-    "si_date_removal": "2024-11-04",
-    "si_date_delivery": "2024-11-04",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 141,
-    "si_io": "20241023-0007-33-4",
-    "si_date_removal": "2024-11-14",
-    "si_date_delivery": "2024-11-15",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 141,
-    "si_io": "20241023-0007-33-4",
-    "si_date_removal": "2024-11-14",
-    "si_date_delivery": "2024-11-15",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 141,
-    "si_io": "20241023-0007-33-4",
-    "si_date_removal": "2024-11-14",
-    "si_date_delivery": "2024-11-15",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
-  },
-  {
-    "id_ope": "20241023-0007-33",
-    "si_id": 141,
-    "si_io": "20241023-0007-33-4",
-    "si_date_removal": "2024-11-14",
-    "si_date_delivery": "2024-11-15",
-    "si_total_price": 113568.41,
-    "fk_st": 96,
-    "fk_co": 119
+    "fk_co": 274
   },
   {
     "id_ope": "20241024-0004-83",
-    "si_id": 252,
+    "si_id": 257,
     "si_io": "20241024-0004-83-1",
     "si_date_removal": "2024-11-07",
     "si_date_delivery": "2024-11-07",
     "si_total_price": 19839.54,
-    "fk_st": 211,
+    "fk_st": 216,
     "fk_co": 76
   },
   {
@@ -3294,26 +1924,6 @@
     "si_id": 130,
     "si_io": "20240209-148-095-1",
     "si_date_removal": null,
-    "si_date_delivery": "2024-06-05",
-    "si_total_price": 235733.14,
-    "fk_st": 97,
-    "fk_co": 173
-  },
-  {
-    "id_ope": "20240209-148-095",
-    "si_id": 130,
-    "si_io": "20240209-148-095-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-06-05",
-    "si_total_price": 235733.14,
-    "fk_st": 97,
-    "fk_co": 173
-  },
-  {
-    "id_ope": "20240209-148-095",
-    "si_id": 131,
-    "si_io": "20240209-148-095-2",
-    "si_date_removal": "2024-06-04",
     "si_date_delivery": "2024-06-05",
     "si_total_price": 235733.14,
     "fk_st": 97,
@@ -3331,21 +1941,11 @@
   },
   {
     "id_ope": "20241106-0005-46",
-    "si_id": 190,
+    "si_id": 192,
     "si_io": "20241106-0005-46-1",
     "si_date_removal": "2024-11-19",
     "si_date_delivery": "2024-11-20",
     "si_total_price": 17711.27,
-    "fk_st": 151,
-    "fk_co": 80
-  },
-  {
-    "id_ope": "20240430-239-149",
-    "si_id": 192,
-    "si_io": "20240430-239-149-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-05-27",
-    "si_total_price": 6463.86,
     "fk_st": 153,
     "fk_co": 80
   },
@@ -3357,7 +1957,57 @@
     "si_date_delivery": "2024-02-29",
     "si_total_price": 20385,
     "fk_st": 98,
-    "fk_co": 283
+    "fk_co": 282
+  },
+  {
+    "id_ope": "20240430-239-149",
+    "si_id": 196,
+    "si_io": "20240430-239-149-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-05-27",
+    "si_total_price": 6463.86,
+    "fk_st": 157,
+    "fk_co": 80
+  },
+  {
+    "id_ope": "20241023-0007-33",
+    "si_id": 133,
+    "si_io": "20241023-0007-33-1",
+    "si_date_removal": "2024-10-15",
+    "si_date_delivery": "2024-10-21",
+    "si_total_price": 113568.41,
+    "fk_st": 99,
+    "fk_co": 119
+  },
+  {
+    "id_ope": "20241023-0007-33",
+    "si_id": 137,
+    "si_io": "20241023-0007-33-2",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-11-18",
+    "si_total_price": 113568.41,
+    "fk_st": 99,
+    "fk_co": 119
+  },
+  {
+    "id_ope": "20241023-0007-33",
+    "si_id": 141,
+    "si_io": "20241023-0007-33-3",
+    "si_date_removal": "2024-11-04",
+    "si_date_delivery": "2024-11-04",
+    "si_total_price": 113568.41,
+    "fk_st": 99,
+    "fk_co": 119
+  },
+  {
+    "id_ope": "20241023-0007-33",
+    "si_id": 144,
+    "si_io": "20241023-0007-33-4",
+    "si_date_removal": "2024-11-14",
+    "si_date_delivery": "2024-11-15",
+    "si_total_price": 113568.41,
+    "fk_st": 99,
+    "fk_co": 119
   },
   {
     "id_ope": "20240212-122-081",
@@ -3366,27 +2016,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-03-26",
     "si_total_price": 68510,
-    "fk_st": 99,
-    "fk_co": 176
-  },
-  {
-    "id_ope": "20240212-122-081",
-    "si_id": 134,
-    "si_io": "20240212-122-081-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-03-26",
-    "si_total_price": 68510,
-    "fk_st": 99,
-    "fk_co": 176
-  },
-  {
-    "id_ope": "20240212-122-081",
-    "si_id": 134,
-    "si_io": "20240212-122-081-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-03-26",
-    "si_total_price": 68510,
-    "fk_st": 99,
+    "fk_st": 100,
     "fk_co": 176
   },
   {
@@ -3396,27 +2026,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-03-28",
     "si_total_price": 68510,
-    "fk_st": 99,
-    "fk_co": 176
-  },
-  {
-    "id_ope": "20240212-122-081",
-    "si_id": 135,
-    "si_io": "20240212-122-081-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-03-28",
-    "si_total_price": 68510,
-    "fk_st": 99,
-    "fk_co": 176
-  },
-  {
-    "id_ope": "20240212-122-081",
-    "si_id": 135,
-    "si_io": "20240212-122-081-2",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-03-28",
-    "si_total_price": 68510,
-    "fk_st": 99,
+    "fk_st": 100,
     "fk_co": 176
   },
   {
@@ -3426,27 +2036,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-03-27",
     "si_total_price": 68510,
-    "fk_st": 99,
-    "fk_co": 176
-  },
-  {
-    "id_ope": "20240212-122-081",
-    "si_id": 136,
-    "si_io": "20240212-122-081-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-03-27",
-    "si_total_price": 68510,
-    "fk_st": 99,
-    "fk_co": 176
-  },
-  {
-    "id_ope": "20240212-122-081",
-    "si_id": 136,
-    "si_io": "20240212-122-081-3",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-03-27",
-    "si_total_price": 68510,
-    "fk_st": 99,
+    "fk_st": 100,
     "fk_co": 176
   },
   {
@@ -3466,7 +2056,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-04-11",
     "si_total_price": 11891.02,
-    "fk_st": 100,
+    "fk_st": 101,
     "fk_co": 127
   },
   {
@@ -3476,8 +2066,8 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-03-08",
     "si_total_price": 39968.410000000003,
-    "fk_st": 101,
-    "fk_co": 248
+    "fk_st": 102,
+    "fk_co": 247
   },
   {
     "id_ope": "20240216-130-074",
@@ -3486,7 +2076,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-02-21",
     "si_total_price": 11612.34,
-    "fk_st": 103,
+    "fk_st": 104,
     "fk_co": 172
   },
   {
@@ -3496,7 +2086,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-03-04",
     "si_total_price": 55001.68,
-    "fk_st": 104,
+    "fk_st": 105,
     "fk_co": 103
   },
   {
@@ -3510,16 +2100,6 @@
     "fk_co": 98
   },
   {
-    "id_ope": "20240221-137-077",
-    "si_id": 144,
-    "si_io": "20240221-137-077-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-02-27",
-    "si_total_price": 14879,
-    "fk_st": 105,
-    "fk_co": 172
-  },
-  {
     "id_ope": "20240701-331-209",
     "si_id": 275,
     "si_io": "20240701-331-209-1",
@@ -3530,24 +2110,34 @@
     "fk_co": 100
   },
   {
-    "id_ope": "20240222-140-080",
+    "id_ope": "20240221-137-077",
     "si_id": 145,
+    "si_io": "20240221-137-077-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-02-27",
+    "si_total_price": 14879,
+    "fk_st": 106,
+    "fk_co": 172
+  },
+  {
+    "id_ope": "20240222-140-080",
+    "si_id": 146,
     "si_io": "20240222-140-080-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-03-13",
     "si_total_price": 22041.21,
-    "fk_st": 106,
-    "fk_co": 269
+    "fk_st": 107,
+    "fk_co": 268
   },
   {
     "id_ope": "20240223-143-087",
-    "si_id": 146,
+    "si_id": 147,
     "si_io": "20240223-143-087-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-03-15",
     "si_total_price": 2195.0500000000002,
-    "fk_st": 107,
-    "fk_co": 286
+    "fk_st": 108,
+    "fk_co": 285
   },
   {
     "id_ope": "20240313-160-090",
@@ -3560,16 +2150,6 @@
     "fk_co": 102
   },
   {
-    "id_ope": "20240228-147-083",
-    "si_id": 149,
-    "si_io": "20240228-147-083-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-03-27",
-    "si_total_price": 28319.4,
-    "fk_st": 110,
-    "fk_co": 227
-  },
-  {
     "id_ope": "20240719-356-223",
     "si_id": 289,
     "si_io": "20240719-356-223-1",
@@ -3580,6 +2160,26 @@
     "fk_co": 102
   },
   {
+    "id_ope": "20240228-147-083",
+    "si_id": 150,
+    "si_io": "20240228-147-083-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-03-27",
+    "si_total_price": 28319.4,
+    "fk_st": 111,
+    "fk_co": 226
+  },
+  {
+    "id_ope": "20240610-290-217",
+    "si_id": 245,
+    "si_io": "20240610-290-217-1",
+    "si_date_removal": "2024-12-09",
+    "si_date_delivery": "2024-12-10",
+    "si_total_price": 2167.11,
+    "fk_st": 205,
+    "fk_co": 132
+  },
+  {
     "id_ope": "20240308-151-099",
     "si_id": 153,
     "si_io": "20240308-151-099-1",
@@ -3587,7 +2187,7 @@
     "si_date_delivery": "2024-03-27",
     "si_total_price": 110680.08,
     "fk_st": 114,
-    "fk_co": 248
+    "fk_co": 247
   },
   {
     "id_ope": "20240312-156-091",
@@ -3600,23 +2200,33 @@
     "fk_co": 167
   },
   {
-    "id_ope": "20240610-290-217",
-    "si_id": 245,
-    "si_io": "20240610-290-217-1",
-    "si_date_removal": "2024-12-09",
-    "si_date_delivery": "2024-12-10",
-    "si_total_price": 2167.11,
-    "fk_st": 204,
-    "fk_co": 132
-  },
-  {
     "id_ope": "20240926-453-0003-149",
-    "si_id": 168,
+    "si_id": 171,
     "si_io": "20240926-453-0003-149-1",
     "si_date_removal": "2024-10-24",
     "si_date_delivery": "2024-10-25",
     "si_total_price": 32302.86,
-    "fk_st": 129,
+    "fk_st": 132,
+    "fk_co": 109
+  },
+  {
+    "id_ope": "20241119-0008-15",
+    "si_id": 176,
+    "si_io": "20241119-0008-15-1",
+    "si_date_removal": "2024-12-05",
+    "si_date_delivery": "2024-12-12",
+    "si_total_price": 26088,
+    "fk_st": 137,
+    "fk_co": 109
+  },
+  {
+    "id_ope": "20250110-0008-36",
+    "si_id": 178,
+    "si_io": "20250110-0008-36-1",
+    "si_date_removal": "2024-12-05",
+    "si_date_delivery": "2024-12-12",
+    "si_total_price": 9912,
+    "fk_st": 139,
     "fk_co": 109
   },
   {
@@ -3630,44 +2240,34 @@
     "fk_co": 148
   },
   {
-    "id_ope": "20241119-0008-15",
-    "si_id": 171,
-    "si_io": "20241119-0008-15-1",
-    "si_date_removal": "2024-12-05",
-    "si_date_delivery": "2024-12-12",
-    "si_total_price": 26088,
-    "fk_st": 132,
-    "fk_co": 109
+    "id_ope": "20250107-0014-22",
+    "si_id": 265,
+    "si_io": "20250107-0014-22-1",
+    "si_date_removal": "2025-02-19",
+    "si_date_delivery": "2025-02-20",
+    "si_total_price": 67553.850000000006,
+    "fk_st": 223,
+    "fk_co": 224
   },
   {
     "id_ope": "20240705-336-222",
-    "si_id": 160,
+    "si_id": 163,
     "si_io": "20240705-336-222-1",
     "si_date_removal": "2024-09-26",
     "si_date_delivery": "2024-09-26",
     "si_total_price": 1103.08,
-    "fk_st": 121,
-    "fk_co": 202
-  },
-  {
-    "id_ope": "20250110-0008-36",
-    "si_id": 176,
-    "si_io": "20250110-0008-36-1",
-    "si_date_removal": "2024-12-05",
-    "si_date_delivery": "2024-12-12",
-    "si_total_price": 9912,
-    "fk_st": 137,
-    "fk_co": 109
-  },
-  {
-    "id_ope": "20240903-412-260",
-    "si_id": 163,
-    "si_io": "20240903-412-260-1",
-    "si_date_removal": "2024-09-25",
-    "si_date_delivery": "2024-09-26",
-    "si_total_price": 5066.99,
     "fk_st": 124,
-    "fk_co": 202
+    "fk_co": 201
+  },
+  {
+    "id_ope": "20241104-0004-85",
+    "si_id": 250,
+    "si_io": "20241104-0004-85-1",
+    "si_date_removal": "2024-11-18",
+    "si_date_delivery": "2024-11-18",
+    "si_total_price": 9460.41,
+    "fk_st": 209,
+    "fk_co": 111
   },
   {
     "id_ope": "20240319-169-098",
@@ -3677,17 +2277,7 @@
     "si_date_delivery": "2024-04-09",
     "si_total_price": 2769,
     "fk_st": 125,
-    "fk_co": 204
-  },
-  {
-    "id_ope": "20250107-0014-22",
-    "si_id": 261,
-    "si_io": "20250107-0014-22-1",
-    "si_date_removal": "2025-02-19",
-    "si_date_delivery": "2025-02-20",
-    "si_total_price": 67553.850000000006,
-    "fk_st": 220,
-    "fk_co": 225
+    "fk_co": 203
   },
   {
     "id_ope": "20240319-171-105",
@@ -3697,37 +2287,7 @@
     "si_date_delivery": "2024-04-17",
     "si_total_price": 1987.5,
     "fk_st": 126,
-    "fk_co": 287
-  },
-  {
-    "id_ope": "20241104-0004-85",
-    "si_id": 248,
-    "si_io": "20241104-0004-85-1",
-    "si_date_removal": "2024-11-18",
-    "si_date_delivery": "2024-11-18",
-    "si_total_price": 9460.41,
-    "fk_st": 207,
-    "fk_co": 111
-  },
-  {
-    "id_ope": "20240320-172-110",
-    "si_id": 166,
-    "si_io": "20240320-172-110-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-04-15",
-    "si_total_price": 6073,
-    "fk_st": 127,
-    "fk_co": 196
-  },
-  {
-    "id_ope": "20240322-174-109",
-    "si_id": 167,
-    "si_io": "20240322-174-109-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-07-24",
-    "si_total_price": 157336.53,
-    "fk_st": 128,
-    "fk_co": 171
+    "fk_co": 286
   },
   {
     "id_ope": "20240624-319-211",
@@ -3740,13 +2300,43 @@
     "fk_co": 112
   },
   {
+    "id_ope": "20240320-172-110",
+    "si_id": 166,
+    "si_io": "20240320-172-110-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-04-15",
+    "si_total_price": 6073,
+    "fk_st": 127,
+    "fk_co": 195
+  },
+  {
+    "id_ope": "20240322-174-109",
+    "si_id": 167,
+    "si_io": "20240322-174-109-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-07-24",
+    "si_total_price": 157336.53,
+    "fk_st": 128,
+    "fk_co": 171
+  },
+  {
+    "id_ope": "20240903-412-260",
+    "si_id": 168,
+    "si_io": "20240903-412-260-1",
+    "si_date_removal": "2024-09-25",
+    "si_date_delivery": "2024-09-26",
+    "si_total_price": 5066.99,
+    "fk_st": 129,
+    "fk_co": 201
+  },
+  {
     "id_ope": "20240502-244-152",
-    "si_id": 216,
+    "si_id": 217,
     "si_io": "20240502-244-152-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-05-23",
     "si_total_price": 4747,
-    "fk_st": 176,
+    "fk_st": 177,
     "fk_co": 115
   },
   {
@@ -3758,6 +2348,16 @@
     "si_total_price": 17280,
     "fk_st": 161,
     "fk_co": 117
+  },
+  {
+    "id_ope": "20240422-223-163",
+    "si_id": 200,
+    "si_io": "20240422-223-163-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-07-17",
+    "si_total_price": 41267.22,
+    "fk_st": 160,
+    "fk_co": 118
   },
   {
     "id_ope": "20240327-182-125",
@@ -3777,27 +2377,27 @@
     "si_date_delivery": "2024-04-22",
     "si_total_price": 2588.2399999999998,
     "fk_st": 134,
-    "fk_co": 286
-  },
-  {
-    "id_ope": "20240422-223-163",
-    "si_id": 200,
-    "si_io": "20240422-223-163-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-07-17",
-    "si_total_price": 41267.22,
-    "fk_st": 160,
-    "fk_co": 118
+    "fk_co": 285
   },
   {
     "id_ope": "20240619-312-186",
-    "si_id": 260,
+    "si_id": 261,
     "si_io": "20240619-312-186-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-06-28",
     "si_total_price": 6362.97,
-    "fk_st": 219,
-    "fk_co": 203
+    "fk_st": 220,
+    "fk_co": 202
+  },
+  {
+    "id_ope": "20240624-321-196",
+    "si_id": 268,
+    "si_io": "20240624-321-196-1",
+    "si_date_removal": "2024-07-03",
+    "si_date_delivery": "2024-07-03",
+    "si_total_price": 2687.79,
+    "fk_st": 226,
+    "fk_co": 202
   },
   {
     "id_ope": "20240403-187-114",
@@ -3810,16 +2410,6 @@
     "fk_co": 180
   },
   {
-    "id_ope": "20240624-321-196",
-    "si_id": 268,
-    "si_io": "20240624-321-196-1",
-    "si_date_removal": "2024-07-03",
-    "si_date_delivery": "2024-07-03",
-    "si_total_price": 2687.79,
-    "fk_st": 226,
-    "fk_co": 203
-  },
-  {
     "id_ope": "20240408-191-117",
     "si_id": 177,
     "si_io": "20240408-191-117-1",
@@ -3828,16 +2418,6 @@
     "si_total_price": 57516.59,
     "fk_st": 138,
     "fk_co": 172
-  },
-  {
-    "id_ope": "20250107-0014-19",
-    "si_id": 178,
-    "si_io": "20250107-0014-19-1",
-    "si_date_removal": "2025-01-20",
-    "si_date_delivery": "2025-01-24",
-    "si_total_price": 20510.57,
-    "fk_st": 139,
-    "fk_co": 155
   },
   {
     "id_ope": "20240410-193-225",
@@ -3851,33 +2431,43 @@
   },
   {
     "id_ope": "20240502-245-161",
-    "si_id": 217,
+    "si_id": 218,
     "si_io": "20240502-245-161-1",
     "si_date_removal": "2024-06-04",
     "si_date_delivery": "2024-06-04",
     "si_total_price": 8795.5400000000009,
-    "fk_st": 177,
+    "fk_st": 178,
     "fk_co": 120
   },
   {
-    "id_ope": "20240412-200-133",
-    "si_id": 183,
-    "si_io": "20240412-200-133-1",
-    "si_date_removal": null,
-    "si_date_delivery": "2024-05-30",
-    "si_total_price": 6506.88,
-    "fk_st": 144,
-    "fk_co": 262
+    "id_ope": "20250107-0014-19",
+    "si_id": 182,
+    "si_io": "20250107-0014-19-1",
+    "si_date_removal": "2025-01-20",
+    "si_date_delivery": "2025-01-24",
+    "si_total_price": 20510.57,
+    "fk_st": 143,
+    "fk_co": 155
   },
   {
     "id_ope": "20241024-0009-3",
-    "si_id": 184,
+    "si_id": 188,
     "si_io": "20241024-0009-3-1",
     "si_date_removal": "2024-11-12",
     "si_date_delivery": "2024-11-13",
     "si_total_price": 8429.73,
-    "fk_st": 145,
+    "fk_st": 149,
     "fk_co": 123
+  },
+  {
+    "id_ope": "20240412-200-133",
+    "si_id": 184,
+    "si_io": "20240412-200-133-1",
+    "si_date_removal": null,
+    "si_date_delivery": "2024-05-30",
+    "si_total_price": 6506.88,
+    "fk_st": 145,
+    "fk_co": 261
   },
   {
     "id_ope": "20240416-207-130",
@@ -3900,23 +2490,13 @@
     "fk_co": 167
   },
   {
-    "id_ope": "20241202-0005-57",
-    "si_id": 188,
-    "si_io": "20241202-0005-57-1",
-    "si_date_removal": "2024-12-16",
-    "si_date_delivery": "2024-12-17",
-    "si_total_price": 8341.5,
-    "fk_st": 149,
-    "fk_co": 161
-  },
-  {
     "id_ope": "20240717-349-219",
-    "si_id": 285,
+    "si_id": 286,
     "si_io": "20240717-349-219-1",
     "si_date_removal": "2024-08-13",
     "si_date_delivery": "2024-08-14",
     "si_total_price": 9475.1200000000008,
-    "fk_st": 242,
+    "fk_st": 243,
     "fk_co": 167
   },
   {
@@ -3927,7 +2507,7 @@
     "si_date_delivery": "2024-05-16",
     "si_total_price": 12523.74,
     "fk_st": 150,
-    "fk_co": 280
+    "fk_co": 279
   },
   {
     "id_ope": "20240722-358-226",
@@ -3940,6 +2520,16 @@
     "fk_co": 126
   },
   {
+    "id_ope": "20241202-0005-57",
+    "si_id": 190,
+    "si_io": "20241202-0005-57-1",
+    "si_date_removal": "2024-12-16",
+    "si_date_delivery": "2024-12-17",
+    "si_total_price": 8341.5,
+    "fk_st": 151,
+    "fk_co": 161
+  },
+  {
     "id_ope": "20240417-209-128",
     "si_id": 191,
     "si_io": "20240417-209-128-1",
@@ -3947,7 +2537,7 @@
     "si_date_delivery": "2024-05-16",
     "si_total_price": 5851.5,
     "fk_st": 152,
-    "fk_co": 280
+    "fk_co": 279
   },
   {
     "id_ope": "20240607-288-177",
@@ -3956,7 +2546,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-06-26",
     "si_total_price": 24225.81,
-    "fk_st": 202,
+    "fk_st": 203,
     "fk_co": 172
   },
   {
@@ -3967,7 +2557,7 @@
     "si_date_delivery": "2024-05-07",
     "si_total_price": 50314,
     "fk_st": 154,
-    "fk_co": 240
+    "fk_co": 239
   },
   {
     "id_ope": "20240418-215-134",
@@ -3981,12 +2571,12 @@
   },
   {
     "id_ope": "20240515-254-165",
-    "si_id": 219,
+    "si_id": 220,
     "si_io": "20240515-254-165-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-06-04",
     "si_total_price": 15706.69,
-    "fk_st": 179,
+    "fk_st": 180,
     "fk_co": 128
   },
   {
@@ -4017,17 +2607,7 @@
     "si_date_delivery": "2024-06-07",
     "si_total_price": 4639.6400000000003,
     "fk_st": 165,
-    "fk_co": 286
-  },
-  {
-    "id_ope": "20241122-0004-92",
-    "si_id": 206,
-    "si_io": "20241122-0004-92-1",
-    "si_date_removal": "2024-12-03",
-    "si_date_delivery": "2024-12-04",
-    "si_total_price": 99872,
-    "fk_st": 166,
-    "fk_co": 197
+    "fk_co": 285
   },
   {
     "id_ope": "20240614-301-203",
@@ -4047,7 +2627,7 @@
     "si_date_delivery": "2024-05-02",
     "si_total_price": 65577.600000000006,
     "fk_st": 168,
-    "fk_co": 200
+    "fk_co": 199
   },
   {
     "id_ope": "20240614-303-271",
@@ -4067,47 +2647,77 @@
     "si_date_delivery": "2024-05-16",
     "si_total_price": 147595.94,
     "fk_st": 169,
-    "fk_co": 248
+    "fk_co": 247
   },
   {
     "id_ope": "20240613-298-181",
-    "si_id": 251,
+    "si_id": 252,
     "si_io": "20240613-298-181-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-07-16",
     "si_total_price": 111322.81,
-    "fk_st": 210,
+    "fk_st": 211,
     "fk_co": 138
   },
   {
+    "id_ope": "20241122-0004-92",
+    "si_id": 210,
+    "si_io": "20241122-0004-92-1",
+    "si_date_removal": "2024-12-03",
+    "si_date_delivery": "2024-12-04",
+    "si_total_price": 99872,
+    "fk_st": 170,
+    "fk_co": 196
+  },
+  {
     "id_ope": "20241112-0004-88",
-    "si_id": 227,
+    "si_id": 231,
     "si_io": "20241112-0004-88-1",
     "si_date_removal": "2024-11-21",
     "si_date_delivery": "2024-11-22",
     "si_total_price": 70970.81,
-    "fk_st": 187,
-    "fk_co": 248
+    "fk_st": 191,
+    "fk_co": 247
   },
   {
     "id_ope": "20241126-0004-93",
-    "si_id": 231,
+    "si_id": 234,
     "si_io": "20241126-0004-93-1",
     "si_date_removal": "2024-12-04",
     "si_date_delivery": "2024-12-05",
     "si_total_price": 55611.256000000001,
-    "fk_st": 191,
-    "fk_co": 248
+    "fk_st": 194,
+    "fk_co": 247
   },
   {
     "id_ope": "20241212-0004-101",
-    "si_id": 234,
+    "si_id": 239,
     "si_io": "20241212-0004-101-1",
     "si_date_removal": "2025-01-09",
     "si_date_delivery": "2025-01-13",
     "si_total_price": 15852.96,
-    "fk_st": 194,
-    "fk_co": 248
+    "fk_st": 199,
+    "fk_co": 247
+  },
+  {
+    "id_ope": "20250107-0004-108",
+    "si_id": 242,
+    "si_io": "20250107-0004-108-1",
+    "si_date_removal": "2025-01-31",
+    "si_date_delivery": "2025-02-21",
+    "si_total_price": 95016.892999999996,
+    "fk_st": 202,
+    "fk_co": 247
+  },
+  {
+    "id_ope": "20250107-0004-108",
+    "si_id": 246,
+    "si_io": "20250107-0004-108-2",
+    "si_date_removal": "2025-01-13",
+    "si_date_delivery": "2025-01-16",
+    "si_total_price": 95016.892999999996,
+    "fk_st": 202,
+    "fk_co": 247
   },
   {
     "id_ope": "20240502-243-151",
@@ -4118,46 +2728,6 @@
     "si_total_price": 76570.399999999994,
     "fk_st": 175,
     "fk_co": 181
-  },
-  {
-    "id_ope": "20250107-0004-108",
-    "si_id": 239,
-    "si_io": "20250107-0004-108-1",
-    "si_date_removal": "2025-01-31",
-    "si_date_delivery": "2025-02-21",
-    "si_total_price": 95016.892999999996,
-    "fk_st": 199,
-    "fk_co": 248
-  },
-  {
-    "id_ope": "20250107-0004-108",
-    "si_id": 239,
-    "si_io": "20250107-0004-108-1",
-    "si_date_removal": "2025-01-31",
-    "si_date_delivery": "2025-02-21",
-    "si_total_price": 95016.892999999996,
-    "fk_st": 199,
-    "fk_co": 248
-  },
-  {
-    "id_ope": "20250107-0004-108",
-    "si_id": 242,
-    "si_io": "20250107-0004-108-2",
-    "si_date_removal": "2025-01-13",
-    "si_date_delivery": "2025-01-16",
-    "si_total_price": 95016.892999999996,
-    "fk_st": 199,
-    "fk_co": 248
-  },
-  {
-    "id_ope": "20250107-0004-108",
-    "si_id": 242,
-    "si_io": "20250107-0004-108-2",
-    "si_date_removal": "2025-01-13",
-    "si_date_delivery": "2025-01-16",
-    "si_total_price": 95016.892999999996,
-    "fk_st": 199,
-    "fk_co": 248
   },
   {
     "id_ope": "20240524-269-201",
@@ -4171,33 +2741,33 @@
   },
   {
     "id_ope": "20240507-247-153",
-    "si_id": 218,
+    "si_id": 219,
     "si_io": "20240507-247-153-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-05-30",
     "si_total_price": 12088.8,
-    "fk_st": 178,
-    "fk_co": 227
+    "fk_st": 179,
+    "fk_co": 226
   },
   {
     "id_ope": "20240515-255-162",
-    "si_id": 220,
+    "si_id": 221,
     "si_io": "20240515-255-162-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-06-17",
     "si_total_price": 18588,
-    "fk_st": 180,
-    "fk_co": 296
+    "fk_st": 181,
+    "fk_co": 295
   },
   {
     "id_ope": "20240521-265-167",
-    "si_id": 226,
+    "si_id": 227,
     "si_io": "20240521-265-167-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-06-24",
     "si_total_price": 17287.939999999999,
-    "fk_st": 186,
-    "fk_co": 276
+    "fk_st": 187,
+    "fk_co": 275
   },
   {
     "id_ope": "20240523-267-168",
@@ -4207,7 +2777,7 @@
     "si_date_delivery": "2024-06-26",
     "si_total_price": 76898.399999999994,
     "fk_st": 188,
-    "fk_co": 285
+    "fk_co": 284
   },
   {
     "id_ope": "20240607-284-176",
@@ -4217,7 +2787,7 @@
     "si_date_delivery": "2024-06-20",
     "si_total_price": 10676.25,
     "fk_st": 201,
-    "fk_co": 227
+    "fk_co": 226
   },
   {
     "id_ope": "20240529-275-170",
@@ -4227,7 +2797,7 @@
     "si_date_delivery": "2024-06-13",
     "si_total_price": 255615.67,
     "fk_st": 192,
-    "fk_co": 218
+    "fk_co": 217
   },
   {
     "id_ope": "20240607-289-178",
@@ -4236,7 +2806,7 @@
     "si_date_removal": null,
     "si_date_delivery": "2024-10-31",
     "si_total_price": 46774,
-    "fk_st": 203,
+    "fk_st": 204,
     "fk_co": 159
   },
   {
@@ -4267,7 +2837,7 @@
     "si_date_delivery": "2024-07-18",
     "si_total_price": 100361.74,
     "fk_st": 198,
-    "fk_co": 270
+    "fk_co": 269
   },
   {
     "id_ope": "20240606-283-191",
@@ -4277,32 +2847,12 @@
     "si_date_delivery": "2024-07-04",
     "si_total_price": 4335.16,
     "fk_st": 200,
-    "fk_co": 263
+    "fk_co": 262
   },
   {
     "id_ope": "20240620-316-198",
     "si_id": 263,
     "si_io": "20240620-316-198-1",
-    "si_date_removal": "2024-07-09",
-    "si_date_delivery": "2024-07-09",
-    "si_total_price": 37980,
-    "fk_st": 222,
-    "fk_co": 166
-  },
-  {
-    "id_ope": "20240620-316-198",
-    "si_id": 263,
-    "si_io": "20240620-316-198-1",
-    "si_date_removal": "2024-07-09",
-    "si_date_delivery": "2024-07-09",
-    "si_total_price": 37980,
-    "fk_st": 222,
-    "fk_co": 166
-  },
-  {
-    "id_ope": "20240620-316-198",
-    "si_id": 264,
-    "si_io": "20240620-316-198-2",
     "si_date_removal": "2024-07-09",
     "si_date_delivery": "2024-07-09",
     "si_total_price": 37980,
@@ -4326,17 +2876,17 @@
     "si_date_removal": "2024-07-09",
     "si_date_delivery": "2024-07-09",
     "si_total_price": 29552.69,
-    "fk_st": 234,
+    "fk_st": 235,
     "fk_co": 166
   },
   {
     "id_ope": "20240715-343-215",
-    "si_id": 282,
+    "si_id": 283,
     "si_io": "20240715-343-215-2",
     "si_date_removal": null,
     "si_date_delivery": "2024-08-12",
     "si_total_price": 13697.94,
-    "fk_st": 239,
+    "fk_st": 240,
     "fk_co": 166
   },
   {
@@ -4377,17 +2927,17 @@
     "si_date_delivery": "2024-07-31",
     "si_total_price": 8974.35,
     "fk_st": 217,
-    "fk_co": 264
+    "fk_co": 263
   },
   {
     "id_ope": "20240716-348-220",
-    "si_id": 284,
+    "si_id": 285,
     "si_io": "20240716-348-220-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-07-31",
     "si_total_price": 6736,
-    "fk_st": 241,
-    "fk_co": 193
+    "fk_st": 242,
+    "fk_co": 192
   },
   {
     "id_ope": "20240626-325-204",
@@ -4397,57 +2947,47 @@
     "si_date_delivery": "2024-07-16",
     "si_total_price": 12543.15,
     "fk_st": 229,
-    "fk_co": 295
+    "fk_co": 294
   },
   {
     "id_ope": "20240716-347-218",
-    "si_id": 283,
+    "si_id": 284,
     "si_io": "20240716-347-218-1",
     "si_date_removal": null,
     "si_date_delivery": "2024-08-10",
     "si_total_price": 6480,
-    "fk_st": 240,
-    "fk_co": 226
+    "fk_st": 241,
+    "fk_co": 225
   },
   {
     "id_ope": "20241022-0007-29",
-    "si_id": 287,
+    "si_id": 291,
     "si_io": "20241022-0007-29-1",
     "si_date_removal": "2024-11-05",
     "si_date_delivery": "2024-11-06",
     "si_total_price": 1812.93,
-    "fk_st": 244,
-    "fk_co": 277
+    "fk_st": 248,
+    "fk_co": 276
   },
   {
     "id_ope": "20241115-0007-42",
-    "si_id": 291,
+    "si_id": 294,
     "si_io": "20241115-0007-42-1",
     "si_date_removal": "2024-11-21",
     "si_date_delivery": "2024-11-22",
     "si_total_price": 9130.51,
-    "fk_st": 248,
-    "fk_co": 277
+    "fk_st": 250,
+    "fk_co": 276
   },
   {
     "id_ope": "20241204-0007-53",
-    "si_id": 294,
+    "si_id": 298,
     "si_io": "20241204-0007-53-1",
     "si_date_removal": "2024-12-11",
     "si_date_delivery": "2024-12-13",
     "si_total_price": 6088.53,
-    "fk_st": 250,
-    "fk_co": 277
-  },
-  {
-    "id_ope": "20241003-52",
-    "si_id": 298,
-    "si_io": "20241003-52-1",
-    "si_date_removal": "2024-10-14",
-    "si_date_delivery": "2024-10-14",
-    "si_total_price": 4407.7299999999996,
     "fk_st": 251,
-    "fk_co": 277
+    "fk_co": 276
   },
   {
     "id_ope": "20240726-371-246",
@@ -4457,7 +2997,7 @@
     "si_date_delivery": "2024-10-16",
     "si_total_price": 21955.77,
     "fk_st": 252,
-    "fk_co": 224
+    "fk_co": 223
   },
   {
     "id_ope": "20240726-372-236",
@@ -4467,17 +3007,17 @@
     "si_date_delivery": "2024-08-20",
     "si_total_price": 532.88,
     "fk_st": 253,
-    "fk_co": 286
+    "fk_co": 285
   },
   {
-    "id_ope": "20241018-0007-27",
+    "id_ope": "20241003-52",
     "si_id": 301,
-    "si_io": "20241018-0007-27-1",
-    "si_date_removal": "2024-11-28",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 37914.879999999997,
+    "si_io": "20241003-52-1",
+    "si_date_removal": "2024-10-14",
+    "si_date_delivery": "2024-10-14",
+    "si_total_price": 4407.7299999999996,
     "fk_st": 254,
-    "fk_co": 288
+    "fk_co": 276
   },
   {
     "id_ope": "20240726-373-231",
@@ -4500,54 +3040,54 @@
     "fk_co": 183
   },
   {
-    "id_ope": "20240730-376-256",
+    "id_ope": "20241018-0007-27",
     "si_id": 304,
+    "si_io": "20241018-0007-27-1",
+    "si_date_removal": "2024-11-28",
+    "si_date_delivery": "2024-11-28",
+    "si_total_price": 37914.879999999997,
+    "fk_st": 257,
+    "fk_co": 287
+  },
+  {
+    "id_ope": "20240730-376-256",
+    "si_id": 305,
     "si_io": "20240730-376-256-1",
     "si_date_removal": "2024-10-22",
     "si_date_delivery": "2024-10-23",
     "si_total_price": 6655.3,
-    "fk_st": 257,
+    "fk_st": 258,
     "fk_co": 50
   },
   {
     "id_ope": "20240730-377-234",
-    "si_id": 305,
+    "si_id": 306,
     "si_io": "20240730-377-234-1",
     "si_date_removal": "2024-08-06",
     "si_date_delivery": "2024-08-06",
     "si_total_price": 1683,
-    "fk_st": 258,
+    "fk_st": 259,
     "fk_co": 89
   },
   {
     "id_ope": "20240730-378-235",
-    "si_id": 306,
+    "si_id": 307,
     "si_io": "20240730-378-235-1",
     "si_date_removal": "2024-12-16",
     "si_date_delivery": "2024-08-06",
     "si_total_price": 14706.24,
-    "fk_st": 259,
+    "fk_st": 260,
     "fk_co": 4
   },
   {
     "id_ope": "20240730-379-270",
-    "si_id": 307,
+    "si_id": 308,
     "si_io": "20240730-379-270-1",
     "si_date_removal": "2024-09-25",
     "si_date_delivery": "2024-09-26",
     "si_total_price": 22277.200000000001,
-    "fk_st": 260,
-    "fk_co": 136
-  },
-  {
-    "id_ope": "20241025-0009-4",
-    "si_id": 308,
-    "si_io": "20241025-0009-4-1",
-    "si_date_removal": "2024-11-20",
-    "si_date_delivery": "2024-11-20",
-    "si_total_price": 1493.5,
     "fk_st": 261,
-    "fk_co": 219
+    "fk_co": 136
   },
   {
     "id_ope": "20240731-382-254",
@@ -4580,14 +3120,14 @@
     "fk_co": 24
   },
   {
-    "id_ope": "20241029-0007-35",
+    "id_ope": "20241025-0009-4",
     "si_id": 312,
-    "si_io": "20241029-0007-35-1",
-    "si_date_removal": "2024-12-03",
-    "si_date_delivery": "2024-12-13",
-    "si_total_price": 630932.97,
+    "si_io": "20241025-0009-4-1",
+    "si_date_removal": "2024-11-20",
+    "si_date_delivery": "2024-11-20",
+    "si_total_price": 1493.5,
     "fk_st": 265,
-    "fk_co": 95
+    "fk_co": 218
   },
   {
     "id_ope": "20240805-390-247",
@@ -4597,7 +3137,7 @@
     "si_date_delivery": "2024-08-26",
     "si_total_price": 840.15,
     "fk_st": 266,
-    "fk_co": 268
+    "fk_co": 267
   },
   {
     "id_ope": "20240805-391-237",
@@ -4610,74 +3150,74 @@
     "fk_co": 96
   },
   {
-    "id_ope": "20240806-392-238",
+    "id_ope": "20241029-0007-35",
     "si_id": 315,
+    "si_io": "20241029-0007-35-1",
+    "si_date_removal": "2024-12-03",
+    "si_date_delivery": "2024-12-13",
+    "si_total_price": 630932.97,
+    "fk_st": 268,
+    "fk_co": 95
+  },
+  {
+    "id_ope": "20240806-392-238",
+    "si_id": 316,
     "si_io": "20240806-392-238-1",
     "si_date_removal": "2024-08-29",
     "si_date_delivery": "2024-08-29",
     "si_total_price": 22745.75,
-    "fk_st": 268,
+    "fk_st": 269,
     "fk_co": 17
   },
   {
     "id_ope": "20240807-393-239",
-    "si_id": 316,
+    "si_id": 317,
     "si_io": "20240807-393-239-1",
     "si_date_removal": "2024-08-29",
     "si_date_delivery": "2024-08-30",
     "si_total_price": 15082,
-    "fk_st": 269,
+    "fk_st": 270,
     "fk_co": 163
   },
   {
     "id_ope": "20240809-395-241",
-    "si_id": 317,
+    "si_id": 318,
     "si_io": "20240809-395-241-1",
     "si_date_removal": "2024-12-16",
     "si_date_delivery": "2024-12-16",
     "si_total_price": 3404,
-    "fk_st": 270,
+    "fk_st": 271,
     "fk_co": 4
   },
   {
     "id_ope": "20240812-396-242",
-    "si_id": 318,
+    "si_id": 319,
     "si_io": "20240812-396-242-1",
     "si_date_removal": "2024-08-26",
     "si_date_delivery": "2024-08-27",
     "si_total_price": 5327.04,
-    "fk_st": 271,
+    "fk_st": 272,
     "fk_co": 66
   },
   {
     "id_ope": "20240812-397-243",
-    "si_id": 319,
+    "si_id": 320,
     "si_io": "20240812-397-243-1",
     "si_date_removal": "2024-08-21",
     "si_date_delivery": "2024-08-21",
     "si_total_price": 32282.79,
-    "fk_st": 272,
-    "fk_co": 206
+    "fk_st": 273,
+    "fk_co": 205
   },
   {
     "id_ope": "20240812-398-244",
-    "si_id": 320,
+    "si_id": 321,
     "si_io": "20240812-398-244-1",
     "si_date_removal": "2024-08-21",
     "si_date_delivery": "2024-08-22",
     "si_total_price": 11576.19,
-    "fk_st": 273,
-    "fk_co": 255
-  },
-  {
-    "id_ope": "20250130-0004-112",
-    "si_id": 321,
-    "si_io": "20250130-0004-112-1",
-    "si_date_removal": "2025-02-04",
-    "si_date_delivery": "2025-02-10",
-    "si_total_price": 45855.3,
     "fk_st": 274,
-    "fk_co": 172
+    "fk_co": 254
   },
   {
     "id_ope": "20240813-399-255",
@@ -4700,24 +3240,24 @@
     "fk_co": 67
   },
   {
-    "id_ope": "20240821-405-248",
+    "id_ope": "20250130-0004-112",
     "si_id": 324,
+    "si_io": "20250130-0004-112-1",
+    "si_date_removal": "2025-02-04",
+    "si_date_delivery": "2025-02-10",
+    "si_total_price": 45855.3,
+    "fk_st": 277,
+    "fk_co": 172
+  },
+  {
+    "id_ope": "20240821-405-248",
+    "si_id": 325,
     "si_io": "20240821-405-248-1",
     "si_date_removal": "2024-09-11",
     "si_date_delivery": "2024-09-11",
     "si_total_price": 8752.68,
-    "fk_st": 277,
-    "fk_co": 37
-  },
-  {
-    "id_ope": "20240926-451-288",
-    "si_id": 325,
-    "si_io": "20240926-451-288-1",
-    "si_date_removal": "2024-10-06",
-    "si_date_delivery": "2024-10-07",
-    "si_total_price": 17484.66,
     "fk_st": 278,
-    "fk_co": 148
+    "fk_co": 37
   },
   {
     "id_ope": "20240821-406-249",
@@ -4740,124 +3280,124 @@
     "fk_co": 54
   },
   {
-    "id_ope": "20240903-409-257",
+    "id_ope": "20240926-451-288",
     "si_id": 328,
+    "si_io": "20240926-451-288-1",
+    "si_date_removal": "2024-10-06",
+    "si_date_delivery": "2024-10-07",
+    "si_total_price": 17484.66,
+    "fk_st": 281,
+    "fk_co": 148
+  },
+  {
+    "id_ope": "20240903-409-257",
+    "si_id": 329,
     "si_io": "20240903-409-257-1",
     "si_date_removal": "2024-09-05",
     "si_date_delivery": "2024-09-05",
     "si_total_price": 46231.32,
-    "fk_st": 281,
+    "fk_st": 282,
     "fk_co": 78
   },
   {
     "id_ope": "20240903-411-258",
-    "si_id": 329,
+    "si_id": 330,
     "si_io": "20240903-411-258-1",
     "si_date_removal": "2024-09-11",
     "si_date_delivery": "2024-09-11",
     "si_total_price": 15685,
-    "fk_st": 282,
-    "fk_co": 199
+    "fk_st": 283,
+    "fk_co": 198
   },
   {
     "id_ope": "20240903-413-267",
-    "si_id": 330,
+    "si_id": 331,
     "si_io": "20240903-413-267-1",
     "si_date_removal": "2024-10-16",
     "si_date_delivery": "2024-10-18",
     "si_total_price": 9700.35,
-    "fk_st": 283,
+    "fk_st": 284,
     "fk_co": 65
   },
   {
     "id_ope": "20240905-417-268",
-    "si_id": 331,
+    "si_id": 332,
     "si_io": "20240905-417-268-1",
     "si_date_removal": "2024-09-17",
     "si_date_delivery": "2024-09-18",
     "si_total_price": 10387.57,
-    "fk_st": 284,
+    "fk_st": 285,
     "fk_co": 184
   },
   {
     "id_ope": "20240905-418-263",
-    "si_id": 332,
+    "si_id": 333,
     "si_io": "20240905-418-263-1",
     "si_date_removal": "2024-09-25",
     "si_date_delivery": "2024-09-26",
     "si_total_price": 29248.799999999999,
-    "fk_st": 285,
-    "fk_co": 227
+    "fk_st": 286,
+    "fk_co": 226
   },
   {
     "id_ope": "20240906-414-262",
-    "si_id": 333,
+    "si_id": 334,
     "si_io": "20240906-414-262-1",
     "si_date_removal": "2024-09-20",
     "si_date_delivery": "2024-09-21",
     "si_total_price": 3354.84,
-    "fk_st": 286,
+    "fk_st": 287,
     "fk_co": 94
   },
   {
     "id_ope": "20240906-420-264",
-    "si_id": 334,
+    "si_id": 335,
     "si_io": "20240906-420-264-1",
     "si_date_removal": "2024-09-11",
     "si_date_delivery": "2024-09-13",
     "si_total_price": 3002.88,
-    "fk_st": 287,
+    "fk_st": 288,
     "fk_co": 112
   },
   {
     "id_ope": "20240906-421-0004-67",
-    "si_id": 335,
+    "si_id": 336,
     "si_io": "20240906-421-0004-67-1",
     "si_date_removal": "2024-12-19",
     "si_date_delivery": "2024-12-23",
     "si_total_price": 45330.2,
-    "fk_st": 288,
+    "fk_st": 289,
     "fk_co": 42
   },
   {
     "id_ope": "20240909-422-279",
-    "si_id": 336,
+    "si_id": 337,
     "si_io": "20240909-422-279-1",
     "si_date_removal": "2024-10-08",
     "si_date_delivery": "2024-10-09",
     "si_total_price": 12585.03,
-    "fk_st": 289,
+    "fk_st": 290,
     "fk_co": 21
   },
   {
     "id_ope": "20240909-423-269",
-    "si_id": 337,
+    "si_id": 338,
     "si_io": "20240909-423-269-1",
     "si_date_removal": "2024-10-05",
     "si_date_delivery": "2024-10-07",
     "si_total_price": 15760.27,
-    "fk_st": 290,
+    "fk_st": 291,
     "fk_co": 102
   },
   {
     "id_ope": "20240911-427-289",
-    "si_id": 338,
+    "si_id": 339,
     "si_io": "20240911-427-289-1",
     "si_date_removal": "2024-10-15",
     "si_date_delivery": "2024-10-16",
     "si_total_price": 36431.85,
-    "fk_st": 291,
-    "fk_co": 292
-  },
-  {
-    "id_ope": "20241010-0007-21",
-    "si_id": 339,
-    "si_io": "20241010-0007-21-1",
-    "si_date_removal": "2024-10-16",
-    "si_date_delivery": "2024-10-17",
-    "si_total_price": 8315.8799999999992,
     "fk_st": 292,
-    "fk_co": 84
+    "fk_co": 291
   },
   {
     "id_ope": "20240917-430-273",
@@ -4867,7 +3407,7 @@
     "si_date_delivery": "2024-10-01",
     "si_total_price": 10300,
     "fk_st": 293,
-    "fk_co": 216
+    "fk_co": 215
   },
   {
     "id_ope": "20240917-431-274",
@@ -4880,14 +3420,14 @@
     "fk_co": 134
   },
   {
-    "id_ope": "20241022-0007-30",
+    "id_ope": "20241010-0007-21",
     "si_id": 342,
-    "si_io": "20241022-0007-30-1",
-    "si_date_removal": "2024-11-08",
-    "si_date_delivery": "2024-11-13",
-    "si_total_price": 12148.39,
+    "si_io": "20241010-0007-21-1",
+    "si_date_removal": "2024-10-16",
+    "si_date_delivery": "2024-10-17",
+    "si_total_price": 8315.8799999999992,
     "fk_st": 295,
-    "fk_co": 27
+    "fk_co": 84
   },
   {
     "id_ope": "20240919-433-276",
@@ -4917,17 +3457,17 @@
     "si_date_delivery": "2024-10-14",
     "si_total_price": 26446.45,
     "fk_st": 298,
-    "fk_co": 227
+    "fk_co": 226
   },
   {
-    "id_ope": "20241104-0007-37",
+    "id_ope": "20241022-0007-30",
     "si_id": 346,
-    "si_io": "20241104-0007-37-1",
-    "si_date_removal": "2024-11-27",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 12584.51,
+    "si_io": "20241022-0007-30-1",
+    "si_date_removal": "2024-11-08",
+    "si_date_delivery": "2024-11-13",
+    "si_total_price": 12148.39,
     "fk_st": 299,
-    "fk_co": 35
+    "fk_co": 27
   },
   {
     "id_ope": "20240920-436-277",
@@ -4950,14 +3490,14 @@
     "fk_co": 165
   },
   {
-    "id_ope": "20241211-0007-58",
+    "id_ope": "20241104-0007-37",
     "si_id": 349,
-    "si_io": "20241211-0007-58-1",
-    "si_date_removal": "2024-12-18",
-    "si_date_delivery": "2024-12-27",
-    "si_total_price": 32444.97,
+    "si_io": "20241104-0007-37-1",
+    "si_date_removal": "2024-11-27",
+    "si_date_delivery": "2024-11-28",
+    "si_total_price": 12584.51,
     "fk_st": 302,
-    "fk_co": 257
+    "fk_co": 35
   },
   {
     "id_ope": "20240920-439-282",
@@ -4967,17 +3507,17 @@
     "si_date_delivery": "2024-10-03",
     "si_total_price": 9960.5300000000007,
     "fk_st": 303,
-    "fk_co": 295
+    "fk_co": 294
   },
   {
-    "id_ope": "20241212-0007-59",
+    "id_ope": "20241211-0007-58",
     "si_id": 351,
-    "si_io": "20241212-0007-59-1",
-    "si_date_removal": "2025-01-09",
-    "si_date_delivery": "2025-01-09",
-    "si_total_price": 50935.67,
+    "si_io": "20241211-0007-58-1",
+    "si_date_removal": "2024-12-18",
+    "si_date_delivery": "2024-12-27",
+    "si_total_price": 32444.97,
     "fk_st": 304,
-    "fk_co": 46
+    "fk_co": 256
   },
   {
     "id_ope": "20240923-443-286",
@@ -4987,7 +3527,7 @@
     "si_date_delivery": "2024-10-10",
     "si_total_price": 8861.82,
     "fk_st": 305,
-    "fk_co": 222
+    "fk_co": 221
   },
   {
     "id_ope": "20240923-444-285",
@@ -4995,86 +3535,6 @@
     "si_io": "20240923-444-285-1",
     "si_date_removal": "2024-11-26",
     "si_date_delivery": "2024-11-26",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 353,
-    "si_io": "20240923-444-285-1",
-    "si_date_removal": "2024-11-26",
-    "si_date_delivery": "2024-11-26",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 353,
-    "si_io": "20240923-444-285-1",
-    "si_date_removal": "2024-11-26",
-    "si_date_delivery": "2024-11-26",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 353,
-    "si_io": "20240923-444-285-1",
-    "si_date_removal": "2024-11-26",
-    "si_date_delivery": "2024-11-26",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 353,
-    "si_io": "20240923-444-285-1",
-    "si_date_removal": "2024-11-26",
-    "si_date_delivery": "2024-11-26",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 355,
-    "si_io": "20240923-444-285-2",
-    "si_date_removal": "2024-10-25",
-    "si_date_delivery": "2024-10-25",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 355,
-    "si_io": "20240923-444-285-2",
-    "si_date_removal": "2024-10-25",
-    "si_date_delivery": "2024-10-25",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 355,
-    "si_io": "20240923-444-285-2",
-    "si_date_removal": "2024-10-25",
-    "si_date_delivery": "2024-10-25",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 355,
-    "si_io": "20240923-444-285-2",
-    "si_date_removal": "2024-10-25",
-    "si_date_delivery": "2024-10-25",
     "si_total_price": 313577.28000000003,
     "fk_st": 306,
     "fk_co": 120
@@ -5101,46 +3561,6 @@
   },
   {
     "id_ope": "20240923-444-285",
-    "si_id": 356,
-    "si_io": "20240923-444-285-3",
-    "si_date_removal": "2024-11-28",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 356,
-    "si_io": "20240923-444-285-3",
-    "si_date_removal": "2024-11-28",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 356,
-    "si_io": "20240923-444-285-3",
-    "si_date_removal": "2024-11-28",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 356,
-    "si_io": "20240923-444-285-3",
-    "si_date_removal": "2024-11-28",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
     "si_id": 357,
     "si_io": "20240923-444-285-4",
     "si_date_removal": "2024-10-30",
@@ -5151,47 +3571,7 @@
   },
   {
     "id_ope": "20240923-444-285",
-    "si_id": 357,
-    "si_io": "20240923-444-285-4",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 357,
-    "si_io": "20240923-444-285-4",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 357,
-    "si_io": "20240923-444-285-4",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 357,
-    "si_io": "20240923-444-285-4",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 358,
+    "si_id": 359,
     "si_io": "20240923-444-285-5",
     "si_date_removal": "2024-10-30",
     "si_date_delivery": "2024-10-30",
@@ -5200,64 +3580,24 @@
     "fk_co": 120
   },
   {
-    "id_ope": "20240923-444-285",
-    "si_id": 358,
-    "si_io": "20240923-444-285-5",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 358,
-    "si_io": "20240923-444-285-5",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 358,
-    "si_io": "20240923-444-285-5",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
-  },
-  {
-    "id_ope": "20240923-444-285",
-    "si_id": 358,
-    "si_io": "20240923-444-285-5",
-    "si_date_removal": "2024-10-30",
-    "si_date_delivery": "2024-10-30",
-    "si_total_price": 313577.28000000003,
-    "fk_st": 306,
-    "fk_co": 120
+    "id_ope": "20241212-0007-59",
+    "si_id": 354,
+    "si_io": "20241212-0007-59-1",
+    "si_date_removal": "2025-01-09",
+    "si_date_delivery": "2025-01-09",
+    "si_total_price": 50935.67,
+    "fk_st": 307,
+    "fk_co": 46
   },
   {
     "id_ope": "20241218-0007-66",
-    "si_id": 354,
+    "si_id": 358,
     "si_io": "20241218-0007-66-1",
     "si_date_removal": "2024-12-23",
     "si_date_delivery": "2024-12-24",
     "si_total_price": 6333.76,
-    "fk_st": 307,
-    "fk_co": 257
-  },
-  {
-    "id_ope": "20241108-0005-48",
-    "si_id": 359,
-    "si_io": "20241108-0005-48-1",
-    "si_date_removal": "2024-11-26",
-    "si_date_delivery": "2024-11-26",
-    "si_total_price": 29365.86,
     "fk_st": 308,
-    "fk_co": 88
+    "fk_co": 256
   },
   {
     "id_ope": "20240924-445-0006-33",
@@ -5277,45 +3617,15 @@
     "si_date_delivery": "2024-10-02",
     "si_total_price": 358339.18,
     "fk_st": 310,
-    "fk_co": 214
+    "fk_co": 213
   },
   {
-    "id_ope": "20241120-0005-52",
+    "id_ope": "20241108-0005-48",
     "si_id": 362,
-    "si_io": "20241120-0005-52-1",
-    "si_date_removal": "2024-11-27",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 24522.38,
-    "fk_st": 311,
-    "fk_co": 88
-  },
-  {
-    "id_ope": "20241120-0005-52",
-    "si_id": 362,
-    "si_io": "20241120-0005-52-1",
-    "si_date_removal": "2024-11-27",
-    "si_date_delivery": "2024-11-28",
-    "si_total_price": 24522.38,
-    "fk_st": 311,
-    "fk_co": 88
-  },
-  {
-    "id_ope": "20241120-0005-52",
-    "si_id": 364,
-    "si_io": "20241120-0005-52-2",
+    "si_io": "20241108-0005-48-1",
     "si_date_removal": "2024-11-26",
-    "si_date_delivery": "2024-11-27",
-    "si_total_price": 24522.38,
-    "fk_st": 311,
-    "fk_co": 88
-  },
-  {
-    "id_ope": "20241120-0005-52",
-    "si_id": 364,
-    "si_io": "20241120-0005-52-2",
-    "si_date_removal": "2024-11-26",
-    "si_date_delivery": "2024-11-27",
-    "si_total_price": 24522.38,
+    "si_date_delivery": "2024-11-26",
+    "si_total_price": 29365.86,
     "fk_st": 311,
     "fk_co": 88
   },
@@ -5330,24 +3640,34 @@
     "fk_co": 177
   },
   {
+    "id_ope": "20241120-0005-52",
+    "si_id": 364,
+    "si_io": "20241120-0005-52-1",
+    "si_date_removal": "2024-11-27",
+    "si_date_delivery": "2024-11-28",
+    "si_total_price": 24522.38,
+    "fk_st": 313,
+    "fk_co": 88
+  },
+  {
+    "id_ope": "20241120-0005-52",
+    "si_id": 366,
+    "si_io": "20241120-0005-52-2",
+    "si_date_removal": "2024-11-26",
+    "si_date_delivery": "2024-11-27",
+    "si_total_price": 24522.38,
+    "fk_st": 313,
+    "fk_co": 88
+  },
+  {
     "id_ope": "20240927-455-0008-3",
     "si_id": 365,
     "si_io": "20240927-455-0008-3-1",
     "si_date_removal": "2024-11-15",
     "si_date_delivery": "2024-11-19",
     "si_total_price": 22577.74,
-    "fk_st": 313,
-    "fk_co": 266
-  },
-  {
-    "id_ope": "20241205-0008-21",
-    "si_id": 366,
-    "si_io": "20241205-0008-21-1",
-    "si_date_removal": "2024-12-13",
-    "si_date_delivery": "2024-12-20",
-    "si_total_price": 354666.84,
     "fk_st": 314,
-    "fk_co": 281
+    "fk_co": 265
   },
   {
     "id_ope": "20241001-0003-152",
@@ -5357,7 +3677,7 @@
     "si_date_delivery": "2024-10-16",
     "si_total_price": 3266.69,
     "fk_st": 315,
-    "fk_co": 292
+    "fk_co": 291
   },
   {
     "id_ope": "20241003-0003-153",
@@ -5370,14 +3690,14 @@
     "fk_co": 26
   },
   {
-    "id_ope": "20250129-0014-34",
+    "id_ope": "20241205-0008-21",
     "si_id": 369,
-    "si_io": "20250129-0014-34-1",
-    "si_date_removal": "2025-02-06",
-    "si_date_delivery": "2025-02-06",
-    "si_total_price": 2181.17,
+    "si_io": "20241205-0008-21-1",
+    "si_date_removal": "2024-12-13",
+    "si_date_delivery": "2024-12-20",
+    "si_total_price": 354666.84,
     "fk_st": 317,
-    "fk_co": 212
+    "fk_co": 280
   },
   {
     "id_ope": "20241007-0006-35",
@@ -5417,17 +3737,17 @@
     "si_date_delivery": "2024-10-17",
     "si_total_price": 6040,
     "fk_st": 321,
-    "fk_co": 213
+    "fk_co": 212
   },
   {
-    "id_ope": "20241122-0020-2",
+    "id_ope": "20250129-0014-34",
     "si_id": 374,
-    "si_io": "20241122-0020-2-1",
-    "si_date_removal": "2024-12-10",
-    "si_date_delivery": "2024-12-10",
-    "si_total_price": 1724,
+    "si_io": "20250129-0014-34-1",
+    "si_date_removal": "2025-02-06",
+    "si_date_delivery": "2025-02-06",
+    "si_total_price": 2181.17,
     "fk_st": 322,
-    "fk_co": 142
+    "fk_co": 211
   },
   {
     "id_ope": "20241009-0007-19",
@@ -5450,14 +3770,14 @@
     "fk_co": 85
   },
   {
-    "id_ope": "20250124-0020-15",
+    "id_ope": "20241122-0020-2",
     "si_id": 377,
-    "si_io": "20250124-0020-15-1",
-    "si_date_removal": "2025-02-20",
-    "si_date_delivery": "2025-02-21",
-    "si_total_price": 1956.66,
+    "si_io": "20241122-0020-2-1",
+    "si_date_removal": "2024-12-10",
+    "si_date_delivery": "2024-12-10",
+    "si_total_price": 1724,
     "fk_st": 325,
-    "fk_co": 231
+    "fk_co": 142
   },
   {
     "id_ope": "20241010-0006-39",
@@ -5470,134 +3790,114 @@
     "fk_co": 150
   },
   {
-    "id_ope": "20241011-0003-156",
+    "id_ope": "20250124-0020-15",
     "si_id": 379,
+    "si_io": "20250124-0020-15-1",
+    "si_date_removal": "2025-02-20",
+    "si_date_delivery": "2025-02-21",
+    "si_total_price": 1956.66,
+    "fk_st": 327,
+    "fk_co": 230
+  },
+  {
+    "id_ope": "20241011-0003-156",
+    "si_id": 380,
     "si_io": "20241011-0003-156-1",
     "si_date_removal": "2024-10-24",
     "si_date_delivery": "2024-10-25",
     "si_total_price": 25230.81,
-    "fk_st": 327,
-    "fk_co": 191
+    "fk_st": 328,
+    "fk_co": 190
   },
   {
     "id_ope": "20241014-0004-81",
-    "si_id": 380,
+    "si_id": 381,
     "si_io": "20241014-0004-81-1",
     "si_date_removal": "2024-10-24",
     "si_date_delivery": "2024-10-25",
     "si_total_price": 2458.62,
-    "fk_st": 328,
+    "fk_st": 329,
     "fk_co": 48
   },
   {
     "id_ope": "20241015-0007-23",
-    "si_id": 381,
+    "si_id": 382,
     "si_io": "20241015-0007-23-1",
     "si_date_removal": "2024-10-28",
     "si_date_delivery": "2024-10-29",
     "si_total_price": 29457.57,
-    "fk_st": 329,
-    "fk_co": 229
+    "fk_st": 330,
+    "fk_co": 228
   },
   {
     "id_ope": "20241015-0007-26",
-    "si_id": 382,
+    "si_id": 383,
     "si_io": "20241015-0007-26-1",
     "si_date_removal": "2024-11-21",
     "si_date_delivery": "2024-11-22",
     "si_total_price": 14174.8,
-    "fk_st": 330,
+    "fk_st": 331,
     "fk_co": 92
   },
   {
     "id_ope": "20241016-0009-2",
-    "si_id": 383,
+    "si_id": 384,
     "si_io": "20241016-0009-2-1",
     "si_date_removal": "2025-01-08",
     "si_date_delivery": "2025-01-15",
     "si_total_price": 34128.639999999999,
-    "fk_st": 331,
+    "fk_st": 332,
     "fk_co": 182
   },
   {
     "id_ope": "20241017-0006-42",
-    "si_id": 384,
+    "si_id": 385,
     "si_io": "20241017-0006-42-1",
     "si_date_removal": "2024-11-04",
     "si_date_delivery": "2024-11-06",
     "si_total_price": 7068,
-    "fk_st": 332,
+    "fk_st": 333,
     "fk_co": 184
   },
   {
     "id_ope": "20241017-0011-8",
-    "si_id": 385,
+    "si_id": 386,
     "si_io": "20241017-0011-8-1",
     "si_date_removal": "2024-11-14",
     "si_date_delivery": "2024-11-15",
     "si_total_price": 53166.63,
-    "fk_st": 333,
+    "fk_st": 334,
     "fk_co": 149
   },
   {
     "id_ope": "20241018-0003-157",
-    "si_id": 386,
+    "si_id": 387,
     "si_io": "20241018-0003-157-1",
     "si_date_removal": "2024-12-04",
     "si_date_delivery": "2024-12-10",
     "si_total_price": 209528.34,
-    "fk_st": 334,
-    "fk_co": 215
+    "fk_st": 335,
+    "fk_co": 214
   },
   {
     "id_ope": "20241018-0003-157",
-    "si_id": 386,
-    "si_io": "20241018-0003-157-1",
-    "si_date_removal": "2024-12-04",
-    "si_date_delivery": "2024-12-10",
-    "si_total_price": 209528.34,
-    "fk_st": 334,
-    "fk_co": 215
-  },
-  {
-    "id_ope": "20241018-0003-157",
-    "si_id": 387,
+    "si_id": 388,
     "si_io": "20241018-0003-157-2",
     "si_date_removal": "2024-12-12",
     "si_date_delivery": "2025-01-28",
     "si_total_price": 209528.34,
-    "fk_st": 334,
-    "fk_co": 215
-  },
-  {
-    "id_ope": "20241018-0003-157",
-    "si_id": 387,
-    "si_io": "20241018-0003-157-2",
-    "si_date_removal": "2024-12-12",
-    "si_date_delivery": "2025-01-28",
-    "si_total_price": 209528.34,
-    "fk_st": 334,
-    "fk_co": 215
+    "fk_st": 335,
+    "fk_co": 214
   },
   {
     "id_ope": "20241018-0003-158",
-    "si_id": 388,
+    "si_id": 389,
     "si_io": "20241018-0003-158-1",
     "si_date_removal": "2024-11-14",
     "si_date_delivery": "2024-11-15",
     "si_total_price": 29070.12,
-    "fk_st": 335,
-    "fk_co": 124
-  },
-  {
-    "id_ope": "20241107-0004-86",
-    "si_id": 389,
-    "si_io": "20241107-0004-86-1",
-    "si_date_removal": "2024-12-09",
-    "si_date_delivery": "2024-12-11",
-    "si_total_price": 15849.16,
     "fk_st": 336,
-    "fk_co": 183
+    "fk_co": 124
   },
   {
     "id_ope": "20241018-0006-43",
@@ -5607,17 +3907,17 @@
     "si_date_delivery": "2024-10-31",
     "si_total_price": 5194.16,
     "fk_st": 337,
-    "fk_co": 286
+    "fk_co": 285
   },
   {
-    "id_ope": "20241127-0004-94",
+    "id_ope": "20241107-0004-86",
     "si_id": 391,
-    "si_io": "20241127-0004-94-1",
-    "si_date_removal": "2024-12-12",
-    "si_date_delivery": "2024-12-18",
-    "si_total_price": 21465.06,
+    "si_io": "20241107-0004-86-1",
+    "si_date_removal": "2024-12-09",
+    "si_date_delivery": "2024-12-11",
+    "si_total_price": 15849.16,
     "fk_st": 338,
-    "fk_co": 87
+    "fk_co": 183
   },
   {
     "id_ope": "20241021-0007-28",
@@ -5627,7 +3927,7 @@
     "si_date_delivery": "2024-10-31",
     "si_total_price": 5639.03,
     "fk_st": 339,
-    "fk_co": 265
+    "fk_co": 264
   },
   {
     "id_ope": "20241022-0003-159",
@@ -5640,14 +3940,14 @@
     "fk_co": 177
   },
   {
-    "id_ope": "20241210-0004-99",
+    "id_ope": "20241127-0004-94",
     "si_id": 394,
-    "si_io": "20241210-0004-99-1",
-    "si_date_removal": "2025-01-31",
-    "si_date_delivery": "2025-01-07",
-    "si_total_price": 43941.27,
+    "si_io": "20241127-0004-94-1",
+    "si_date_removal": "2024-12-12",
+    "si_date_delivery": "2024-12-18",
+    "si_total_price": 21465.06,
     "fk_st": 341,
-    "fk_co": 158
+    "fk_co": 87
   },
   {
     "id_ope": "20241022-0011-10",
@@ -5660,54 +3960,54 @@
     "fk_co": 64
   },
   {
-    "id_ope": "20241023-0003-160",
+    "id_ope": "20241210-0004-99",
     "si_id": 396,
+    "si_io": "20241210-0004-99-1",
+    "si_date_removal": "2025-01-31",
+    "si_date_delivery": "2025-01-07",
+    "si_total_price": 43941.27,
+    "fk_st": 343,
+    "fk_co": 158
+  },
+  {
+    "id_ope": "20241023-0003-160",
+    "si_id": 397,
     "si_io": "20241023-0003-160-1",
     "si_date_removal": "2024-10-29",
     "si_date_delivery": "2024-10-30",
     "si_total_price": 30579.171999999999,
-    "fk_st": 343,
+    "fk_st": 344,
     "fk_co": 79
   },
   {
     "id_ope": "20241023-0005-42",
-    "si_id": 397,
+    "si_id": 398,
     "si_io": "20241023-0005-42-1",
     "si_date_removal": "2024-11-08",
     "si_date_delivery": "2024-11-12",
     "si_total_price": 2747.1,
-    "fk_st": 344,
+    "fk_st": 345,
     "fk_co": 28
   },
   {
-    "id_ope": "20241023-0006-44",
-    "si_id": 398,
-    "si_io": "20241023-0006-44-1",
-    "si_date_removal": "2024-12-13",
-    "si_date_delivery": "2024-12-16",
-    "si_total_price": 67827.289999999994,
-    "fk_st": 345,
-    "fk_co": 14
-  },
-  {
-    "id_ope": "20241203-0006-59",
-    "si_id": 399,
-    "si_io": "20241203-0006-59-1",
-    "si_date_removal": "2024-12-20",
-    "si_date_delivery": "2024-12-23",
-    "si_total_price": 8495.2800000000007,
-    "fk_st": 346,
-    "fk_co": 188
-  },
-  {
     "id_ope": "20241023-0007-31",
-    "si_id": 400,
+    "si_id": 399,
     "si_io": "20241023-0007-31-1",
     "si_date_removal": "2024-11-06",
     "si_date_delivery": "2024-11-13",
     "si_total_price": 5805,
-    "fk_st": 347,
+    "fk_st": 346,
     "fk_co": 7
+  },
+  {
+    "id_ope": "20241203-0006-59",
+    "si_id": 400,
+    "si_io": "20241203-0006-59-1",
+    "si_date_removal": "2024-12-20",
+    "si_date_delivery": "2024-12-23",
+    "si_total_price": 8495.2800000000007,
+    "fk_st": 347,
+    "fk_co": 187
   },
   {
     "id_ope": "20241216-0011-22",
@@ -5717,7 +4017,7 @@
     "si_date_delivery": "2025-01-08",
     "si_total_price": 19219.259999999998,
     "fk_st": 348,
-    "fk_co": 255
+    "fk_co": 254
   },
   {
     "id_ope": "20241025-0007-34",
@@ -5727,7 +4027,7 @@
     "si_date_delivery": "2024-12-13",
     "si_total_price": 22375.793000000001,
     "fk_st": 349,
-    "fk_co": 205
+    "fk_co": 204
   },
   {
     "id_ope": "20241028-0003-161",
@@ -5777,7 +4077,7 @@
     "si_date_delivery": "2024-11-13",
     "si_total_price": 9921.6299999999992,
     "fk_st": 354,
-    "fk_co": 195
+    "fk_co": 194
   },
   {
     "id_ope": "20241031-0008-8",
@@ -5787,7 +4087,7 @@
     "si_date_delivery": "2024-11-14",
     "si_total_price": 45201.71,
     "fk_st": 355,
-    "fk_co": 274
+    "fk_co": 273
   },
   {
     "id_ope": "20241031-0011-11",
@@ -5800,34 +4100,34 @@
     "fk_co": 47
   },
   {
-    "id_ope": "20241128-0014-4",
-    "si_id": 410,
-    "si_io": "20241128-0014-4-1",
-    "si_date_removal": "2024-12-05",
-    "si_date_delivery": "2024-12-06",
-    "si_total_price": 6627.34,
-    "fk_st": 357,
-    "fk_co": 77
-  },
-  {
     "id_ope": "20241104-0009-6",
-    "si_id": 411,
+    "si_id": 410,
     "si_io": "20241104-0009-6-1",
     "si_date_removal": "2024-12-19",
     "si_date_delivery": "2024-12-20",
     "si_total_price": 235589.14,
-    "fk_st": 358,
+    "fk_st": 357,
     "fk_co": 157
   },
   {
     "id_ope": "20241105-0005-44",
-    "si_id": 412,
+    "si_id": 411,
     "si_io": "20241105-0005-44-1",
     "si_date_removal": "2024-11-26",
     "si_date_delivery": "2024-11-27",
     "si_total_price": 13624.05,
-    "fk_st": 359,
+    "fk_st": 358,
     "fk_co": 93
+  },
+  {
+    "id_ope": "20241128-0014-4",
+    "si_id": 412,
+    "si_io": "20241128-0014-4-1",
+    "si_date_removal": "2024-12-05",
+    "si_date_delivery": "2024-12-06",
+    "si_total_price": 6627.34,
+    "fk_st": 359,
+    "fk_co": 77
   },
   {
     "id_ope": "20241105-0005-45",
@@ -5850,44 +4150,44 @@
     "fk_co": 157
   },
   {
-    "id_ope": "20241206-0004-98",
-    "si_id": 415,
-    "si_io": "20241206-0004-98-1",
-    "si_date_removal": "2024-12-19",
-    "si_date_delivery": "2025-01-07",
-    "si_total_price": 870.91200000000003,
-    "fk_st": 362,
-    "fk_co": 39
-  },
-  {
     "id_ope": "20241107-0007-38",
-    "si_id": 416,
+    "si_id": 415,
     "si_io": "20241107-0007-38-1",
     "si_date_removal": "2024-11-28",
     "si_date_delivery": "2024-11-28",
     "si_total_price": 4656.71,
-    "fk_st": 363,
-    "fk_co": 291
+    "fk_st": 362,
+    "fk_co": 290
   },
   {
     "id_ope": "20241107-0008-9",
-    "si_id": 417,
+    "si_id": 416,
     "si_io": "20241107-0008-9-1",
     "si_date_removal": "2024-11-26",
     "si_date_delivery": "2024-11-28",
     "si_total_price": 30353,
-    "fk_st": 364,
-    "fk_co": 187
+    "fk_st": 363,
+    "fk_co": 186
   },
   {
     "id_ope": "20241108-0005-47",
-    "si_id": 418,
+    "si_id": 417,
     "si_io": "20241108-0005-47-1",
     "si_date_removal": "2024-11-27",
     "si_date_delivery": "2024-11-28",
     "si_total_price": 19600.61,
-    "fk_st": 365,
+    "fk_st": 364,
     "fk_co": 59
+  },
+  {
+    "id_ope": "20241206-0004-98",
+    "si_id": 418,
+    "si_io": "20241206-0004-98-1",
+    "si_date_removal": "2024-12-19",
+    "si_date_delivery": "2025-01-07",
+    "si_total_price": 870.91200000000003,
+    "fk_st": 365,
+    "fk_co": 39
   },
   {
     "id_ope": "20241108-0005-49",
@@ -5917,7 +4217,7 @@
     "si_date_delivery": "2024-11-18",
     "si_total_price": 45850.47,
     "fk_st": 368,
-    "fk_co": 236
+    "fk_co": 235
   },
   {
     "id_ope": "20241113-0007-41",
@@ -5930,24 +4230,24 @@
     "fk_co": 31
   },
   {
-    "id_ope": "20241118-0008-13",
-    "si_id": 423,
-    "si_io": "20241118-0008-13-1",
-    "si_date_removal": "2024-12-10",
-    "si_date_delivery": "2024-12-11",
-    "si_total_price": 92047.22,
-    "fk_st": 370,
-    "fk_co": 181
-  },
-  {
     "id_ope": "20241114-0004-89",
-    "si_id": 424,
+    "si_id": 423,
     "si_io": "20241114-0004-89-1",
     "si_date_removal": "2024-12-19",
     "si_date_delivery": "2024-12-19",
     "si_total_price": 41459.589999999997,
+    "fk_st": 370,
+    "fk_co": 289
+  },
+  {
+    "id_ope": "20241118-0008-13",
+    "si_id": 424,
+    "si_io": "20241118-0008-13-1",
+    "si_date_removal": "2024-12-10",
+    "si_date_delivery": "2024-12-11",
+    "si_total_price": 92047.22,
     "fk_st": 371,
-    "fk_co": 290
+    "fk_co": 181
   },
   {
     "id_ope": "20241115-0007-43",
@@ -5957,7 +4257,7 @@
     "si_date_delivery": "2024-12-04",
     "si_total_price": 24794,
     "fk_st": 372,
-    "fk_co": 234
+    "fk_co": 233
   },
   {
     "id_ope": "20241115-0007-44",
@@ -5991,16 +4291,6 @@
   },
   {
     "id_ope": "20241118-0005-51",
-    "si_id": 428,
-    "si_io": "20241118-0005-51-1",
-    "si_date_removal": "2024-12-30",
-    "si_date_delivery": "2024-12-23",
-    "si_total_price": 120351.66,
-    "fk_st": 375,
-    "fk_co": 135
-  },
-  {
-    "id_ope": "20241118-0005-51",
     "si_id": 429,
     "si_io": "20241118-0005-51-2",
     "si_date_removal": "2024-12-30",
@@ -6008,56 +4298,46 @@
     "si_total_price": 120351.66,
     "fk_st": 375,
     "fk_co": 135
-  },
-  {
-    "id_ope": "20241118-0005-51",
-    "si_id": 429,
-    "si_io": "20241118-0005-51-2",
-    "si_date_removal": "2024-12-30",
-    "si_date_delivery": "2025-01-13",
-    "si_total_price": 120351.66,
-    "fk_st": 375,
-    "fk_co": 135
-  },
-  {
-    "id_ope": "20241209-0005-58",
-    "si_id": 430,
-    "si_io": "20241209-0005-58-1",
-    "si_date_removal": "2024-12-26",
-    "si_date_delivery": "2024-12-26",
-    "si_total_price": 1166.32,
-    "fk_st": 376,
-    "fk_co": 239
   },
   {
     "id_ope": "20241118-0006-49",
-    "si_id": 431,
+    "si_id": 430,
     "si_io": "20241118-0006-49-1",
     "si_date_removal": "2024-12-16",
     "si_date_delivery": "2024-12-17",
     "si_total_price": 16757.29,
-    "fk_st": 377,
+    "fk_st": 376,
     "fk_co": 232
   },
   {
     "id_ope": "20241118-0006-50",
-    "si_id": 432,
+    "si_id": 431,
     "si_io": "20241118-0006-50-1",
     "si_date_removal": "2024-12-12",
     "si_date_delivery": "2024-12-13",
     "si_total_price": 22809,
-    "fk_st": 378,
+    "fk_st": 377,
     "fk_co": 232
   },
   {
     "id_ope": "20241118-0007-45",
-    "si_id": 433,
+    "si_id": 432,
     "si_io": "20241118-0007-45-1",
     "si_date_removal": "2024-11-21",
     "si_date_delivery": "2024-11-22",
     "si_total_price": 4651.54,
-    "fk_st": 379,
+    "fk_st": 378,
     "fk_co": 90
+  },
+  {
+    "id_ope": "20241209-0005-58",
+    "si_id": 433,
+    "si_io": "20241209-0005-58-1",
+    "si_date_removal": "2024-12-26",
+    "si_date_delivery": "2024-12-26",
+    "si_total_price": 1166.32,
+    "fk_st": 379,
+    "fk_co": 238
   },
   {
     "id_ope": "20241118-0007-46",
@@ -6080,54 +4360,54 @@
     "fk_co": 114
   },
   {
-    "id_ope": "20241122-0005-54",
-    "si_id": 436,
-    "si_io": "20241122-0005-54-1",
-    "si_date_removal": "2024-12-10",
-    "si_date_delivery": "2024-12-16",
-    "si_total_price": 10155.31,
-    "fk_st": 382,
-    "fk_co": 40
-  },
-  {
     "id_ope": "20241118-0011-14",
-    "si_id": 437,
+    "si_id": 436,
     "si_io": "20241118-0011-14-1",
     "si_date_removal": "2025-02-03",
     "si_date_delivery": "2025-02-04",
     "si_total_price": 24560.5,
-    "fk_st": 383,
-    "fk_co": 250
+    "fk_st": 382,
+    "fk_co": 249
   },
   {
-    "id_ope": "20241211-0005-59",
-    "si_id": 438,
-    "si_io": "20241211-0005-59-1",
-    "si_date_removal": "2024-12-16",
-    "si_date_delivery": "2024-12-19",
-    "si_total_price": 15833.1,
-    "fk_st": 384,
+    "id_ope": "20241122-0005-54",
+    "si_id": 437,
+    "si_io": "20241122-0005-54-1",
+    "si_date_removal": "2024-12-10",
+    "si_date_delivery": "2024-12-16",
+    "si_total_price": 10155.31,
+    "fk_st": 383,
     "fk_co": 40
   },
   {
     "id_ope": "20241119-0007-47",
-    "si_id": 439,
+    "si_id": 438,
     "si_io": "20241119-0007-47-1",
     "si_date_removal": "2024-12-03",
     "si_date_delivery": "2024-12-04",
     "si_total_price": 6886.49,
-    "fk_st": 385,
-    "fk_co": 265
+    "fk_st": 384,
+    "fk_co": 264
   },
   {
     "id_ope": "20241119-0008-14",
-    "si_id": 440,
+    "si_id": 439,
     "si_io": "20241119-0008-14-1",
     "si_date_removal": "2025-02-18",
     "si_date_delivery": "2025-02-19",
     "si_total_price": 7580.6,
+    "fk_st": 385,
+    "fk_co": 237
+  },
+  {
+    "id_ope": "20241211-0005-59",
+    "si_id": 440,
+    "si_io": "20241211-0005-59-1",
+    "si_date_removal": "2024-12-16",
+    "si_date_delivery": "2024-12-19",
+    "si_total_price": 15833.1,
     "fk_st": 386,
-    "fk_co": 238
+    "fk_co": 40
   },
   {
     "id_ope": "20241120-0005-53",
@@ -6147,7 +4427,7 @@
     "si_date_delivery": "2024-12-16",
     "si_total_price": 20354.29,
     "fk_st": 388,
-    "fk_co": 251
+    "fk_co": 250
   },
   {
     "id_ope": "20241120-0018-3",
@@ -6170,34 +4450,34 @@
     "fk_co": 232
   },
   {
-    "id_ope": "20250117-0011-32",
-    "si_id": 445,
-    "si_io": "20250117-0011-32-1",
-    "si_date_removal": "2025-01-28",
-    "si_date_delivery": "2025-01-28",
-    "si_total_price": 4410,
-    "fk_st": 391,
-    "fk_co": 263
-  },
-  {
     "id_ope": "20241121-0007-50",
-    "si_id": 446,
+    "si_id": 445,
     "si_io": "20241121-0007-50-1",
     "si_date_removal": "2024-12-05",
     "si_date_delivery": "2024-12-06",
     "si_total_price": 10376.92,
-    "fk_st": 392,
-    "fk_co": 195
+    "fk_st": 391,
+    "fk_co": 194
   },
   {
     "id_ope": "20241121-0011-15",
-    "si_id": 447,
+    "si_id": 446,
     "si_io": "20241121-0011-15-1",
     "si_date_removal": "2024-12-06",
     "si_date_delivery": "2024-12-06",
     "si_total_price": 82104.88,
-    "fk_st": 393,
+    "fk_st": 392,
     "fk_co": 41
+  },
+  {
+    "id_ope": "20250117-0011-32",
+    "si_id": 447,
+    "si_io": "20250117-0011-32-1",
+    "si_date_removal": "2025-01-28",
+    "si_date_delivery": "2025-01-28",
+    "si_total_price": 4410,
+    "fk_st": 393,
+    "fk_co": 262
   },
   {
     "id_ope": "20241122-0005-55",
@@ -6220,34 +4500,34 @@
     "fk_co": 179
   },
   {
-    "id_ope": "20250124-0008-43",
-    "si_id": 450,
-    "si_io": "20250124-0008-43-1",
-    "si_date_removal": "2025-03-05",
-    "si_date_delivery": "2025-03-05",
-    "si_total_price": 99357.62,
-    "fk_st": 396,
-    "fk_co": 223
-  },
-  {
     "id_ope": "20241125-0007-51",
-    "si_id": 451,
+    "si_id": 450,
     "si_io": "20241125-0007-51-1",
     "si_date_removal": "2024-12-13",
     "si_date_delivery": "2024-12-16",
     "si_total_price": 555433,
-    "fk_st": 397,
-    "fk_co": 236
+    "fk_st": 396,
+    "fk_co": 235
   },
   {
     "id_ope": "20241125-0014-3",
-    "si_id": 452,
+    "si_id": 451,
     "si_io": "20241125-0014-3-1",
     "si_date_removal": "2024-12-16",
     "si_date_delivery": "2024-12-18",
     "si_total_price": 103969,
-    "fk_st": 398,
+    "fk_st": 397,
     "fk_co": 29
+  },
+  {
+    "id_ope": "20250124-0008-43",
+    "si_id": 452,
+    "si_io": "20250124-0008-43-1",
+    "si_date_removal": "2025-03-05",
+    "si_date_delivery": "2025-03-05",
+    "si_total_price": 99357.62,
+    "fk_st": 398,
+    "fk_co": 222
   },
   {
     "id_ope": "20241126-0006-55",
@@ -6267,107 +4547,47 @@
     "si_date_delivery": "2024-12-05",
     "si_total_price": 1030.4000000000001,
     "fk_st": 400,
-    "fk_co": 216
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 455,
-    "si_io": "20241217-0011-23-1",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-10",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 455,
-    "si_io": "20241217-0011-23-1",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-10",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 455,
-    "si_io": "20241217-0011-23-1",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-10",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 457,
-    "si_io": "20241217-0011-23-2",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-14",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 457,
-    "si_io": "20241217-0011-23-2",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-14",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 457,
-    "si_io": "20241217-0011-23-2",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-14",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 459,
-    "si_io": "20241217-0011-23-3",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-15",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 459,
-    "si_io": "20241217-0011-23-3",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-15",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
-  },
-  {
-    "id_ope": "20241217-0011-23",
-    "si_id": 459,
-    "si_io": "20241217-0011-23-3",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-15",
-    "si_total_price": 14487.55,
-    "fk_st": 401,
-    "fk_co": 178
+    "fk_co": 215
   },
   {
     "id_ope": "20241126-0011-17",
-    "si_id": 456,
+    "si_id": 455,
     "si_io": "20241126-0011-17-1",
     "si_date_removal": "2024-12-03",
     "si_date_delivery": "2024-12-04",
     "si_total_price": 44747,
-    "fk_st": 402,
+    "fk_st": 401,
     "fk_co": 153
+  },
+  {
+    "id_ope": "20241217-0011-23",
+    "si_id": 456,
+    "si_io": "20241217-0011-23-1",
+    "si_date_removal": "2025-01-06",
+    "si_date_delivery": "2025-01-10",
+    "si_total_price": 14487.55,
+    "fk_st": 402,
+    "fk_co": 178
+  },
+  {
+    "id_ope": "20241217-0011-23",
+    "si_id": 457,
+    "si_io": "20241217-0011-23-2",
+    "si_date_removal": "2025-01-06",
+    "si_date_delivery": "2025-01-14",
+    "si_total_price": 14487.55,
+    "fk_st": 402,
+    "fk_co": 178
+  },
+  {
+    "id_ope": "20241217-0011-23",
+    "si_id": 459,
+    "si_io": "20241217-0011-23-3",
+    "si_date_removal": "2025-01-06",
+    "si_date_delivery": "2025-01-15",
+    "si_total_price": 14487.55,
+    "fk_st": 402,
+    "fk_co": 178
   },
   {
     "id_ope": "20241127-0008-17",
@@ -6390,24 +4610,24 @@
     "fk_co": 177
   },
   {
-    "id_ope": "20241223-0011-24",
-    "si_id": 461,
-    "si_io": "20241223-0011-24-1",
-    "si_date_removal": "2025-01-06",
-    "si_date_delivery": "2025-01-10",
-    "si_total_price": 33788.75,
-    "fk_st": 405,
-    "fk_co": 64
-  },
-  {
     "id_ope": "20241128-0014-5",
-    "si_id": 462,
+    "si_id": 461,
     "si_io": "20241128-0014-5-1",
     "si_date_removal": "2024-12-13",
     "si_date_delivery": "2024-12-18",
     "si_total_price": 13015.97,
-    "fk_st": 406,
+    "fk_st": 405,
     "fk_co": 60
+  },
+  {
+    "id_ope": "20241223-0011-24",
+    "si_id": 462,
+    "si_io": "20241223-0011-24-1",
+    "si_date_removal": "2025-01-06",
+    "si_date_delivery": "2025-01-10",
+    "si_total_price": 33788.75,
+    "fk_st": 406,
+    "fk_co": 64
   },
   {
     "id_ope": "20241129-0004-95",
@@ -6427,59 +4647,39 @@
     "si_date_delivery": "2025-01-10",
     "si_total_price": 87311.71,
     "fk_st": 408,
-    "fk_co": 282
-  },
-  {
-    "id_ope": "20241204-0014-6",
-    "si_id": 465,
-    "si_io": "20241204-0014-6-1",
-    "si_date_removal": "2025-01-22",
-    "si_date_delivery": "2025-01-29",
-    "si_total_price": 9610.74,
-    "fk_st": 409,
-    "fk_co": 174
-  },
-  {
-    "id_ope": "20241204-0014-6",
-    "si_id": 465,
-    "si_io": "20241204-0014-6-1",
-    "si_date_removal": "2025-01-22",
-    "si_date_delivery": "2025-01-29",
-    "si_total_price": 9610.74,
-    "fk_st": 409,
-    "fk_co": 174
-  },
-  {
-    "id_ope": "20241204-0014-6",
-    "si_id": 468,
-    "si_io": "20241204-0014-6-2",
-    "si_date_removal": "2025-02-05",
-    "si_date_delivery": "2025-02-05",
-    "si_total_price": 9610.74,
-    "fk_st": 409,
-    "fk_co": 174
-  },
-  {
-    "id_ope": "20241204-0014-6",
-    "si_id": 468,
-    "si_io": "20241204-0014-6-2",
-    "si_date_removal": "2025-02-05",
-    "si_date_delivery": "2025-02-05",
-    "si_total_price": 9610.74,
-    "fk_st": 409,
-    "fk_co": 174
+    "fk_co": 281
   },
   {
     "id_ope": "20241129-0008-18",
-    "si_id": 466,
+    "si_id": 465,
     "si_io": "20241129-0008-18-1",
     "si_date_removal": "2024-12-18",
     "si_date_delivery": "2024-12-18",
     "si_total_price": 7071.52,
-    "fk_st": 410,
+    "fk_st": 409,
     "fk_co": 185
   },
   {
+    "id_ope": "20241204-0014-6",
+    "si_id": 466,
+    "si_io": "20241204-0014-6-1",
+    "si_date_removal": "2025-01-22",
+    "si_date_delivery": "2025-01-29",
+    "si_total_price": 9610.74,
+    "fk_st": 410,
+    "fk_co": 174
+  },
+  {
+    "id_ope": "20241204-0014-6",
+    "si_id": 469,
+    "si_io": "20241204-0014-6-2",
+    "si_date_removal": "2025-02-05",
+    "si_date_delivery": "2025-02-05",
+    "si_total_price": 9610.74,
+    "fk_st": 410,
+    "fk_co": 174
+  },
+  {
     "id_ope": "20241129-0008-19",
     "si_id": 467,
     "si_io": "20241129-0008-19-1",
@@ -6487,37 +4687,17 @@
     "si_date_delivery": "2024-12-20",
     "si_total_price": 513839.18,
     "fk_st": 411,
-    "fk_co": 273
+    "fk_co": 272
   },
   {
     "id_ope": "20241129-0008-19",
-    "si_id": 467,
-    "si_io": "20241129-0008-19-1",
-    "si_date_removal": "2024-12-16",
-    "si_date_delivery": "2024-12-20",
-    "si_total_price": 513839.18,
-    "fk_st": 411,
-    "fk_co": 273
-  },
-  {
-    "id_ope": "20241129-0008-19",
-    "si_id": 469,
+    "si_id": 468,
     "si_io": "20241129-0008-19-2",
     "si_date_removal": "2024-12-16",
     "si_date_delivery": "2024-12-19",
     "si_total_price": 513839.18,
     "fk_st": 411,
-    "fk_co": 273
-  },
-  {
-    "id_ope": "20241129-0008-19",
-    "si_id": 469,
-    "si_io": "20241129-0008-19-2",
-    "si_date_removal": "2024-12-16",
-    "si_date_delivery": "2024-12-19",
-    "si_total_price": 513839.18,
-    "fk_st": 411,
-    "fk_co": 273
+    "fk_co": 272
   },
   {
     "id_ope": "20241204-0004-96",
@@ -6537,7 +4717,7 @@
     "si_date_delivery": "2025-01-07",
     "si_total_price": 1200,
     "fk_st": 413,
-    "fk_co": 233
+    "fk_co": 231
   },
   {
     "id_ope": "20241205-0007-54",
@@ -6547,7 +4727,7 @@
     "si_date_delivery": "2025-01-07",
     "si_total_price": 71103.8,
     "fk_st": 414,
-    "fk_co": 293
+    "fk_co": 292
   },
   {
     "id_ope": "20241205-0008-22",
@@ -6557,27 +4737,7 @@
     "si_date_delivery": "2024-12-20",
     "si_total_price": 221521,
     "fk_st": 415,
-    "fk_co": 187
-  },
-  {
-    "id_ope": "20241205-0008-22",
-    "si_id": 473,
-    "si_io": "20241205-0008-22-1",
-    "si_date_removal": "2024-12-18",
-    "si_date_delivery": "2024-12-20",
-    "si_total_price": 221521,
-    "fk_st": 415,
-    "fk_co": 187
-  },
-  {
-    "id_ope": "20241205-0008-22",
-    "si_id": 473,
-    "si_io": "20241205-0008-22-1",
-    "si_date_removal": "2024-12-18",
-    "si_date_delivery": "2024-12-20",
-    "si_total_price": 221521,
-    "fk_st": 415,
-    "fk_co": 187
+    "fk_co": 186
   },
   {
     "id_ope": "20241205-0008-22",
@@ -6587,27 +4747,7 @@
     "si_date_delivery": "2024-12-19",
     "si_total_price": 221521,
     "fk_st": 415,
-    "fk_co": 187
-  },
-  {
-    "id_ope": "20241205-0008-22",
-    "si_id": 475,
-    "si_io": "20241205-0008-22-2",
-    "si_date_removal": "2024-12-18",
-    "si_date_delivery": "2024-12-19",
-    "si_total_price": 221521,
-    "fk_st": 415,
-    "fk_co": 187
-  },
-  {
-    "id_ope": "20241205-0008-22",
-    "si_id": 475,
-    "si_io": "20241205-0008-22-2",
-    "si_date_removal": "2024-12-18",
-    "si_date_delivery": "2024-12-19",
-    "si_total_price": 221521,
-    "fk_st": 415,
-    "fk_co": 187
+    "fk_co": 186
   },
   {
     "id_ope": "20241205-0008-22",
@@ -6617,27 +4757,7 @@
     "si_date_delivery": "2024-12-20",
     "si_total_price": 221521,
     "fk_st": 415,
-    "fk_co": 187
-  },
-  {
-    "id_ope": "20241205-0008-22",
-    "si_id": 476,
-    "si_io": "20241205-0008-22-3",
-    "si_date_removal": "2024-12-18",
-    "si_date_delivery": "2024-12-20",
-    "si_total_price": 221521,
-    "fk_st": 415,
-    "fk_co": 187
-  },
-  {
-    "id_ope": "20241205-0008-22",
-    "si_id": 476,
-    "si_io": "20241205-0008-22-3",
-    "si_date_removal": "2024-12-18",
-    "si_date_delivery": "2024-12-20",
-    "si_total_price": 221521,
-    "fk_st": 415,
-    "fk_co": 187
+    "fk_co": 186
   },
   {
     "id_ope": "20250110-0008-35",
@@ -6687,7 +4807,7 @@
     "si_date_delivery": "2025-01-14",
     "si_total_price": 20967.97,
     "fk_st": 420,
-    "fk_co": 228
+    "fk_co": 227
   },
   {
     "id_ope": "20241210-0014-8",
@@ -6707,7 +4827,7 @@
     "si_date_delivery": "2024-12-27",
     "si_total_price": 15676.85,
     "fk_st": 422,
-    "fk_co": 234
+    "fk_co": 233
   },
   {
     "id_ope": "20250124-0014-28",
@@ -6737,7 +4857,7 @@
     "si_date_delivery": "2024-12-27",
     "si_total_price": 5254.16,
     "fk_st": 425,
-    "fk_co": 286
+    "fk_co": 285
   },
   {
     "id_ope": "20241216-0014-9",
@@ -6757,7 +4877,7 @@
     "si_date_delivery": "2025-01-27",
     "si_total_price": 7575.18,
     "fk_st": 427,
-    "fk_co": 292
+    "fk_co": 291
   },
   {
     "id_ope": "20241217-0008-28",
@@ -6767,7 +4887,7 @@
     "si_date_delivery": "2025-01-28",
     "si_total_price": 42205.84,
     "fk_st": 428,
-    "fk_co": 237
+    "fk_co": 236
   },
   {
     "id_ope": "20241218-0014-10",
@@ -6777,7 +4897,7 @@
     "si_date_delivery": "2025-02-07",
     "si_total_price": 145188.79999999999,
     "fk_st": 429,
-    "fk_co": 289
+    "fk_co": 288
   },
   {
     "id_ope": "20241220-0005-62",
@@ -6827,7 +4947,7 @@
     "si_date_delivery": "2025-01-15",
     "si_total_price": 6705.94,
     "fk_st": 434,
-    "fk_co": 195
+    "fk_co": 194
   },
   {
     "id_ope": "20250114-0014-25",
@@ -6887,7 +5007,7 @@
     "si_date_delivery": "2025-02-12",
     "si_total_price": 7314.29,
     "fk_st": 440,
-    "fk_co": 292
+    "fk_co": 291
   },
   {
     "id_ope": "20250122-0003-165",
@@ -6907,7 +5027,7 @@
     "si_date_delivery": "2025-01-30",
     "si_total_price": 598.44000000000005,
     "fk_st": 442,
-    "fk_co": 271
+    "fk_co": 270
   },
   {
     "id_ope": "20250122-0020-13",
@@ -6937,7 +5057,7 @@
     "si_date_delivery": "2025-02-19",
     "si_total_price": 70014.679999999993,
     "fk_st": 445,
-    "fk_co": 285
+    "fk_co": 284
   },
   {
     "id_ope": "20250124-0008-44",
@@ -6997,7 +5117,7 @@
     "si_date_delivery": "2025-02-10",
     "si_total_price": 5143.37,
     "fk_st": 451,
-    "fk_co": 256
+    "fk_co": 255
   },
   {
     "id_ope": "20250204-0022-5",
@@ -7037,7 +5157,7 @@
     "si_date_delivery": "2025-02-12",
     "si_total_price": 4599.1400000000003,
     "fk_st": 455,
-    "fk_co": 253
+    "fk_co": 252
   },
   {
     "id_ope": "20250207-0008-56",
@@ -7047,7 +5167,7 @@
     "si_date_delivery": "2025-02-21",
     "si_total_price": 811,
     "fk_st": 456,
-    "fk_co": 278
+    "fk_co": 277
   },
   {
     "id_ope": "20250207-0047-5",
@@ -7077,7 +5197,7 @@
     "si_date_delivery": "2025-02-14",
     "si_total_price": 2600.31,
     "fk_st": 459,
-    "fk_co": 289
+    "fk_co": 288
   },
   {
     "id_ope": "20250211-0008-58",
@@ -7127,7 +5247,7 @@
     "si_date_delivery": "2025-02-21",
     "si_total_price": 25292.45,
     "fk_st": 464,
-    "fk_co": 225
+    "fk_co": 224
   },
   {
     "id_ope": "20250214-0008-60",
@@ -7147,7 +5267,7 @@
     "si_date_delivery": "2025-02-27",
     "si_total_price": 6434.48,
     "fk_st": 466,
-    "fk_co": 210
+    "fk_co": 209
   },
   {
     "id_ope": "20250217-0022-6",
@@ -7187,7 +5307,7 @@
     "si_date_delivery": "2025-03-04",
     "si_total_price": 834.73,
     "fk_st": 470,
-    "fk_co": 209
+    "fk_co": 208
   },
   {
     "id_ope": "20250221-0004-121",
@@ -7197,7 +5317,7 @@
     "si_date_delivery": "2025-02-28",
     "si_total_price": 11994.77,
     "fk_st": 471,
-    "fk_co": 248
+    "fk_co": 247
   },
   {
     "id_ope": "20250227-0015-11",
