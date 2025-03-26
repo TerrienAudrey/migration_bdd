@@ -1,0 +1,21 @@
+
+
+[
+    {
+        "la_id": 286,
+        "la_house_number": "140",
+        "la_street": "AVENUE DU 12 JUILLET 1998",
+        "la_additional_address": "LES CARRES DE LENFANT, BAT F, 1ER ETAGE",
+        "la_postal_code": "13290",
+        "la_city": "AIX-EN-PROVENCE"
+    },
+    {
+        "la_id": 209,
+        "la_house_number": "19",
+        "la_street": "RUE DU VERTUQUET OLYMPUS",
+        "la_additional_address": "PARC B 60",
+        "la_postal_code": "12599",
+        "la_city": "NEUVILLE EN FERRAIN"
+    }
+  ]
+  
