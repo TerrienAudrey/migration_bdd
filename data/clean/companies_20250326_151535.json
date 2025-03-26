@@ -2541,7 +2541,7 @@
     "co_code_ent": "759930",
     "co_head_office_city": "GILLINGHAM",
     "co_head_office_postal_code": "ME80SB",
-    "co_legal_form": null,
+    "co_legal_form":  "FAKE INFORMATION",
     "fk_us": 0,
     "co_head_office_additional_address": "",
     "co_head_office_number": "",

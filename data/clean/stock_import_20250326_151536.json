@@ -1,6 +1,5 @@
 [
   {
-    "id_ope": "20230221--006-001",
     "si_id": 0,
     "si_io": "20230221--006-001-1",
     "si_date_removal": null,
@@ -32,7 +31,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230221--006-001",
     "si_id": 1,
     "si_io": "20230221--006-001-2",
     "si_date_removal": null,
@@ -64,7 +62,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230221--006-001",
     "si_id": 2,
     "si_io": "20230221--006-001-3",
     "si_date_removal": null,
@@ -96,7 +93,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230221--006-001",
     "si_id": 3,
     "si_io": "20230221--006-001-4",
     "si_date_removal": null,
@@ -128,7 +124,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240311-153-103",
     "si_id": 4,
     "si_io": "20240311-153-103-1",
     "si_date_removal": null,
@@ -160,7 +155,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240315-164-096",
     "si_id": 163,
     "si_io": "20240315-164-096-1",
     "si_date_removal": null,
@@ -192,7 +186,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230310--005-002",
     "si_id": 5,
     "si_io": "20230310--005-002-1",
     "si_date_removal": null,
@@ -224,7 +217,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230310--005-002",
     "si_id": 6,
     "si_io": "20230310--005-002-2",
     "si_date_removal": null,
@@ -256,7 +248,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240705-335-0003-115",
     "si_id": 278,
     "si_io": "20240705-335-0003-115-1",
     "si_date_removal": "2024-11-28",
@@ -288,7 +279,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240423-225-139",
     "si_id": 203,
     "si_io": "20240423-225-139-1",
     "si_date_removal": null,
@@ -320,7 +310,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230408--001-006",
     "si_id": 7,
     "si_io": "20230408--001-006-1",
     "si_date_removal": null,
@@ -352,7 +341,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240711-341-253",
     "si_id": 282,
     "si_io": "20240711-341-253-1",
     "si_date_removal": "2024-09-19",
@@ -384,7 +372,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240312-157-097",
     "si_id": 8,
     "si_io": "20240312-157-097-1",
     "si_date_removal": null,
@@ -416,7 +403,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240312-157-097",
     "si_id": 12,
     "si_io": "20240312-157-097-2",
     "si_date_removal": null,
@@ -448,7 +434,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240312-157-097",
     "si_id": 16,
     "si_io": "20240312-157-097-3",
     "si_date_removal": null,
@@ -480,7 +465,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240312-157-097",
     "si_id": 20,
     "si_io": "20240312-157-097-4",
     "si_date_removal": null,
@@ -512,7 +496,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240710-340-229",
     "si_id": 280,
     "si_io": "20240710-340-229-1",
     "si_date_removal": "2024-11-12",
@@ -544,7 +527,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230422--004-003",
     "si_id": 9,
     "si_io": "20230422--004-003-1",
     "si_date_removal": null,
@@ -576,7 +558,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230510--003-004",
     "si_id": 10,
     "si_io": "20230510--003-004-1",
     "si_date_removal": null,
@@ -608,7 +589,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230510--003-004",
     "si_id": 11,
     "si_io": "20230510--003-004-2",
     "si_date_removal": null,
@@ -640,7 +620,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230510--003-004",
     "si_id": 13,
     "si_io": "20230510--003-004-3",
     "si_date_removal": null,
@@ -672,7 +651,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240820-403-250",
     "si_id": 24,
     "si_io": "20240820-403-250-1",
     "si_date_removal": "2024-10-04",
@@ -704,7 +682,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240820-403-250",
     "si_id": 28,
     "si_io": "20240820-403-250-2",
     "si_date_removal": "2024-09-05",
@@ -736,7 +713,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240730-378-235",
     "si_id": 308,
     "si_io": "20240730-378-235-1",
     "si_date_removal": "2024-12-16",
@@ -768,7 +744,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230512-000-007",
     "si_id": 14,
     "si_io": "20230512-000-007-1",
     "si_date_removal": null,
@@ -800,7 +775,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230512-000-007",
     "si_id": 15,
     "si_io": "20230512-000-007-2",
     "si_date_removal": null,
@@ -832,7 +806,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231213-083-050",
     "si_id": 102,
     "si_io": "20231213-083-050-1",
     "si_date_removal": null,
@@ -864,7 +837,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230515--002-005",
     "si_id": 17,
     "si_io": "20230515--002-005-1",
     "si_date_removal": null,
@@ -896,7 +868,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-442-283",
     "si_id": 215,
     "si_io": "20240923-442-283-1",
     "si_date_removal": "2024-10-03",
@@ -928,7 +899,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230527-001-008",
     "si_id": 18,
     "si_io": "20230527-001-008-1",
     "si_date_removal": null,
@@ -960,7 +930,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230527-001-008",
     "si_id": 19,
     "si_io": "20230527-001-008-2",
     "si_date_removal": null,
@@ -992,7 +961,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241015-0005-41",
     "si_id": 220,
     "si_io": "20241015-0005-41-1",
     "si_date_removal": "2024-10-24",
@@ -1024,7 +992,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241028-0005-43",
     "si_id": 223,
     "si_io": "20241028-0005-43-1",
     "si_date_removal": "2024-11-26",
@@ -1056,7 +1023,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240619-311-183",
     "si_id": 261,
     "si_io": "20240619-311-183-1",
     "si_date_removal": null,
@@ -1088,7 +1054,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230527-002-009",
     "si_id": 21,
     "si_io": "20230527-002-009-1",
     "si_date_removal": null,
@@ -1120,7 +1085,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230527-003-010",
     "si_id": 22,
     "si_io": "20230527-003-010-1",
     "si_date_removal": null,
@@ -1152,7 +1116,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230527-003-010",
     "si_id": 23,
     "si_io": "20230527-003-010-2",
     "si_date_removal": null,
@@ -1184,7 +1147,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250128-0008-48",
     "si_id": 299,
     "si_io": "20250128-0008-48-1",
     "si_date_removal": "2025-02-18",
@@ -1216,7 +1178,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230605-005-011",
     "si_id": 25,
     "si_io": "20230605-005-011-1",
     "si_date_removal": null,
@@ -1248,7 +1209,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230609-006-012",
     "si_id": 26,
     "si_io": "20230609-006-012-1",
     "si_date_removal": null,
@@ -1280,7 +1240,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230629-008-013",
     "si_id": 27,
     "si_io": "20230629-008-013-1",
     "si_date_removal": null,
@@ -1312,7 +1271,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230629-008-013",
     "si_id": 29,
     "si_io": "20230629-008-013-2",
     "si_date_removal": null,
@@ -1344,7 +1302,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230629-008-013",
     "si_id": 30,
     "si_io": "20230629-008-013-3",
     "si_date_removal": null,
@@ -1376,7 +1333,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231018-033-039",
     "si_id": 55,
     "si_io": "20231018-033-039-1",
     "si_date_removal": null,
@@ -1408,7 +1364,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0006-44",
     "si_id": 110,
     "si_io": "20241023-0006-44-1",
     "si_date_removal": "2024-12-13",
@@ -1440,7 +1395,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240227-146-084",
     "si_id": 149,
     "si_io": "20240227-146-084-1",
     "si_date_removal": null,
@@ -1472,7 +1426,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230629-009-015",
     "si_id": 31,
     "si_io": "20230629-009-015-1",
     "si_date_removal": null,
@@ -1504,7 +1457,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241031-0006-47",
     "si_id": 32,
     "si_io": "20241031-0006-47-1",
     "si_date_removal": "2024-12-11",
@@ -1536,7 +1488,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230901-013-014",
     "si_id": 33,
     "si_io": "20230901-013-014-1",
     "si_date_removal": null,
@@ -1568,7 +1519,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230901-013-014",
     "si_id": 34,
     "si_io": "20230901-013-014-2",
     "si_date_removal": null,
@@ -1600,7 +1550,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240611-292-216",
     "si_id": 247,
     "si_io": "20240611-292-216-1",
     "si_date_removal": null,
@@ -1632,7 +1581,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230921-017-017",
     "si_id": 35,
     "si_io": "20230921-017-017-1",
     "si_date_removal": null,
@@ -1664,7 +1612,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230921-017-017",
     "si_id": 36,
     "si_io": "20230921-017-017-2",
     "si_date_removal": null,
@@ -1696,7 +1643,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241018-0011-9",
     "si_id": 37,
     "si_io": "20241018-0011-9-1",
     "si_date_removal": "2024-12-18",
@@ -1728,7 +1674,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240326-181-107",
     "si_id": 170,
     "si_io": "20240326-181-107-1",
     "si_date_removal": null,
@@ -1760,7 +1705,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240521-262-159",
     "si_id": 227,
     "si_io": "20240521-262-159-1",
     "si_date_removal": null,
@@ -1792,7 +1736,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230927-142-199",
     "si_id": 38,
     "si_io": "20230927-142-199-1",
     "si_date_removal": "2024-07-01",
@@ -1824,7 +1767,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240531-277-172",
     "si_id": 236,
     "si_io": "20240531-277-172-1",
     "si_date_removal": null,
@@ -1856,7 +1798,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230928-019-016",
     "si_id": 39,
     "si_io": "20230928-019-016-1",
     "si_date_removal": null,
@@ -1888,7 +1829,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230928-019-016",
     "si_id": 41,
     "si_io": "20230928-019-016-2",
     "si_date_removal": null,
@@ -1920,7 +1860,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230928-019-016",
     "si_id": 42,
     "si_io": "20230928-019-016-3",
     "si_date_removal": null,
@@ -1952,7 +1891,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240701-330-207",
     "si_id": 274,
     "si_io": "20240701-330-207-1",
     "si_date_removal": "2024-07-09",
@@ -1984,7 +1922,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250211-0011-45",
     "si_id": 40,
     "si_io": "20250211-0011-45-1",
     "si_date_removal": "2025-02-20",
@@ -2016,7 +1953,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240410-195-119",
     "si_id": 181,
     "si_io": "20240410-195-119-1",
     "si_date_removal": null,
@@ -2048,7 +1984,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240802-388-252",
     "si_id": 312,
     "si_io": "20240802-388-252-1",
     "si_date_removal": "2024-09-04",
@@ -2080,7 +2015,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20230929-020-019",
     "si_id": 43,
     "si_io": "20230929-020-019-1",
     "si_date_removal": null,
@@ -2112,7 +2046,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231005-022-043",
     "si_id": 44,
     "si_io": "20231005-022-043-1",
     "si_date_removal": null,
@@ -2144,7 +2077,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231010-025-020",
     "si_id": 45,
     "si_io": "20231010-025-020-1",
     "si_date_removal": null,
@@ -2176,7 +2108,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240122-101-066",
     "si_id": 116,
     "si_io": "20240122-101-066-1",
     "si_date_removal": null,
@@ -2208,7 +2139,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241205-0008-23",
     "si_id": 46,
     "si_io": "20241205-0008-23-1",
     "si_date_removal": "2024-01-20",
@@ -2240,7 +2170,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231016-028-031",
     "si_id": 47,
     "si_io": "20231016-028-031-1",
     "si_date_removal": null,
@@ -2272,7 +2201,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231017-029-021",
     "si_id": 48,
     "si_io": "20231017-029-021-1",
     "si_date_removal": null,
@@ -2304,7 +2232,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231017-029-021",
     "si_id": 49,
     "si_io": "20231017-029-021-2",
     "si_date_removal": null,
@@ -2336,7 +2263,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240430-240-150",
     "si_id": 212,
     "si_io": "20240430-240-150-1",
     "si_date_removal": null,
@@ -2368,7 +2294,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240516-257-160",
     "si_id": 225,
     "si_io": "20240516-257-160-1",
     "si_date_removal": null,
@@ -2400,7 +2325,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231017-030-022",
     "si_id": 50,
     "si_io": "20231017-030-022-1",
     "si_date_removal": null,
@@ -2432,7 +2356,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231017-030-022",
     "si_id": 51,
     "si_io": "20231017-030-022-2",
     "si_date_removal": null,
@@ -2464,7 +2387,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240709-337-212",
     "si_id": 279,
     "si_io": "20240709-337-212-1",
     "si_date_removal": "2024-07-15",
@@ -2496,7 +2418,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240305-136-088",
     "si_id": 153,
     "si_io": "20240305-136-088-1",
     "si_date_removal": null,
@@ -2528,7 +2449,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231017-031-023",
     "si_id": 52,
     "si_io": "20231017-031-023-1",
     "si_date_removal": null,
@@ -2560,7 +2480,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231017-031-023",
     "si_id": 54,
     "si_io": "20231017-031-023-2",
     "si_date_removal": null,
@@ -2592,7 +2511,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240712-342-214",
     "si_id": 235,
     "si_io": "20240712-342-214-1",
     "si_date_removal": null,
@@ -2624,7 +2542,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250123-0008-41",
     "si_id": 53,
     "si_io": "20250123-0008-41-1",
     "si_date_removal": "2025-02-03",
@@ -2656,7 +2573,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240226-098-089",
     "si_id": 148,
     "si_io": "20240226-098-089-1",
     "si_date_removal": null,
@@ -2688,7 +2604,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231026-035-024",
     "si_id": 56,
     "si_io": "20231026-035-024-1",
     "si_date_removal": null,
@@ -2720,7 +2635,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231026-035-024",
     "si_id": 58,
     "si_io": "20231026-035-024-2",
     "si_date_removal": null,
@@ -2752,7 +2666,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240412-199-122",
     "si_id": 183,
     "si_io": "20240412-199-122-1",
     "si_date_removal": null,
@@ -2784,7 +2697,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250130-0008-50",
     "si_id": 57,
     "si_io": "20250130-0008-50-1",
     "si_date_removal": "2025-02-03",
@@ -2816,7 +2728,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240430-241-147",
     "si_id": 213,
     "si_io": "20240430-241-147-1",
     "si_date_removal": null,
@@ -2848,7 +2759,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240501-242-148",
     "si_id": 214,
     "si_io": "20240501-242-148-1",
     "si_date_removal": null,
@@ -2880,7 +2790,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240517-260-157",
     "si_id": 226,
     "si_io": "20240517-260-157-1",
     "si_date_removal": null,
@@ -2912,7 +2821,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231108-037-025",
     "si_id": 59,
     "si_io": "20231108-037-025-1",
     "si_date_removal": null,
@@ -2944,7 +2852,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240625-324-200",
     "si_id": 270,
     "si_io": "20240625-324-200-1",
     "si_date_removal": null,
@@ -2976,7 +2883,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231110-040-030",
     "si_id": 60,
     "si_io": "20231110-040-030-1",
     "si_date_removal": null,
@@ -3008,7 +2914,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231110-040-030",
     "si_id": 62,
     "si_io": "20231110-040-030-2",
     "si_date_removal": null,
@@ -3040,7 +2945,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231110-040-030",
     "si_id": 63,
     "si_io": "20231110-040-030-3",
     "si_date_removal": null,
@@ -3072,7 +2976,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231110-040-030",
     "si_id": 64,
     "si_io": "20231110-040-030-4",
     "si_date_removal": null,
@@ -3104,7 +3007,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240125-106-102",
     "si_id": 61,
     "si_io": "20240125-106-102-1",
     "si_date_removal": null,
@@ -3136,7 +3038,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240214-127-073",
     "si_id": 140,
     "si_io": "20240214-127-073-1",
     "si_date_removal": "2024-02-28",
@@ -3168,7 +3069,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240313-162-092",
     "si_id": 162,
     "si_io": "20240313-162-092-1",
     "si_date_removal": "2024-04-03",
@@ -3200,7 +3100,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240415-202-123",
     "si_id": 186,
     "si_io": "20240415-202-123-1",
     "si_date_removal": "2024-05-14",
@@ -3232,7 +3131,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231115-042-026",
     "si_id": 65,
     "si_io": "20231115-042-026-1",
     "si_date_removal": null,
@@ -3264,7 +3162,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240516-256-156",
     "si_id": 224,
     "si_io": "20240516-256-156-1",
     "si_date_removal": "2024-05-31",
@@ -3296,7 +3193,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240619-309-184",
     "si_id": 66,
     "si_io": "20240619-309-184-1",
     "si_date_removal": null,
@@ -3328,7 +3224,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240613-297-180",
     "si_id": 251,
     "si_io": "20240613-297-180-1",
     "si_date_removal": "2024-06-26",
@@ -3360,7 +3255,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231120-047-029",
     "si_id": 67,
     "si_io": "20231120-047-029-1",
     "si_date_removal": null,
@@ -3392,7 +3286,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240718-351-221",
     "si_id": 287,
     "si_io": "20240718-351-221-1",
     "si_date_removal": "2024-08-09",
@@ -3424,7 +3317,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231120-049-032",
     "si_id": 68,
     "si_io": "20231120-049-032-1",
     "si_date_removal": null,
@@ -3456,7 +3348,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231205-068-036",
     "si_id": 80,
     "si_io": "20231205-068-036-1",
     "si_date_removal": null,
@@ -3488,7 +3379,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231121-050-042",
     "si_id": 69,
     "si_io": "20231121-050-042-1",
     "si_date_removal": null,
@@ -3520,7 +3410,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231121-050-042",
     "si_id": 70,
     "si_io": "20231121-050-042-2",
     "si_date_removal": null,
@@ -3552,7 +3441,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240605-279-174",
     "si_id": 238,
     "si_io": "20240605-279-174-1",
     "si_date_removal": null,
@@ -3584,7 +3472,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240617-305-190",
     "si_id": 257,
     "si_io": "20240617-305-190-1",
     "si_date_removal": "2024-11-06",
@@ -3616,7 +3503,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231124-052-035",
     "si_id": 71,
     "si_io": "20231124-052-035-1",
     "si_date_removal": null,
@@ -3648,7 +3534,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250121-0011-35",
     "si_id": 72,
     "si_io": "20250121-0011-35-1",
     "si_date_removal": "2025-02-26",
@@ -3680,7 +3565,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231124-053-037",
     "si_id": 73,
     "si_io": "20231124-053-037-1",
     "si_date_removal": null,
@@ -3712,7 +3596,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231127-057-028",
     "si_id": 74,
     "si_io": "20231127-057-028-1",
     "si_date_removal": null,
@@ -3744,7 +3627,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240201-112-067",
     "si_id": 123,
     "si_io": "20240201-112-067-1",
     "si_date_removal": null,
@@ -3776,7 +3658,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231130-061-040",
     "si_id": 75,
     "si_io": "20231130-061-040-1",
     "si_date_removal": null,
@@ -3808,7 +3689,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240409-192-118",
     "si_id": 168,
     "si_io": "20240409-192-118-1",
     "si_date_removal": null,
@@ -3840,7 +3720,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240624-320-193",
     "si_id": 76,
     "si_io": "20240624-320-193-1",
     "si_date_removal": "2024-07-04",
@@ -3872,7 +3751,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240412-198-120",
     "si_id": 171,
     "si_io": "20240412-198-120-1",
     "si_date_removal": null,
@@ -3904,7 +3782,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231201-063-033",
     "si_id": 77,
     "si_io": "20231201-063-033-1",
     "si_date_removal": null,
@@ -3936,7 +3813,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-441-284",
     "si_id": 176,
     "si_io": "20240923-441-284-1",
     "si_date_removal": "2024-10-06",
@@ -3968,7 +3844,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231204-064-038",
     "si_id": 78,
     "si_io": "20231204-064-038-1",
     "si_date_removal": null,
@@ -4000,7 +3875,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240117-0004-110",
     "si_id": 114,
     "si_io": "20240117-0004-110-1",
     "si_date_removal": "2025-01-30",
@@ -4032,7 +3906,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231205-067-034",
     "si_id": 79,
     "si_io": "20231205-067-034-1",
     "si_date_removal": null,
@@ -4064,7 +3937,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240626-323-202",
     "si_id": 271,
     "si_io": "20240626-323-202-1",
     "si_date_removal": "2024-07-11",
@@ -4096,7 +3968,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231207-069-056",
     "si_id": 81,
     "si_io": "20231207-069-056-1",
     "si_date_removal": null,
@@ -4128,7 +3999,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231207-069-056",
     "si_id": 83,
     "si_io": "20231207-069-056-2",
     "si_date_removal": null,
@@ -4160,7 +4030,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231207-069-056",
     "si_id": 84,
     "si_io": "20231207-069-056-3",
     "si_date_removal": null,
@@ -4192,7 +4061,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231207-069-056",
     "si_id": 85,
     "si_io": "20231207-069-056-4",
     "si_date_removal": null,
@@ -4224,7 +4092,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240109-095-060",
     "si_id": 112,
     "si_io": "20240109-095-060-1",
     "si_date_removal": null,
@@ -4256,7 +4123,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240916-429-275",
     "si_id": 82,
     "si_io": "20240916-429-275-1",
     "si_date_removal": "2024-10-30",
@@ -4288,7 +4154,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240122-100-063",
     "si_id": 115,
     "si_io": "20240122-100-063-1",
     "si_date_removal": null,
@@ -4320,7 +4185,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240730-377-234",
     "si_id": 307,
     "si_io": "20240730-377-234-1",
     "si_date_removal": "2024-08-06",
@@ -4352,7 +4216,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241127-0005-56",
     "si_id": 133,
     "si_io": "20241127-0005-56-1",
     "si_date_removal": "2025-01-23",
@@ -4384,7 +4247,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231207-071-041",
     "si_id": 86,
     "si_io": "20231207-071-041-1",
     "si_date_removal": null,
@@ -4416,7 +4278,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231208-073-044",
     "si_id": 87,
     "si_io": "20231208-073-044-1",
     "si_date_removal": null,
@@ -4448,7 +4309,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250109-0011-31",
     "si_id": 303,
     "si_io": "20250109-0011-31-1",
     "si_date_removal": "2025-01-27",
@@ -4480,7 +4340,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250109-0011-31",
     "si_id": 306,
     "si_io": "20250109-0011-31-2",
     "si_date_removal": "2025-01-27",
@@ -4512,7 +4371,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240607-286-179",
     "si_id": 88,
     "si_io": "20240607-286-179-1",
     "si_date_removal": null,
@@ -4544,7 +4402,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231210-026-027",
     "si_id": 89,
     "si_io": "20231210-026-027-1",
     "si_date_removal": null,
@@ -4576,7 +4433,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231210-026-027",
     "si_id": 90,
     "si_io": "20231210-026-027-2",
     "si_date_removal": null,
@@ -4608,7 +4464,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231211-074-051",
     "si_id": 91,
     "si_io": "20231211-074-051-1",
     "si_date_removal": null,
@@ -4640,7 +4495,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240312-159-094",
     "si_id": 159,
     "si_io": "20240312-159-094-1",
     "si_date_removal": null,
@@ -4672,7 +4526,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240619-310-185",
     "si_id": 92,
     "si_io": "20240619-310-185-1",
     "si_date_removal": null,
@@ -4704,7 +4557,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240613-300-187",
     "si_id": 253,
     "si_io": "20240613-300-187-1",
     "si_date_removal": null,
@@ -4736,7 +4588,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231211-075-058",
     "si_id": 93,
     "si_io": "20231211-075-058-1",
     "si_date_removal": null,
@@ -4768,7 +4619,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231211-075-058",
     "si_id": 94,
     "si_io": "20231211-075-058-2",
     "si_date_removal": null,
@@ -4800,7 +4650,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231211-075-058",
     "si_id": 95,
     "si_io": "20231211-075-058-3",
     "si_date_removal": null,
@@ -4832,7 +4681,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240730-376-256",
     "si_id": 305,
     "si_io": "20240730-376-256-1",
     "si_date_removal": "2024-10-22",
@@ -4864,7 +4712,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240418-219-169",
     "si_id": 197,
     "si_io": "20240418-219-169-1",
     "si_date_removal": null,
@@ -4896,7 +4743,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240418-219-169",
     "si_id": 198,
     "si_io": "20240418-219-169-2",
     "si_date_removal": null,
@@ -4928,7 +4774,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231211-076-046",
     "si_id": 96,
     "si_io": "20231211-076-046-1",
     "si_date_removal": null,
@@ -4960,7 +4805,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240424-232-140",
     "si_id": 206,
     "si_io": "20240424-232-140-1",
     "si_date_removal": null,
@@ -4992,7 +4836,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240418-216-131",
     "si_id": 97,
     "si_io": "20240418-216-131-1",
     "si_date_removal": null,
@@ -5024,7 +4867,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231211-077-048",
     "si_id": 98,
     "si_io": "20231211-077-048-1",
     "si_date_removal": null,
@@ -5056,7 +4898,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231212-078-047",
     "si_id": 99,
     "si_io": "20231212-078-047-1",
     "si_date_removal": null,
@@ -5088,7 +4929,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231212-081-049",
     "si_id": 100,
     "si_io": "20231212-081-049-1",
     "si_date_removal": null,
@@ -5120,7 +4960,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240610-291-192",
     "si_id": 246,
     "si_io": "20240610-291-192-1",
     "si_date_removal": "2024-07-15",
@@ -5152,7 +4991,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231213-082-052",
     "si_id": 101,
     "si_io": "20231213-082-052-1",
     "si_date_removal": null,
@@ -5184,7 +5022,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240521-263-166",
     "si_id": 228,
     "si_io": "20240521-263-166-1",
     "si_date_removal": null,
@@ -5216,7 +5053,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231215-084-053",
     "si_id": 103,
     "si_io": "20231215-084-053-1",
     "si_date_removal": null,
@@ -5248,7 +5084,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231218-086-055",
     "si_id": 104,
     "si_io": "20231218-086-055-1",
     "si_date_removal": null,
@@ -5280,7 +5115,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241113-0011-12",
     "si_id": 105,
     "si_io": "20241113-0011-12-1",
     "si_date_removal": "2024-12-24",
@@ -5312,7 +5146,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231219-087-054",
     "si_id": 106,
     "si_io": "20231219-087-054-1",
     "si_date_removal": null,
@@ -5344,7 +5177,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231221-089-057",
     "si_id": 107,
     "si_io": "20231221-089-057-1",
     "si_date_removal": null,
@@ -5376,7 +5208,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240410-194-121",
     "si_id": 180,
     "si_io": "20240410-194-121-1",
     "si_date_removal": null,
@@ -5408,7 +5239,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231222-090-061",
     "si_id": 108,
     "si_io": "20231222-090-061-1",
     "si_date_removal": null,
@@ -5440,7 +5270,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20231229-091-059",
     "si_id": 109,
     "si_io": "20231229-091-059-1",
     "si_date_removal": null,
@@ -5472,7 +5301,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240108-094-064",
     "si_id": 111,
     "si_io": "20240108-094-064-1",
     "si_date_removal": null,
@@ -5504,7 +5332,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240112-097-062",
     "si_id": 113,
     "si_io": "20240112-097-062-1",
     "si_date_removal": null,
@@ -5536,7 +5363,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240723-361-227",
     "si_id": 293,
     "si_io": "20240723-361-227-1",
     "si_date_removal": "2024-08-08",
@@ -5568,7 +5394,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240723-361-227",
     "si_id": 294,
     "si_io": "20240723-361-227-2",
     "si_date_removal": "2024-08-11",
@@ -5600,7 +5425,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240723-361-227",
     "si_id": 295,
     "si_io": "20240723-361-227-3",
     "si_date_removal": "2024-08-15",
@@ -5632,7 +5456,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240723-361-227",
     "si_id": 297,
     "si_io": "20240723-361-227-4",
     "si_date_removal": "2024-08-20",
@@ -5664,7 +5487,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240723-361-227",
     "si_id": 298,
     "si_io": "20240723-361-227-5",
     "si_date_removal": "2024-08-25",
@@ -5696,7 +5518,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240719-354-224",
     "si_id": 117,
     "si_io": "20240719-354-224-1",
     "si_date_removal": "2024-08-01",
@@ -5728,7 +5549,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240129-108-068",
     "si_id": 118,
     "si_io": "20240129-108-068-1",
     "si_date_removal": null,
@@ -5760,7 +5580,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240129-144-146",
     "si_id": 119,
     "si_io": "20240129-144-146-1",
     "si_date_removal": null,
@@ -5792,7 +5611,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-440-281",
     "si_id": 120,
     "si_io": "20240923-440-281-1",
     "si_date_removal": "2024-10-10",
@@ -5824,7 +5642,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240131-110-082",
     "si_id": 121,
     "si_io": "20240131-110-082-1",
     "si_date_removal": null,
@@ -5856,7 +5673,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240131-145-108",
     "si_id": 122,
     "si_io": "20240131-145-108-1",
     "si_date_removal": null,
@@ -5888,7 +5704,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240201-114-078",
     "si_id": 124,
     "si_io": "20240201-114-078-1",
     "si_date_removal": null,
@@ -5920,7 +5735,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240305-123-112",
     "si_id": 152,
     "si_io": "20240305-123-112-1",
     "si_date_removal": null,
@@ -5952,7 +5766,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240206-115-072",
     "si_id": 125,
     "si_io": "20240206-115-072-1",
     "si_date_removal": null,
@@ -5984,7 +5797,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240206-116-069",
     "si_id": 126,
     "si_io": "20240206-116-069-1",
     "si_date_removal": null,
@@ -6016,7 +5828,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240429-238-145",
     "si_id": 210,
     "si_io": "20240429-238-145-1",
     "si_date_removal": null,
@@ -6048,7 +5859,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240531-276-171",
     "si_id": 127,
     "si_io": "20240531-276-171-1",
     "si_date_removal": null,
@@ -6080,7 +5890,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240524-270-188",
     "si_id": 233,
     "si_io": "20240524-270-188-1",
     "si_date_removal": null,
@@ -6112,7 +5921,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250108-0011-30",
     "si_id": 281,
     "si_io": "20250108-0011-30-1",
     "si_date_removal": "2025-01-13",
@@ -6144,7 +5952,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240209-120-085",
     "si_id": 128,
     "si_io": "20240209-120-085-1",
     "si_date_removal": null,
@@ -6176,7 +5983,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240612-294-272",
     "si_id": 129,
     "si_io": "20240612-294-272-1",
     "si_date_removal": "2024-10-01",
@@ -6208,7 +6014,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240329-186-111",
     "si_id": 174,
     "si_io": "20240329-186-111-1",
     "si_date_removal": null,
@@ -6240,7 +6045,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240209-148-095",
     "si_id": 130,
     "si_io": "20240209-148-095-1",
     "si_date_removal": null,
@@ -6272,7 +6076,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240209-148-095",
     "si_id": 131,
     "si_io": "20240209-148-095-2",
     "si_date_removal": "2024-06-04",
@@ -6304,7 +6107,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240624-318-195",
     "si_id": 267,
     "si_io": "20240624-318-195-1",
     "si_date_removal": "2024-06-27",
@@ -6336,7 +6138,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240212-121-071",
     "si_id": 132,
     "si_io": "20240212-121-071-1",
     "si_date_removal": null,
@@ -6368,7 +6169,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240212-122-081",
     "si_id": 134,
     "si_io": "20240212-122-081-1",
     "si_date_removal": null,
@@ -6400,7 +6200,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240212-122-081",
     "si_id": 135,
     "si_io": "20240212-122-081-2",
     "si_date_removal": null,
@@ -6432,7 +6231,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240212-122-081",
     "si_id": 136,
     "si_io": "20240212-122-081-3",
     "si_date_removal": null,
@@ -6464,7 +6262,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241204-0008-20",
     "si_id": 296,
     "si_io": "20241204-0008-20-1",
     "si_date_removal": "2025-01-07",
@@ -6496,7 +6293,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241024-0004-83",
     "si_id": 277,
     "si_io": "20241024-0004-83-1",
     "si_date_removal": "2024-11-07",
@@ -6528,7 +6324,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241106-0005-46",
     "si_id": 207,
     "si_io": "20241106-0005-46-1",
     "si_date_removal": "2024-11-19",
@@ -6560,7 +6355,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240430-239-149",
     "si_id": 211,
     "si_io": "20240430-239-149-1",
     "si_date_removal": null,
@@ -6592,7 +6386,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240212-129-101",
     "si_id": 137,
     "si_io": "20240212-129-101-1",
     "si_date_removal": null,
@@ -6624,7 +6417,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240213-126-086",
     "si_id": 138,
     "si_io": "20240213-126-086-1",
     "si_date_removal": null,
@@ -6656,7 +6448,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240415-203-124",
     "si_id": 187,
     "si_io": "20240415-203-124-1",
     "si_date_removal": null,
@@ -6688,7 +6479,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250205-0008-52",
     "si_id": 139,
     "si_io": "20250205-0008-52-1",
     "si_date_removal": "2025-02-19",
@@ -6720,7 +6510,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240216-130-074",
     "si_id": 141,
     "si_io": "20240216-130-074-1",
     "si_date_removal": null,
@@ -6752,7 +6541,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240219-132-075",
     "si_id": 142,
     "si_io": "20240219-132-075-1",
     "si_date_removal": null,
@@ -6784,7 +6572,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250211-0008-58",
     "si_id": 143,
     "si_io": "20250211-0008-58-1",
     "si_date_removal": "2025-02-20",
@@ -6816,7 +6603,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240221-137-077",
     "si_id": 144,
     "si_io": "20240221-137-077-1",
     "si_date_removal": null,
@@ -6848,7 +6634,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240222-140-080",
     "si_id": 145,
     "si_io": "20240222-140-080-1",
     "si_date_removal": null,
@@ -6880,7 +6665,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240223-143-087",
     "si_id": 146,
     "si_io": "20240223-143-087-1",
     "si_date_removal": null,
@@ -6912,7 +6696,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0007-33",
     "si_id": 147,
     "si_io": "20241023-0007-33-1",
     "si_date_removal": "2024-10-15",
@@ -6944,7 +6727,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0007-33",
     "si_id": 151,
     "si_io": "20241023-0007-33-2",
     "si_date_removal": null,
@@ -6976,7 +6758,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0007-33",
     "si_id": 154,
     "si_io": "20241023-0007-33-3",
     "si_date_removal": "2024-11-04",
@@ -7008,7 +6789,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0007-33",
     "si_id": 157,
     "si_io": "20241023-0007-33-4",
     "si_date_removal": "2024-11-14",
@@ -7040,7 +6820,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240228-147-083",
     "si_id": 150,
     "si_io": "20240228-147-083-1",
     "si_date_removal": null,
@@ -7072,7 +6851,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240805-391-237",
     "si_id": 314,
     "si_io": "20240805-391-237-1",
     "si_date_removal": "2024-08-22",
@@ -7104,7 +6882,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240731-382-254",
     "si_id": 310,
     "si_io": "20240731-382-254-1",
     "si_date_removal": "2024-09-03",
@@ -7136,7 +6913,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240325-178-104",
     "si_id": 169,
     "si_io": "20240325-178-104-1",
     "si_date_removal": null,
@@ -7168,7 +6944,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240308-151-099",
     "si_id": 155,
     "si_io": "20240308-151-099-1",
     "si_date_removal": null,
@@ -7200,7 +6975,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240610-290-217",
     "si_id": 245,
     "si_io": "20240610-290-217-1",
     "si_date_removal": "2024-12-09",
@@ -7232,7 +7006,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240312-156-091",
     "si_id": 156,
     "si_io": "20240312-156-091-1",
     "si_date_removal": null,
@@ -7264,7 +7037,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250128-0014-30",
     "si_id": 158,
     "si_io": "20250128-0014-30-1",
     "si_date_removal": "2025-03-03",
@@ -7296,7 +7068,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240701-331-209",
     "si_id": 275,
     "si_io": "20240701-331-209-1",
     "si_date_removal": "2024-07-11",
@@ -7328,7 +7099,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240313-160-090",
     "si_id": 160,
     "si_io": "20240313-160-090-1",
     "si_date_removal": "2024-05-14",
@@ -7360,7 +7130,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240719-356-223",
     "si_id": 290,
     "si_io": "20240719-356-223-1",
     "si_date_removal": "2024-08-05",
@@ -7392,7 +7161,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240313-161-093",
     "si_id": 161,
     "si_io": "20240313-161-093-1",
     "si_date_removal": null,
@@ -7424,7 +7192,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240319-169-098",
     "si_id": 164,
     "si_io": "20240319-169-098-1",
     "si_date_removal": null,
@@ -7456,7 +7223,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240319-171-105",
     "si_id": 165,
     "si_io": "20240319-171-105-1",
     "si_date_removal": null,
@@ -7488,7 +7254,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240320-172-110",
     "si_id": 166,
     "si_io": "20240320-172-110-1",
     "si_date_removal": null,
@@ -7520,7 +7285,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240322-174-109",
     "si_id": 167,
     "si_io": "20240322-174-109-1",
     "si_date_removal": null,
@@ -7552,7 +7316,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250107-0014-22",
     "si_id": 288,
     "si_io": "20250107-0014-22-1",
     "si_date_removal": "2025-02-19",
@@ -7584,7 +7347,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250213-0014-41",
     "si_id": 292,
     "si_io": "20250213-0014-41-1",
     "si_date_removal": "2025-02-20",
@@ -7616,7 +7378,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240926-453-0003-149",
     "si_id": 185,
     "si_io": "20240926-453-0003-149-1",
     "si_date_removal": "2024-10-24",
@@ -7648,7 +7409,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240327-182-125",
     "si_id": 172,
     "si_io": "20240327-182-125-1",
     "si_date_removal": "2024-05-27",
@@ -7680,7 +7440,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241119-0008-15",
     "si_id": 190,
     "si_io": "20241119-0008-15-1",
     "si_date_removal": "2024-12-05",
@@ -7712,7 +7471,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240328-185-113",
     "si_id": 173,
     "si_io": "20240328-185-113-1",
     "si_date_removal": null,
@@ -7744,7 +7502,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250110-0008-36",
     "si_id": 192,
     "si_io": "20250110-0008-36-1",
     "si_date_removal": "2024-12-05",
@@ -7776,7 +7533,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240403-187-114",
     "si_id": 175,
     "si_io": "20240403-187-114-1",
     "si_date_removal": null,
@@ -7808,7 +7564,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241104-0004-85",
     "si_id": 263,
     "si_io": "20241104-0004-85-1",
     "si_date_removal": "2024-11-18",
@@ -7840,7 +7595,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240408-191-117",
     "si_id": 177,
     "si_io": "20240408-191-117-1",
     "si_date_removal": null,
@@ -7872,7 +7626,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240705-336-222",
     "si_id": 178,
     "si_io": "20240705-336-222-1",
     "si_date_removal": "2024-09-26",
@@ -7904,7 +7657,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240624-319-211",
     "si_id": 268,
     "si_io": "20240624-319-211-1",
     "si_date_removal": "2024-07-10",
@@ -7936,7 +7688,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240410-193-225",
     "si_id": 179,
     "si_io": "20240410-193-225-1",
     "si_date_removal": "2024-08-08",
@@ -7968,7 +7719,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240619-312-186",
     "si_id": 262,
     "si_io": "20240619-312-186-1",
     "si_date_removal": null,
@@ -8000,7 +7750,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240624-321-196",
     "si_id": 269,
     "si_io": "20240624-321-196-1",
     "si_date_removal": "2024-07-03",
@@ -8032,7 +7781,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240903-412-260",
     "si_id": 182,
     "si_io": "20240903-412-260-1",
     "si_date_removal": "2024-09-25",
@@ -8064,7 +7812,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240502-244-152",
     "si_id": 217,
     "si_io": "20240502-244-152-1",
     "si_date_removal": null,
@@ -8096,7 +7843,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240412-200-133",
     "si_id": 184,
     "si_io": "20240412-200-133-1",
     "si_date_removal": null,
@@ -8128,7 +7874,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240422-224-0003-81",
     "si_id": 201,
     "si_io": "20240422-224-0003-81-1",
     "si_date_removal": "2024-12-05",
@@ -8160,7 +7905,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240416-207-130",
     "si_id": 188,
     "si_io": "20240416-207-130-1",
     "si_date_removal": null,
@@ -8192,7 +7936,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240417-208-127",
     "si_id": 189,
     "si_io": "20240417-208-127-1",
     "si_date_removal": null,
@@ -8224,7 +7967,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240603-278-173",
     "si_id": 237,
     "si_io": "20240603-278-173-1",
     "si_date_removal": null,
@@ -8256,7 +7998,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240717-349-219",
     "si_id": 286,
     "si_io": "20240717-349-219-1",
     "si_date_removal": "2024-08-13",
@@ -8288,7 +8029,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240417-209-128",
     "si_id": 191,
     "si_io": "20240417-209-128-1",
     "si_date_removal": null,
@@ -8320,7 +8060,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240422-223-163",
     "si_id": 200,
     "si_io": "20240422-223-163-1",
     "si_date_removal": null,
@@ -8352,7 +8091,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240417-212-136",
     "si_id": 193,
     "si_io": "20240417-212-136-1",
     "si_date_removal": null,
@@ -8384,7 +8122,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250107-0014-19",
     "si_id": 194,
     "si_io": "20250107-0014-19-1",
     "si_date_removal": "2025-01-20",
@@ -8416,7 +8153,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240607-288-177",
     "si_id": 243,
     "si_io": "20240607-288-177-1",
     "si_date_removal": null,
@@ -8448,7 +8184,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240418-215-134",
     "si_id": 195,
     "si_io": "20240418-215-134-1",
     "si_date_removal": null,
@@ -8480,7 +8215,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240418-218-137",
     "si_id": 196,
     "si_io": "20240418-218-137-1",
     "si_date_removal": null,
@@ -8512,7 +8246,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241024-0009-3",
     "si_id": 199,
     "si_io": "20241024-0009-3-1",
     "si_date_removal": "2024-11-12",
@@ -8544,7 +8277,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240502-245-161",
     "si_id": 218,
     "si_io": "20240502-245-161-1",
     "si_date_removal": "2024-06-04",
@@ -8576,7 +8308,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241202-0005-57",
     "si_id": 202,
     "si_io": "20241202-0005-57-1",
     "si_date_removal": "2024-12-16",
@@ -8608,7 +8339,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240424-226-138",
     "si_id": 204,
     "si_io": "20240424-226-138-1",
     "si_date_removal": null,
@@ -8640,7 +8370,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240424-231-155",
     "si_id": 205,
     "si_io": "20240424-231-155-1",
     "si_date_removal": null,
@@ -8672,7 +8401,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240722-358-226",
     "si_id": 291,
     "si_io": "20240722-358-226-1",
     "si_date_removal": "2024-08-20",
@@ -8704,7 +8432,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240426-235-141",
     "si_id": 208,
     "si_io": "20240426-235-141-1",
     "si_date_removal": null,
@@ -8736,7 +8463,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240426-236-143",
     "si_id": 209,
     "si_io": "20240426-236-143-1",
     "si_date_removal": null,
@@ -8768,7 +8494,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240515-254-165",
     "si_id": 221,
     "si_io": "20240515-254-165-1",
     "si_date_removal": null,
@@ -8800,7 +8525,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240502-243-151",
     "si_id": 216,
     "si_io": "20240502-243-151-1",
     "si_date_removal": "2024-05-29",
@@ -8832,7 +8556,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241112-0004-88",
     "si_id": 248,
     "si_io": "20241112-0004-88-1",
     "si_date_removal": "2024-11-21",
@@ -8864,7 +8587,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240507-247-153",
     "si_id": 219,
     "si_io": "20240507-247-153-1",
     "si_date_removal": null,
@@ -8896,7 +8618,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241126-0004-93",
     "si_id": 250,
     "si_io": "20241126-0004-93-1",
     "si_date_removal": "2024-12-04",
@@ -8928,7 +8649,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241212-0004-101",
     "si_id": 255,
     "si_io": "20241212-0004-101-1",
     "si_date_removal": "2025-01-09",
@@ -8960,7 +8680,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240515-255-162",
     "si_id": 222,
     "si_io": "20240515-255-162-1",
     "si_date_removal": null,
@@ -8992,7 +8711,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250107-0004-108",
     "si_id": 258,
     "si_io": "20250107-0004-108-1",
     "si_date_removal": "2025-01-31",
@@ -9024,7 +8742,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250107-0004-108",
     "si_id": 260,
     "si_io": "20250107-0004-108-2",
     "si_date_removal": "2025-01-13",
@@ -9056,7 +8773,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240614-301-203",
     "si_id": 254,
     "si_io": "20240614-301-203-1",
     "si_date_removal": "2024-08-20",
@@ -9088,7 +8804,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240730-379-270",
     "si_id": 309,
     "si_io": "20240730-379-270-1",
     "si_date_removal": "2024-09-25",
@@ -9120,7 +8835,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241122-0004-92",
     "si_id": 229,
     "si_io": "20241122-0004-92-1",
     "si_date_removal": "2024-12-03",
@@ -9152,7 +8866,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240614-303-271",
     "si_id": 256,
     "si_io": "20240614-303-271-1",
     "si_date_removal": "2024-10-21",
@@ -9184,7 +8897,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240521-265-167",
     "si_id": 230,
     "si_io": "20240521-265-167-1",
     "si_date_removal": null,
@@ -9216,7 +8928,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240523-267-168",
     "si_id": 231,
     "si_io": "20240523-267-168-1",
     "si_date_removal": null,
@@ -9248,7 +8959,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240524-269-201",
     "si_id": 232,
     "si_io": "20240524-269-201-1",
     "si_date_removal": "2024-07-15",
@@ -9280,7 +8990,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240726-372-236",
     "si_id": 301,
     "si_io": "20240726-372-236-1",
     "si_date_removal": "2024-08-20",
@@ -9312,7 +9021,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240529-275-170",
     "si_id": 234,
     "si_io": "20240529-275-170-1",
     "si_date_removal": null,
@@ -9344,7 +9052,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240613-298-181",
     "si_id": 252,
     "si_io": "20240613-298-181-1",
     "si_date_removal": null,
@@ -9376,7 +9083,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240605-281-175",
     "si_id": 239,
     "si_io": "20240605-281-175-1",
     "si_date_removal": null,
@@ -9408,7 +9114,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240606-282-182",
     "si_id": 240,
     "si_io": "20240606-282-182-1",
     "si_date_removal": null,
@@ -9440,7 +9145,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240607-284-176",
     "si_id": 242,
     "si_io": "20240607-284-176-1",
     "si_date_removal": null,
@@ -9472,7 +9176,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240606-283-191",
     "si_id": 241,
     "si_io": "20240606-283-191-1",
     "si_date_removal": "2024-07-04",
@@ -9504,7 +9207,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240731-385",
     "si_id": 311,
     "si_io": "20240731-385-1",
     "si_date_removal": "2024-09-28",
@@ -9536,7 +9238,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240607-289-178",
     "si_id": 244,
     "si_io": "20240607-289-178-1",
     "si_date_removal": null,
@@ -9568,7 +9269,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240612-295-194",
     "si_id": 249,
     "si_io": "20240612-295-194-1",
     "si_date_removal": "2024-07-17",
@@ -9600,7 +9300,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240619-313-197",
     "si_id": 264,
     "si_io": "20240619-313-197-1",
     "si_date_removal": "2024-07-09",
@@ -9632,7 +9331,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240620-316-198",
     "si_id": 265,
     "si_io": "20240620-316-198-1",
     "si_date_removal": "2024-07-09",
@@ -9664,7 +9362,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240620-316-198",
     "si_id": 266,
     "si_io": "20240620-316-198-2",
     "si_date_removal": "2024-07-09",
@@ -9696,7 +9393,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240618-308-213",
     "si_id": 259,
     "si_io": "20240618-308-213-1",
     "si_date_removal": null,
@@ -9728,7 +9424,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240701-332-208",
     "si_id": 276,
     "si_io": "20240701-332-208-1",
     "si_date_removal": "2024-07-09",
@@ -9760,7 +9455,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240715-343-215",
     "si_id": 283,
     "si_io": "20240715-343-215-2",
     "si_date_removal": null,
@@ -9792,7 +9486,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240628-329-210",
     "si_id": 273,
     "si_io": "20240628-329-210-1",
     "si_date_removal": "2024-09-17",
@@ -9824,7 +9517,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240719-355-266",
     "si_id": 289,
     "si_io": "20240719-355-266-1",
     "si_date_removal": "2024-09-30",
@@ -9856,7 +9548,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240626-325-204",
     "si_id": 272,
     "si_io": "20240626-325-204-1",
     "si_date_removal": "2024-07-15",
@@ -9888,7 +9579,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240726-373-231",
     "si_id": 302,
     "si_io": "20240726-373-231-1",
     "si_date_removal": "2024-11-26",
@@ -9920,7 +9610,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240726-374-232",
     "si_id": 304,
     "si_io": "20240726-374-232-1",
     "si_date_removal": "2024-10-02",
@@ -9952,7 +9641,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240716-348-220",
     "si_id": 285,
     "si_io": "20240716-348-220-1",
     "si_date_removal": null,
@@ -9984,7 +9672,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240716-347-218",
     "si_id": 284,
     "si_io": "20240716-347-218-1",
     "si_date_removal": null,
@@ -10016,7 +9703,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240726-371-246",
     "si_id": 300,
     "si_io": "20240726-371-246-1",
     "si_date_removal": "2024-10-15",
@@ -10048,7 +9734,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240805-390-247",
     "si_id": 313,
     "si_io": "20240805-390-247-1",
     "si_date_removal": "2024-08-26",
@@ -10080,7 +9765,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240806-392-238",
     "si_id": 315,
     "si_io": "20240806-392-238-1",
     "si_date_removal": "2024-08-29",
@@ -10112,7 +9796,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240807-393-239",
     "si_id": 316,
     "si_io": "20240807-393-239-1",
     "si_date_removal": "2024-08-29",
@@ -10144,7 +9827,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241022-0007-29",
     "si_id": 317,
     "si_io": "20241022-0007-29-1",
     "si_date_removal": "2024-11-05",
@@ -10176,7 +9858,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240809-395-241",
     "si_id": 318,
     "si_io": "20240809-395-241-1",
     "si_date_removal": "2024-12-16",
@@ -10208,7 +9889,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240812-396-242",
     "si_id": 319,
     "si_io": "20240812-396-242-1",
     "si_date_removal": "2024-08-26",
@@ -10240,7 +9920,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240812-397-243",
     "si_id": 320,
     "si_io": "20240812-397-243-1",
     "si_date_removal": "2024-08-21",
@@ -10272,7 +9951,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240812-398-244",
     "si_id": 321,
     "si_io": "20240812-398-244-1",
     "si_date_removal": "2024-08-21",
@@ -10304,7 +9982,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241115-0007-42",
     "si_id": 322,
     "si_io": "20241115-0007-42-1",
     "si_date_removal": "2024-11-21",
@@ -10336,7 +10013,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240813-399-255",
     "si_id": 323,
     "si_io": "20240813-399-255-1",
     "si_date_removal": "2025-04-06",
@@ -10368,7 +10044,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240813-400-245",
     "si_id": 324,
     "si_io": "20240813-400-245-1",
     "si_date_removal": "2024-08-28",
@@ -10400,7 +10075,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241204-0007-53",
     "si_id": 325,
     "si_io": "20241204-0007-53-1",
     "si_date_removal": "2024-12-11",
@@ -10432,7 +10106,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240821-405-248",
     "si_id": 326,
     "si_io": "20240821-405-248-1",
     "si_date_removal": "2024-09-11",
@@ -10464,7 +10137,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240821-406-249",
     "si_id": 327,
     "si_io": "20240821-406-249-1",
     "si_date_removal": "2024-09-10",
@@ -10496,7 +10168,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240827-407-259",
     "si_id": 328,
     "si_io": "20240827-407-259-1",
     "si_date_removal": "2024-09-27",
@@ -10528,7 +10199,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241003-52",
     "si_id": 329,
     "si_io": "20241003-52-1",
     "si_date_removal": "2024-10-14",
@@ -10560,7 +10230,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240903-409-257",
     "si_id": 330,
     "si_io": "20240903-409-257-1",
     "si_date_removal": "2024-09-05",
@@ -10592,7 +10261,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240903-411-258",
     "si_id": 331,
     "si_io": "20240903-411-258-1",
     "si_date_removal": "2024-09-11",
@@ -10624,7 +10292,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241018-0007-27",
     "si_id": 332,
     "si_io": "20241018-0007-27-1",
     "si_date_removal": "2024-11-28",
@@ -10656,7 +10323,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240903-413-267",
     "si_id": 333,
     "si_io": "20240903-413-267-1",
     "si_date_removal": "2024-10-16",
@@ -10688,7 +10354,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240905-417-268",
     "si_id": 334,
     "si_io": "20240905-417-268-1",
     "si_date_removal": "2024-09-17",
@@ -10720,7 +10385,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240905-418-263",
     "si_id": 335,
     "si_io": "20240905-418-263-1",
     "si_date_removal": "2024-09-25",
@@ -10752,7 +10416,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240906-414-262",
     "si_id": 336,
     "si_io": "20240906-414-262-1",
     "si_date_removal": "2024-09-20",
@@ -10784,7 +10447,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241025-0009-4",
     "si_id": 337,
     "si_io": "20241025-0009-4-1",
     "si_date_removal": "2024-11-20",
@@ -10816,7 +10478,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240906-420-264",
     "si_id": 338,
     "si_io": "20240906-420-264-1",
     "si_date_removal": "2024-09-11",
@@ -10848,7 +10509,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240906-421-0004-67",
     "si_id": 339,
     "si_io": "20240906-421-0004-67-1",
     "si_date_removal": "2024-12-19",
@@ -10880,7 +10540,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240909-422-279",
     "si_id": 340,
     "si_io": "20240909-422-279-1",
     "si_date_removal": "2024-10-08",
@@ -10912,7 +10571,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241029-0007-35",
     "si_id": 341,
     "si_io": "20241029-0007-35-1",
     "si_date_removal": "2024-12-03",
@@ -10944,7 +10602,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240909-423-269",
     "si_id": 342,
     "si_io": "20240909-423-269-1",
     "si_date_removal": "2024-10-05",
@@ -10976,7 +10633,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240911-427-289",
     "si_id": 343,
     "si_io": "20240911-427-289-1",
     "si_date_removal": "2024-10-15",
@@ -11008,7 +10664,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240917-430-273",
     "si_id": 344,
     "si_io": "20240917-430-273-1",
     "si_date_removal": "2024-09-30",
@@ -11040,7 +10695,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240917-431-274",
     "si_id": 345,
     "si_io": "20240917-431-274-1",
     "si_date_removal": "2024-10-02",
@@ -11072,7 +10726,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240919-433-276",
     "si_id": 346,
     "si_io": "20240919-433-276-1",
     "si_date_removal": "2024-10-17",
@@ -11104,7 +10757,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240920-434-293",
     "si_id": 347,
     "si_io": "20240920-434-293-1",
     "si_date_removal": "2024-10-24",
@@ -11136,7 +10788,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240920-435-280",
     "si_id": 348,
     "si_io": "20240920-435-280-1",
     "si_date_removal": "2024-10-12",
@@ -11168,7 +10819,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240920-436-277",
     "si_id": 349,
     "si_io": "20240920-436-277-1",
     "si_date_removal": "2024-10-01",
@@ -11200,7 +10850,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250130-0004-112",
     "si_id": 350,
     "si_io": "20250130-0004-112-1",
     "si_date_removal": "2025-02-04",
@@ -11232,7 +10881,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240920-438-292",
     "si_id": 351,
     "si_io": "20240920-438-292-1",
     "si_date_removal": "2024-10-15",
@@ -11264,7 +10912,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240920-439-282",
     "si_id": 352,
     "si_io": "20240920-439-282-1",
     "si_date_removal": "2024-10-01",
@@ -11296,7 +10943,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250205-0011-40",
     "si_id": 353,
     "si_io": "20250205-0011-40-1",
     "si_date_removal": "2025-06-05",
@@ -11328,7 +10974,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-443-286",
     "si_id": 354,
     "si_io": "20240923-443-286-1",
     "si_date_removal": "2024-10-09",
@@ -11360,7 +11005,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-444-285",
     "si_id": 355,
     "si_io": "20240923-444-285-1",
     "si_date_removal": "2024-11-26",
@@ -11392,7 +11036,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-444-285",
     "si_id": 356,
     "si_io": "20240923-444-285-2",
     "si_date_removal": "2024-10-25",
@@ -11424,7 +11067,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-444-285",
     "si_id": 358,
     "si_io": "20240923-444-285-3",
     "si_date_removal": "2024-11-28",
@@ -11456,7 +11098,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-444-285",
     "si_id": 359,
     "si_io": "20240923-444-285-4",
     "si_date_removal": "2024-10-30",
@@ -11488,7 +11129,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240923-444-285",
     "si_id": 360,
     "si_io": "20240923-444-285-5",
     "si_date_removal": "2024-10-30",
@@ -11520,7 +11160,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240926-451-288",
     "si_id": 357,
     "si_io": "20240926-451-288-1",
     "si_date_removal": "2024-10-06",
@@ -11552,7 +11191,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240924-445-0006-33",
     "si_id": 361,
     "si_io": "20240924-445-0006-33-1",
     "si_date_removal": "2024-11-04",
@@ -11584,7 +11222,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250214-0047-6",
     "si_id": 362,
     "si_io": "20250214-0047-6-1",
     "si_date_removal": "2025-02-25",
@@ -11616,7 +11253,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240925-449-291",
     "si_id": 363,
     "si_io": "20240925-449-291-1",
     "si_date_removal": "2024-09-30",
@@ -11648,7 +11284,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240926-450-287",
     "si_id": 364,
     "si_io": "20240926-450-287-1",
     "si_date_removal": "2024-10-12",
@@ -11680,7 +11315,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20240927-455-0008-3",
     "si_id": 365,
     "si_io": "20240927-455-0008-3-1",
     "si_date_removal": "2024-11-15",
@@ -11712,7 +11346,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241001-0003-152",
     "si_id": 366,
     "si_io": "20241001-0003-152-1",
     "si_date_removal": "2024-10-15",
@@ -11744,7 +11377,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241003-0003-153",
     "si_id": 367,
     "si_io": "20241003-0003-153-1",
     "si_date_removal": "2024-10-21",
@@ -11776,7 +11408,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241007-0006-35",
     "si_id": 368,
     "si_io": "20241007-0006-35-1",
     "si_date_removal": "2024-11-18",
@@ -11808,7 +11439,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241007-0006-36",
     "si_id": 369,
     "si_io": "20241007-0006-36-1",
     "si_date_removal": "2024-12-30",
@@ -11840,7 +11470,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241010-0007-21",
     "si_id": 370,
     "si_io": "20241010-0007-21-1",
     "si_date_removal": "2024-10-16",
@@ -11872,7 +11501,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241007-0006-37",
     "si_id": 371,
     "si_io": "20241007-0006-37-1",
     "si_date_removal": "2024-10-30",
@@ -11904,7 +11532,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241007-0006-38",
     "si_id": 372,
     "si_io": "20241007-0006-38-1",
     "si_date_removal": "2024-10-16",
@@ -11936,7 +11563,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241009-0007-19",
     "si_id": 373,
     "si_io": "20241009-0007-19-1",
     "si_date_removal": "2024-10-28",
@@ -11968,7 +11594,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241022-0007-30",
     "si_id": 374,
     "si_io": "20241022-0007-30-1",
     "si_date_removal": "2024-11-08",
@@ -12000,7 +11625,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241010-0004-77",
     "si_id": 375,
     "si_io": "20241010-0004-77-1",
     "si_date_removal": "2024-10-22",
@@ -12032,7 +11656,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241010-0006-39",
     "si_id": 376,
     "si_io": "20241010-0006-39-1",
     "si_date_removal": "2024-12-17",
@@ -12064,7 +11687,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241104-0007-37",
     "si_id": 377,
     "si_io": "20241104-0007-37-1",
     "si_date_removal": "2024-11-27",
@@ -12096,7 +11718,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241011-0003-156",
     "si_id": 378,
     "si_io": "20241011-0003-156-1",
     "si_date_removal": "2024-10-24",
@@ -12128,7 +11749,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241211-0007-58",
     "si_id": 379,
     "si_io": "20241211-0007-58-1",
     "si_date_removal": "2024-12-18",
@@ -12160,7 +11780,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241014-0004-81",
     "si_id": 380,
     "si_io": "20241014-0004-81-1",
     "si_date_removal": "2024-10-24",
@@ -12192,7 +11811,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241015-0007-23",
     "si_id": 381,
     "si_io": "20241015-0007-23-1",
     "si_date_removal": "2024-10-28",
@@ -12224,7 +11842,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241212-0007-59",
     "si_id": 382,
     "si_io": "20241212-0007-59-1",
     "si_date_removal": "2025-01-09",
@@ -12256,7 +11873,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241015-0007-26",
     "si_id": 383,
     "si_io": "20241015-0007-26-1",
     "si_date_removal": "2024-11-21",
@@ -12288,7 +11904,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241016-0009-2",
     "si_id": 384,
     "si_io": "20241016-0009-2-1",
     "si_date_removal": "2025-01-08",
@@ -12320,7 +11935,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241218-0007-66",
     "si_id": 385,
     "si_io": "20241218-0007-66-1",
     "si_date_removal": "2024-12-23",
@@ -12352,7 +11966,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241017-0006-42",
     "si_id": 386,
     "si_io": "20241017-0006-42-1",
     "si_date_removal": "2024-11-04",
@@ -12384,7 +11997,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241017-0011-8",
     "si_id": 387,
     "si_io": "20241017-0011-8-1",
     "si_date_removal": "2024-11-14",
@@ -12416,7 +12028,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241018-0003-157",
     "si_id": 388,
     "si_io": "20241018-0003-157-1",
     "si_date_removal": "2024-12-04",
@@ -12448,7 +12059,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241018-0003-157",
     "si_id": 389,
     "si_io": "20241018-0003-157-2",
     "si_date_removal": "2024-12-12",
@@ -12480,7 +12090,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241018-0003-158",
     "si_id": 390,
     "si_io": "20241018-0003-158-1",
     "si_date_removal": "2024-11-14",
@@ -12512,7 +12121,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241108-0005-48",
     "si_id": 391,
     "si_io": "20241108-0005-48-1",
     "si_date_removal": "2024-11-26",
@@ -12544,7 +12152,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241018-0006-43",
     "si_id": 392,
     "si_io": "20241018-0006-43-1",
     "si_date_removal": "2024-10-29",
@@ -12576,7 +12183,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241120-0005-52",
     "si_id": 393,
     "si_io": "20241120-0005-52-1",
     "si_date_removal": "2024-11-27",
@@ -12608,7 +12214,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241120-0005-52",
     "si_id": 396,
     "si_io": "20241120-0005-52-2",
     "si_date_removal": "2024-11-26",
@@ -12640,7 +12245,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241021-0007-28",
     "si_id": 394,
     "si_io": "20241021-0007-28-1",
     "si_date_removal": "2024-10-29",
@@ -12672,7 +12276,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241022-0003-159",
     "si_id": 395,
     "si_io": "20241022-0003-159-1",
     "si_date_removal": "2024-10-29",
@@ -12704,7 +12307,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241022-0011-10",
     "si_id": 397,
     "si_io": "20241022-0011-10-1",
     "si_date_removal": "2024-11-19",
@@ -12736,7 +12338,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250129-0014-34",
     "si_id": 398,
     "si_io": "20250129-0014-34-1",
     "si_date_removal": "2025-02-06",
@@ -12768,7 +12369,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0003-160",
     "si_id": 399,
     "si_io": "20241023-0003-160-1",
     "si_date_removal": "2024-10-29",
@@ -12800,7 +12400,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0005-42",
     "si_id": 400,
     "si_io": "20241023-0005-42-1",
     "si_date_removal": "2024-11-08",
@@ -12832,7 +12431,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241023-0007-31",
     "si_id": 401,
     "si_io": "20241023-0007-31-1",
     "si_date_removal": "2024-11-06",
@@ -12864,7 +12462,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241122-0020-2",
     "si_id": 402,
     "si_io": "20241122-0020-2-1",
     "si_date_removal": "2024-12-10",
@@ -12896,7 +12493,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250124-0020-15",
     "si_id": 403,
     "si_io": "20250124-0020-15-1",
     "si_date_removal": "2025-02-20",
@@ -12928,7 +12524,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241025-0007-34",
     "si_id": 404,
     "si_io": "20241025-0007-34-1",
     "si_date_removal": "2024-12-12",
@@ -12960,7 +12555,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241028-0003-161",
     "si_id": 405,
     "si_io": "20241028-0003-161-1",
     "si_date_removal": "2024-11-07",
@@ -12992,7 +12586,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241028-0004-84",
     "si_id": 406,
     "si_io": "20241028-0004-84-1",
     "si_date_removal": "2024-12-19",
@@ -13024,7 +12617,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241028-0006-45",
     "si_id": 407,
     "si_io": "20241028-0006-45-1",
     "si_date_removal": "2024-11-25",
@@ -13056,7 +12648,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241031-0003-162",
     "si_id": 408,
     "si_io": "20241031-0003-162-1",
     "si_date_removal": "2024-11-27",
@@ -13088,7 +12679,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241031-0007-36",
     "si_id": 409,
     "si_io": "20241031-0007-36-1",
     "si_date_removal": "2024-11-10",
@@ -13120,7 +12710,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241031-0008-8",
     "si_id": 410,
     "si_io": "20241031-0008-8-1",
     "si_date_removal": "2024-11-13",
@@ -13152,7 +12741,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241031-0011-11",
     "si_id": 411,
     "si_io": "20241031-0011-11-1",
     "si_date_removal": "2024-11-13",
@@ -13184,7 +12772,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241104-0009-6",
     "si_id": 412,
     "si_io": "20241104-0009-6-1",
     "si_date_removal": "2024-12-19",
@@ -13216,7 +12803,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241105-0005-44",
     "si_id": 413,
     "si_io": "20241105-0005-44-1",
     "si_date_removal": "2024-11-26",
@@ -13248,7 +12834,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241105-0005-45",
     "si_id": 414,
     "si_io": "20241105-0005-45-1",
     "si_date_removal": "2024-11-21",
@@ -13280,7 +12865,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241105-0009-7",
     "si_id": 415,
     "si_io": "20241105-0009-7-1",
     "si_date_removal": "2024-12-06",
@@ -13312,7 +12896,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241107-0004-86",
     "si_id": 416,
     "si_io": "20241107-0004-86-1",
     "si_date_removal": "2024-12-09",
@@ -13344,7 +12927,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241107-0007-38",
     "si_id": 417,
     "si_io": "20241107-0007-38-1",
     "si_date_removal": "2024-11-28",
@@ -13376,7 +12958,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241127-0004-94",
     "si_id": 418,
     "si_io": "20241127-0004-94-1",
     "si_date_removal": "2024-12-12",
@@ -13408,7 +12989,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241107-0008-9",
     "si_id": 419,
     "si_io": "20241107-0008-9-1",
     "si_date_removal": "2024-11-26",
@@ -13440,7 +13020,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241108-0005-47",
     "si_id": 420,
     "si_io": "20241108-0005-47-1",
     "si_date_removal": "2024-11-27",
@@ -13472,7 +13051,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241210-0004-99",
     "si_id": 421,
     "si_io": "20241210-0004-99-1",
     "si_date_removal": "2025-01-31",
@@ -13504,7 +13082,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241108-0005-49",
     "si_id": 422,
     "si_io": "20241108-0005-49-1",
     "si_date_removal": "2024-12-04",
@@ -13536,7 +13113,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241108-0007-39",
     "si_id": 423,
     "si_io": "20241108-0007-39-1",
     "si_date_removal": "2024-11-27",
@@ -13568,7 +13144,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241112-0007-40",
     "si_id": 424,
     "si_io": "20241112-0007-40-1",
     "si_date_removal": "2024-11-15",
@@ -13600,7 +13175,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241113-0007-41",
     "si_id": 425,
     "si_io": "20241113-0007-41-1",
     "si_date_removal": "2024-12-06",
@@ -13632,7 +13206,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241114-0004-89",
     "si_id": 426,
     "si_io": "20241114-0004-89-1",
     "si_date_removal": "2024-12-19",
@@ -13664,7 +13237,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241203-0006-59",
     "si_id": 427,
     "si_io": "20241203-0006-59-1",
     "si_date_removal": "2024-12-20",
@@ -13696,7 +13268,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241115-0007-43",
     "si_id": 428,
     "si_io": "20241115-0007-43-1",
     "si_date_removal": "2024-12-04",
@@ -13728,7 +13299,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241115-0007-44",
     "si_id": 429,
     "si_io": "20241115-0007-44-1",
     "si_date_removal": "2024-12-02",
@@ -13760,7 +13330,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241115-0011-13",
     "si_id": 430,
     "si_io": "20241115-0011-13-1",
     "si_date_removal": "2024-12-26",
@@ -13792,7 +13361,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241216-0011-22",
     "si_id": 431,
     "si_io": "20241216-0011-22-1",
     "si_date_removal": "2025-01-07",
@@ -13824,7 +13392,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0005-51",
     "si_id": 432,
     "si_io": "20241118-0005-51-1",
     "si_date_removal": "2024-12-30",
@@ -13856,7 +13423,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0005-51",
     "si_id": 434,
     "si_io": "20241118-0005-51-2",
     "si_date_removal": "2024-12-30",
@@ -13888,7 +13454,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250127-0011-37",
     "si_id": 433,
     "si_io": "20250127-0011-37-1",
     "si_date_removal": "2025-02-06",
@@ -13920,7 +13485,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0006-49",
     "si_id": 435,
     "si_io": "20241118-0006-49-1",
     "si_date_removal": "2024-12-16",
@@ -13952,7 +13516,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0006-50",
     "si_id": 436,
     "si_io": "20241118-0006-50-1",
     "si_date_removal": "2024-12-12",
@@ -13984,7 +13547,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0007-45",
     "si_id": 437,
     "si_io": "20241118-0007-45-1",
     "si_date_removal": "2024-11-21",
@@ -14016,7 +13578,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250203-0047-4",
     "si_id": 438,
     "si_io": "20250203-0047-4-1",
     "si_date_removal": "2025-02-10",
@@ -14048,7 +13609,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0007-46",
     "si_id": 439,
     "si_io": "20241118-0007-46-1",
     "si_date_removal": "2024-12-03",
@@ -14080,7 +13640,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0008-12",
     "si_id": 440,
     "si_io": "20241118-0008-12-1",
     "si_date_removal": "2024-12-23",
@@ -14112,7 +13671,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241205-0008-21",
     "si_id": 441,
     "si_io": "20241205-0008-21-1",
     "si_date_removal": "2024-12-13",
@@ -14144,7 +13702,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0008-13",
     "si_id": 442,
     "si_io": "20241118-0008-13-1",
     "si_date_removal": "2024-12-10",
@@ -14176,7 +13733,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241118-0011-14",
     "si_id": 443,
     "si_io": "20241118-0011-14-1",
     "si_date_removal": "2025-02-03",
@@ -14208,7 +13764,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241119-0007-47",
     "si_id": 444,
     "si_io": "20241119-0007-47-1",
     "si_date_removal": "2024-12-03",
@@ -14240,7 +13795,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250131-0008-51",
     "si_id": 445,
     "si_io": "20250131-0008-51-2",
     "si_date_removal": "2025-03-17",
@@ -14272,7 +13826,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241119-0008-14",
     "si_id": 446,
     "si_io": "20241119-0008-14-1",
     "si_date_removal": "2025-02-18",
@@ -14304,7 +13857,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250205-0008-53",
     "si_id": 447,
     "si_io": "20250205-0008-53-1",
     "si_date_removal": "2025-02-20",
@@ -14336,7 +13888,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241120-0005-53",
     "si_id": 448,
     "si_io": "20241120-0005-53-1",
     "si_date_removal": "2024-12-06",
@@ -14368,7 +13919,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241120-0006-53",
     "si_id": 449,
     "si_io": "20241120-0006-53-1",
     "si_date_removal": "2024-12-11",
@@ -14400,7 +13950,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241120-0018-3",
     "si_id": 450,
     "si_io": "20241120-0018-3-1",
     "si_date_removal": "2024-12-09",
@@ -14432,7 +13981,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241121-0006-54",
     "si_id": 451,
     "si_io": "20241121-0006-54-1",
     "si_date_removal": "2024-12-12",
@@ -14464,7 +14012,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241121-0007-50",
     "si_id": 452,
     "si_io": "20241121-0007-50-1",
     "si_date_removal": "2024-12-05",
@@ -14496,7 +14043,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241121-0011-15",
     "si_id": 453,
     "si_io": "20241121-0011-15-1",
     "si_date_removal": "2024-12-06",
@@ -14528,7 +14074,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241122-0005-54",
     "si_id": 454,
     "si_io": "20241122-0005-54-1",
     "si_date_removal": "2024-12-10",
@@ -14560,7 +14105,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241122-0005-55",
     "si_id": 455,
     "si_io": "20241122-0005-55-1",
     "si_date_removal": "2024-12-10",
@@ -14592,7 +14136,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241128-0014-4",
     "si_id": 456,
     "si_io": "20241128-0014-4-1",
     "si_date_removal": "2024-12-05",
@@ -14624,7 +14167,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241125-0003-163",
     "si_id": 457,
     "si_io": "20241125-0003-163-1",
     "si_date_removal": "2024-12-03",
@@ -14656,7 +14198,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241125-0007-51",
     "si_id": 458,
     "si_io": "20241125-0007-51-1",
     "si_date_removal": "2024-12-13",
@@ -14688,7 +14229,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241206-0004-98",
     "si_id": 459,
     "si_io": "20241206-0004-98-1",
     "si_date_removal": "2024-12-19",
@@ -14720,7 +14260,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241125-0014-3",
     "si_id": 460,
     "si_io": "20241125-0014-3-1",
     "si_date_removal": "2024-12-16",
@@ -14752,7 +14291,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241126-0006-55",
     "si_id": 461,
     "si_io": "20241126-0006-55-1",
     "si_date_removal": "2025-03-11",
@@ -14784,7 +14322,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241126-0011-16",
     "si_id": 462,
     "si_io": "20241126-0011-16-1",
     "si_date_removal": "2024-12-03",
@@ -14816,7 +14353,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241126-0011-17",
     "si_id": 463,
     "si_io": "20241126-0011-17-1",
     "si_date_removal": "2024-12-03",
@@ -14848,7 +14384,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250214-0008-60",
     "si_id": 464,
     "si_io": "20250214-0008-60-1",
     "si_date_removal": "2025-02-18",
@@ -14880,7 +14415,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241127-0008-17",
     "si_id": 465,
     "si_io": "20241127-0008-17-1",
     "si_date_removal": "2025-01-07",
@@ -14912,7 +14446,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241128-0003-164",
     "si_id": 466,
     "si_io": "20241128-0003-164-1",
     "si_date_removal": "2024-12-13",
@@ -14944,7 +14477,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241128-0014-5",
     "si_id": 467,
     "si_io": "20241128-0014-5-1",
     "si_date_removal": "2024-12-13",
@@ -14976,7 +14508,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241129-0004-95",
     "si_id": 468,
     "si_io": "20241129-0004-95-1",
     "si_date_removal": "2025-01-10",
@@ -15008,7 +14539,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241129-0006-58",
     "si_id": 469,
     "si_io": "20241129-0006-58-1",
     "si_date_removal": "2025-01-06",
@@ -15040,7 +14570,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241129-0008-18",
     "si_id": 470,
     "si_io": "20241129-0008-18-1",
     "si_date_removal": "2024-12-18",
@@ -15072,7 +14601,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241129-0008-19",
     "si_id": 471,
     "si_io": "20241129-0008-19-1",
     "si_date_removal": "2024-12-16",
@@ -15104,7 +14632,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241129-0008-19",
     "si_id": 472,
     "si_io": "20241129-0008-19-2",
     "si_date_removal": "2024-12-16",
@@ -15136,7 +14663,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241209-0005-58",
     "si_id": 473,
     "si_io": "20241209-0005-58-1",
     "si_date_removal": "2024-12-26",
@@ -15168,7 +14694,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241204-0004-96",
     "si_id": 474,
     "si_io": "20241204-0004-96-1",
     "si_date_removal": "2024-12-13",
@@ -15200,7 +14725,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241211-0005-59",
     "si_id": 475,
     "si_io": "20241211-0005-59-1",
     "si_date_removal": "2024-12-16",
@@ -15232,7 +14756,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241204-0014-6",
     "si_id": 476,
     "si_io": "20241204-0014-6-1",
     "si_date_removal": "2025-01-22",
@@ -15264,7 +14787,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241204-0014-6",
     "si_id": 477,
     "si_io": "20241204-0014-6-2",
     "si_date_removal": "2025-02-05",
@@ -15296,7 +14818,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241205-0006-60",
     "si_id": 478,
     "si_io": "20241205-0006-60-1",
     "si_date_removal": "2025-01-06",
@@ -15328,7 +14849,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241205-0007-54",
     "si_id": 479,
     "si_io": "20241205-0007-54-1",
     "si_date_removal": "2024-12-18",
@@ -15360,7 +14880,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241205-0008-22",
     "si_id": 480,
     "si_io": "20241205-0008-22-1",
     "si_date_removal": "2024-12-18",
@@ -15392,7 +14911,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241205-0008-22",
     "si_id": 481,
     "si_io": "20241205-0008-22-2",
     "si_date_removal": "2024-12-18",
@@ -15424,7 +14942,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241205-0008-22",
     "si_id": 482,
     "si_io": "20241205-0008-22-3",
     "si_date_removal": "2024-12-18",
@@ -15456,7 +14973,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241206-0004-97",
     "si_id": 483,
     "si_io": "20241206-0004-97-1",
     "si_date_removal": "2024-12-13",
@@ -15488,7 +15004,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241206-0007-55",
     "si_id": 484,
     "si_io": "20241206-0007-55-1",
     "si_date_removal": "2024-12-27",
@@ -15520,7 +15035,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250117-0011-32",
     "si_id": 485,
     "si_io": "20250117-0011-32-1",
     "si_date_removal": "2025-01-28",
@@ -15552,7 +15066,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241209-0020-3",
     "si_id": 486,
     "si_io": "20241209-0020-3-1",
     "si_date_removal": "2024-12-19",
@@ -15584,7 +15097,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241210-0008-24",
     "si_id": 487,
     "si_io": "20241210-0008-24-1",
     "si_date_removal": "2025-01-09",
@@ -15616,7 +15128,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241210-0014-8",
     "si_id": 488,
     "si_io": "20241210-0014-8-1",
     "si_date_removal": "2024-12-20",
@@ -15648,7 +15159,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250124-0008-43",
     "si_id": 489,
     "si_io": "20250124-0008-43-1",
     "si_date_removal": "2025-03-05",
@@ -15680,7 +15190,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241211-0007-57",
     "si_id": 490,
     "si_io": "20241211-0007-57-1",
     "si_date_removal": "2024-12-26",
@@ -15712,7 +15221,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241217-0011-23",
     "si_id": 491,
     "si_io": "20241217-0011-23-1",
     "si_date_removal": "2025-01-06",
@@ -15744,7 +15252,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241217-0011-23",
     "si_id": 493,
     "si_io": "20241217-0011-23-2",
     "si_date_removal": "2025-01-06",
@@ -15776,7 +15283,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241217-0011-23",
     "si_id": 496,
     "si_io": "20241217-0011-23-3",
     "si_date_removal": "2025-01-06",
@@ -15808,7 +15314,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241213-0005-60",
     "si_id": 492,
     "si_io": "20241213-0005-60-1",
     "si_date_removal": "2024-12-31",
@@ -15840,7 +15345,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241213-0011-19",
     "si_id": 494,
     "si_io": "20241213-0011-19-1",
     "si_date_removal": "2024-12-24",
@@ -15872,7 +15376,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241216-0014-9",
     "si_id": 495,
     "si_io": "20241216-0014-9-1",
     "si_date_removal": "2024-12-20",
@@ -15904,7 +15407,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241216-0020-8",
     "si_id": 497,
     "si_io": "20241216-0020-8-1",
     "si_date_removal": "2025-01-24",
@@ -15936,7 +15438,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241217-0008-28",
     "si_id": 498,
     "si_io": "20241217-0008-28-1",
     "si_date_removal": "2025-01-27",
@@ -15968,7 +15469,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241223-0011-24",
     "si_id": 499,
     "si_io": "20241223-0011-24-1",
     "si_date_removal": "2025-01-06",
@@ -16000,7 +15500,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241218-0014-10",
     "si_id": 500,
     "si_io": "20241218-0014-10-1",
     "si_date_removal": "2025-02-06",
@@ -16032,7 +15531,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250212-0004-115",
     "si_id": 501,
     "si_io": "20250212-0004-115-1",
     "si_date_removal": "2025-03-07",
@@ -16064,7 +15562,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241220-0005-62",
     "si_id": 502,
     "si_io": "20241220-0005-62-1",
     "si_date_removal": "2025-01-06",
@@ -16096,7 +15593,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20241230-0014-13",
     "si_id": 503,
     "si_io": "20241230-0014-13-1",
     "si_date_removal": "2025-01-06",
@@ -16128,7 +15624,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250102-0014-14",
     "si_id": 504,
     "si_io": "20250102-0014-14-1",
     "si_date_removal": "2025-01-09",
@@ -16160,7 +15655,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250106-0020-11",
     "si_id": 505,
     "si_io": "20250106-0020-11-1",
     "si_date_removal": "2025-02-26",
@@ -16192,7 +15686,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250109-0020-12",
     "si_id": 506,
     "si_io": "20250109-0020-12-1",
     "si_date_removal": "2025-01-14",
@@ -16224,7 +15717,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250110-0008-35",
     "si_id": 507,
     "si_io": "20250110-0008-35-1",
     "si_date_removal": "2025-01-21",
@@ -16256,7 +15748,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250114-0014-25",
     "si_id": 508,
     "si_io": "20250114-0014-25-1",
     "si_date_removal": "2025-02-24",
@@ -16288,7 +15779,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250114-0014-26",
     "si_id": 509,
     "si_io": "20250114-0014-26-1",
     "si_date_removal": "2025-01-30",
@@ -16320,7 +15810,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250114-0014-27",
     "si_id": 510,
     "si_io": "20250114-0014-27-1",
     "si_date_removal": "2025-01-24",
@@ -16352,7 +15841,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250116-0015-6",
     "si_id": 511,
     "si_io": "20250116-0015-6-1",
     "si_date_removal": "2025-03-03",
@@ -16384,7 +15872,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250116-0023-2",
     "si_id": 512,
     "si_io": "20250116-0023-2-1",
     "si_date_removal": "2025-01-20",
@@ -16416,7 +15903,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250122-0003-165",
     "si_id": 513,
     "si_io": "20250122-0003-165-1",
     "si_date_removal": "2025-02-03",
@@ -16448,7 +15934,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250122-0011-36",
     "si_id": 514,
     "si_io": "20250122-0011-36-1",
     "si_date_removal": "2025-01-30",
@@ -16480,7 +15965,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250122-0020-13",
     "si_id": 515,
     "si_io": "20250122-0020-13-1",
     "si_date_removal": "2025-01-29",
@@ -16512,7 +15996,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250123-0020-14",
     "si_id": 516,
     "si_io": "20250123-0020-14-1",
     "si_date_removal": "2025-01-31",
@@ -16544,7 +16027,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250124-0004-111",
     "si_id": 517,
     "si_io": "20250124-0004-111-1",
     "si_date_removal": "2025-01-29",
@@ -16576,7 +16058,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250124-0008-44",
     "si_id": 518,
     "si_io": "20250124-0008-44-1",
     "si_date_removal": "2025-02-28",
@@ -16608,7 +16089,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250124-0014-28",
     "si_id": 519,
     "si_io": "20250124-0014-28-1",
     "si_date_removal": "2025-02-12",
@@ -16640,7 +16120,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250128-0014-31",
     "si_id": 520,
     "si_io": "20250128-0014-31-1",
     "si_date_removal": "2025-02-19",
@@ -16672,7 +16151,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250210-0011-44",
     "si_id": 521,
     "si_io": "20250210-0011-44-1",
     "si_date_removal": "2025-02-20",
@@ -16704,7 +16182,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250130-0047-3",
     "si_id": 522,
     "si_io": "20250130-0047-3-1",
     "si_date_removal": "2025-02-26",
@@ -16736,7 +16213,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250204-0022-5",
     "si_id": 523,
     "si_io": "20250204-0022-5-1",
     "si_date_removal": "2025-02-18",
@@ -16768,7 +16244,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250207-0008-56",
     "si_id": 524,
     "si_io": "20250207-0008-56-1",
     "si_date_removal": "2025-02-20",
@@ -16800,7 +16275,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250207-0047-5",
     "si_id": 525,
     "si_io": "20250207-0047-5-1",
     "si_date_removal": "2025-02-26",
@@ -16832,7 +16306,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250210-0014-38",
     "si_id": 526,
     "si_io": "20250210-0014-38-1",
     "si_date_removal": "2025-02-13",
@@ -16864,7 +16337,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250211-0008-59",
     "si_id": 527,
     "si_io": "20250211-0008-59-1",
     "si_date_removal": "2025-02-12",
@@ -16896,7 +16368,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250212-0011-46",
     "si_id": 528,
     "si_io": "20250212-0011-46-1",
     "si_date_removal": "2025-02-25",
@@ -16928,7 +16399,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250217-0008-62",
     "si_id": 529,
     "si_io": "20250217-0008-62-1",
     "si_date_removal": "2025-03-17",
@@ -16960,7 +16430,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250217-0022-6",
     "si_id": 530,
     "si_io": "20250217-0022-6-1",
     "si_date_removal": "2025-03-03",
@@ -16992,7 +16461,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250218-0008-63",
     "si_id": 531,
     "si_io": "20250218-0008-63-1",
     "si_date_removal": "2025-03-04",
@@ -17024,7 +16492,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250218-0047-7",
     "si_id": 532,
     "si_io": "20250218-0047-7-1",
     "si_date_removal": "2025-02-26",
@@ -17056,7 +16523,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250219-0020-21",
     "si_id": 533,
     "si_io": "20250219-0020-21-1",
     "si_date_removal": "2025-03-12",
@@ -17088,7 +16554,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250220-0004-117",
     "si_id": 534,
     "si_io": "20250220-0004-117-1",
     "si_date_removal": "2025-03-07",
@@ -17120,7 +16585,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250220-0004-117",
     "si_id": 535,
     "si_io": "20250220-0004-117-2",
     "si_date_removal": "2025-03-06",
@@ -17152,7 +16616,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250220-0004-117",
     "si_id": 536,
     "si_io": "20250220-0004-117-3",
     "si_date_removal": "2025-03-06",
@@ -17184,7 +16647,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250220-0004-118",
     "si_id": 537,
     "si_io": "20250220-0004-118-1",
     "si_date_removal": "2025-02-28",
@@ -17216,7 +16678,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250220-0008-64",
     "si_id": 538,
     "si_io": "20250220-0008-64-4",
     "si_date_removal": "2025-03-12",
@@ -17248,7 +16709,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250220-0008-64",
     "si_id": 539,
     "si_io": "20250220-0008-64-5",
     "si_date_removal": "2025-03-14",
@@ -17280,7 +16740,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250221-0004-121",
     "si_id": 540,
     "si_io": "20250221-0004-121-1",
     "si_date_removal": "2025-02-27",
@@ -17312,7 +16771,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250225-0014-56",
     "si_id": 541,
     "si_io": "20250225-0014-56-1",
     "si_date_removal": "2025-03-05",
@@ -17344,7 +16802,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250225-0022-7",
     "si_id": 542,
     "si_io": "20250225-0022-7-1",
     "si_date_removal": "2025-03-18",
@@ -17376,7 +16833,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250226-0004-123",
     "si_id": 543,
     "si_io": "20250226-0004-123-1",
     "si_date_removal": "2025-03-07",
@@ -17408,7 +16864,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250226-0004-123",
     "si_id": 544,
     "si_io": "20250226-0004-123-2",
     "si_date_removal": "2025-03-10",
@@ -17440,7 +16895,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250226-0004-123",
     "si_id": 545,
     "si_io": "20250226-0004-123-3",
     "si_date_removal": "2025-03-18",
@@ -17472,7 +16926,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250226-0011-49",
     "si_id": 546,
     "si_io": "20250226-0011-49-1",
     "si_date_removal": "2025-03-03",
@@ -17504,7 +16957,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250226-0014-58",
     "si_id": 547,
     "si_io": "20250226-0014-58-1",
     "si_date_removal": "2025-03-04",
@@ -17536,7 +16988,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250227-0015-11",
     "si_id": 548,
     "si_io": "20250227-0015-11-1",
     "si_date_removal": "2025-03-04",
@@ -17568,7 +17019,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250226-0008-68",
     "si_id": 549,
     "si_io": "20250226-0008-68-1",
     "si_date_removal": "2025-03-12",
@@ -17600,7 +17050,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250227-0004-125",
     "si_id": 550,
     "si_io": "20250227-0004-125-1",
     "si_date_removal": "2025-07-07",
@@ -17632,7 +17081,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250228-0011-53",
     "si_id": 551,
     "si_io": "20250228-0011-53-1",
     "si_date_removal": "2025-03-13",
@@ -17664,7 +17112,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250227-0004-124",
     "si_id": 552,
     "si_io": "20250227-0004-124-1",
     "si_date_removal": "2025-03-19",
@@ -17696,7 +17143,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250228-0015-12",
     "si_id": 553,
     "si_io": "20250228-0015-12-1",
     "si_date_removal": "2025-03-03",
@@ -17728,7 +17174,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250227-0014-59",
     "si_id": 554,
     "si_io": "20250227-0014-59-1",
     "si_date_removal": "2025-03-11",
@@ -17760,7 +17205,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250228-0004-126",
     "si_id": 555,
     "si_io": "20250228-0004-126-1",
     "si_date_removal": "2025-03-11",
@@ -17792,7 +17236,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250227-0020-24",
     "si_id": 556,
     "si_io": "20250227-0020-24-1",
     "si_date_removal": "2025-03-03",
@@ -17824,7 +17267,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250305-0008-70",
     "si_id": 557,
     "si_io": "20250305-0008-70-1",
     "si_date_removal": "2025-03-13",
@@ -17856,7 +17298,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250305-0014-62",
     "si_id": 558,
     "si_io": "20250305-0014-62-1",
     "si_date_removal": "2025-03-18",
@@ -17888,7 +17329,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250305-0014-63",
     "si_id": 559,
     "si_io": "20250305-0014-63-1",
     "si_date_removal": "2025-03-19",
@@ -17920,7 +17360,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250306-0020-25",
     "si_id": 560,
     "si_io": "20250306-0020-25-1",
     "si_date_removal": "2025-03-20",
@@ -17952,7 +17391,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250307-0022-9",
     "si_id": 561,
     "si_io": "20250307-0022-9-1",
     "si_date_removal": "2025-03-17",
@@ -17984,7 +17422,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250310-0011-57",
     "si_id": 562,
     "si_io": "20250310-0011-57-1",
     "si_date_removal": "2025-03-13",
@@ -18016,7 +17453,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250311-0004-130",
     "si_id": 563,
     "si_io": "20250311-0004-130-1",
     "si_date_removal": "2025-03-14",
@@ -18048,7 +17484,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250313-0014-67",
     "si_id": 564,
     "si_io": "20250313-0014-67-1",
     "si_date_removal": "2025-03-13",
@@ -18080,7 +17515,6 @@
     "positioning": []
   },
   {
-    "id_ope": "20250314-0014-68",
     "si_id": 565,
     "si_io": "20250314-0014-68-1",
     "si_date_removal": "2025-03-20",
