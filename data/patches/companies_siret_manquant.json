@@ -166,5 +166,40 @@
     "co_siret": "30228086200046",
     "co_vat": "FR74302280862",
     "co_legal_form": "SASU, société par actions simplifiée unipersonnelle"
+  },
+  {
+    "co_business_name": "EQUIPEMENTS SCIENTIFIQUES",
+    "co_siren": "804959013",
+    "co_siret": "80495901300025",
+    "co_vat": "FR68804959013",
+    "co_legal_form": "SAS, société par actions simplifiée"
+  },
+  {
+    "co_business_name": "GROUPE DUNATIS",
+    "co_siren": "343946950",
+    "co_siret": "34394695000015",
+    "co_vat": "FR64343946950",
+    "co_legal_form": "SAS, société par actions simplifiée"
+  },
+  {
+    "co_business_name": "HENRY SCHEIN UK",
+    "co_siren": "FAKESIREN",
+    "co_siret": "FAKESIRET00000",
+    "co_vat": "FR00FAKESIREN",
+    "co_legal_form": "FAKE INFORMATION - OUT OF FRANCE"
+  },
+  {
+    "co_business_name": "JUST'ELLE",
+    "co_siren": "802765214",
+    "co_siret": "80276521400019",
+    "co_vat": "FR24802765214",
+    "co_legal_form": "SARL, société à responsabilité limitée"
+  },
+  {
+    "co_business_name": "SOCAH HYDRAULIQUE",
+    "co_siren": "389654294",
+    "co_siret": "38965429400021",
+    "co_vat": "FR83389654294",
+    "co_legal_form": "SAS, société par actions simplifiée"
   }
 ]

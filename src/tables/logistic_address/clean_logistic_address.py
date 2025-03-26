@@ -162,6 +162,26 @@ def clean_logistic_address_data(
     df, final_errors = prepare_final_model(df)
     if final_errors:
         errors["general"].extend(final_errors)
+
+    # Étape 13: Conversion des champs fk_co et fk_or en integer tout en préservant les valeurs nulles
+    logger.info("Étape 13: Conversion des champs fk_co et fk_or en integer")
+    try:
+        # Conversion des colonnes fk_co et fk_or en integer si elles existent
+        if 'fk_co' in df.columns:
+            # Conversion en integer seulement pour les valeurs non-nulles
+            mask = df['fk_co'].notna()
+            df.loc[mask, 'fk_co'] = df.loc[mask, 'fk_co'].astype(int)
+            logger.info("Champ fk_co converti en integer avec succès (valeurs nulles préservées)")
+        
+        if 'fk_or' in df.columns:
+            # Conversion en integer seulement pour les valeurs non-nulles
+            mask = df['fk_or'].notna()
+            df.loc[mask, 'fk_or'] = df.loc[mask, 'fk_or'].astype(int)
+            logger.info("Champ fk_or converti en integer avec succès (valeurs nulles préservées)")
+    except Exception as e:
+        error_msg = f"Erreur lors de la conversion des champs fk_co et fk_or en integer: {str(e)}"
+        logger.error(error_msg)
+        errors["general"].append({"error": error_msg})
     
     # Vérification de la préservation des données
     final_count = len(df)
