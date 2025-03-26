@@ -159,13 +159,13 @@
     "co_id": 12,
     "co_business_name": "AIVY SPORT",
     "co_siren": "531663490",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "53166349000013",
+    "co_vat": "FR82531663490",
     "co_code_ent": "875462",
     "co_head_office_address": "6 RUE DE LA ROUE",
     "co_head_office_city": "CLAMART",
     "co_head_office_postal_code": "92140",
-    "co_legal_form": null,
+    "co_legal_form": "SARL, soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
     "fk_us": 0
   },
   {
@@ -861,13 +861,13 @@
     "co_id": 66,
     "co_business_name": "COPRONET",
     "co_siren": "342008232",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "34200823200031",
+    "co_vat": "FR30342008232",
     "co_code_ent": "22720",
     "co_head_office_address": "8 RUE DES ENTREPRISES",
     "co_head_office_city": "MIGNE AUXANCES",
     "co_head_office_postal_code": "86440",
-    "co_legal_form": null,
+    "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
     "fk_us": 0
   },
   {
@@ -900,13 +900,13 @@
     "co_id": 69,
     "co_business_name": "CROC'LOISIRS",
     "co_siren": "498985936",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "49898593600026",
+    "co_vat": "FR82498985936",
     "co_code_ent": "794914",
     "co_head_office_address": "10 IMPASSE DE LA VALLEE",
     "co_head_office_city": "HOUILLES",
     "co_head_office_postal_code": "78800",
-    "co_legal_form": null,
+    "co_legal_form": "SARL, soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
     "fk_us": 0
   },
   {
@@ -991,13 +991,13 @@
     "co_id": 76,
     "co_business_name": "DESIGNERS STUDIO",
     "co_siren": "413064395",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "41306439500010",
+    "co_vat": "FR58413064395",
     "co_code_ent": "835222",
     "co_head_office_address": "21 RUE BOULEGON",
     "co_head_office_city": "AIX EN PROVENCE",
     "co_head_office_postal_code": "13100",
-    "co_legal_form": null,
+    "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
     "fk_us": 0
   },
   {
@@ -1017,13 +1017,13 @@
     "co_id": 78,
     "co_business_name": "DEVASET",
     "co_siren": "902098896",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "90209889600019",
+    "co_vat": "FR95902098896",
     "co_code_ent": "231861",
     "co_head_office_address": "BOMPERTUIS",
     "co_head_office_city": "GARDANNE",
     "co_head_office_postal_code": "13120",
-    "co_legal_form": null,
+    "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
     "fk_us": 0
   },
   {
@@ -1314,6 +1314,19 @@
   },
   {
     "co_id": 101,
+    "co_business_name": "EQUIPEMENTS SCIENTIFIQUES",
+    "co_siren": "804959013",
+    "co_siret": null,
+    "co_vat": null,
+    "co_code_ent": "20110",
+    "co_head_office_address": "127 RUE DE BUZENVAL",
+    "co_head_office_city": "GARCHES",
+    "co_head_office_postal_code": "92380",
+    "co_legal_form": null,
+    "fk_us": 0
+  },
+  {
+    "co_id": 102,
     "co_business_name": "ESTIPHARM",
     "co_siren": "329143143",
     "co_siret": "32914314300033",
@@ -1326,7 +1339,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 102,
+    "co_id": 103,
     "co_business_name": "ETABLISSEMENT JOURLIN",
     "co_siren": "885850065",
     "co_siret": "88585006500024",
@@ -1339,7 +1352,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 103,
+    "co_id": 104,
     "co_business_name": "ETABLISSEMENTS GENIEYS",
     "co_siren": "378948947",
     "co_siret": "37894894700049",
@@ -1352,7 +1365,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 104,
+    "co_id": 105,
     "co_business_name": "ETABLISSEMENTS RION",
     "co_siren": "797080439",
     "co_siret": "79708043900020",
@@ -1365,7 +1378,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 105,
+    "co_id": 106,
     "co_business_name": "ETC EUROPEAN TECHNOLOGIE CONCEPT",
     "co_siren": "391735545",
     "co_siret": "39173554500033",
@@ -1378,7 +1391,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 106,
+    "co_id": 107,
     "co_business_name": "ETT ENERGIE TRANSFERT THERMIQUE",
     "co_siren": "316607225",
     "co_siret": "31660722500018",
@@ -1391,7 +1404,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 107,
+    "co_id": 108,
     "co_business_name": "EUR'EQUIP",
     "co_siren": "337793921",
     "co_siret": "33779392100012",
@@ -1404,7 +1417,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 108,
+    "co_id": 109,
     "co_business_name": "EURL JADYSHA",
     "co_siren": "803132984",
     "co_siret": null,
@@ -1417,7 +1430,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 109,
+    "co_id": 110,
     "co_business_name": "EURO TECHNO COM ETC",
     "co_siren": "393413281",
     "co_siret": "39341328100030",
@@ -1430,7 +1443,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 110,
+    "co_id": 111,
     "co_business_name": "EXTR'AIR ENVIRONNEMENT",
     "co_siren": "478409212",
     "co_siret": "47840921200014",
@@ -1443,7 +1456,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 111,
+    "co_id": 112,
     "co_business_name": "FACON MEDICAL",
     "co_siren": "482611696",
     "co_siret": "48261169600014",
@@ -1456,7 +1469,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 112,
+    "co_id": 113,
     "co_business_name": "FAILLE INDUSTRIE",
     "co_siren": "457510220",
     "co_siret": "45751022000025",
@@ -1469,7 +1482,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 113,
+    "co_id": 114,
     "co_business_name": "FARECO FAYAT",
     "co_siren": "409684859",
     "co_siret": "40968485900120",
@@ -1482,7 +1495,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 114,
+    "co_id": 115,
     "co_business_name": "FDG GROUP",
     "co_siren": "493439905",
     "co_siret": "49343990500032",
@@ -1495,20 +1508,20 @@
     "fk_us": 0
   },
   {
-    "co_id": 115,
+    "co_id": 116,
     "co_business_name": "FIDEL FILLAUD",
     "co_siren": "858800758",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "85880075800055",
+    "co_vat": "FR30858800758",
     "co_code_ent": "160216",
     "co_head_office_address": "3 RUE DES PRAIRIES",
     "co_head_office_city": "LES SORINIERES",
     "co_head_office_postal_code": "44840",
-    "co_legal_form": null,
+    "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
     "fk_us": 0
   },
   {
-    "co_id": 116,
+    "co_id": 117,
     "co_business_name": "FORESTIA",
     "co_siren": "442584322",
     "co_siret": "44258432200022",
@@ -1521,7 +1534,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 117,
+    "co_id": 118,
     "co_business_name": "FORT & VERT",
     "co_siren": "414105148",
     "co_siret": "41410514800012",
@@ -1534,7 +1547,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 118,
+    "co_id": 119,
     "co_business_name": "FOURNITEC",
     "co_siren": "380028548",
     "co_siret": "38002854800036",
@@ -1547,7 +1560,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 119,
+    "co_id": 120,
     "co_business_name": "FOUSSIER",
     "co_siren": "329681340",
     "co_siret": "32968134000173",
@@ -1560,7 +1573,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 120,
+    "co_id": 121,
     "co_business_name": "FOXI & GRAPH",
     "co_siren": "389158809",
     "co_siret": "38915880900043",
@@ -1573,7 +1586,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 121,
+    "co_id": 122,
     "co_business_name": "FRANCE COLLECTIVITE HYGIENE EN ABREGE FCH",
     "co_siren": "966502528",
     "co_siret": "96650252800070",
@@ -1586,20 +1599,20 @@
     "fk_us": 0
   },
   {
-    "co_id": 122,
+    "co_id": 123,
     "co_business_name": "FRANCE DISTRIBUTION",
     "co_siren": "302208616",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "30220861600078",
+    "co_vat": "FR34302208616",
     "co_code_ent": "913298",
     "co_head_office_address": "3 RUE FERDINAND DE LESSEPS",
     "co_head_office_city": "GOUSSAINVILLE",
     "co_head_office_postal_code": "95190",
-    "co_legal_form": null,
+    "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
     "fk_us": 0
   },
   {
-    "co_id": 123,
+    "co_id": 124,
     "co_business_name": "FRANCE VOLET",
     "co_siren": "391701943",
     "co_siret": "39170194300022",
@@ -1612,7 +1625,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 124,
+    "co_id": 125,
     "co_business_name": "FREYSSINET PRODUCTS COMPANY",
     "co_siren": "572119592",
     "co_siret": "57211959200044",
@@ -1625,7 +1638,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 125,
+    "co_id": 126,
     "co_business_name": "GANDOLPHE EMBALLAGE",
     "co_siren": "379030125",
     "co_siret": "37903012500049",
@@ -1638,7 +1651,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 126,
+    "co_id": 127,
     "co_business_name": "GAULT ET FREMONT",
     "co_siren": "544800857",
     "co_siret": "54480085700028",
@@ -1651,7 +1664,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 127,
+    "co_id": 128,
     "co_business_name": "GDV",
     "co_siren": "322151663",
     "co_siret": "32215166300182",
@@ -1664,7 +1677,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 128,
+    "co_id": 129,
     "co_business_name": "GEA",
     "co_siren": "521871376",
     "co_siret": "52187137600013",
@@ -1677,7 +1690,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 129,
+    "co_id": 130,
     "co_business_name": "GEBA FRANCE",
     "co_siren": "419666771",
     "co_siret": "41966677100029",
@@ -1690,7 +1703,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 130,
+    "co_id": 131,
     "co_business_name": "GEMSYS",
     "co_siren": "390262921",
     "co_siret": "39026292100021",
@@ -1703,7 +1716,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 131,
+    "co_id": 132,
     "co_business_name": "GENERALE THERMIQUE",
     "co_siren": "510424872",
     "co_siret": "51042487200032",
@@ -1716,7 +1729,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 132,
+    "co_id": 133,
     "co_business_name": "GETRA",
     "co_siren": "539064170",
     "co_siret": "53906417000027",
@@ -1729,7 +1742,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 133,
+    "co_id": 134,
     "co_business_name": "GOOD'EPICES",
     "co_siren": "531340982",
     "co_siret": "53134098200028",
@@ -1742,7 +1755,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 134,
+    "co_id": 135,
     "co_business_name": "GRANDBLAISE LEROY",
     "co_siren": "322294463",
     "co_siret": "32229446300037",
@@ -1755,7 +1768,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 135,
+    "co_id": 136,
     "co_business_name": "GRAVIC FRANCE",
     "co_siren": "389755463",
     "co_siret": "38975546300020",
@@ -1768,7 +1781,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 136,
+    "co_id": 137,
     "co_business_name": "GREEN OFFICE",
     "co_siren": "479919755",
     "co_siret": "47991975500021",
@@ -1781,7 +1794,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 137,
+    "co_id": 138,
     "co_business_name": "GROUPE BENETEAU",
     "co_siren": "511239915",
     "co_siret": "51123991500040",
@@ -1794,7 +1807,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 138,
+    "co_id": 139,
     "co_business_name": "GROUPE DUNATIS",
     "co_siren": "343946950",
     "co_siret": null,
@@ -1807,7 +1820,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 139,
+    "co_id": 140,
     "co_business_name": "GROUPE LECUYER ",
     "co_siren": "378524029",
     "co_siret": "37852402900055",
@@ -1820,7 +1833,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 140,
+    "co_id": 141,
     "co_business_name": "GROUPE MAURIZI",
     "co_siren": "404388274",
     "co_siret": "40438827400056",
@@ -1833,7 +1846,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 141,
+    "co_id": 142,
     "co_business_name": "GROUPE PILOTE",
     "co_siren": "872802780",
     "co_siret": "87280278000025",
@@ -1846,7 +1859,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 142,
+    "co_id": 143,
     "co_business_name": "GUILLIN EMBALLAGES",
     "co_siren": "322409913",
     "co_siret": "32240991300041",
@@ -1859,7 +1872,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 143,
+    "co_id": 144,
     "co_business_name": "GUINAULT",
     "co_siren": "569800725",
     "co_siret": "56980072500040",
@@ -1872,7 +1885,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 144,
+    "co_id": 145,
     "co_business_name": "HALADJIAN CORP",
     "co_siren": "622620912",
     "co_siret": "62262091200015",
@@ -1885,7 +1898,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 145,
+    "co_id": 146,
     "co_business_name": "HALDEX EUROPE SAS",
     "co_siren": "320814882",
     "co_siret": "32081488200041",
@@ -1898,7 +1911,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 146,
+    "co_id": 147,
     "co_business_name": "HENRY SCHEIN ESP",
     "co_siren": "B79684783",
     "co_siret": null,
@@ -1911,7 +1924,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 147,
+    "co_id": 148,
     "co_business_name": "HENRY SCHEIN FR",
     "co_siren": "390471985",
     "co_siret": "39047198500130",
@@ -1924,7 +1937,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 148,
+    "co_id": 149,
     "co_business_name": "HENRY SCHEIN UK",
     "co_siren": "390471985",
     "co_siret": null,
@@ -1937,7 +1950,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 149,
+    "co_id": 150,
     "co_business_name": "HOLISTIC SECURITE",
     "co_siren": "798161915",
     "co_siret": "79816191500011",
@@ -1950,7 +1963,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 150,
+    "co_id": 151,
     "co_business_name": "HUILERIE ST CHRISTOPHE",
     "co_siren": "45850765",
     "co_siret": "04585076500053",
@@ -1963,7 +1976,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 151,
+    "co_id": 152,
     "co_business_name": "HYCODIS",
     "co_siren": "345147243",
     "co_siret": "34514724300025",
@@ -1976,7 +1989,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 152,
+    "co_id": 153,
     "co_business_name": "HYDRAPARTS",
     "co_siren": "439618513",
     "co_siret": "43961851300014",
@@ -1989,7 +2002,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 153,
+    "co_id": 154,
     "co_business_name": "HYPERELEC",
     "co_siren": "402618938",
     "co_siret": "40261893800011",
@@ -2002,7 +2015,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 154,
+    "co_id": 155,
     "co_business_name": "IBSA PHARMA",
     "co_siren": "341264570",
     "co_siret": "34126457000035",
@@ -2015,7 +2028,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 155,
+    "co_id": 156,
     "co_business_name": "IMAGINELEC",
     "co_siren": "830154522",
     "co_siret": "83015452200023",
@@ -2028,7 +2041,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 156,
+    "co_id": 157,
     "co_business_name": "IMPORTALUX",
     "co_siren": "317962637",
     "co_siret": "31796263700037",
@@ -2041,7 +2054,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 157,
+    "co_id": 158,
     "co_business_name": "INSITU - GROUPE MATFER BOURGEAT",
     "co_siren": "334559283",
     "co_siret": "33455928300042",
@@ -2054,7 +2067,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 158,
+    "co_id": 159,
     "co_business_name": "INSTITUT OENOLOGIQUE",
     "co_siren": "95650081",
     "co_siret": "09565008100086",
@@ -2067,7 +2080,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 159,
+    "co_id": 160,
     "co_business_name": "IPELEC",
     "co_siren": "447969148",
     "co_siret": "44796914800025",
@@ -2080,7 +2093,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 160,
+    "co_id": 161,
     "co_business_name": "ISOCEL",
     "co_siren": "811890086",
     "co_siret": "81189008600010",
@@ -2093,7 +2106,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 161,
+    "co_id": 162,
     "co_business_name": "ITD",
     "co_siren": "343680039",
     "co_siret": "34368003900025",
@@ -2106,7 +2119,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 162,
+    "co_id": 163,
     "co_business_name": "IWIS ANTRIEBSSYSTEME GMBH",
     "co_siren": "442039475",
     "co_siret": "44203947500045",
@@ -2119,7 +2132,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 163,
+    "co_id": 164,
     "co_business_name": "J C FRANCE",
     "co_siren": "413746041",
     "co_siret": "41374604100024",
@@ -2132,7 +2145,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 164,
+    "co_id": 165,
     "co_business_name": "JERODIA",
     "co_siren": "389567520",
     "co_siret": "38956752000058",
@@ -2145,7 +2158,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 165,
+    "co_id": 166,
     "co_business_name": "JEULIN",
     "co_siren": "344652490",
     "co_siret": "34465249000048",
@@ -2158,7 +2171,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 166,
+    "co_id": 167,
     "co_business_name": "JOKEY",
     "co_siren": "322424136",
     "co_siret": "32242413600016",
@@ -2171,7 +2184,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 167,
+    "co_id": 168,
     "co_business_name": "JUST'ELLE",
     "co_siren": "802765214",
     "co_siret": null,
@@ -2184,7 +2197,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 168,
+    "co_id": 169,
     "co_business_name": "JVD SAS",
     "co_siren": "330927476",
     "co_siret": "33092747600011",
@@ -2197,7 +2210,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 169,
+    "co_id": 170,
     "co_business_name": "KENT GROUP",
     "co_siren": "301224010",
     "co_siret": "30122401000068",
@@ -2210,7 +2223,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 170,
+    "co_id": 171,
     "co_business_name": "KING TONY EUROPE",
     "co_siren": "424737138",
     "co_siret": "42473713800059",
@@ -2223,7 +2236,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 171,
+    "co_id": 172,
     "co_business_name": "KLEIN HERVE",
     "co_siren": "805227352",
     "co_siret": "80522735200012",
@@ -2236,7 +2249,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 172,
+    "co_id": 173,
     "co_business_name": "KQUEO",
     "co_siren": "899345946",
     "co_siret": "89934594600011",
@@ -2249,7 +2262,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 173,
+    "co_id": 174,
     "co_business_name": "KSTOOLS",
     "co_siren": "411276017",
     "co_siret": "41127601700042",
@@ -2262,20 +2275,20 @@
     "fk_us": 0
   },
   {
-    "co_id": 174,
+    "co_id": 175,
     "co_business_name": "LA SI\u00c8GERIE",
     "co_siren": "791927783",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "79192778300013",
+    "co_vat": "FR94791927783",
     "co_code_ent": "674548",
     "co_head_office_address": "18 RUE SAINT NICOLAS",
     "co_head_office_city": "LA ROCHELLE",
     "co_head_office_postal_code": "17000",
-    "co_legal_form": null,
+    "co_legal_form": "Entrepreneur individuel",
     "fk_us": 0
   },
   {
-    "co_id": 175,
+    "co_id": 176,
     "co_business_name": "LABEL 7",
     "co_siren": "412020273",
     "co_siret": "41202027300048",
@@ -2288,7 +2301,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 176,
+    "co_id": 177,
     "co_business_name": "LABORATOIRE LIPS FRANCE",
     "co_siren": "798443578",
     "co_siret": "79844357800033",
@@ -2301,7 +2314,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 177,
+    "co_id": 178,
     "co_business_name": "LACROIX DEFENSE - ETIENNE LACROIX GROUP",
     "co_siren": "775580434",
     "co_siret": "77558043400014",
@@ -2314,7 +2327,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 178,
+    "co_id": 179,
     "co_business_name": "LD PRO",
     "co_siren": "819802240",
     "co_siret": "81980224000021",
@@ -2327,7 +2340,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 179,
+    "co_id": 180,
     "co_business_name": "LE STORE PARISIEN",
     "co_siren": "484698865",
     "co_siret": "48469886500025",
@@ -2340,7 +2353,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 180,
+    "co_id": 181,
     "co_business_name": "LES FILS DE A. COLOMBIE CADET",
     "co_siren": "715420303",
     "co_siret": "71542030300045",
@@ -2353,7 +2366,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 181,
+    "co_id": 182,
     "co_business_name": "LINET FRANCE",
     "co_siren": "453507030",
     "co_siret": "45350703000014",
@@ -2366,7 +2379,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 182,
+    "co_id": 183,
     "co_business_name": "LM ECO PRODUCTION",
     "co_siren": "801071663",
     "co_siret": "80107166300026",
@@ -2379,7 +2392,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 183,
+    "co_id": 184,
     "co_business_name": "LM FRANCE",
     "co_siren": "384560942",
     "co_siret": "38456094200045",
@@ -2392,7 +2405,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 184,
+    "co_id": 185,
     "co_business_name": "LORFLEX",
     "co_siren": "334765062",
     "co_siret": "33476506200057",
@@ -2405,7 +2418,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 185,
+    "co_id": 186,
     "co_business_name": "LUCAS FRANCE",
     "co_siren": "513703389",
     "co_siret": "51370338900017",
@@ -2418,7 +2431,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 186,
+    "co_id": 187,
     "co_business_name": "LUCIEN GEORGELIN",
     "co_siren": "382510816",
     "co_siret": "38251081600038",
@@ -2431,7 +2444,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 187,
+    "co_id": 188,
     "co_business_name": "LYRECO FRANCE",
     "co_siren": "571722669",
     "co_siret": "57172266900264",
@@ -2444,7 +2457,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 188,
+    "co_id": 189,
     "co_business_name": "MAAS ",
     "co_siren": "331418186",
     "co_siret": "33141818600028",
@@ -2457,7 +2470,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 189,
+    "co_id": 190,
     "co_business_name": "MABEO INDUSTRIES",
     "co_siren": "332564954",
     "co_siret": "33256495400276",
@@ -2470,7 +2483,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 190,
+    "co_id": 191,
     "co_business_name": "MAILLON",
     "co_siren": "388319592",
     "co_siret": "38831959200043",
@@ -2483,7 +2496,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 191,
+    "co_id": 192,
     "co_business_name": "MAISON CADIOU",
     "co_siren": "316973312",
     "co_siret": "31697331200010",
@@ -2496,7 +2509,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 192,
+    "co_id": 193,
     "co_business_name": "MANUFACTURE DE SENLIS",
     "co_siren": "431950427",
     "co_siret": "43195042700028",
@@ -2509,7 +2522,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 193,
+    "co_id": 194,
     "co_business_name": "MANUFACTURE FRANCAISE DU CYCLE",
     "co_siren": "791771223",
     "co_siret": "79177122300017",
@@ -2522,7 +2535,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 194,
+    "co_id": 195,
     "co_business_name": "MAREVA PISCINES ET FILTRATIONS SA",
     "co_siren": "343738910",
     "co_siret": "34373891000086",
@@ -2535,7 +2548,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 195,
+    "co_id": 196,
     "co_business_name": "MARK'S EUROPE",
     "co_siren": "502081490",
     "co_siret": "50208149000042",
@@ -2548,7 +2561,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 196,
+    "co_id": 197,
     "co_business_name": "MARTINON MSE",
     "co_siren": "389573064",
     "co_siret": "38957306400042",
@@ -2561,7 +2574,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 197,
+    "co_id": 198,
     "co_business_name": "MATERIAUX ET AGGLOMERES DU RHONE ET DE L'AIN MARA",
     "co_siren": "838063451",
     "co_siret": "83806345100010",
@@ -2574,7 +2587,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 198,
+    "co_id": 199,
     "co_business_name": "MATHELEC",
     "co_siren": "350150884",
     "co_siret": "35015088400020",
@@ -2587,7 +2600,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 199,
+    "co_id": 200,
     "co_business_name": "MAXXILOCATION",
     "co_siren": "819833674",
     "co_siret": "81983367400024",
@@ -2600,7 +2613,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 200,
+    "co_id": 201,
     "co_business_name": "MECAFER",
     "co_siren": "306866310",
     "co_siret": "30686631000064",
@@ -2613,7 +2626,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 201,
+    "co_id": 202,
     "co_business_name": "MESA BELLA",
     "co_siren": "488561762",
     "co_siret": "48856176200037",
@@ -2626,7 +2639,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 202,
+    "co_id": 203,
     "co_business_name": "MIF SOURCING",
     "co_siren": "881693667",
     "co_siret": "88169366700035",
@@ -2639,7 +2652,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 203,
+    "co_id": 204,
     "co_business_name": "MOGRA",
     "co_siren": "350905816",
     "co_siret": "35090581600046",
@@ -2652,7 +2665,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 204,
+    "co_id": 205,
     "co_business_name": "MSB",
     "co_siren": "415206028",
     "co_siret": "41520602800037",
@@ -2665,7 +2678,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 205,
+    "co_id": 206,
     "co_business_name": "NORD MENUISERIE",
     "co_siren": "401167598",
     "co_siret": "40116759800036",
@@ -2678,7 +2691,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 206,
+    "co_id": 207,
     "co_business_name": "NOREP INTERNATIONAL",
     "co_siren": "434095535",
     "co_siret": "43409553500028",
@@ -2691,7 +2704,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 207,
+    "co_id": 208,
     "co_business_name": "NRE NOYON ROULEMENTS ETANCHEITE",
     "co_siren": "325908846",
     "co_siret": "32590884600059",
@@ -2704,7 +2717,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 208,
+    "co_id": 209,
     "co_business_name": "OCOPA EMBALLAGE-GROUPE ASTIC",
     "co_siren": "549200244",
     "co_siret": "54920024400040",
@@ -2717,7 +2730,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 209,
+    "co_id": 210,
     "co_business_name": "OCTE LIFT",
     "co_siren": "349531525",
     "co_siret": "34953152500013",
@@ -2730,7 +2743,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 210,
+    "co_id": 211,
     "co_business_name": "ODIL SAS ",
     "co_siren": "950552265",
     "co_siret": "95055226500098",
@@ -2743,7 +2756,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 211,
+    "co_id": 212,
     "co_business_name": "ONCODESIGN SERVICES",
     "co_siren": "399693811",
     "co_siret": "39969381100057",
@@ -2756,7 +2769,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 212,
+    "co_id": 213,
     "co_business_name": "OUEST ISOL & VENTIL",
     "co_siren": "665950184",
     "co_siret": "66595018400010",
@@ -2769,7 +2782,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 213,
+    "co_id": 214,
     "co_business_name": "OXSTAL",
     "co_siren": "479205718",
     "co_siret": "47920571800071",
@@ -2782,7 +2795,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 214,
+    "co_id": 215,
     "co_business_name": "OZ INTERNATIONAL",
     "co_siren": "352558092",
     "co_siret": "35255809200057",
@@ -2795,7 +2808,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 215,
+    "co_id": 216,
     "co_business_name": "PARADE",
     "co_siren": "312911902",
     "co_siret": "31291190200020",
@@ -2808,7 +2821,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 216,
+    "co_id": 217,
     "co_business_name": "PARTYPRO",
     "co_siren": "329095483",
     "co_siret": "32909548300080",
@@ -2821,7 +2834,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 217,
+    "co_id": 218,
     "co_business_name": "PB TUB",
     "co_siren": "351181243",
     "co_siret": "35118124300038",
@@ -2834,7 +2847,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 218,
+    "co_id": 219,
     "co_business_name": "PHARMACIE DE LA PLAINE",
     "co_siren": "789939758",
     "co_siret": "78993975800015",
@@ -2847,7 +2860,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 219,
+    "co_id": 220,
     "co_business_name": "PHARMACIE DE ROYALLIEU",
     "co_siren": "882107915",
     "co_siret": "88210791500028",
@@ -2860,7 +2873,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 220,
+    "co_id": 221,
     "co_business_name": "PHARMACIE DU VOYAGE",
     "co_siren": "792172959",
     "co_siret": "79217295900019",
@@ -2873,7 +2886,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 221,
+    "co_id": 222,
     "co_business_name": "PHARMACIE MICHELET",
     "co_siren": "539602201",
     "co_siret": "53960220100011",
@@ -2886,20 +2899,20 @@
     "fk_us": 0
   },
   {
-    "co_id": 222,
+    "co_id": 223,
     "co_business_name": "PHARMACIE MODERNE",
     "co_siren": "529427791",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "52942779100015",
+    "co_vat": "FR50529427791",
     "co_code_ent": "490934-3",
     "co_head_office_address": "72 RUE NATIONALE",
     "co_head_office_city": "EVIAN LES BAINS",
     "co_head_office_postal_code": "74500",
-    "co_legal_form": null,
+    "co_legal_form": "SERL, soci\u00e9t\u00e9 d'exercice lib\u00e9ral \u00e0 responsabilit\u00e9 limit\u00e9e",
     "fk_us": 0
   },
   {
-    "co_id": 223,
+    "co_id": 224,
     "co_business_name": "PHARMACIE SEVIN",
     "co_siren": "491805255",
     "co_siret": "49180525500016",
@@ -2912,7 +2925,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 224,
+    "co_id": 225,
     "co_business_name": "PIRSON",
     "co_siren": "452872690",
     "co_siret": "45287269000014",
@@ -2925,7 +2938,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 225,
+    "co_id": 226,
     "co_business_name": "POLYSOUDE",
     "co_siren": "858800931",
     "co_siret": "85880093100090",
@@ -2938,7 +2951,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 226,
+    "co_id": 227,
     "co_business_name": "PRATICIMA",
     "co_siren": "387655756",
     "co_siret": "38765575600048",
@@ -2951,7 +2964,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 227,
+    "co_id": 228,
     "co_business_name": "PRO OCCASION RAYONNAGE",
     "co_siren": "482861341",
     "co_siret": "48286134100055",
@@ -2964,7 +2977,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 228,
+    "co_id": 229,
     "co_business_name": "PRO-G-MAT",
     "co_siren": "452842990",
     "co_siret": null,
@@ -2977,7 +2990,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 229,
+    "co_id": 230,
     "co_business_name": "PROLASER",
     "co_siren": "453442295",
     "co_siret": "45344229500052",
@@ -2990,7 +3003,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 230,
+    "co_id": 231,
     "co_business_name": "PROMAT",
     "co_siren": "798167052",
     "co_siret": "79816705200025",
@@ -3003,7 +3016,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 231,
+    "co_id": 232,
     "co_business_name": "PROTECOP",
     "co_siren": "325493641",
     "co_siret": "32549364100048",
@@ -3016,7 +3029,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 232,
+    "co_id": 233,
     "co_business_name": "PROVENCALE DE MATERIAUX",
     "co_siren": "695820233",
     "co_siret": "69582023300036",
@@ -3029,7 +3042,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 233,
+    "co_id": 234,
     "co_business_name": "PROVENCE EPI",
     "co_siren": "750630279",
     "co_siret": "75063027900016",
@@ -3042,7 +3055,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 234,
+    "co_id": 235,
     "co_business_name": "PROVENCE FROID",
     "co_siren": "328998729",
     "co_siret": "32899872900045",
@@ -3055,7 +3068,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 235,
+    "co_id": 236,
     "co_business_name": "PROVEPHARM",
     "co_siren": "418165460",
     "co_siret": "41816546000035",
@@ -3068,7 +3081,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 236,
+    "co_id": 237,
     "co_business_name": "QCA",
     "co_siren": "524283066",
     "co_siret": "52428306600016",
@@ -3081,7 +3094,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 237,
+    "co_id": 238,
     "co_business_name": "QMBT ASSURANCES",
     "co_siren": "809143274",
     "co_siret": "80914327400037",
@@ -3094,7 +3107,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 238,
+    "co_id": 239,
     "co_business_name": "QUINCAILLERIE PORTALET",
     "co_siren": "329380158",
     "co_siret": "329380158\u00a000082",
@@ -3107,7 +3120,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 239,
+    "co_id": 240,
     "co_business_name": "RAMS RHONE ALPES MOTEURS SERVICE",
     "co_siren": "414038844",
     "co_siret": "41403884400018",
@@ -3120,7 +3133,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 240,
+    "co_id": 241,
     "co_business_name": "RECYCLEOFFICE",
     "co_siren": "518290721",
     "co_siret": "51829072100043",
@@ -3133,7 +3146,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 241,
+    "co_id": 242,
     "co_business_name": "RENARD",
     "co_siren": "325645596",
     "co_siret": "32564559600033",
@@ -3146,7 +3159,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 242,
+    "co_id": 243,
     "co_business_name": "RENARD MATERIAUX",
     "co_siren": "328801402",
     "co_siret": "32880140200012",
@@ -3155,19 +3168,6 @@
     "co_head_office_address": "3 RUE DU RONDEAU",
     "co_head_office_city": "BLETTERANS",
     "co_head_office_postal_code": "39140",
-    "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
-    "fk_us": 0
-  },
-  {
-    "co_id": 243,
-    "co_business_name": "RENE LE NOUY",
-    "co_siren": "343721015",
-    "co_siret": "34372101500059",
-    "co_vat": "FR95343721015",
-    "co_code_ent": "641784-2",
-    "co_head_office_address": "DE TERREFORT",
-    "co_head_office_city": "LAFOX",
-    "co_head_office_postal_code": "47240",
     "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
     "fk_us": 0
   },
@@ -3186,6 +3186,19 @@
   },
   {
     "co_id": 245,
+    "co_business_name": "RENE LE NOUY",
+    "co_siren": "343721015",
+    "co_siret": "34372101500059",
+    "co_vat": "FR95343721015",
+    "co_code_ent": "641784-2",
+    "co_head_office_address": "DE TERREFORT",
+    "co_head_office_city": "LAFOX",
+    "co_head_office_postal_code": "47240",
+    "co_legal_form": "SAS, soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+    "fk_us": 0
+  },
+  {
+    "co_id": 246,
     "co_business_name": "REPA FRANCE",
     "co_siren": "392429338",
     "co_siret": "39242933800040",
@@ -3198,7 +3211,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 246,
+    "co_id": 247,
     "co_business_name": "ROTH FRANCE",
     "co_siren": "303846976",
     "co_siret": "30384697600031",
@@ -3211,7 +3224,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 247,
+    "co_id": 248,
     "co_business_name": "RUBIX FRANCE",
     "co_siren": "320955396",
     "co_siret": "32095539602609",
@@ -3224,7 +3237,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 248,
+    "co_id": 249,
     "co_business_name": "SACRED",
     "co_siren": "775722184",
     "co_siret": "77572218400022",
@@ -3237,7 +3250,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 249,
+    "co_id": 250,
     "co_business_name": "SAM EMBALLAGES DISTRIBUTION",
     "co_siren": "882622756",
     "co_siret": "88262275600022",
@@ -3250,7 +3263,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 250,
+    "co_id": 251,
     "co_business_name": "SAMI TP",
     "co_siren": "310308051",
     "co_siret": "31030805100021",
@@ -3263,7 +3276,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 251,
+    "co_id": 252,
     "co_business_name": "SAMM TRADING",
     "co_siren": "350866299",
     "co_siret": "35086629900026",
@@ -3276,7 +3289,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 252,
+    "co_id": 253,
     "co_business_name": "SANAPRA",
     "co_siren": "319243150",
     "co_siret": "31924315000038",
@@ -3289,7 +3302,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 253,
+    "co_id": 254,
     "co_business_name": "SARL DEHEE BONNABAUD",
     "co_siren": "419256185",
     "co_siret": "41925618500010",
@@ -3302,7 +3315,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 254,
+    "co_id": 255,
     "co_business_name": "SARL DEHEE GABET",
     "co_siren": "440266724",
     "co_siret": "44026672400010",
@@ -3315,7 +3328,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 255,
+    "co_id": 256,
     "co_business_name": "SARL DEHEE RIQUIER",
     "co_siren": "541720231",
     "co_siret": "54172023100029",
@@ -3328,7 +3341,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 256,
+    "co_id": 257,
     "co_business_name": "SARL FINET GOSSET",
     "co_siren": "780109757",
     "co_siret": "78010975700077",
@@ -3341,7 +3354,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 257,
+    "co_id": 258,
     "co_business_name": "SARL LITTORAL DECORATION",
     "co_siren": "824394001",
     "co_siret": "82439400100013",
@@ -3354,7 +3367,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 258,
+    "co_id": 259,
     "co_business_name": "SARL NORDECOR",
     "co_siren": "421246158",
     "co_siret": "42124615800032",
@@ -3367,7 +3380,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 259,
+    "co_id": 260,
     "co_business_name": "SAS ADIAL",
     "co_siren": "441698784",
     "co_siret": "44169878400044",
@@ -3380,7 +3393,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 260,
+    "co_id": 261,
     "co_business_name": "SAS DEHEE",
     "co_siren": "685722126",
     "co_siret": "68572212600065",
@@ -3393,7 +3406,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 261,
+    "co_id": 262,
     "co_business_name": "SCERT VINK FRANCE",
     "co_siren": "552146425",
     "co_siret": "55214642500178",
@@ -3406,7 +3419,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 262,
+    "co_id": 263,
     "co_business_name": "SCHMERSAL FRANCE",
     "co_siren": "67502781",
     "co_siret": "06750278100031",
@@ -3419,7 +3432,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 263,
+    "co_id": 264,
     "co_business_name": "SCI MC QALAR",
     "co_siren": "915357669",
     "co_siret": "91535766900018",
@@ -3432,7 +3445,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 264,
+    "co_id": 265,
     "co_business_name": "SCX DESIGN",
     "co_siren": "824606891",
     "co_siret": "82460689100029",
@@ -3445,7 +3458,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 265,
+    "co_id": 266,
     "co_business_name": "SEBEMEX",
     "co_siren": "306917352",
     "co_siret": "30691735200149",
@@ -3458,7 +3471,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 266,
+    "co_id": 267,
     "co_business_name": "SECA ARESIA-ST-SOUPPLETS",
     "co_siren": "312536642",
     "co_siret": "31253664200035",
@@ -3471,20 +3484,20 @@
     "fk_us": 0
   },
   {
-    "co_id": 267,
+    "co_id": 268,
     "co_business_name": "SELARL PHARMACIE CENTRALE",
     "co_siren": "750240699",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "75024069900017",
+    "co_vat": "FR69750240699",
     "co_code_ent": "874173-6",
     "co_head_office_address": "5 RUE DU GENERAL DE GAULLE",
     "co_head_office_city": "PLOUAY",
     "co_head_office_postal_code": "56240",
-    "co_legal_form": null,
+    "co_legal_form": "SERL, soci\u00e9t\u00e9 d'exercice lib\u00e9ral \u00e0 responsabilit\u00e9 limit\u00e9e",
     "fk_us": 0
   },
   {
-    "co_id": 268,
+    "co_id": 269,
     "co_business_name": "SELARL PHARMACIE LAINE",
     "co_siren": "535310973",
     "co_siret": "53531097300016",
@@ -3497,7 +3510,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 269,
+    "co_id": 270,
     "co_business_name": "SELARL PHARMACIE ROCHEFORT",
     "co_siren": "442852984",
     "co_siret": "44285298400016",
@@ -3510,20 +3523,20 @@
     "fk_us": 0
   },
   {
-    "co_id": 270,
+    "co_id": 271,
     "co_business_name": "SELARL PHARMACIE RUBILLARD",
     "co_siren": "830290367",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "83029036700010",
+    "co_vat": "FR62830290367",
     "co_code_ent": "91051",
     "co_head_office_address": "80 AVENUE RUBILLARD",
     "co_head_office_city": "LE MANS",
     "co_head_office_postal_code": "72000",
-    "co_legal_form": null,
+    "co_legal_form": "SERL, soci\u00e9t\u00e9 d'exercice lib\u00e9ral \u00e0 responsabilit\u00e9 limit\u00e9e",
     "fk_us": 0
   },
   {
-    "co_id": 271,
+    "co_id": 272,
     "co_business_name": "SELECT PARE BRISE",
     "co_siren": "810912162",
     "co_siret": "81091216200015",
@@ -3536,7 +3549,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 272,
+    "co_id": 273,
     "co_business_name": "SEM BOUTEAU",
     "co_siren": "326507969",
     "co_siret": "32650796900029",
@@ -3549,7 +3562,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 273,
+    "co_id": 274,
     "co_business_name": "SERVIMAC CHEMILLE",
     "co_siren": "330739814",
     "co_siret": "33073981400011",
@@ -3562,7 +3575,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 274,
+    "co_id": 275,
     "co_business_name": "SFERACO",
     "co_siren": "338297229",
     "co_siret": "33829722900027",
@@ -3575,7 +3588,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 275,
+    "co_id": 276,
     "co_business_name": "SIDAMO",
     "co_siren": "332566405",
     "co_siret": "33256640500046",
@@ -3588,7 +3601,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 276,
+    "co_id": 277,
     "co_business_name": "SIFAM",
     "co_siren": "395154081",
     "co_siret": "39515408100032",
@@ -3601,7 +3614,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 277,
+    "co_id": 278,
     "co_business_name": "SILAB",
     "co_siren": "330496043",
     "co_siret": "33049604300036",
@@ -3614,7 +3627,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 278,
+    "co_id": 279,
     "co_business_name": "SOCAH HYDRAULIQUE",
     "co_siren": "389654294",
     "co_siret": null,
@@ -3627,7 +3640,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 279,
+    "co_id": 280,
     "co_business_name": "SODASTREAM",
     "co_siren": "442427134",
     "co_siret": "44242713400030",
@@ -3640,7 +3653,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 280,
+    "co_id": 281,
     "co_business_name": "SODIEC",
     "co_siren": "403335458",
     "co_siret": null,
@@ -3653,7 +3666,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 281,
+    "co_id": 282,
     "co_business_name": "SODITEC SOCIETE DE DISTRIBUTION TECHNIQUE DU CAOUTCHOUC",
     "co_siren": "325039519",
     "co_siret": "32503951900047",
@@ -3666,20 +3679,20 @@
     "fk_us": 0
   },
   {
-    "co_id": 282,
+    "co_id": 283,
     "co_business_name": "SODITEK",
     "co_siren": "509103032",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siret": "50910303200017",
+    "co_vat": "FR70509103032",
     "co_code_ent": "674789",
     "co_head_office_address": "4 RUE DES FRERES LUMIERES",
     "co_head_office_city": "BRUMATH",
     "co_head_office_postal_code": "67170",
-    "co_legal_form": null,
+    "co_legal_form": "SARL, soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
     "fk_us": 0
   },
   {
-    "co_id": 283,
+    "co_id": 284,
     "co_business_name": "SOLDIS",
     "co_siren": "379039159",
     "co_siret": "37903915900015",
@@ -3692,7 +3705,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 284,
+    "co_id": 285,
     "co_business_name": "SOLYRO",
     "co_siren": "314136185",
     "co_siret": "31413618500035",
@@ -3705,7 +3718,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 285,
+    "co_id": 286,
     "co_business_name": "SOMATICO",
     "co_siren": "499503092",
     "co_siret": "49950309200078",
@@ -3718,7 +3731,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 286,
+    "co_id": 287,
     "co_business_name": "SOVEREP GROUP",
     "co_siren": "392382271",
     "co_siret": "39238227100071",
@@ -3731,7 +3744,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 287,
+    "co_id": 288,
     "co_business_name": "SP TRADING",
     "co_siren": "528596174",
     "co_siret": "52859617400029",
@@ -3744,7 +3757,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 288,
+    "co_id": 289,
     "co_business_name": "SPAMELEC",
     "co_siren": "592012827",
     "co_siret": "59201282700016",
@@ -3757,7 +3770,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 289,
+    "co_id": 290,
     "co_business_name": "SPHERE DISTRIBUTION",
     "co_siren": "789443322",
     "co_siret": "78944332200084",
@@ -3770,7 +3783,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 290,
+    "co_id": 291,
     "co_business_name": "SPRAY GUN IMPORT",
     "co_siren": "408481422",
     "co_siret": "40848142200025",
@@ -3783,7 +3796,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 291,
+    "co_id": 292,
     "co_business_name": "SUN & LUX",
     "co_siren": "441974094",
     "co_siret": "44197409400035",
@@ -3796,7 +3809,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 292,
+    "co_id": 293,
     "co_business_name": "SYFORM",
     "co_siren": "982132508",
     "co_siret": "98213250800010",
@@ -3809,7 +3822,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 293,
+    "co_id": 294,
     "co_business_name": "SYLVESTRE ET CIE (TOUT FAIRE)",
     "co_siren": "632620985",
     "co_siret": "63262098500010",
@@ -3822,7 +3835,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 294,
+    "co_id": 295,
     "co_business_name": "TECHMADOME TECH MAINTENANCE DES DOMES",
     "co_siren": "440446177",
     "co_siret": "44044617700022",
@@ -3835,7 +3848,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 295,
+    "co_id": 296,
     "co_business_name": "TECHNIC DIFFUSION",
     "co_siren": "400946604",
     "co_siret": "40094660400024",
@@ -3848,7 +3861,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 296,
+    "co_id": 297,
     "co_business_name": "TECHNOLOGIE SERVICES",
     "co_siren": "447548462",
     "co_siret": "44754846200020",
@@ -3861,7 +3874,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 297,
+    "co_id": 298,
     "co_business_name": "THERMADOR",
     "co_siren": "338292972",
     "co_siret": "33829297200019",
@@ -3874,7 +3887,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 298,
+    "co_id": 299,
     "co_business_name": "TRONICO",
     "co_siren": "383871746",
     "co_siret": "38387174600012",
@@ -3887,7 +3900,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 299,
+    "co_id": 300,
     "co_business_name": "TURBOSELF",
     "co_siren": "339704652",
     "co_siret": "33970465200074",
@@ -3900,7 +3913,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 300,
+    "co_id": 301,
     "co_business_name": "UDIREV",
     "co_siren": "692033731",
     "co_siret": "69203373100054",
@@ -3913,7 +3926,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 301,
+    "co_id": 302,
     "co_business_name": "V2V MATERIELS ET SERVICES MANUTENTION",
     "co_siren": "488527714",
     "co_siret": "48852771400015",
@@ -3926,7 +3939,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 302,
+    "co_id": 303,
     "co_business_name": "VAPOTEUR DISCOUNT ",
     "co_siren": "843206673",
     "co_siret": null,
@@ -3939,7 +3952,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 303,
+    "co_id": 304,
     "co_business_name": "VETO PHARMA",
     "co_siren": "324240605",
     "co_siret": "32424060500075",
@@ -3952,7 +3965,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 304,
+    "co_id": 305,
     "co_business_name": "VF CONFORT",
     "co_siren": "662820299",
     "co_siret": "66282029900029",
@@ -3965,7 +3978,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 305,
+    "co_id": 306,
     "co_business_name": "VOLTANEO",
     "co_siren": "831307301",
     "co_siret": "83130730100026",
@@ -3978,7 +3991,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 306,
+    "co_id": 307,
     "co_business_name": "WACKER NEUSON SAS",
     "co_siren": "964201438",
     "co_siret": "96420143800246",
@@ -3991,7 +4004,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 307,
+    "co_id": 308,
     "co_business_name": "WAHL FRANCE SAS",
     "co_siren": "791725021",
     "co_siret": "79172502100020",
@@ -4004,7 +4017,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 308,
+    "co_id": 309,
     "co_business_name": "WATERAIR",
     "co_siren": "440123487",
     "co_siret": "44012348700025",
@@ -4017,7 +4030,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 309,
+    "co_id": 310,
     "co_business_name": "WEFOLD BLOIS",
     "co_siren": "409218401",
     "co_siret": "40921840100035",
@@ -4030,7 +4043,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 310,
+    "co_id": 311,
     "co_business_name": "WESER",
     "co_siren": "654801026",
     "co_siret": "65480102600018",
@@ -4043,7 +4056,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 311,
+    "co_id": 312,
     "co_business_name": "WOLF GROUP FRANCE",
     "co_siren": "478644917",
     "co_siret": "47864491700039",
@@ -4056,7 +4069,7 @@
     "fk_us": 0
   },
   {
-    "co_id": 312,
+    "co_id": 313,
     "co_business_name": "WONDAY",
     "co_siren": "332539352",
     "co_siret": "33253935200093",
