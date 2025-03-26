@@ -1,7 +1,7 @@
-.venv
-.vscode
-.gitignore
-#*.sql
-.archive
-.archive/*
-.python-version
+*__pycache__
+data/archive
+__pycache__
+__pycache__/*
+*/__pycache__
+data
+data/*
