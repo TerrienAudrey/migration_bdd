@@ -1229,7 +1229,7 @@
     "or_denomination": "ASSOCIATION EMMAUS INDRE",
     "or_rna": "W362000177",
     "or_house_number": "",
-    "or_street": null,
+    "or_street": "",
     "or_postal_code": "36130",
     "or_city": "DEOLS",
     "or_id_address": 1369887.0,
@@ -1479,7 +1479,7 @@
     "or_denomination": "ASSOCIATION EMMAUS DE LA MAYENNE ET DU CASTELBRIANTAIS",
     "or_rna": "W531000459",
     "or_house_number": "",
-    "or_street": null,
+    "or_street": "LA CHEVALERIE",
     "or_postal_code": "53170",
     "or_city": "VILLIERS-CHARLEMAGNE",
     "or_id_address": 1369809.0,
@@ -1497,7 +1497,7 @@
     "origin_approvals": [],
     "positioning": [],
     "categories": [],
-    "or_additionnal_information": "LA CHEVALERIE"
+    "or_additionnal_information": ""
   },
   {
     "or_id": 60.0,
