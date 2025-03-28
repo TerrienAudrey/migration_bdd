@@ -1,16 +1,16 @@
 [
   {
     "co_business_name": "HENRY SCHEIN UK",
-    "co_siren": "02940919",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siren": "NFAKEUK10",
+    "co_siret": "SFAKEUK1000000",
+    "co_vat": "FR00NFAKEUK10",
     "co_legal_form": "SAS, société par actions simplifiée"
   },
   {
     "co_business_name": "HENRY SCHEIN ESP",
-    "co_siren": "B79684783",
-    "co_siret": null,
-    "co_vat": null,
+    "co_siren": "NFAKEES10",
+    "co_siret": "SFAKEES1000000",
+    "co_vat": "FR00NFAKEES10",
     "co_legal_form": "SAS, société par actions simplifiée"
   }
 ]

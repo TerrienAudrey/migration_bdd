@@ -201,5 +201,12 @@
     "co_siret": "38965429400021",
     "co_vat": "FR83389654294",
     "co_legal_form": "SAS, société par actions simplifiée"
+  },
+  {
+    "co_business_name": "FARGROUP",
+    "co_siren": "380590281",
+    "co_siret": "38059028100040",
+    "co_vat": "FR54380590281",
+    "co_legal_form": "SAS, société par actions simplifiée"
   }
 ]

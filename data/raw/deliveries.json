@@ -1,0 +1,4602 @@
+[
+  {
+    "id_ope_org": "20230221--006-001-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 350,
+    "de_date_delivery": "2023-03-01",
+    "fk_po": 0
+  },
+  {
+    "id_ope_org": "20230221--006-001-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 350,
+    "de_date_delivery": "2023-03-01",
+    "fk_po": 1
+  },
+  {
+    "id_ope_org": "20230221--006-001-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 350,
+    "de_date_delivery": "2023-03-01",
+    "fk_po": 2
+  },
+  {
+    "id_ope_org": "20230221--006-001-4",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 350,
+    "de_date_delivery": "2023-03-01",
+    "fk_po": 3
+  },
+  {
+    "id_ope_org": "20240311-153-103-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-04-25",
+    "fk_po": 4
+  },
+  {
+    "id_ope_org": "20230310--005-002-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 250,
+    "de_date_delivery": "2023-03-15",
+    "fk_po": 5
+  },
+  {
+    "id_ope_org": "20240315-164-096-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 347.5,
+    "de_date_delivery": "2024-07-17",
+    "fk_po": 163
+  },
+  {
+    "id_ope_org": "20230310--005-002-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 250,
+    "de_date_delivery": "2023-03-15",
+    "fk_po": 6
+  },
+  {
+    "id_ope_org": "20230408--001-006-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 500,
+    "de_date_delivery": "2023-04-13",
+    "fk_po": 7
+  },
+  {
+    "id_ope_org": "20240312-157-097-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-04-25",
+    "fk_po": 8
+  },
+  {
+    "id_ope_org": "20240705-335-0003-115-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-28",
+    "de_total_price": 480,
+    "de_date_delivery": "2024-12-03",
+    "fk_po": 278
+  },
+  {
+    "id_ope_org": "20240312-157-097-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-04-10",
+    "fk_po": 9
+  },
+  {
+    "id_ope_org": "20240423-225-139-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 112,
+    "de_date_delivery": "2024-05-27",
+    "fk_po": 202
+  },
+  {
+    "id_ope_org": "20240312-157-097-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-04-25",
+    "fk_po": 10
+  },
+  {
+    "id_ope_org": "20240312-157-097-4",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-04-10",
+    "fk_po": 11
+  },
+  {
+    "id_ope_org": "20240711-341-253-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-19",
+    "de_total_price": 485,
+    "de_date_delivery": "2024-09-20",
+    "fk_po": 281
+  },
+  {
+    "id_ope_org": "20230422--004-003-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 500,
+    "de_date_delivery": "2023-04-26",
+    "fk_po": 12
+  },
+  {
+    "id_ope_org": "20230510--003-004-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-05-17",
+    "fk_po": 13
+  },
+  {
+    "id_ope_org": "20230510--003-004-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-05-23",
+    "fk_po": 14
+  },
+  {
+    "id_ope_org": "20230510--003-004-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-05-23",
+    "fk_po": 15
+  },
+  {
+    "id_ope_org": "20230512-000-007-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-05-26",
+    "fk_po": 16
+  },
+  {
+    "id_ope_org": "20240710-340-229-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-12",
+    "de_total_price": 188,
+    "de_date_delivery": "2024-11-13",
+    "fk_po": 280
+  },
+  {
+    "id_ope_org": "20230512-000-007-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-05-26",
+    "fk_po": 17
+  },
+  {
+    "id_ope_org": "20230515--002-005-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-05-23",
+    "fk_po": 18
+  },
+  {
+    "id_ope_org": "20230527-001-008-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 215,
+    "de_date_delivery": "2023-06-13",
+    "fk_po": 19
+  },
+  {
+    "id_ope_org": "20230527-001-008-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 215,
+    "de_date_delivery": "2023-06-13",
+    "fk_po": 20
+  },
+  {
+    "id_ope_org": "20230527-002-009-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 215,
+    "de_date_delivery": "2023-06-13",
+    "fk_po": 21
+  },
+  {
+    "id_ope_org": "20240820-403-250-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-04",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-04",
+    "fk_po": 24
+  },
+  {
+    "id_ope_org": "20230527-003-010-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 215,
+    "de_date_delivery": "2023-06-13",
+    "fk_po": 22
+  },
+  {
+    "id_ope_org": "20240820-403-250-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-09-05",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-05",
+    "fk_po": 25
+  },
+  {
+    "id_ope_org": "20230527-003-010-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 215,
+    "de_date_delivery": "2023-06-13",
+    "fk_po": 23
+  },
+  {
+    "id_ope_org": "20240730-378-235-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 195,
+    "de_date_delivery": "2024-08-06",
+    "fk_po": 307
+  },
+  {
+    "id_ope_org": "20240809-395-241-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 486,
+    "de_date_delivery": "2024-12-16",
+    "fk_po": 316
+  },
+  {
+    "id_ope_org": "20230605-005-011-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 215,
+    "de_date_delivery": "2023-06-13",
+    "fk_po": 26
+  },
+  {
+    "id_ope_org": "20230609-006-012-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-06-22",
+    "fk_po": 27
+  },
+  {
+    "id_ope_org": "20230629-008-013-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-09-15",
+    "fk_po": 28
+  },
+  {
+    "id_ope_org": "20231213-083-050-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-01-03",
+    "fk_po": 102
+  },
+  {
+    "id_ope_org": "20230629-008-013-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-09-15",
+    "fk_po": 29
+  },
+  {
+    "id_ope_org": "20240923-442-283-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-03",
+    "de_total_price": 1000,
+    "de_date_delivery": "2024-10-04",
+    "fk_po": 216
+  },
+  {
+    "id_ope_org": "20230629-008-013-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-09-15",
+    "fk_po": 30
+  },
+  {
+    "id_ope_org": "20230629-009-015-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-07-05",
+    "fk_po": 31
+  },
+  {
+    "id_ope_org": "20241031-0006-47-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-11",
+    "de_total_price": 155,
+    "de_date_delivery": "2024-12-11",
+    "fk_po": 32
+  },
+  {
+    "id_ope_org": "20241015-0005-41-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-24",
+    "de_total_price": 639,
+    "de_date_delivery": "2024-10-29",
+    "fk_po": 220
+  },
+  {
+    "id_ope_org": "20230901-013-014-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-02-01",
+    "fk_po": 33
+  },
+  {
+    "id_ope_org": "20241028-0005-43-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-26",
+    "de_total_price": 219,
+    "de_date_delivery": "2024-11-27",
+    "fk_po": 224
+  },
+  {
+    "id_ope_org": "20230901-013-014-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-02-01",
+    "fk_po": 34
+  },
+  {
+    "id_ope_org": "20230921-017-017-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-23",
+    "fk_po": 35
+  },
+  {
+    "id_ope_org": "20240619-311-183-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-06-25",
+    "fk_po": 261
+  },
+  {
+    "id_ope_org": "20230921-017-017-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-24",
+    "fk_po": 36
+  },
+  {
+    "id_ope_org": "20241018-0011-9-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-18",
+    "de_total_price": 262,
+    "de_date_delivery": "2024-12-24",
+    "fk_po": 37
+  },
+  {
+    "id_ope_org": "20230927-142-199-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-07-01",
+    "de_total_price": 325,
+    "de_date_delivery": "2024-07-01",
+    "fk_po": 38
+  },
+  {
+    "id_ope_org": "20250128-0008-48-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-18",
+    "de_total_price": 378,
+    "de_date_delivery": "2025-02-20",
+    "fk_po": 299
+  },
+  {
+    "id_ope_org": "20230928-019-016-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-26",
+    "fk_po": 39
+  },
+  {
+    "id_ope_org": "20230928-019-016-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-26",
+    "fk_po": 40
+  },
+  {
+    "id_ope_org": "20230928-019-016-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-26",
+    "fk_po": 41
+  },
+  {
+    "id_ope_org": "20250211-0011-45-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-02-20",
+    "de_total_price": null,
+    "de_date_delivery": "2025-02-24",
+    "fk_po": 42
+  },
+  {
+    "id_ope_org": "20230929-020-019-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-13",
+    "fk_po": 43
+  },
+  {
+    "id_ope_org": "20231005-022-043-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-15",
+    "fk_po": 44
+  },
+  {
+    "id_ope_org": "20231018-033-039-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 150,
+    "de_date_delivery": "2023-12-08",
+    "fk_po": 55
+  },
+  {
+    "id_ope_org": "20231010-025-020-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 260,
+    "de_date_delivery": "2023-10-17",
+    "fk_po": 45
+  },
+  {
+    "id_ope_org": "20241023-0006-44-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-13",
+    "de_total_price": 710,
+    "de_date_delivery": "2024-12-16",
+    "fk_po": 110
+  },
+  {
+    "id_ope_org": "20241205-0008-23-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-01-20",
+    "de_total_price": 345,
+    "de_date_delivery": "2025-01-21",
+    "fk_po": 46
+  },
+  {
+    "id_ope_org": "20231016-028-031-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-08",
+    "fk_po": 47
+  },
+  {
+    "id_ope_org": "20240227-146-084-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 1000,
+    "de_date_delivery": "2024-04-11",
+    "fk_po": 152
+  },
+  {
+    "id_ope_org": "20231017-029-021-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-27",
+    "fk_po": 48
+  },
+  {
+    "id_ope_org": "20231017-029-021-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-27",
+    "fk_po": 49
+  },
+  {
+    "id_ope_org": "20240806-392-238-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-08-29",
+    "de_total_price": 246,
+    "de_date_delivery": "2024-08-29",
+    "fk_po": 314
+  },
+  {
+    "id_ope_org": "20231017-030-022-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-27",
+    "fk_po": 50
+  },
+  {
+    "id_ope_org": "20231017-030-022-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-27",
+    "fk_po": 51
+  },
+  {
+    "id_ope_org": "20231017-031-023-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-27",
+    "fk_po": 52
+  },
+  {
+    "id_ope_org": "20231017-031-023-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-10-27",
+    "fk_po": 53
+  },
+  {
+    "id_ope_org": "20250123-0008-41-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-03",
+    "de_total_price": 82,
+    "de_date_delivery": "2025-02-04",
+    "fk_po": 54
+  },
+  {
+    "id_ope_org": "20240611-292-216-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-08-08",
+    "fk_po": 247
+  },
+  {
+    "id_ope_org": "20231026-035-024-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-11-08",
+    "fk_po": 56
+  },
+  {
+    "id_ope_org": "20231026-035-024-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-11-09",
+    "fk_po": 57
+  },
+  {
+    "id_ope_org": "20240326-181-107-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 240,
+    "de_date_delivery": "2024-04-19",
+    "fk_po": 170
+  },
+  {
+    "id_ope_org": "20250130-0008-50-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-03",
+    "de_total_price": 252,
+    "de_date_delivery": "2025-02-14",
+    "fk_po": 58
+  },
+  {
+    "id_ope_org": "20231108-037-025-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-11-16",
+    "fk_po": 59
+  },
+  {
+    "id_ope_org": "20231110-040-030-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-20",
+    "fk_po": 60
+  },
+  {
+    "id_ope_org": "20231110-040-030-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-19",
+    "fk_po": 61
+  },
+  {
+    "id_ope_org": "20240521-262-159-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 232,
+    "de_date_delivery": "2024-05-28",
+    "fk_po": 227
+  },
+  {
+    "id_ope_org": "20231110-040-030-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-19",
+    "fk_po": 62
+  },
+  {
+    "id_ope_org": "20240531-277-172-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 420.73,
+    "de_date_delivery": "2024-06-06",
+    "fk_po": 236
+  },
+  {
+    "id_ope_org": "20231110-040-030-4",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-15",
+    "fk_po": 63
+  },
+  {
+    "id_ope_org": "20240701-330-207-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-07-09",
+    "de_total_price": 245,
+    "de_date_delivery": "2024-07-09",
+    "fk_po": 274
+  },
+  {
+    "id_ope_org": "20240125-106-102-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 360,
+    "de_date_delivery": "2024-04-08",
+    "fk_po": 64
+  },
+  {
+    "id_ope_org": "20240410-195-119-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 197,
+    "de_date_delivery": "2024-04-26",
+    "fk_po": 181
+  },
+  {
+    "id_ope_org": "20231115-042-026-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 120,
+    "de_date_delivery": "2023-11-23",
+    "fk_po": 65
+  },
+  {
+    "id_ope_org": "20240619-309-184-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 192,
+    "de_date_delivery": "2024-07-25",
+    "fk_po": 66
+  },
+  {
+    "id_ope_org": "20240802-388-252-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-09-04",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-04",
+    "fk_po": 311
+  },
+  {
+    "id_ope_org": "20231120-047-029-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-12",
+    "fk_po": 67
+  },
+  {
+    "id_ope_org": "20231120-049-032-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-22",
+    "fk_po": 68
+  },
+  {
+    "id_ope_org": "20231121-050-042-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2023-12-20",
+    "fk_po": 69
+  },
+  {
+    "id_ope_org": "20231121-050-042-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2023-12-20",
+    "fk_po": 70
+  },
+  {
+    "id_ope_org": "20231124-052-035-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-01-18",
+    "fk_po": 71
+  },
+  {
+    "id_ope_org": "20250121-0011-35-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-26",
+    "de_total_price": 285,
+    "de_date_delivery": "2025-02-27",
+    "fk_po": 72
+  },
+  {
+    "id_ope_org": "20240122-101-066-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-03-15",
+    "fk_po": 116
+  },
+  {
+    "id_ope_org": "20231124-053-037-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-11",
+    "fk_po": 73
+  },
+  {
+    "id_ope_org": "20231127-057-028-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-01-30",
+    "fk_po": 74
+  },
+  {
+    "id_ope_org": "20231130-061-040-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 224,
+    "de_date_delivery": "2023-12-13",
+    "fk_po": 75
+  },
+  {
+    "id_ope_org": "20240624-320-193-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-04",
+    "de_total_price": 485,
+    "de_date_delivery": "2024-07-04",
+    "fk_po": 76
+  },
+  {
+    "id_ope_org": "20231201-063-033-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 210,
+    "de_date_delivery": "2023-12-13",
+    "fk_po": 77
+  },
+  {
+    "id_ope_org": "20240430-240-150-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 135,
+    "de_date_delivery": "2024-05-16",
+    "fk_po": 212
+  },
+  {
+    "id_ope_org": "20231204-064-038-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-21",
+    "fk_po": 78
+  },
+  {
+    "id_ope_org": "20240516-257-160-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 248,
+    "de_date_delivery": "2024-06-03",
+    "fk_po": 225
+  },
+  {
+    "id_ope_org": "20231205-067-034-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-21",
+    "fk_po": 79
+  },
+  {
+    "id_ope_org": "20240709-337-212-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-15",
+    "de_total_price": 190,
+    "de_date_delivery": "2024-07-16",
+    "fk_po": 279
+  },
+  {
+    "id_ope_org": "20231205-068-036-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 160,
+    "de_date_delivery": "2023-12-10",
+    "fk_po": 80
+  },
+  {
+    "id_ope_org": "20231207-069-056-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2023-12-22",
+    "fk_po": 81
+  },
+  {
+    "id_ope_org": "20231207-069-056-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-01-08",
+    "fk_po": 82
+  },
+  {
+    "id_ope_org": "20240305-136-088-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-03-13",
+    "fk_po": 155
+  },
+  {
+    "id_ope_org": "20231207-069-056-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2023-12-22",
+    "fk_po": 83
+  },
+  {
+    "id_ope_org": "20240712-342-214-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 275,
+    "de_date_delivery": "2024-08-06",
+    "fk_po": 235
+  },
+  {
+    "id_ope_org": "20231207-069-056-4",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2023-12-22",
+    "fk_po": 84
+  },
+  {
+    "id_ope_org": "20240916-429-275-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-30",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-31",
+    "fk_po": 85
+  },
+  {
+    "id_ope_org": "20231207-071-041-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2023-12-18",
+    "fk_po": 86
+  },
+  {
+    "id_ope_org": "20231208-073-044-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-02-08",
+    "fk_po": 87
+  },
+  {
+    "id_ope_org": "20240226-098-089-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-13",
+    "fk_po": 151
+  },
+  {
+    "id_ope_org": "20240607-286-179-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-06-14",
+    "fk_po": 88
+  },
+  {
+    "id_ope_org": "20240412-199-122-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-13",
+    "fk_po": 183
+  },
+  {
+    "id_ope_org": "20231210-026-027-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-05",
+    "fk_po": 89
+  },
+  {
+    "id_ope_org": "20231210-026-027-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-05",
+    "fk_po": 90
+  },
+  {
+    "id_ope_org": "20240430-241-147-1",
+    "prise_en_charge_transport": "0",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-13",
+    "fk_po": 213
+  },
+  {
+    "id_ope_org": "20231211-074-051-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2023-12-21",
+    "fk_po": 91
+  },
+  {
+    "id_ope_org": "20240501-242-148-1",
+    "prise_en_charge_transport": "0",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-13",
+    "fk_po": 214
+  },
+  {
+    "id_ope_org": "20240619-310-185-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-07-04",
+    "fk_po": 92
+  },
+  {
+    "id_ope_org": "20231211-075-058-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 514.4,
+    "de_date_delivery": "2024-01-18",
+    "fk_po": 93
+  },
+  {
+    "id_ope_org": "20240517-260-157-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-13",
+    "fk_po": 226
+  },
+  {
+    "id_ope_org": "20231211-075-058-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 514.4,
+    "de_date_delivery": "2024-01-23",
+    "fk_po": 94
+  },
+  {
+    "id_ope_org": "20231211-075-058-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 514.4,
+    "de_date_delivery": "2024-01-22",
+    "fk_po": 95
+  },
+  {
+    "id_ope_org": "20231211-076-046-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-01-16",
+    "fk_po": 96
+  },
+  {
+    "id_ope_org": "20240418-216-131-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 32.82,
+    "de_date_delivery": "2024-04-25",
+    "fk_po": 97
+  },
+  {
+    "id_ope_org": "20231211-077-048-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 300,
+    "de_date_delivery": "2024-01-11",
+    "fk_po": 98
+  },
+  {
+    "id_ope_org": "20240625-324-200-1",
+    "prise_en_charge_transport": "0",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-12",
+    "fk_po": 270
+  },
+  {
+    "id_ope_org": "20231212-078-047-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2023-12-14",
+    "fk_po": 99
+  },
+  {
+    "id_ope_org": "20240214-127-073-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-02-28",
+    "de_total_price": 210,
+    "de_date_delivery": "2024-02-28",
+    "fk_po": 140
+  },
+  {
+    "id_ope_org": "20231212-081-049-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-02-02",
+    "fk_po": 100
+  },
+  {
+    "id_ope_org": "20231213-082-052-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-01-02",
+    "fk_po": 101
+  },
+  {
+    "id_ope_org": "20240313-162-092-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-04-03",
+    "de_total_price": 190,
+    "de_date_delivery": "2024-04-03",
+    "fk_po": 162
+  },
+  {
+    "id_ope_org": "20231215-084-053-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-01-02",
+    "fk_po": 103
+  },
+  {
+    "id_ope_org": "20240415-202-123-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-05-14",
+    "de_total_price": 170,
+    "de_date_delivery": "2024-05-14",
+    "fk_po": 185
+  },
+  {
+    "id_ope_org": "20231218-086-055-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 460,
+    "de_date_delivery": "2024-02-29",
+    "fk_po": 104
+  },
+  {
+    "id_ope_org": "20241113-0011-12-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-24",
+    "de_total_price": 157,
+    "de_date_delivery": "2024-12-24",
+    "fk_po": 105
+  },
+  {
+    "id_ope_org": "20240516-256-156-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-05-31",
+    "de_total_price": 189,
+    "de_date_delivery": "2024-05-31",
+    "fk_po": 223
+  },
+  {
+    "id_ope_org": "20231219-087-054-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-01-11",
+    "fk_po": 106
+  },
+  {
+    "id_ope_org": "20231221-089-057-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-02-27",
+    "fk_po": 107
+  },
+  {
+    "id_ope_org": "20240613-297-180-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-06-26",
+    "de_total_price": 230,
+    "de_date_delivery": "2024-06-21",
+    "fk_po": 250
+  },
+  {
+    "id_ope_org": "20231222-090-061-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 230,
+    "de_date_delivery": "2024-01-18",
+    "fk_po": 108
+  },
+  {
+    "id_ope_org": "20231229-091-059-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 215,
+    "de_date_delivery": "2024-01-08",
+    "fk_po": 109
+  },
+  {
+    "id_ope_org": "20240718-351-221-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-08-09",
+    "de_total_price": 439,
+    "de_date_delivery": "2024-08-09",
+    "fk_po": 286
+  },
+  {
+    "id_ope_org": "20240108-094-064-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 260,
+    "de_date_delivery": "2024-02-21",
+    "fk_po": 111
+  },
+  {
+    "id_ope_org": "20240109-095-060-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 328,
+    "de_date_delivery": "2024-01-18",
+    "fk_po": 112
+  },
+  {
+    "id_ope_org": "20240112-097-062-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 337,
+    "de_date_delivery": "2024-03-15",
+    "fk_po": 113
+  },
+  {
+    "id_ope_org": "20240605-279-174-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 365,
+    "de_date_delivery": "2024-06-20",
+    "fk_po": 238
+  },
+  {
+    "id_ope_org": "20240117-0004-110-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-30",
+    "de_total_price": 335,
+    "de_date_delivery": "2025-01-31",
+    "fk_po": 114
+  },
+  {
+    "id_ope_org": "20240122-100-063-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 401.18,
+    "de_date_delivery": "2024-01-25",
+    "fk_po": 115
+  },
+  {
+    "id_ope_org": "20240617-305-190-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-06",
+    "de_total_price": 592,
+    "de_date_delivery": "2024-11-07",
+    "fk_po": 257
+  },
+  {
+    "id_ope_org": "20240719-354-224-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-01",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-08-01",
+    "fk_po": 117
+  },
+  {
+    "id_ope_org": "20240129-108-068-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 260,
+    "de_date_delivery": "2024-03-21",
+    "fk_po": 118
+  },
+  {
+    "id_ope_org": "20240129-144-146-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 295,
+    "de_date_delivery": "2024-05-31",
+    "fk_po": 119
+  },
+  {
+    "id_ope_org": "20240923-440-281-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-10",
+    "de_total_price": 452,
+    "de_date_delivery": "2024-10-11",
+    "fk_po": 120
+  },
+  {
+    "id_ope_org": "20240201-112-067-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 490,
+    "de_date_delivery": "2024-02-19",
+    "fk_po": 123
+  },
+  {
+    "id_ope_org": "20240131-110-082-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 268,
+    "de_date_delivery": "2024-05-02",
+    "fk_po": 121
+  },
+  {
+    "id_ope_org": "20240131-145-108-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 115,
+    "de_date_delivery": "2024-04-16",
+    "fk_po": 122
+  },
+  {
+    "id_ope_org": "20240409-192-118-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 730,
+    "de_date_delivery": "2024-05-30",
+    "fk_po": 168
+  },
+  {
+    "id_ope_org": "20240201-114-078-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 2960,
+    "de_date_delivery": "2024-05-15",
+    "fk_po": 124
+  },
+  {
+    "id_ope_org": "20240412-198-120-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 190,
+    "de_date_delivery": "2024-05-30",
+    "fk_po": 173
+  },
+  {
+    "id_ope_org": "20240206-115-072-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 31,
+    "de_date_delivery": "2024-02-28",
+    "fk_po": 125
+  },
+  {
+    "id_ope_org": "20240206-116-069-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-02-21",
+    "fk_po": 126
+  },
+  {
+    "id_ope_org": "20240923-441-284-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-06",
+    "de_total_price": 480,
+    "de_date_delivery": "2024-10-07",
+    "fk_po": 176
+  },
+  {
+    "id_ope_org": "20240531-276-171-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-06-12",
+    "fk_po": 127
+  },
+  {
+    "id_ope_org": "20240209-120-085-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 498,
+    "de_date_delivery": "2024-05-02",
+    "fk_po": 128
+  },
+  {
+    "id_ope_org": "20240612-294-272-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-01",
+    "de_total_price": 175,
+    "de_date_delivery": "2024-10-03",
+    "fk_po": 129
+  },
+  {
+    "id_ope_org": "20240626-323-202-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-07-11",
+    "de_total_price": 230,
+    "de_date_delivery": "2024-07-12",
+    "fk_po": 271
+  },
+  {
+    "id_ope_org": "20240209-148-095-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 4980,
+    "de_date_delivery": "2024-06-05",
+    "fk_po": 130
+  },
+  {
+    "id_ope_org": "20240209-148-095-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-06-04",
+    "de_total_price": 4980,
+    "de_date_delivery": "2024-06-05",
+    "fk_po": 131
+  },
+  {
+    "id_ope_org": "20240212-121-071-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-02-29",
+    "fk_po": 132
+  },
+  {
+    "id_ope_org": "20241127-0005-56-1",
+    "prise_en_charge_transport": null,
+    "de_date_removal": "2025-01-23",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-23",
+    "fk_po": 133
+  },
+  {
+    "id_ope_org": "20240212-122-081-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 3184,
+    "de_date_delivery": "2024-03-26",
+    "fk_po": 134
+  },
+  {
+    "id_ope_org": "20240212-122-081-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 3184,
+    "de_date_delivery": "2024-03-28",
+    "fk_po": 135
+  },
+  {
+    "id_ope_org": "20240212-122-081-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 3184,
+    "de_date_delivery": "2024-03-27",
+    "fk_po": 136
+  },
+  {
+    "id_ope_org": "20240730-377-234-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-08-06",
+    "de_total_price": 200,
+    "de_date_delivery": "2024-08-06",
+    "fk_po": 306
+  },
+  {
+    "id_ope_org": "20240212-129-101-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 360,
+    "de_date_delivery": "2024-04-11",
+    "fk_po": 137
+  },
+  {
+    "id_ope_org": "20240213-126-086-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 832.74,
+    "de_date_delivery": "2024-03-08",
+    "fk_po": 138
+  },
+  {
+    "id_ope_org": "20250205-0008-52-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-19",
+    "de_total_price": 324,
+    "de_date_delivery": "2025-02-25",
+    "fk_po": 139
+  },
+  {
+    "id_ope_org": "20240216-130-074-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-02-21",
+    "fk_po": 141
+  },
+  {
+    "id_ope_org": "20240219-132-075-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 240,
+    "de_date_delivery": "2024-03-04",
+    "fk_po": 142
+  },
+  {
+    "id_ope_org": "20250109-0011-31-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-27",
+    "de_total_price": 384.5,
+    "de_date_delivery": "2025-01-28",
+    "fk_po": 303
+  },
+  {
+    "id_ope_org": "20250211-0008-58-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-20",
+    "de_total_price": 262,
+    "de_date_delivery": "2025-02-25",
+    "fk_po": 143
+  },
+  {
+    "id_ope_org": "20250109-0011-31-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-27",
+    "de_total_price": 384.5,
+    "de_date_delivery": "2025-01-27",
+    "fk_po": 304
+  },
+  {
+    "id_ope_org": "20240221-137-077-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-02-27",
+    "fk_po": 144
+  },
+  {
+    "id_ope_org": "20240222-140-080-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-03-13",
+    "fk_po": 145
+  },
+  {
+    "id_ope_org": "20240223-143-087-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 41,
+    "de_date_delivery": "2024-03-15",
+    "fk_po": 146
+  },
+  {
+    "id_ope_org": "20241023-0007-33-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-15",
+    "de_total_price": 2581.5,
+    "de_date_delivery": "2024-10-21",
+    "fk_po": 147
+  },
+  {
+    "id_ope_org": "20241023-0007-33-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 2581.5,
+    "de_date_delivery": "2024-11-18",
+    "fk_po": 148
+  },
+  {
+    "id_ope_org": "20241023-0007-33-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-04",
+    "de_total_price": 2581.5,
+    "de_date_delivery": "2024-11-04",
+    "fk_po": 149
+  },
+  {
+    "id_ope_org": "20241023-0007-33-4",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-14",
+    "de_total_price": 2581.5,
+    "de_date_delivery": "2024-11-15",
+    "fk_po": 150
+  },
+  {
+    "id_ope_org": "20240312-159-094-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 360,
+    "de_date_delivery": "2024-03-29",
+    "fk_po": 159
+  },
+  {
+    "id_ope_org": "20240613-300-187-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 165,
+    "de_date_delivery": "2024-07-26",
+    "fk_po": 253
+  },
+  {
+    "id_ope_org": "20240228-147-083-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 287,
+    "de_date_delivery": "2024-03-27",
+    "fk_po": 153
+  },
+  {
+    "id_ope_org": "20240730-376-256-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-22",
+    "de_total_price": 159,
+    "de_date_delivery": "2024-10-23",
+    "fk_po": 305
+  },
+  {
+    "id_ope_org": "20240305-123-112-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 90.91,
+    "de_date_delivery": "2024-04-22",
+    "fk_po": 154
+  },
+  {
+    "id_ope_org": "20240418-219-169-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 1475,
+    "de_date_delivery": "2024-08-07",
+    "fk_po": 197
+  },
+  {
+    "id_ope_org": "20240308-151-099-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 350,
+    "de_date_delivery": "2024-03-27",
+    "fk_po": 156
+  },
+  {
+    "id_ope_org": "20240418-219-169-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 1475,
+    "de_date_delivery": "2024-08-07",
+    "fk_po": 198
+  },
+  {
+    "id_ope_org": "20240312-156-091-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 162,
+    "de_date_delivery": "2024-03-29",
+    "fk_po": 157
+  },
+  {
+    "id_ope_org": "20250128-0014-30-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-03",
+    "de_total_price": 560,
+    "de_date_delivery": "2025-03-04",
+    "fk_po": 158
+  },
+  {
+    "id_ope_org": "20240424-232-140-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 225,
+    "de_date_delivery": "2024-05-13",
+    "fk_po": 206
+  },
+  {
+    "id_ope_org": "20240313-160-090-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-05-14",
+    "de_total_price": 205,
+    "de_date_delivery": "2024-05-15",
+    "fk_po": 160
+  },
+  {
+    "id_ope_org": "20240313-161-093-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 280,
+    "de_date_delivery": "2024-03-29",
+    "fk_po": 161
+  },
+  {
+    "id_ope_org": "20240610-291-192-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-07-15",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-07-17",
+    "fk_po": 246
+  },
+  {
+    "id_ope_org": "20240319-169-098-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 120,
+    "de_date_delivery": "2024-04-09",
+    "fk_po": 164
+  },
+  {
+    "id_ope_org": "20240521-263-166-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-07-01",
+    "fk_po": 228
+  },
+  {
+    "id_ope_org": "20240319-171-105-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 152,
+    "de_date_delivery": "2024-04-17",
+    "fk_po": 165
+  },
+  {
+    "id_ope_org": "20240320-172-110-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 350,
+    "de_date_delivery": "2024-04-15",
+    "fk_po": 166
+  },
+  {
+    "id_ope_org": "20240322-174-109-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-07-24",
+    "fk_po": 167
+  },
+  {
+    "id_ope_org": "20240325-178-104-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 312,
+    "de_date_delivery": "2024-04-04",
+    "fk_po": 169
+  },
+  {
+    "id_ope_org": "20240327-182-125-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-05-27",
+    "de_total_price": 1550,
+    "de_date_delivery": "2024-05-27",
+    "fk_po": 171
+  },
+  {
+    "id_ope_org": "20240410-194-121-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 395,
+    "de_date_delivery": "2024-08-01",
+    "fk_po": 180
+  },
+  {
+    "id_ope_org": "20240328-185-113-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 44.14,
+    "de_date_delivery": "2024-04-22",
+    "fk_po": 172
+  },
+  {
+    "id_ope_org": "20240329-186-111-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 270,
+    "de_date_delivery": "2024-04-08",
+    "fk_po": 174
+  },
+  {
+    "id_ope_org": "20240403-187-114-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 150,
+    "de_date_delivery": "2024-04-24",
+    "fk_po": 175
+  },
+  {
+    "id_ope_org": "20240723-361-227-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-08",
+    "de_total_price": 1449,
+    "de_date_delivery": "2024-08-25",
+    "fk_po": 292
+  },
+  {
+    "id_ope_org": "20240408-191-117-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-04-23",
+    "fk_po": 177
+  },
+  {
+    "id_ope_org": "20240723-361-227-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-11",
+    "de_total_price": 1449,
+    "de_date_delivery": "2024-08-21",
+    "fk_po": 293
+  },
+  {
+    "id_ope_org": "20240705-336-222-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-09-26",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-26",
+    "fk_po": 178
+  },
+  {
+    "id_ope_org": "20240723-361-227-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-15",
+    "de_total_price": 1449,
+    "de_date_delivery": "2024-08-09",
+    "fk_po": 294
+  },
+  {
+    "id_ope_org": "20240410-193-225-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-08",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-08-09",
+    "fk_po": 179
+  },
+  {
+    "id_ope_org": "20240723-361-227-4",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-20",
+    "de_total_price": 1449,
+    "de_date_delivery": "2024-08-14",
+    "fk_po": 295
+  },
+  {
+    "id_ope_org": "20240723-361-227-5",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-25",
+    "de_total_price": 1449,
+    "de_date_delivery": "2024-08-08",
+    "fk_po": 296
+  },
+  {
+    "id_ope_org": "20240903-412-260-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-09-25",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-26",
+    "fk_po": 182
+  },
+  {
+    "id_ope_org": "20240412-200-133-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 121,
+    "de_date_delivery": "2024-05-30",
+    "fk_po": 184
+  },
+  {
+    "id_ope_org": "20240812-396-242-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-08-26",
+    "de_total_price": 505,
+    "de_date_delivery": "2024-08-27",
+    "fk_po": 318
+  },
+  {
+    "id_ope_org": "20240415-203-124-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 375,
+    "de_date_delivery": "2024-04-24",
+    "fk_po": 186
+  },
+  {
+    "id_ope_org": "20240926-453-0003-149-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-24",
+    "de_total_price": 245,
+    "de_date_delivery": "2024-10-25",
+    "fk_po": 187
+  },
+  {
+    "id_ope_org": "20240416-207-130-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 440,
+    "de_date_delivery": "2024-04-24",
+    "fk_po": 188
+  },
+  {
+    "id_ope_org": "20240417-208-127-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 165,
+    "de_date_delivery": "2024-05-16",
+    "fk_po": 189
+  },
+  {
+    "id_ope_org": "20241119-0008-15-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-05",
+    "de_total_price": 35.21,
+    "de_date_delivery": "2024-12-12",
+    "fk_po": 190
+  },
+  {
+    "id_ope_org": "20240417-209-128-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-05-16",
+    "fk_po": 191
+  },
+  {
+    "id_ope_org": "20250110-0008-36-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-05",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-12",
+    "fk_po": 192
+  },
+  {
+    "id_ope_org": "20240429-238-145-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 112,
+    "de_date_delivery": "2024-05-06",
+    "fk_po": 210
+  },
+  {
+    "id_ope_org": "20240417-212-136-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 192,
+    "de_date_delivery": "2024-05-07",
+    "fk_po": 193
+  },
+  {
+    "id_ope_org": "20250107-0014-19-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-20",
+    "de_total_price": 290,
+    "de_date_delivery": "2025-01-24",
+    "fk_po": 194
+  },
+  {
+    "id_ope_org": "20240524-270-188-1",
+    "prise_en_charge_transport": "0",
+    "de_date_removal": null,
+    "de_total_price": 844,
+    "de_date_delivery": "2024-08-13",
+    "fk_po": 233
+  },
+  {
+    "id_ope_org": "20240418-215-134-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": null,
+    "de_date_delivery": "2024-04-25",
+    "fk_po": 195
+  },
+  {
+    "id_ope_org": "20240418-218-137-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 350,
+    "de_date_delivery": "2024-05-16",
+    "fk_po": 196
+  },
+  {
+    "id_ope_org": "20250108-0011-30-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-13",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-20",
+    "fk_po": 282
+  },
+  {
+    "id_ope_org": "20241024-0009-3-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-12",
+    "de_total_price": 154,
+    "de_date_delivery": "2024-11-13",
+    "fk_po": 199
+  },
+  {
+    "id_ope_org": "20240422-223-163-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 165,
+    "de_date_delivery": "2024-07-17",
+    "fk_po": 200
+  },
+  {
+    "id_ope_org": "20240422-224-0003-81-1",
+    "prise_en_charge_transport": null,
+    "de_date_removal": "2024-12-05",
+    "de_total_price": 704,
+    "de_date_delivery": "2024-12-12",
+    "fk_po": 201
+  },
+  {
+    "id_ope_org": "20240624-318-195-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-06-27",
+    "de_total_price": 300,
+    "de_date_delivery": "2024-06-27",
+    "fk_po": 267
+  },
+  {
+    "id_ope_org": "20241202-0005-57-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 331,
+    "de_date_delivery": "2024-12-17",
+    "fk_po": 203
+  },
+  {
+    "id_ope_org": "20240424-226-138-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 232,
+    "de_date_delivery": "2024-05-16",
+    "fk_po": 204
+  },
+  {
+    "id_ope_org": "20240424-231-155-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 64,
+    "de_date_delivery": "2024-06-07",
+    "fk_po": 205
+  },
+  {
+    "id_ope_org": "20241204-0008-20-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-07",
+    "de_total_price": 274,
+    "de_date_delivery": "2025-01-08",
+    "fk_po": 297
+  },
+  {
+    "id_ope_org": "20241106-0005-46-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-19",
+    "de_total_price": 191,
+    "de_date_delivery": "2024-11-20",
+    "fk_po": 207
+  },
+  {
+    "id_ope_org": "20241024-0004-83-1",
+    "prise_en_charge_transport": "-",
+    "de_date_removal": "2024-11-07",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-07",
+    "fk_po": 277
+  },
+  {
+    "id_ope_org": "20240426-235-141-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 255,
+    "de_date_delivery": "2024-05-02",
+    "fk_po": 208
+  },
+  {
+    "id_ope_org": "20240426-236-143-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 310,
+    "de_date_delivery": "2024-05-16",
+    "fk_po": 209
+  },
+  {
+    "id_ope_org": "20240430-239-149-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 306.8,
+    "de_date_delivery": "2024-05-27",
+    "fk_po": 211
+  },
+  {
+    "id_ope_org": "20240502-243-151-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-05-29",
+    "de_total_price": 4230,
+    "de_date_delivery": "2024-05-30",
+    "fk_po": 215
+  },
+  {
+    "id_ope_org": "20240502-244-152-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 211,
+    "de_date_delivery": "2024-05-23",
+    "fk_po": 217
+  },
+  {
+    "id_ope_org": "20240502-245-161-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-06-04",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-06-04",
+    "fk_po": 218
+  },
+  {
+    "id_ope_org": "20240507-247-153-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 194,
+    "de_date_delivery": "2024-05-30",
+    "fk_po": 219
+  },
+  {
+    "id_ope_org": "20240515-254-165-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 284,
+    "de_date_delivery": "2024-06-04",
+    "fk_po": 221
+  },
+  {
+    "id_ope_org": "20240515-255-162-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 400,
+    "de_date_delivery": "2024-06-17",
+    "fk_po": 222
+  },
+  {
+    "id_ope_org": "20240805-391-237-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-08-22",
+    "de_total_price": 213.33,
+    "de_date_delivery": "2024-08-23",
+    "fk_po": 313
+  },
+  {
+    "id_ope_org": "20240731-382-254-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-03",
+    "de_total_price": 108,
+    "de_date_delivery": "2024-09-03",
+    "fk_po": 309
+  },
+  {
+    "id_ope_org": "20241122-0004-92-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-03",
+    "de_total_price": 472,
+    "de_date_delivery": "2024-12-04",
+    "fk_po": 229
+  },
+  {
+    "id_ope_org": "20240610-290-217-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-09",
+    "de_total_price": 264,
+    "de_date_delivery": "2024-12-10",
+    "fk_po": 245
+  },
+  {
+    "id_ope_org": "20240521-265-167-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-06-24",
+    "fk_po": 230
+  },
+  {
+    "id_ope_org": "20240523-267-168-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 239,
+    "de_date_delivery": "2024-06-26",
+    "fk_po": 231
+  },
+  {
+    "id_ope_org": "20240524-269-201-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-07-15",
+    "de_total_price": 259,
+    "de_date_delivery": "2024-07-15",
+    "fk_po": 232
+  },
+  {
+    "id_ope_org": "20240701-331-209-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-11",
+    "de_total_price": 565,
+    "de_date_delivery": "2024-07-12",
+    "fk_po": 275
+  },
+  {
+    "id_ope_org": "20240529-275-170-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 1165,
+    "de_date_delivery": "2024-06-13",
+    "fk_po": 234
+  },
+  {
+    "id_ope_org": "20240719-356-223-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-08-05",
+    "de_total_price": 489,
+    "de_date_delivery": "2024-08-06",
+    "fk_po": 289
+  },
+  {
+    "id_ope_org": "20240603-278-173-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 191,
+    "de_date_delivery": "2024-06-12",
+    "fk_po": 237
+  },
+  {
+    "id_ope_org": "20240605-281-175-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 365,
+    "de_date_delivery": "2024-06-21",
+    "fk_po": 239
+  },
+  {
+    "id_ope_org": "20250107-0014-22-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-19",
+    "de_total_price": 515,
+    "de_date_delivery": "2025-02-20",
+    "fk_po": 287
+  },
+  {
+    "id_ope_org": "20240606-282-182-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 450,
+    "de_date_delivery": "2024-07-18",
+    "fk_po": 240
+  },
+  {
+    "id_ope_org": "20250213-0014-41-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-20",
+    "de_total_price": 730,
+    "de_date_delivery": "2025-02-21",
+    "fk_po": 291
+  },
+  {
+    "id_ope_org": "20240606-283-191-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-04",
+    "de_total_price": 157,
+    "de_date_delivery": "2024-07-04",
+    "fk_po": 241
+  },
+  {
+    "id_ope_org": "20240607-284-176-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 157,
+    "de_date_delivery": "2024-06-20",
+    "fk_po": 242
+  },
+  {
+    "id_ope_org": "20240607-288-177-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-06-26",
+    "fk_po": 243
+  },
+  {
+    "id_ope_org": "20240607-289-178-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": null,
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-31",
+    "fk_po": 244
+  },
+  {
+    "id_ope_org": "20241112-0004-88-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-21",
+    "de_total_price": 217,
+    "de_date_delivery": "2024-11-22",
+    "fk_po": 248
+  },
+  {
+    "id_ope_org": "20240612-295-194-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-17",
+    "de_total_price": 391,
+    "de_date_delivery": "2024-07-19",
+    "fk_po": 249
+  },
+  {
+    "id_ope_org": "20240619-312-186-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 263.27,
+    "de_date_delivery": "2024-06-28",
+    "fk_po": 262
+  },
+  {
+    "id_ope_org": "20241126-0004-93-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-04",
+    "de_total_price": 203,
+    "de_date_delivery": "2024-12-05",
+    "fk_po": 251
+  },
+  {
+    "id_ope_org": "20240624-321-196-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-03",
+    "de_total_price": 247,
+    "de_date_delivery": "2024-07-03",
+    "fk_po": 269
+  },
+  {
+    "id_ope_org": "20240613-298-181-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 548,
+    "de_date_delivery": "2024-07-16",
+    "fk_po": 252
+  },
+  {
+    "id_ope_org": "20241104-0004-85-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-18",
+    "de_total_price": 630,
+    "de_date_delivery": "2024-11-18",
+    "fk_po": 263
+  },
+  {
+    "id_ope_org": "20240614-301-203-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-08-20",
+    "de_total_price": 2250,
+    "de_date_delivery": "2024-08-20",
+    "fk_po": 254
+  },
+  {
+    "id_ope_org": "20240624-319-211-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-10",
+    "de_total_price": 104,
+    "de_date_delivery": "2024-07-10",
+    "fk_po": 268
+  },
+  {
+    "id_ope_org": "20241212-0004-101-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-09",
+    "de_total_price": 413,
+    "de_date_delivery": "2025-01-13",
+    "fk_po": 255
+  },
+  {
+    "id_ope_org": "20240614-303-271-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-21",
+    "de_total_price": 957,
+    "de_date_delivery": "2024-10-21",
+    "fk_po": 256
+  },
+  {
+    "id_ope_org": "20240618-308-213-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": null,
+    "de_total_price": 210,
+    "de_date_delivery": "2024-07-31",
+    "fk_po": 258
+  },
+  {
+    "id_ope_org": "20250107-0004-108-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-31",
+    "de_total_price": 1365,
+    "de_date_delivery": "2025-02-21",
+    "fk_po": 259
+  },
+  {
+    "id_ope_org": "20250107-0004-108-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-13",
+    "de_total_price": 934,
+    "de_date_delivery": "2025-01-16",
+    "fk_po": 260
+  },
+  {
+    "id_ope_org": "20240717-349-219-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-08-13",
+    "de_total_price": 35.619999999999997,
+    "de_date_delivery": "2024-08-14",
+    "fk_po": 285
+  },
+  {
+    "id_ope_org": "20240619-313-197-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-07-09",
+    "de_total_price": 352,
+    "de_date_delivery": "2024-07-09",
+    "fk_po": 264
+  },
+  {
+    "id_ope_org": "20240620-316-198-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-09",
+    "de_total_price": 550,
+    "de_date_delivery": "2024-07-09",
+    "fk_po": 265
+  },
+  {
+    "id_ope_org": "20240620-316-198-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-09",
+    "de_total_price": 550,
+    "de_date_delivery": "2024-07-09",
+    "fk_po": 266
+  },
+  {
+    "id_ope_org": "20240626-325-204-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-07-15",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-07-16",
+    "fk_po": 272
+  },
+  {
+    "id_ope_org": "20240628-329-210-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-17",
+    "de_total_price": 520,
+    "de_date_delivery": "2024-09-17",
+    "fk_po": 273
+  },
+  {
+    "id_ope_org": "20240701-332-208-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-07-09",
+    "de_total_price": 650,
+    "de_date_delivery": "2024-07-09",
+    "fk_po": 276
+  },
+  {
+    "id_ope_org": "20240722-358-226-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-20",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-08-21",
+    "fk_po": 290
+  },
+  {
+    "id_ope_org": "20240716-347-218-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 500,
+    "de_date_delivery": "2024-08-10",
+    "fk_po": 283
+  },
+  {
+    "id_ope_org": "20240716-348-220-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": null,
+    "de_total_price": 197.5,
+    "de_date_delivery": "2024-07-31",
+    "fk_po": 284
+  },
+  {
+    "id_ope_org": "20240719-355-266-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-30",
+    "de_total_price": 286,
+    "de_date_delivery": "2024-10-02",
+    "fk_po": 288
+  },
+  {
+    "id_ope_org": "20240726-372-236-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-08-20",
+    "de_total_price": 22.5,
+    "de_date_delivery": "2024-08-20",
+    "fk_po": 300
+  },
+  {
+    "id_ope_org": "20240730-379-270-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-25",
+    "de_total_price": 149,
+    "de_date_delivery": "2024-09-26",
+    "fk_po": 308
+  },
+  {
+    "id_ope_org": "20240726-371-246-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-15",
+    "de_total_price": 350,
+    "de_date_delivery": "2024-10-16",
+    "fk_po": 298
+  },
+  {
+    "id_ope_org": "20240731-385-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-28",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-29",
+    "fk_po": 310
+  },
+  {
+    "id_ope_org": "20240726-373-231-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-26",
+    "de_total_price": 650,
+    "de_date_delivery": "2024-11-26",
+    "fk_po": 301
+  },
+  {
+    "id_ope_org": "20240726-374-232-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-02",
+    "de_total_price": 650,
+    "de_date_delivery": "2024-10-04",
+    "fk_po": 302
+  },
+  {
+    "id_ope_org": "20240807-393-239-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-29",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-08-30",
+    "fk_po": 315
+  },
+  {
+    "id_ope_org": "20240805-390-247-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-26",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-08-26",
+    "fk_po": 312
+  },
+  {
+    "id_ope_org": "20240812-397-243-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-08-21",
+    "de_total_price": 350,
+    "de_date_delivery": "2024-08-21",
+    "fk_po": 319
+  },
+  {
+    "id_ope_org": "20241022-0007-29-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-05",
+    "de_total_price": 169,
+    "de_date_delivery": "2024-11-06",
+    "fk_po": 317
+  },
+  {
+    "id_ope_org": "20240812-398-244-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-08-21",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-08-22",
+    "fk_po": 320
+  },
+  {
+    "id_ope_org": "20240813-399-255-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-04-06",
+    "de_total_price": 287.5,
+    "de_date_delivery": "2025-03-10",
+    "fk_po": 321
+  },
+  {
+    "id_ope_org": "20241115-0007-42-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-21",
+    "de_total_price": 199,
+    "de_date_delivery": "2024-11-22",
+    "fk_po": 322
+  },
+  {
+    "id_ope_org": "20240813-400-245-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-08-28",
+    "de_total_price": 128,
+    "de_date_delivery": "2024-08-28",
+    "fk_po": 323
+  },
+  {
+    "id_ope_org": "20241204-0007-53-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-11",
+    "de_total_price": 203,
+    "de_date_delivery": "2024-12-13",
+    "fk_po": 324
+  },
+  {
+    "id_ope_org": "20240821-405-248-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-11",
+    "de_total_price": 365,
+    "de_date_delivery": "2024-09-11",
+    "fk_po": 325
+  },
+  {
+    "id_ope_org": "20240821-406-249-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-10",
+    "de_total_price": 320,
+    "de_date_delivery": "2024-09-10",
+    "fk_po": 326
+  },
+  {
+    "id_ope_org": "20240827-407-259-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-27",
+    "de_total_price": 300,
+    "de_date_delivery": "2024-09-30",
+    "fk_po": 327
+  },
+  {
+    "id_ope_org": "20241003-52-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-14",
+    "de_total_price": 135,
+    "de_date_delivery": "2024-10-14",
+    "fk_po": 328
+  },
+  {
+    "id_ope_org": "20240903-409-257-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-05",
+    "de_total_price": 200,
+    "de_date_delivery": "2024-09-05",
+    "fk_po": 329
+  },
+  {
+    "id_ope_org": "20240903-411-258-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-11",
+    "de_total_price": 335,
+    "de_date_delivery": "2024-09-11",
+    "fk_po": 330
+  },
+  {
+    "id_ope_org": "20241018-0007-27-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-28",
+    "de_total_price": 450,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 331
+  },
+  {
+    "id_ope_org": "20240903-413-267-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-16",
+    "de_total_price": 220,
+    "de_date_delivery": "2024-10-18",
+    "fk_po": 332
+  },
+  {
+    "id_ope_org": "20240905-417-268-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-09-17",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-09-18",
+    "fk_po": 333
+  },
+  {
+    "id_ope_org": "20240905-418-263-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-25",
+    "de_total_price": 187,
+    "de_date_delivery": "2024-09-26",
+    "fk_po": 334
+  },
+  {
+    "id_ope_org": "20240906-414-262-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-20",
+    "de_total_price": 32.51,
+    "de_date_delivery": "2024-09-21",
+    "fk_po": 335
+  },
+  {
+    "id_ope_org": "20240906-420-264-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-11",
+    "de_total_price": 220,
+    "de_date_delivery": "2024-09-13",
+    "fk_po": 336
+  },
+  {
+    "id_ope_org": "20241025-0009-4-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-20",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-20",
+    "fk_po": 337
+  },
+  {
+    "id_ope_org": "20240906-421-0004-67-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-19",
+    "de_total_price": 242,
+    "de_date_delivery": "2024-12-23",
+    "fk_po": 338
+  },
+  {
+    "id_ope_org": "20240909-422-279-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-08",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-09",
+    "fk_po": 339
+  },
+  {
+    "id_ope_org": "20241029-0007-35-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-03",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-13",
+    "fk_po": 340
+  },
+  {
+    "id_ope_org": "20240909-423-269-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-05",
+    "de_total_price": 360,
+    "de_date_delivery": "2024-10-07",
+    "fk_po": 341
+  },
+  {
+    "id_ope_org": "20240911-427-289-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-15",
+    "de_total_price": 645,
+    "de_date_delivery": "2024-10-16",
+    "fk_po": 342
+  },
+  {
+    "id_ope_org": "20240917-430-273-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-09-30",
+    "de_total_price": 340,
+    "de_date_delivery": "2024-10-01",
+    "fk_po": 343
+  },
+  {
+    "id_ope_org": "20240917-431-274-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-02",
+    "de_total_price": 540,
+    "de_date_delivery": "2024-10-03",
+    "fk_po": 344
+  },
+  {
+    "id_ope_org": "20240919-433-276-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-17",
+    "de_total_price": 260,
+    "de_date_delivery": "2024-10-18",
+    "fk_po": 345
+  },
+  {
+    "id_ope_org": "20240920-434-293-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-24",
+    "de_total_price": 490,
+    "de_date_delivery": "2024-10-31",
+    "fk_po": 346
+  },
+  {
+    "id_ope_org": "20240920-435-280-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-12",
+    "de_total_price": 730,
+    "de_date_delivery": "2024-10-14",
+    "fk_po": 347
+  },
+  {
+    "id_ope_org": "20240920-436-277-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-01",
+    "de_total_price": 200,
+    "de_date_delivery": "2024-10-02",
+    "fk_po": 348
+  },
+  {
+    "id_ope_org": "20250130-0004-112-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-04",
+    "de_total_price": 226,
+    "de_date_delivery": "2025-02-10",
+    "fk_po": 349
+  },
+  {
+    "id_ope_org": "20240920-438-292-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-15",
+    "de_total_price": 900,
+    "de_date_delivery": "2024-10-16",
+    "fk_po": 350
+  },
+  {
+    "id_ope_org": "20240920-439-282-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-01",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-03",
+    "fk_po": 351
+  },
+  {
+    "id_ope_org": "20250205-0011-40-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-06-05",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-02-12",
+    "fk_po": 352
+  },
+  {
+    "id_ope_org": "20240923-443-286-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-09",
+    "de_total_price": 120,
+    "de_date_delivery": "2024-10-10",
+    "fk_po": 353
+  },
+  {
+    "id_ope_org": "20240923-444-285-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-26",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-26",
+    "fk_po": 354
+  },
+  {
+    "id_ope_org": "20240923-444-285-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-25",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-25",
+    "fk_po": 355
+  },
+  {
+    "id_ope_org": "20240923-444-285-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-28",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 356
+  },
+  {
+    "id_ope_org": "20240923-444-285-4",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-30",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-30",
+    "fk_po": 357
+  },
+  {
+    "id_ope_org": "20240923-444-285-5",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-30",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-30",
+    "fk_po": 358
+  },
+  {
+    "id_ope_org": "20240926-451-288-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-06",
+    "de_total_price": 138,
+    "de_date_delivery": "2024-10-07",
+    "fk_po": 359
+  },
+  {
+    "id_ope_org": "20240924-445-0006-33-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-04",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-06",
+    "fk_po": 360
+  },
+  {
+    "id_ope_org": "20250214-0047-6-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-25",
+    "de_total_price": 325,
+    "de_date_delivery": "2025-02-27",
+    "fk_po": 361
+  },
+  {
+    "id_ope_org": "20240925-449-291-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-09-30",
+    "de_total_price": 300,
+    "de_date_delivery": "2024-10-02",
+    "fk_po": 362
+  },
+  {
+    "id_ope_org": "20240926-450-287-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-12",
+    "de_total_price": 210,
+    "de_date_delivery": "2024-10-14",
+    "fk_po": 363
+  },
+  {
+    "id_ope_org": "20240927-455-0008-3-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-15",
+    "de_total_price": 297,
+    "de_date_delivery": "2024-11-19",
+    "fk_po": 364
+  },
+  {
+    "id_ope_org": "20241001-0003-152-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-15",
+    "de_total_price": null,
+    "de_date_delivery": "2024-10-16",
+    "fk_po": 365
+  },
+  {
+    "id_ope_org": "20241003-0003-153-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-21",
+    "de_total_price": 162,
+    "de_date_delivery": "2024-10-23",
+    "fk_po": 366
+  },
+  {
+    "id_ope_org": "20241007-0006-35-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-18",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 367
+  },
+  {
+    "id_ope_org": "20241007-0006-36-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-30",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-31",
+    "fk_po": 368
+  },
+  {
+    "id_ope_org": "20241010-0007-21-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-16",
+    "de_total_price": null,
+    "de_date_delivery": "2024-10-17",
+    "fk_po": 369
+  },
+  {
+    "id_ope_org": "20241007-0006-37-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-30",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-05",
+    "fk_po": 370
+  },
+  {
+    "id_ope_org": "20241007-0006-38-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-10-16",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-10-17",
+    "fk_po": 371
+  },
+  {
+    "id_ope_org": "20241008-0004-76-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-03-10",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-03-25",
+    "fk_po": 372
+  },
+  {
+    "id_ope_org": "20241022-0007-30-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-08",
+    "de_total_price": 284,
+    "de_date_delivery": "2024-11-13",
+    "fk_po": 373
+  },
+  {
+    "id_ope_org": "20241009-0007-19-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-28",
+    "de_total_price": 358,
+    "de_date_delivery": "2024-10-29",
+    "fk_po": 374
+  },
+  {
+    "id_ope_org": "20241010-0004-77-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-22",
+    "de_total_price": 85,
+    "de_date_delivery": "2024-10-24",
+    "fk_po": 375
+  },
+  {
+    "id_ope_org": "20241104-0007-37-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-27",
+    "de_total_price": 167,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 376
+  },
+  {
+    "id_ope_org": "20241010-0006-39-1",
+    "prise_en_charge_transport": null,
+    "de_date_removal": "2024-12-17",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-18",
+    "fk_po": 377
+  },
+  {
+    "id_ope_org": "20241011-0003-156-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-24",
+    "de_total_price": 989,
+    "de_date_delivery": "2024-10-25",
+    "fk_po": 378
+  },
+  {
+    "id_ope_org": "20241211-0007-58-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-18",
+    "de_total_price": 1190,
+    "de_date_delivery": "2024-12-27",
+    "fk_po": 379
+  },
+  {
+    "id_ope_org": "20241014-0004-81-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-24",
+    "de_total_price": 169,
+    "de_date_delivery": "2024-10-25",
+    "fk_po": 380
+  },
+  {
+    "id_ope_org": "20241212-0007-59-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-09",
+    "de_total_price": 1020,
+    "de_date_delivery": "2025-01-09",
+    "fk_po": 381
+  },
+  {
+    "id_ope_org": "20241015-0007-23-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-28",
+    "de_total_price": 389,
+    "de_date_delivery": "2024-10-29",
+    "fk_po": 382
+  },
+  {
+    "id_ope_org": "20241015-0007-26-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-21",
+    "de_total_price": 288,
+    "de_date_delivery": "2024-11-22",
+    "fk_po": 383
+  },
+  {
+    "id_ope_org": "20241218-0007-66-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-23",
+    "de_total_price": 607,
+    "de_date_delivery": "2024-12-24",
+    "fk_po": 384
+  },
+  {
+    "id_ope_org": "20241016-0009-2-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-08",
+    "de_total_price": 276,
+    "de_date_delivery": "2025-01-15",
+    "fk_po": 385
+  },
+  {
+    "id_ope_org": "20241017-0006-42-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-04",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-06",
+    "fk_po": 386
+  },
+  {
+    "id_ope_org": "20241017-0011-8-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-14",
+    "de_total_price": 535,
+    "de_date_delivery": "2024-11-15",
+    "fk_po": 387
+  },
+  {
+    "id_ope_org": "20241018-0003-157-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-04",
+    "de_total_price": 3475,
+    "de_date_delivery": "2024-12-10",
+    "fk_po": 388
+  },
+  {
+    "id_ope_org": "20241018-0003-157-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-12",
+    "de_total_price": 1882,
+    "de_date_delivery": "2025-01-28",
+    "fk_po": 389
+  },
+  {
+    "id_ope_org": "20250116-0015-6-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-03",
+    "de_total_price": 221,
+    "de_date_delivery": "2025-03-04",
+    "fk_po": 390
+  },
+  {
+    "id_ope_org": "20241018-0003-158-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-14",
+    "de_total_price": 421,
+    "de_date_delivery": "2024-11-15",
+    "fk_po": 391
+  },
+  {
+    "id_ope_org": "20241018-0006-43-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-29",
+    "de_total_price": 190,
+    "de_date_delivery": "2024-10-31",
+    "fk_po": 392
+  },
+  {
+    "id_ope_org": "20241108-0005-48-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-26",
+    "de_total_price": 175,
+    "de_date_delivery": "2024-11-26",
+    "fk_po": 393
+  },
+  {
+    "id_ope_org": "20241021-0007-28-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-29",
+    "de_total_price": 216,
+    "de_date_delivery": "2024-10-31",
+    "fk_po": 394
+  },
+  {
+    "id_ope_org": "20241120-0005-52-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-27",
+    "de_total_price": 459,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 395
+  },
+  {
+    "id_ope_org": "20241120-0005-52-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-26",
+    "de_total_price": 459,
+    "de_date_delivery": "2024-11-27",
+    "fk_po": 396
+  },
+  {
+    "id_ope_org": "20241022-0003-159-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-10-29",
+    "de_total_price": 205,
+    "de_date_delivery": "2024-10-29",
+    "fk_po": 397
+  },
+  {
+    "id_ope_org": "20241022-0011-10-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-19",
+    "de_total_price": 118,
+    "de_date_delivery": "2024-11-20",
+    "fk_po": 398
+  },
+  {
+    "id_ope_org": "20241023-0003-160-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-10-29",
+    "de_total_price": 308,
+    "de_date_delivery": "2024-10-30",
+    "fk_po": 399
+  },
+  {
+    "id_ope_org": "20250129-0014-34-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-02-06",
+    "fk_po": 400
+  },
+  {
+    "id_ope_org": "20241023-0005-42-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-08",
+    "de_total_price": 184,
+    "de_date_delivery": "2024-11-12",
+    "fk_po": 401
+  },
+  {
+    "id_ope_org": "20241023-0007-31-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-06",
+    "de_total_price": 495,
+    "de_date_delivery": "2024-11-13",
+    "fk_po": 402
+  },
+  {
+    "id_ope_org": "20241122-0020-2-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-10",
+    "de_total_price": 106,
+    "de_date_delivery": "2024-12-10",
+    "fk_po": 403
+  },
+  {
+    "id_ope_org": "20241025-0007-34-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-12",
+    "de_total_price": 217,
+    "de_date_delivery": "2024-12-13",
+    "fk_po": 404
+  },
+  {
+    "id_ope_org": "20250124-0020-15-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-20",
+    "de_total_price": 452,
+    "de_date_delivery": "2025-02-21",
+    "fk_po": 405
+  },
+  {
+    "id_ope_org": "20241028-0003-161-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-07",
+    "de_total_price": 186,
+    "de_date_delivery": "2024-11-08",
+    "fk_po": 406
+  },
+  {
+    "id_ope_org": "20241028-0004-84-1",
+    "prise_en_charge_transport": "-",
+    "de_date_removal": "2024-12-19",
+    "de_total_price": 989,
+    "de_date_delivery": "2025-01-06",
+    "fk_po": 407
+  },
+  {
+    "id_ope_org": "20241028-0006-45-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-25",
+    "de_total_price": 194,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 408
+  },
+  {
+    "id_ope_org": "20241031-0003-162-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-27",
+    "de_total_price": 294,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 409
+  },
+  {
+    "id_ope_org": "20241031-0007-36-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-11-10",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-11-13",
+    "fk_po": 410
+  },
+  {
+    "id_ope_org": "20241031-0008-8-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-13",
+    "de_total_price": 704,
+    "de_date_delivery": "2024-11-14",
+    "fk_po": 411
+  },
+  {
+    "id_ope_org": "20241031-0011-11-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-13",
+    "de_total_price": 120,
+    "de_date_delivery": "2024-11-13",
+    "fk_po": 412
+  },
+  {
+    "id_ope_org": "20241104-0009-6-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-19",
+    "de_total_price": 634,
+    "de_date_delivery": "2024-12-20",
+    "fk_po": 413
+  },
+  {
+    "id_ope_org": "20241105-0005-44-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-26",
+    "de_total_price": 342,
+    "de_date_delivery": "2024-11-27",
+    "fk_po": 414
+  },
+  {
+    "id_ope_org": "20241105-0005-45-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-21",
+    "de_total_price": 1173,
+    "de_date_delivery": "2024-11-22",
+    "fk_po": 415
+  },
+  {
+    "id_ope_org": "20241105-0009-7-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-06",
+    "de_total_price": 587,
+    "de_date_delivery": "2024-12-09",
+    "fk_po": 416
+  },
+  {
+    "id_ope_org": "20241107-0004-86-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-09",
+    "de_total_price": 650,
+    "de_date_delivery": "2024-12-11",
+    "fk_po": 417
+  },
+  {
+    "id_ope_org": "20241107-0007-38-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-28",
+    "de_total_price": 99,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 418
+  },
+  {
+    "id_ope_org": "20241107-0008-9-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-26",
+    "de_total_price": 342,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 419
+  },
+  {
+    "id_ope_org": "20241108-0005-47-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-27",
+    "de_total_price": 190,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 420
+  },
+  {
+    "id_ope_org": "20241108-0005-49-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-04",
+    "de_total_price": 349,
+    "de_date_delivery": "2024-12-04",
+    "fk_po": 421
+  },
+  {
+    "id_ope_org": "20241127-0004-94-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-12",
+    "de_total_price": 319,
+    "de_date_delivery": "2024-12-18",
+    "fk_po": 422
+  },
+  {
+    "id_ope_org": "20241108-0007-39-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-27",
+    "de_total_price": 174,
+    "de_date_delivery": "2024-11-28",
+    "fk_po": 423
+  },
+  {
+    "id_ope_org": "20241112-0007-40-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-11-15",
+    "de_total_price": 480,
+    "de_date_delivery": "2024-11-18",
+    "fk_po": 424
+  },
+  {
+    "id_ope_org": "20241210-0004-99-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-31",
+    "de_total_price": 856,
+    "de_date_delivery": "2025-01-07",
+    "fk_po": 425
+  },
+  {
+    "id_ope_org": "20241113-0007-41-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-06",
+    "de_total_price": 189,
+    "de_date_delivery": "2024-12-10",
+    "fk_po": 426
+  },
+  {
+    "id_ope_org": "20241114-0004-89-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-19",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-19",
+    "fk_po": 427
+  },
+  {
+    "id_ope_org": "20241115-0007-43-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-04",
+    "de_total_price": 1257,
+    "de_date_delivery": "2024-12-04",
+    "fk_po": 428
+  },
+  {
+    "id_ope_org": "20241115-0007-44-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-02",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-03",
+    "fk_po": 429
+  },
+  {
+    "id_ope_org": "20241115-0011-13-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-26",
+    "de_total_price": 562,
+    "de_date_delivery": "2024-12-26",
+    "fk_po": 430
+  },
+  {
+    "id_ope_org": "20241203-0006-59-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-20",
+    "de_total_price": 527,
+    "de_date_delivery": "2024-12-23",
+    "fk_po": 431
+  },
+  {
+    "id_ope_org": "20241118-0005-51-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-30",
+    "de_total_price": null,
+    "de_date_delivery": "2024-12-23",
+    "fk_po": 432
+  },
+  {
+    "id_ope_org": "20241118-0005-51-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-30",
+    "de_total_price": 3016,
+    "de_date_delivery": "2025-01-13",
+    "fk_po": 433
+  },
+  {
+    "id_ope_org": "20241118-0006-49-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 971,
+    "de_date_delivery": "2024-12-17",
+    "fk_po": 434
+  },
+  {
+    "id_ope_org": "20241216-0011-22-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-07",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-08",
+    "fk_po": 435
+  },
+  {
+    "id_ope_org": "20241118-0006-50-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-12",
+    "de_total_price": 2480,
+    "de_date_delivery": "2024-12-13",
+    "fk_po": 436
+  },
+  {
+    "id_ope_org": "20241118-0007-45-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-11-21",
+    "de_total_price": 160,
+    "de_date_delivery": "2024-11-22",
+    "fk_po": 437
+  },
+  {
+    "id_ope_org": "20250127-0011-37-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-06",
+    "de_total_price": 68.61,
+    "de_date_delivery": "2025-02-07",
+    "fk_po": 438
+  },
+  {
+    "id_ope_org": "20241118-0007-46-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-03",
+    "de_total_price": 174,
+    "de_date_delivery": "2024-12-05",
+    "fk_po": 439
+  },
+  {
+    "id_ope_org": "20241118-0008-12-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-23",
+    "de_total_price": 1094,
+    "de_date_delivery": "2024-12-24",
+    "fk_po": 440
+  },
+  {
+    "id_ope_org": "20241118-0008-13-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-10",
+    "de_total_price": 580,
+    "de_date_delivery": "2024-12-11",
+    "fk_po": 441
+  },
+  {
+    "id_ope_org": "20241118-0011-14-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-03",
+    "de_total_price": 298,
+    "de_date_delivery": "2025-02-04",
+    "fk_po": 442
+  },
+  {
+    "id_ope_org": "20250203-0047-4-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-10",
+    "de_total_price": 135,
+    "de_date_delivery": "2025-02-10",
+    "fk_po": 443
+  },
+  {
+    "id_ope_org": "20241119-0007-47-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-03",
+    "de_total_price": 186,
+    "de_date_delivery": "2024-12-04",
+    "fk_po": 444
+  },
+  {
+    "id_ope_org": "20241119-0008-14-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-18",
+    "de_total_price": 287.5,
+    "de_date_delivery": "2025-02-19",
+    "fk_po": 445
+  },
+  {
+    "id_ope_org": "20241205-0008-21-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-13",
+    "de_total_price": 6440,
+    "de_date_delivery": "2024-12-20",
+    "fk_po": 446
+  },
+  {
+    "id_ope_org": "20250131-0008-51-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-17",
+    "de_total_price": 756,
+    "de_date_delivery": "2025-03-19",
+    "fk_po": 447
+  },
+  {
+    "id_ope_org": "20241120-0005-53-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-06",
+    "fk_po": 448
+  },
+  {
+    "id_ope_org": "20241120-0006-53-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-11",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-16",
+    "fk_po": 449
+  },
+  {
+    "id_ope_org": "20250205-0008-53-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-20",
+    "de_total_price": 635,
+    "de_date_delivery": "2025-02-21",
+    "fk_po": 450
+  },
+  {
+    "id_ope_org": "20241120-0018-3-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-09",
+    "de_total_price": 264,
+    "de_date_delivery": "2024-12-12",
+    "fk_po": 451
+  },
+  {
+    "id_ope_org": "20241121-0006-54-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-12",
+    "de_total_price": 824,
+    "de_date_delivery": "2024-12-17",
+    "fk_po": 452
+  },
+  {
+    "id_ope_org": "20241121-0007-50-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-05",
+    "de_total_price": 31.94,
+    "de_date_delivery": "2024-12-06",
+    "fk_po": 453
+  },
+  {
+    "id_ope_org": "20241121-0011-15-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-06",
+    "de_total_price": 222,
+    "de_date_delivery": "2024-12-06",
+    "fk_po": 454
+  },
+  {
+    "id_ope_org": "20241122-0005-54-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-10",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-16",
+    "fk_po": 455
+  },
+  {
+    "id_ope_org": "20241122-0005-55-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-10",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-11",
+    "fk_po": 456
+  },
+  {
+    "id_ope_org": "20241125-0003-163-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-03",
+    "de_total_price": 231,
+    "de_date_delivery": "2024-12-06",
+    "fk_po": 457
+  },
+  {
+    "id_ope_org": "20241128-0014-4-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-05",
+    "de_total_price": 217,
+    "de_date_delivery": "2024-12-06",
+    "fk_po": 458
+  },
+  {
+    "id_ope_org": "20241125-0007-51-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-13",
+    "de_total_price": 528,
+    "de_date_delivery": "2024-12-16",
+    "fk_po": 459
+  },
+  {
+    "id_ope_org": "20241125-0014-3-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 578,
+    "de_date_delivery": "2024-12-18",
+    "fk_po": 460
+  },
+  {
+    "id_ope_org": "20241126-0006-55-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-11",
+    "de_total_price": 318,
+    "de_date_delivery": "2024-12-12",
+    "fk_po": 461
+  },
+  {
+    "id_ope_org": "20241126-0011-16-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-03",
+    "de_total_price": 29.07,
+    "de_date_delivery": "2024-12-05",
+    "fk_po": 462
+  },
+  {
+    "id_ope_org": "20241206-0004-98-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-19",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-07",
+    "fk_po": 463
+  },
+  {
+    "id_ope_org": "20241126-0011-17-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-03",
+    "de_total_price": 229,
+    "de_date_delivery": "2024-12-04",
+    "fk_po": 464
+  },
+  {
+    "id_ope_org": "20241127-0008-17-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-07",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-22",
+    "fk_po": 465
+  },
+  {
+    "id_ope_org": "20241128-0003-164-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-13",
+    "de_total_price": 239,
+    "de_date_delivery": "2024-12-19",
+    "fk_po": 466
+  },
+  {
+    "id_ope_org": "20250214-0008-60-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-18",
+    "de_total_price": 310,
+    "de_date_delivery": "2025-02-27",
+    "fk_po": 467
+  },
+  {
+    "id_ope_org": "20241128-0014-5-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-13",
+    "de_total_price": 325,
+    "de_date_delivery": "2024-12-18",
+    "fk_po": 468
+  },
+  {
+    "id_ope_org": "20241129-0004-95-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-10",
+    "de_total_price": 174,
+    "de_date_delivery": "2025-01-14",
+    "fk_po": 469
+  },
+  {
+    "id_ope_org": "20241129-0006-58-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-10",
+    "fk_po": 470
+  },
+  {
+    "id_ope_org": "20241129-0008-18-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-18",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-18",
+    "fk_po": 471
+  },
+  {
+    "id_ope_org": "20241129-0008-19-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 2120,
+    "de_date_delivery": "2024-12-20",
+    "fk_po": 472
+  },
+  {
+    "id_ope_org": "20241129-0008-19-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 1970,
+    "de_date_delivery": "2024-12-19",
+    "fk_po": 473
+  },
+  {
+    "id_ope_org": "20241204-0004-96-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-13",
+    "de_total_price": 249,
+    "de_date_delivery": "2024-12-17",
+    "fk_po": 474
+  },
+  {
+    "id_ope_org": "20241209-0005-58-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-26",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-26",
+    "fk_po": 475
+  },
+  {
+    "id_ope_org": "20241204-0014-6-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-22",
+    "de_total_price": 927,
+    "de_date_delivery": "2025-01-29",
+    "fk_po": 476
+  },
+  {
+    "id_ope_org": "20241204-0014-6-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-05",
+    "de_total_price": 600,
+    "de_date_delivery": "2025-02-05",
+    "fk_po": 477
+  },
+  {
+    "id_ope_org": "20241205-0006-60-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-07",
+    "fk_po": 478
+  },
+  {
+    "id_ope_org": "20241211-0005-59-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-16",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-19",
+    "fk_po": 479
+  },
+  {
+    "id_ope_org": "20241205-0007-54-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-18",
+    "de_total_price": 3176,
+    "de_date_delivery": "2025-01-07",
+    "fk_po": 480
+  },
+  {
+    "id_ope_org": "20241205-0008-22-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-18",
+    "de_total_price": 662,
+    "de_date_delivery": "2024-12-20",
+    "fk_po": 481
+  },
+  {
+    "id_ope_org": "20241205-0008-22-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-18",
+    "de_total_price": 231,
+    "de_date_delivery": "2024-12-19",
+    "fk_po": 482
+  },
+  {
+    "id_ope_org": "20241205-0008-22-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-18",
+    "de_total_price": 223,
+    "de_date_delivery": "2024-12-20",
+    "fk_po": 483
+  },
+  {
+    "id_ope_org": "20241206-0004-97-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-13",
+    "de_total_price": 230,
+    "de_date_delivery": "2024-12-16",
+    "fk_po": 484
+  },
+  {
+    "id_ope_org": "20241206-0007-55-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-27",
+    "de_total_price": 4055,
+    "de_date_delivery": "2025-01-17",
+    "fk_po": 485
+  },
+  {
+    "id_ope_org": "20250131-0014-35-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-24",
+    "de_total_price": 352,
+    "de_date_delivery": "2025-03-27",
+    "fk_po": 486
+  },
+  {
+    "id_ope_org": "20241209-0020-3-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-19",
+    "de_total_price": 0,
+    "de_date_delivery": "2024-12-24",
+    "fk_po": 487
+  },
+  {
+    "id_ope_org": "20241210-0008-24-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-09",
+    "de_total_price": 225,
+    "de_date_delivery": "2025-01-14",
+    "fk_po": 488
+  },
+  {
+    "id_ope_org": "20250117-0011-32-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-28",
+    "de_total_price": 420,
+    "de_date_delivery": "2025-01-28",
+    "fk_po": 489
+  },
+  {
+    "id_ope_org": "20241210-0014-8-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2024-12-20",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-06",
+    "fk_po": 490
+  },
+  {
+    "id_ope_org": "20241211-0007-57-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-26",
+    "de_total_price": 192,
+    "de_date_delivery": "2024-12-27",
+    "fk_po": 491
+  },
+  {
+    "id_ope_org": "20250124-0008-43-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-05",
+    "de_total_price": 400,
+    "de_date_delivery": "2025-03-05",
+    "fk_po": 492
+  },
+  {
+    "id_ope_org": "20241213-0005-60-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2024-12-31",
+    "de_total_price": 1645,
+    "de_date_delivery": "2024-12-31",
+    "fk_po": 493
+  },
+  {
+    "id_ope_org": "20241213-0011-19-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-24",
+    "de_total_price": 41.59,
+    "de_date_delivery": "2024-12-27",
+    "fk_po": 494
+  },
+  {
+    "id_ope_org": "20241217-0011-23-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-10",
+    "fk_po": 495
+  },
+  {
+    "id_ope_org": "20241217-0011-23-2",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-14",
+    "fk_po": 496
+  },
+  {
+    "id_ope_org": "20241217-0011-23-3",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-15",
+    "fk_po": 497
+  },
+  {
+    "id_ope_org": "20241216-0014-9-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2024-12-20",
+    "de_total_price": 290,
+    "de_date_delivery": "2024-12-20",
+    "fk_po": 498
+  },
+  {
+    "id_ope_org": "20241216-0020-8-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-24",
+    "de_total_price": 318,
+    "de_date_delivery": "2025-01-27",
+    "fk_po": 499
+  },
+  {
+    "id_ope_org": "20241217-0008-28-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-27",
+    "de_total_price": 410,
+    "de_date_delivery": "2025-01-28",
+    "fk_po": 500
+  },
+  {
+    "id_ope_org": "20241223-0011-24-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-10",
+    "fk_po": 501
+  },
+  {
+    "id_ope_org": "20241218-0014-10-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-02-06",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-02-07",
+    "fk_po": 502
+  },
+  {
+    "id_ope_org": "20241220-0005-62-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 730,
+    "de_date_delivery": "2025-01-14",
+    "fk_po": 503
+  },
+  {
+    "id_ope_org": "20241230-0014-13-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-06",
+    "de_total_price": 164,
+    "de_date_delivery": "2025-01-08",
+    "fk_po": 504
+  },
+  {
+    "id_ope_org": "20250212-0004-115-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-07",
+    "de_total_price": 808,
+    "de_date_delivery": "2025-03-10",
+    "fk_po": 505
+  },
+  {
+    "id_ope_org": "20250102-0014-14-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-09",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-13",
+    "fk_po": 506
+  },
+  {
+    "id_ope_org": "20250106-0020-11-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-26",
+    "de_total_price": 1140,
+    "de_date_delivery": "2025-02-27",
+    "fk_po": 507
+  },
+  {
+    "id_ope_org": "20250109-0020-12-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-14",
+    "de_total_price": 237,
+    "de_date_delivery": "2025-01-15",
+    "fk_po": 508
+  },
+  {
+    "id_ope_org": "20250110-0008-35-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-01-21",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-01-27",
+    "fk_po": 509
+  },
+  {
+    "id_ope_org": "20250114-0014-25-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-24",
+    "de_total_price": 262.5,
+    "de_date_delivery": "2025-02-24",
+    "fk_po": 510
+  },
+  {
+    "id_ope_org": "20250114-0014-26-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-30",
+    "de_total_price": 250,
+    "de_date_delivery": "2025-01-30",
+    "fk_po": 511
+  },
+  {
+    "id_ope_org": "20250114-0014-27-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-24",
+    "de_total_price": 390,
+    "de_date_delivery": "2025-01-27",
+    "fk_po": 512
+  },
+  {
+    "id_ope_org": "20250116-0023-2-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-20",
+    "de_total_price": 194,
+    "de_date_delivery": "2025-01-23",
+    "fk_po": 513
+  },
+  {
+    "id_ope_org": "20250122-0003-165-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-03",
+    "de_total_price": 600,
+    "de_date_delivery": "2025-02-06",
+    "fk_po": 514
+  },
+  {
+    "id_ope_org": "20250122-0011-36-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-30",
+    "de_total_price": 180,
+    "de_date_delivery": "2025-01-30",
+    "fk_po": 515
+  },
+  {
+    "id_ope_org": "20250122-0020-13-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-29",
+    "de_total_price": 215,
+    "de_date_delivery": "2025-01-31",
+    "fk_po": 516
+  },
+  {
+    "id_ope_org": "20250123-0020-14-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-01-31",
+    "de_total_price": 243,
+    "de_date_delivery": "2025-02-12",
+    "fk_po": 517
+  },
+  {
+    "id_ope_org": "20250124-0004-111-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-01-29",
+    "de_total_price": 690,
+    "de_date_delivery": "2025-01-31",
+    "fk_po": 518
+  },
+  {
+    "id_ope_org": "20250124-0008-44-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-28",
+    "de_total_price": 30.83,
+    "de_date_delivery": "2025-03-03",
+    "fk_po": 519
+  },
+  {
+    "id_ope_org": "20250124-0014-28-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-02-12",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-02-13",
+    "fk_po": 520
+  },
+  {
+    "id_ope_org": "20250128-0014-31-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-19",
+    "de_total_price": 415,
+    "de_date_delivery": "2025-02-19",
+    "fk_po": 521
+  },
+  {
+    "id_ope_org": "20250210-0011-44-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-20",
+    "de_total_price": 189,
+    "de_date_delivery": "2025-02-24",
+    "fk_po": 522
+  },
+  {
+    "id_ope_org": "20250130-0047-3-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-26",
+    "de_total_price": 295,
+    "de_date_delivery": "2025-02-27",
+    "fk_po": 523
+  },
+  {
+    "id_ope_org": "20250204-0022-5-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-18",
+    "de_total_price": 510,
+    "de_date_delivery": "2025-02-19",
+    "fk_po": 524
+  },
+  {
+    "id_ope_org": "20250207-0008-56-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-20",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-02-21",
+    "fk_po": 525
+  },
+  {
+    "id_ope_org": "20250207-0047-5-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-26",
+    "de_total_price": 1280,
+    "de_date_delivery": "2025-02-27",
+    "fk_po": 526
+  },
+  {
+    "id_ope_org": "20250210-0014-38-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-02-13",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-02-14",
+    "fk_po": 527
+  },
+  {
+    "id_ope_org": "20250211-0008-59-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-12",
+    "de_total_price": 217,
+    "de_date_delivery": "2025-02-18",
+    "fk_po": 528
+  },
+  {
+    "id_ope_org": "20250212-0011-46-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-25",
+    "de_total_price": 1660,
+    "de_date_delivery": "2025-02-26",
+    "fk_po": 529
+  },
+  {
+    "id_ope_org": "20250217-0008-62-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-17",
+    "de_total_price": 172,
+    "de_date_delivery": "2025-03-18",
+    "fk_po": 530
+  },
+  {
+    "id_ope_org": "20250217-0022-6-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-03",
+    "de_total_price": 430,
+    "de_date_delivery": "2025-03-04",
+    "fk_po": 531
+  },
+  {
+    "id_ope_org": "20250218-0008-63-1",
+    "prise_en_charge_transport": null,
+    "de_date_removal": "2025-03-04",
+    "de_total_price": 295,
+    "de_date_delivery": "2025-03-07",
+    "fk_po": 532
+  },
+  {
+    "id_ope_org": "20250218-0047-7-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-02-26",
+    "de_total_price": null,
+    "de_date_delivery": "2025-02-28",
+    "fk_po": 533
+  },
+  {
+    "id_ope_org": "20250219-0020-21-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-12",
+    "de_total_price": 87.5,
+    "de_date_delivery": "2025-03-13",
+    "fk_po": 534
+  },
+  {
+    "id_ope_org": "20250220-0004-117-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-07",
+    "de_total_price": 1350,
+    "de_date_delivery": "2025-03-10",
+    "fk_po": 535
+  },
+  {
+    "id_ope_org": "20250220-0004-117-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-06",
+    "de_total_price": 660,
+    "de_date_delivery": "2025-03-07",
+    "fk_po": 536
+  },
+  {
+    "id_ope_org": "20250220-0004-117-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-06",
+    "de_total_price": 550,
+    "de_date_delivery": "2025-03-07",
+    "fk_po": 537
+  },
+  {
+    "id_ope_org": "20250220-0004-118-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-02-28",
+    "de_total_price": 56.4,
+    "de_date_delivery": "2025-03-04",
+    "fk_po": 538
+  },
+  {
+    "id_ope_org": "20250220-0008-64-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-25",
+    "de_total_price": 272.5,
+    "de_date_delivery": "2025-03-27",
+    "fk_po": 539
+  },
+  {
+    "id_ope_org": "20250220-0008-64-2",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-13",
+    "de_total_price": 114,
+    "de_date_delivery": "2025-03-13",
+    "fk_po": 540
+  },
+  {
+    "id_ope_org": "20250220-0008-64-3",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-21",
+    "de_total_price": 169,
+    "de_date_delivery": "2025-03-25",
+    "fk_po": 541
+  },
+  {
+    "id_ope_org": "20250220-0008-64-4",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-12",
+    "de_total_price": 113,
+    "de_date_delivery": "2025-03-18",
+    "fk_po": 542
+  },
+  {
+    "id_ope_org": "20250220-0008-64-5",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-14",
+    "de_total_price": 166,
+    "de_date_delivery": "2025-03-17",
+    "fk_po": 543
+  },
+  {
+    "id_ope_org": "20250221-0004-121-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-02-27",
+    "de_total_price": 271,
+    "de_date_delivery": "2025-02-28",
+    "fk_po": 544
+  },
+  {
+    "id_ope_org": "20250225-0014-56-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-05",
+    "de_total_price": 855,
+    "de_date_delivery": "2025-03-07",
+    "fk_po": 545
+  },
+  {
+    "id_ope_org": "20250225-0022-7-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-18",
+    "de_total_price": 521,
+    "de_date_delivery": "2025-03-18",
+    "fk_po": 546
+  },
+  {
+    "id_ope_org": "20250225-0022-7-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-18",
+    "de_total_price": 325,
+    "de_date_delivery": "2025-03-18",
+    "fk_po": 547
+  },
+  {
+    "id_ope_org": "20250226-0004-123-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-07",
+    "de_total_price": 372,
+    "de_date_delivery": "2025-03-11",
+    "fk_po": 548
+  },
+  {
+    "id_ope_org": "20250226-0004-123-2",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-10",
+    "de_total_price": 685,
+    "de_date_delivery": "2025-03-11",
+    "fk_po": 549
+  },
+  {
+    "id_ope_org": "20250226-0004-123-3",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-18",
+    "de_total_price": 585,
+    "de_date_delivery": "2025-03-19",
+    "fk_po": 550
+  },
+  {
+    "id_ope_org": "20250226-0008-68-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-12",
+    "de_total_price": 274,
+    "de_date_delivery": "2025-03-12",
+    "fk_po": 551
+  },
+  {
+    "id_ope_org": "20250226-0011-49-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-03-03",
+    "de_total_price": null,
+    "de_date_delivery": "2025-03-04",
+    "fk_po": 552
+  },
+  {
+    "id_ope_org": "20250226-0014-57-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-19",
+    "de_total_price": 196,
+    "de_date_delivery": "2025-03-24",
+    "fk_po": 553
+  },
+  {
+    "id_ope_org": "20250226-0014-58-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-04",
+    "de_total_price": 241,
+    "de_date_delivery": "2025-03-05",
+    "fk_po": 554
+  },
+  {
+    "id_ope_org": "20250227-0004-124-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-19",
+    "de_total_price": 110,
+    "de_date_delivery": "2025-03-21",
+    "fk_po": 555
+  },
+  {
+    "id_ope_org": "20250227-0004-125-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-07-07",
+    "de_total_price": 533,
+    "de_date_delivery": "2025-03-18",
+    "fk_po": 556
+  },
+  {
+    "id_ope_org": "20250227-0008-69-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-14",
+    "de_total_price": 237,
+    "de_date_delivery": "2025-03-18",
+    "fk_po": 557
+  },
+  {
+    "id_ope_org": "20250227-0015-11-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-04",
+    "de_total_price": 165,
+    "de_date_delivery": "2025-03-04",
+    "fk_po": 558
+  },
+  {
+    "id_ope_org": "20250228-0004-127-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-17",
+    "de_total_price": 335,
+    "de_date_delivery": "2025-03-19",
+    "fk_po": 559
+  },
+  {
+    "id_ope_org": "20250228-0011-53-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-13",
+    "de_total_price": 332,
+    "de_date_delivery": "2025-03-14",
+    "fk_po": 560
+  },
+  {
+    "id_ope_org": "20250228-0015-12-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-03",
+    "de_total_price": 936,
+    "de_date_delivery": "2025-03-20",
+    "fk_po": 561
+  },
+  {
+    "id_ope_org": "20250227-0014-59-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-11",
+    "de_total_price": 421,
+    "de_date_delivery": "2025-03-12",
+    "fk_po": 562
+  },
+  {
+    "id_ope_org": "20250228-0004-126-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-11",
+    "de_total_price": 226,
+    "de_date_delivery": "2025-03-13",
+    "fk_po": 563
+  },
+  {
+    "id_ope_org": "20250227-0020-24-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-03",
+    "de_total_price": 221,
+    "de_date_delivery": "2025-03-12",
+    "fk_po": 564
+  },
+  {
+    "id_ope_org": "20250228-0011-52-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-20",
+    "de_total_price": 271,
+    "de_date_delivery": "2025-03-20",
+    "fk_po": 565
+  },
+  {
+    "id_ope_org": "20250305-0008-70-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-13",
+    "de_total_price": 222,
+    "de_date_delivery": "2025-03-17",
+    "fk_po": 566
+  },
+  {
+    "id_ope_org": "20250305-0014-62-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-18",
+    "de_total_price": 822,
+    "de_date_delivery": "2025-03-19",
+    "fk_po": 567
+  },
+  {
+    "id_ope_org": "20250305-0014-63-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-19",
+    "de_total_price": 172,
+    "de_date_delivery": "2025-03-20",
+    "fk_po": 568
+  },
+  {
+    "id_ope_org": "20250306-0020-25-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-20",
+    "de_total_price": 194,
+    "de_date_delivery": "2025-03-21",
+    "fk_po": 569
+  },
+  {
+    "id_ope_org": "20250307-0022-9-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-17",
+    "de_total_price": 164,
+    "de_date_delivery": "2025-03-17",
+    "fk_po": 570
+  },
+  {
+    "id_ope_org": "20250310-0011-57-1",
+    "prise_en_charge_transport": "CLIENT",
+    "de_date_removal": "2025-03-13",
+    "de_total_price": 0,
+    "de_date_delivery": "2025-03-14",
+    "fk_po": 571
+  },
+  {
+    "id_ope_org": "20250311-0004-130-1",
+    "prise_en_charge_transport": "FACTURATION",
+    "de_date_removal": "2025-03-14",
+    "de_total_price": 30.1,
+    "de_date_delivery": "2025-03-21",
+    "fk_po": 572
+  },
+  {
+    "id_ope_org": "20250313-0014-67-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-13",
+    "de_total_price": 525,
+    "de_date_delivery": "2025-03-20",
+    "fk_po": 573
+  },
+  {
+    "id_ope_org": "20250314-0014-68-1",
+    "prise_en_charge_transport": "OFFERT",
+    "de_date_removal": "2025-03-20",
+    "de_total_price": 247,
+    "de_date_delivery": "2025-03-25",
+    "fk_po": 574
+  }
+]
